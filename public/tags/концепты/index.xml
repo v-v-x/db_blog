@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>концепты on My New Hugo Site</title>
+    <link>http://example.org/tags/%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82%D1%8B/</link>
+    <description>Recent content in концепты on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Jul 2008 08:02:19 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Последняя книга</title>
+      <link>http://example.org/posts/2008-07-09-39/</link>
+      <pubDate>Wed, 09 Jul 2008 08:02:19 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-09-39/</guid>
+      <description>Еще в 1997 году в журнале IBM Systems Journal была опубликована статья Джозефа Джекобсона из MIT Media Lab «The last book», в которой автор излагает концепцию устройства, выполненного в виде книга со страницами из электронной бумаги. Надо отметить, что прогнозы автора по поводу будущего снижения стоимости комплектующих оказались вполне реалистичными. Не исключено, что именно такой концепт станет одной из основных разновидностей будущих электронных книг. Впрочем, и сами книги станут другими — автор отмечает, что «уже сейчас обращение к электронным чернилам возможно с частотой до 20 Гц, что позволяет сделать страницы анимированными».</description>
+    </item>
+    
+  </channel>
+</rss>

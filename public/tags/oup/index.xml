@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OUP on My New Hugo Site</title>
+    <link>http://example.org/tags/oup/</link>
+    <description>Recent content in OUP on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Jun 2008 14:50:30 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/oup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>В 2008 году будет продан, как минимум, 1 млн букридеров</title>
+      <link>http://example.org/posts/2008-06-09-a/</link>
+      <pubDate>Mon, 09 Jun 2008 14:50:30 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-09-a/</guid>
+      <description>Вице-президент Oxford University Press Эван Шнитман (Evan Schnittman) сформулировал оценку продаж букридеров Kindle и Sony, исходя из данных о планах поставок основного компонента устройства — 6-дюймовых экранов электронной бумаги, которые производит тайваньская фирма PVI. К концу года фирма собирается отгружать по 120 тыс экранов ежемесячно (при текущих поставках порядка 70 тыс). При этом 60% поставок приходится на Amazon, а 40% — на Sony. На основе этих данных, а также статистики IDPF и заявлению главы Amazon Джефа безоса о том, что на Kindle приходится 6% продаж книг его магазина, Шнитман делает вывод о том, что рынок продаж электронных книг в США может достичь в 2008 году $120 млн и увеличиться в несколько раз в следующем.</description>
+    </item>
+    
+  </channel>
+</rss>

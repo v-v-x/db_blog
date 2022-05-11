@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fb2 on My New Hugo Site</title>
+    <link>http://example.org/tags/fb2/</link>
+    <description>Recent content in fb2 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jul 2008 21:46:42 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/fb2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stanza — программа для чтения электронных книг</title>
+      <link>http://example.org/posts/2008-07-11-a/</link>
+      <pubDate>Fri, 11 Jul 2008 21:46:42 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-11-a/</guid>
+      <description>Полку программ для чтения электронных книг прибыло. Stanza комании LexCycle предназначена для чтения электронных книг на дисплеях компьютеров Macintosh (Mac OS X 10.4.8 or later). Программа поддерживает разные режимы отображения тексты, а также его автоматическую прокрутку. Stanza отличает довольно могучая всеядность. Она понимает практически все основные форматы электронных книг (PDB, PRC, EPUB, PDF, AZW и др.), а также основные текстовые форматы (MS Word, RTF и HTML). Что особенно актуально для российского читателя — программа не только понимает криллицу, но и (самая последняя версяя) популярный в России формат fb2.</description>
+    </item>
+    
+    <item>
+      <title>Обновление формата fictionbook и электронный Вавилон</title>
+      <link>http://example.org/posts/2008-07-04-28/</link>
+      <pubDate>Fri, 04 Jul 2008 20:52:40 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-04-28/</guid>
+      <description>The-eBook Russia » Blog Archive » Формат FB2 следующего поколения
+ Формат FB2 стал популярным в течении нескольких лет и не останавливается в своем развитии. В это время идет активное обсуждение формата следующего поколения - FB3.Основное отличие формата будет заключаться в использовании контейнера (package content). В качестве контейнера предлагается использовать ZIP. Внутри контейнера будут храниться все элементы отдельно, что облегчит считывание и главное редактирование всех отдельных частей. Раздельно будут храниться: файл с данными (книгой), закладками, обложкой, иллюстрациями и т.</description>
+    </item>
+    
+  </channel>
+</rss>

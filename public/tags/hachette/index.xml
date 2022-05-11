@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hachette on My New Hugo Site</title>
+    <link>http://example.org/tags/hachette/</link>
+    <description>Recent content in Hachette on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 May 2008 14:13:21 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/hachette/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Крупнейшее французское издательство покупает главного продавца электронных книг</title>
+      <link>http://example.org/posts/2008-05-20-15/</link>
+      <pubDate>Tue, 20 May 2008 14:13:21 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-05-20-15/</guid>
+      <description>Издательство Hachette, крупнейшее французское издательство, покупает компанию Numilog, одного из главных дистрибьюторов и продавцов электронных книг в стране. Кроме того, Hachette объявило о том, что собирается начать официальные продажи букридеров Sony Reader до конца этого года. Hachette plans to buy Numilog—and introduce the Sony Reader to France this year | TeleRead: Bring the E-Books Home</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computational texts on Новости электронного книгоиздания</title>
+    <link>/tags/computational-texts/</link>
+    <description>Recent content in computational texts on Новости электронного книгоиздания</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 01 Apr 2010 20:33:09 +0000</lastBuildDate><atom:link href="/tags/computational-texts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wolfram Alpha  для электронных книг</title>
+      <link>/posts/2010-04-01-230/</link>
+      <pubDate>Thu, 01 Apr 2010 20:33:09 +0000</pubDate>
+      
+      <guid>/posts/2010-04-01-230/</guid>
+      <description>The first application to make use of Wolfram Alpha for e-books is the visually stunning iPad version of Theodore Gray&amp;rsquo;s best-selling The Elements: A Visual Exploration of Every Known Atom in the Universe. The e-book application integrates Wolfram&amp;rsquo;s computational knowledge engine closely into the e-book experience. It&amp;rsquo;s easy to imagine calculus, engineering or geography textbooks that will also make use of Wolfram Alpha&amp;rsquo;s vast data repository and its ability to manipulate this data.</description>
+    </item>
+    
+  </channel>
+</rss>

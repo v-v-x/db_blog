@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iPhone on My New Hugo Site</title>
+    <link>http://example.org/tags/iphone/</link>
+    <description>Recent content in iPhone on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Oct 2008 14:44:20 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stanza для iPhone популярнее, чем Amazon Kindle</title>
+      <link>http://example.org/posts/2008-10-03-49/</link>
+      <pubDate>Fri, 03 Oct 2008 14:44:20 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-10-03-49/</guid>
+      <description>Stanza для iPhone популярнее, чем Amazon Kindle
+ Как сообщает ресурс Forbes, бесплатное приложение Stanza, позволяющее пользователям загружать и читать электронные книги на смартфоне iPhone, становится более популярным, чем отдельное устройство для чтения Amazon Kindle. На сегодняшний день, по данным его разработчика Lexcycle, Stanza загрузили свыше 395 тысяч пользователей, что составляет более пяти тысяч загрузок в день. Между тем, по сведениям банка Citigroup, устройство Amazon Kindle в этом году приобрели лишь 380 тысяч пользователей, несмотря на то, что оно продавалось с самого начала года.</description>
+    </item>
+    
+    <item>
+      <title>Как измерить  спрос?</title>
+      <link>http://example.org/posts/2008-07-13-20/</link>
+      <pubDate>Sun, 13 Jul 2008 09:32:57 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-13-20/</guid>
+      <description>По сообщениям MobileRead Forums и TeleRead: Bring the E-Books Home веб-сайт ereader.com вчера рухнул под наплывом счастливых обладателей нового iPhone, захотевших скачать себе программу для чтения и купить или скачать бесплатно электронных книг. Сегодня загрузка сайта хоть медленно, но идет. Помнится, Стив Джобс заметил, что «никто уже не читает книг».</description>
+    </item>
+    
+    <item>
+      <title>Stanza для iPhone</title>
+      <link>http://example.org/posts/2008-07-12-51/</link>
+      <pubDate>Sat, 12 Jul 2008 21:19:21 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-12-51/</guid>
+      <description>В дополнение к предыдущей записи стоит добавить, что команда разработчиков Lexcycle подготовила к запуску полноценную программу чтения электронных книг для iPhone. Учитывая популярность iPhone, он — просто реализую свою вторичную функцию — может составить существенную конкуренцию другим букридерам. И, самое главное, сможет оказать содействие дальнейшему продвижению электронных книг. Демонстрационный ролик работы с программой в телефоне можно посмотреть здесь: Stanza_iPhone.mov. Via TeleRead. Comments:  ekniga - Jul 0, 2008Точнее, мне кажется, окажет содействие изменению е-книг в сторону универсальных устройств и, тем самым, окажет содействие дальнейшему продвижению е-книг</description>
+    </item>
+    
+    <item>
+      <title>Stanza — программа для чтения электронных книг</title>
+      <link>http://example.org/posts/2008-07-11-a/</link>
+      <pubDate>Fri, 11 Jul 2008 21:46:42 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-11-a/</guid>
+      <description>Полку программ для чтения электронных книг прибыло. Stanza комании LexCycle предназначена для чтения электронных книг на дисплеях компьютеров Macintosh (Mac OS X 10.4.8 or later). Программа поддерживает разные режимы отображения тексты, а также его автоматическую прокрутку. Stanza отличает довольно могучая всеядность. Она понимает практически все основные форматы электронных книг (PDB, PRC, EPUB, PDF, AZW и др.), а также основные текстовые форматы (MS Word, RTF и HTML). Что особенно актуально для российского читателя — программа не только понимает криллицу, но и (самая последняя версяя) популярный в России формат fb2.</description>
+    </item>
+    
+    <item>
+      <title>iPhone как конкурент букридеру: экономический аспект</title>
+      <link>http://example.org/posts/2008-07-10-17/</link>
+      <pubDate>Thu, 10 Jul 2008 15:04:06 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-10-17/</guid>
+      <description>Publishing Frontier » Blog Archive » ebooks and the iPhone
+ Одна из проблем устройств, подобных Sony Reader и Kindle состоит в том, что они вступают в конкуренцию с другими «платформами» для чтения, например, книгой в обложке или книгой из библиотеки. Стоит ли тратить $300 на заменитель книги, который хрупок, в котором может кончиться батарейка и который жалко калечить неблагоприятным окружением (к примеру, на пляже)? Ведь можно купить книжику в мягкой обложке на распродаже за $5 или просто взять в библиотеке бесплатно.</description>
+    </item>
+    
+  </channel>
+</rss>

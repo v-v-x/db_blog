@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Know how on My New Hugo Site</title>
+    <link>http://example.org/tags/know-how/</link>
+    <description>Recent content in Know how on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Feb 2016 18:58:02 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/know-how/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Теги для экспорта стилей из InDesign в EPUB</title>
+      <link>http://example.org/posts/2016-02-17-a/</link>
+      <pubDate>Wed, 17 Feb 2016 18:58:02 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2016-02-17-a/</guid>
+      <description>Несколько простых советов, которые позволят вам сократить время обработки EPUB, сконвертированного из вашего макета в InDesign. Если при задании стилей оформления абзацев вы не задали теги, которые будут этим стилям соответствовать в CSS-файле EPUB, то некоторые программы и устройства для чтения не смогут корректно отобразить заданное вами оформление Проще говоря — абзац, описанный стилем будет выглядеть как обычный абзац, а вовсе не как заголовок. Чтобы программа чтения поняла, что это заголовок, стиль должен быть описан не как абзац p, а как заголовок h1…h6.</description>
+    </item>
+    
+    <item>
+      <title>InDesign и сноски в EPUB. Хозяйке на заметку</title>
+      <link>http://example.org/posts/2015-01-03-a/</link>
+      <pubDate>Wed, 03 Jun 2015 15:16:45 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-01-03-a/</guid>
+      <description>Все, кто использует InDesign для вёрстки книг, хорошо знает, что Adobe не любит концевые сноски и не поддерживает их, предпочитая упихивать все сноски на страницу с большим или меньшим успехом. А при экспорте в EPUB — за отсутствием страниц — предлагает два варианта размещения сносок: сразу после абзаца или в конце главы. И никак иначе. Сноски после абзацев выглядят очень плохо и, конечно, сбивают читателя с толку. Сноски в конце глав более приемлемы, но слишком часто всё равно там не нужны.</description>
+    </item>
+    
+    <item>
+      <title>Epublishing. Новости 2/03–8/03/2015</title>
+      <link>http://example.org/posts/2015-03-10-b/</link>
+      <pubDate>Tue, 10 Mar 2015 10:28:59 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-03-10-b/</guid>
+      <description>Грустная и показательная картинка о том, как книг в окружающей физической среде становится меньше (во всяком случае, в Великобритании): Блог Good-eReader запустил специализированный App Store для книжных приложений под Android. В частности — для eInk-читалок типа Icarus, Onyx, Energy Sistem, Boyce. Джо Уикерт, экс-директор Tools of Change, популярно объясняет, почему нынешние студенты и нынешние электронные учебники плохо совместимы друг с другом. Чтение в США продолжает расти. Особенно — электронных книг: в среднем электронные книги читают 28% опрощенных, больше — женщины (33%), молодежь (18–29 лет — 37%), люди с высшим образованием (45%), с высоким годовым доходом и т.</description>
+    </item>
+    
+    <item>
+      <title>Как сделать EPUB из RTF: путеводитель</title>
+      <link>http://example.org/posts/2014-09-19-a/</link>
+      <pubDate>Fri, 19 Sep 2014 12:16:25 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2014-09-19-a/</guid>
+      <description>RTF –&amp;gt; EPUB with a layover in InDesign | ePUBSecrets. Очень подробное руководство по конвертации RTF в EPUB. Актуально при больших объёмах работы. Автор — Лаура Брейди, владелец и главный сотрудник компании Brady Type, b2b-сервисе по электронным книгам.</description>
+    </item>
+    
+    <item>
+      <title>Как готовить макет InDesign для экспорта в EPUB</title>
+      <link>http://example.org/posts/2014-03-25-a/</link>
+      <pubDate>Tue, 25 Mar 2014 09:38:41 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2014-03-25-a/</guid>
+      <description>Очень полезная статья известного специалиста по вёрстке EPUB Криса Дженнингса для издателей, которые не отдают конвертацию своих книг на аутсорсинг, а предпочитают делать их самостоятельно. Ниже привожу её в вольном и расширенном пересказе. Первый вопрос для них: как? Вроде бы все (ок, почти все) верстают в InDesign, а в InDesign есть Ctrl/Cmd+E — и экспорт в EPUB. Всё просто… Но результат получается не совсем такой или совсем не такой, как хотелось бы.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>электронная бумага on My New Hugo Site</title>
+    <link>http://example.org/tags/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D0%B1%D1%83%D0%BC%D0%B0%D0%B3%D0%B0/</link>
+    <description>Recent content in электронная бумага on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Aug 2008 13:54:48 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D0%B1%D1%83%D0%BC%D0%B0%D0%B3%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Объемы продаж Kindle и прогнозы рынка электронной бумаги</title>
+      <link>http://example.org/posts/2008-08-04-27/</link>
+      <pubDate>Mon, 04 Aug 2008 13:54:48 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-08-04-27/</guid>
+      <description>We Know How Many Kindles Amazon Has Sold: 240,000
+ По данным источника, знакомого с цифрами продаж Amazon, с начала продаж Kindle в ноябре 2007 года продано около 240 000 букридеров.
+ Что составляет доход не менее $100 млн (включая продажи контента). Учитывая эти данные, оптимистичный прогноз рынка электронной бумаги, сделанный руководством основного ее производителя, компании PVI, — десятикратный рост за следующие три года, — кажется вполне достоверным.</description>
+    </item>
+    
+    <item>
+      <title>Esquire с обложкой из электронной бумаги</title>
+      <link>http://example.org/posts/2008-07-21-13/</link>
+      <pubDate>Mon, 21 Jul 2008 20:45:22 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-21-13/</guid>
+      <description>News Flash From the Cover of Esquire - Paper Magazines Can Be High Tech, Too - NYTimes.com В сентябре на стендах журнальных киосках в США появится журнал Esquire с обложкой из электронной бумаги. Для журнала, который весьма трепетно относится к своим обложкам, это важный шаг. Жаль, что новой обложкой будут снабжены только 100 тысяч экземпляров журанала, которые будут продаваться в розницу в США :-( Comments:  ekniga - Jul 2, 2008Видел я эту заметку, но так и не понял главного: зачем?</description>
+    </item>
+    
+    <item>
+      <title>Электронная сенсорная бумага</title>
+      <link>http://example.org/posts/2008-05-21-4/</link>
+      <pubDate>Wed, 21 May 2008 15:45:40 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-05-21-4/</guid>
+      <description>Компания Prime View International Co., Ltd., главный производитель электронной бумаги по технологии электронных чернил, объявила о том, что уже в 2008 году начнется производство электронной бумаги и LCD с сенсорной технологией американской фирмы F-Origin. Пассаж Тима О&#39;Рейли о книгах в iPhone и сенсорном экране в Kindle начинает обретать реальность.</description>
+    </item>
+    
+  </channel>
+</rss>

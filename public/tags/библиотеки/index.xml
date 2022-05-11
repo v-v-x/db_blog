@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>библиотеки on My New Hugo Site</title>
+    <link>http://example.org/tags/%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8/</link>
+    <description>Recent content in библиотеки on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Apr 2015 14:25:23 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oyster начал ПРОДАВАТЬ книги</title>
+      <link>http://example.org/posts/2015-04-08-a/</link>
+      <pubDate>Wed, 08 Apr 2015 14:25:23 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-04-08-a/</guid>
+      <description>Онлайновая библиотека Oyster начала ПРОДАВАТЬ книги. Видимо, недавнее интервью директора Hachette, где тот говорит о том, что в подписке нет никакого смысла, потому что читатель читает одну книгу в месяц, а число тех, кто читает больше, ничтожно мало, было не случайным. Книги Hachette в продаже на сайте Oyster есть. В приложении продаж пока нет.</description>
+    </item>
+    
+    <item>
+      <title>Минкульт обещает сделать библиотеки цифровыми</title>
+      <link>http://example.org/posts/2009-12-08-22/</link>
+      <pubDate>Tue, 08 Dec 2009 08:30:37 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-12-08-22/</guid>
+      <description>Авдеев также заявил, что видит решение проблемы стремительно ветшающего библиотечного фонда в срочном проведении оцифровки книг и переводу их в электронный вид.
+По его словам, в России планируется развивать такое направление, как внедрение в библиотеках так называемых &amp;ldquo;ридеров&amp;rdquo; - электронных книг. Такие ридеры, пояснил министр, содержат до 2 тыс. произведений, и их можно читать практически как книгу, перелистывая электронные страницы.
+Авдеев отметил, что экономически ридеры выгоднее, чем книга притом, что книга стоит 200 рублей, а ридер - около 1,5 тыс.</description>
+    </item>
+    
+    <item>
+      <title>Рынок букридеров стал напоминать метро в час пик</title>
+      <link>http://example.org/posts/2009-11-02-a/</link>
+      <pubDate>Mon, 02 Nov 2009 23:41:21 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-11-02-a/</guid>
+      <description>Marvell Syncs With E Ink On New E-Reader Tech Aimed At Mass Market | paidContent
+ The e-reader market is beginning to resemble a crowded subway train at rush hour and the latest entry could make it feel even more crowded. Marvell Technology Group and E Ink are partnering on a “turnkey” tech solution based on one integrated chip called the Marvell Armada 166E, with the first devices due in 2010.</description>
+    </item>
+    
+    <item>
+      <title>Internet Archive: открытая архитектура хранения и дистрибуции электронных книг</title>
+      <link>http://example.org/posts/2009-10-19-29/</link>
+      <pubDate>Mon, 19 Oct 2009 20:05:54 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-19-29/</guid>
+      <description>Internet Archive: A Future for Books &amp;ndash; BookServer
+ The BookServer is a growing open architecture for vending and lending digital books over the Internet. Built on open catalog and open book formats, the BookServer model allows a wide network of publishers, booksellers, libraries, and even authors to make their catalogs of books available directly to readers through their laptops, phones, netbooks, or dedicated reading devices. BookServer facilitates pay transactions, borrowing books from libraries, and downloading free, publicly accessible books.</description>
+    </item>
+    
+    <item>
+      <title>Нью-Йоркская публичная библиотека предлагает доступ к цифровым версиям public domain</title>
+      <link>http://example.org/posts/2009-10-04-105/</link>
+      <pubDate>Sun, 04 Oct 2009 21:38:53 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-04-105/</guid>
+      <description>New York Public Library and Kirtas Technologies Partner to Make 500,000 Public-Domain Books Available to the World | LISWire
+ Readers and researchers looking for hard-to-find books now have the opportunity to dip into the collections of one of the world’s most comprehensive libraries to purchase digitized copies of public domain titles. Through their Digitize-on-Demand program, Kirtas Technologies has partnered with The New York Public Library to make 500,000 public domain works from the Library’s collections available (to anyone in the world).</description>
+    </item>
+    
+    <item>
+      <title>Как быстро растут книгохранилища</title>
+      <link>http://example.org/posts/2008-07-20-a/</link>
+      <pubDate>Sun, 20 Jul 2008 16:47:56 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-20-a/</guid>
+      <description>Пора подвести итоги небольшого полевого исследования. Имеем: Google Reader с RSS-лентами трех достаточно популярных и активно наполняемых книгохранилищ (lib.rus.ec, litres.ru, infanata.org). Посмотрим, с какой скоростью будет на ограниченном (скромными средствами rss-агрегатора, которые не может отражать точные цифры записей, более 1000) временном интервале происходит наполнение этих сайтов электронными книгами.  За период с 8–го по 19-е июля 2008 года количество книг на сайте lib.rus.ec увеличилось на 994 книги (примерно по 72 книги в день), в магазине litres.</description>
+    </item>
+    
+    <item>
+      <title>Российские издатели против обязательного электронного экземпляра</title>
+      <link>http://example.org/posts/2008-07-03-44/</link>
+      <pubDate>Thu, 03 Jul 2008 18:36:17 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-03-44/</guid>
+      <description>Ъ - Госдума цифруется на случай буквоедства
+ Сегодня Госдума в первом чтении должна рассмотреть поправки к закону &amp;ldquo;О библиотечном деле&amp;rdquo;, легализующие деятельность электронных библиотек. В целях &amp;ldquo;сохранности фондов&amp;rdquo; национальные библиотеки предлагается наделить правом оцифровывания книг, видеофильмов и других произведений, что позволит им создавать электронные копии документов без согласия авторов и без выплаты им вознаграждения &amp;lt;&amp;hellip;&amp;gt;
+&amp;ldquo;Издатели захотят зафиксировать защиту своего авторского права, и читатели будут оплачивать вот этот бесплатный доступ&amp;rdquo;,— прогнозирует гендиректор &amp;ldquo;Олма Медиа Групп&amp;rdquo; Дмитрий Иванов.</description>
+    </item>
+    
+  </channel>
+</rss>

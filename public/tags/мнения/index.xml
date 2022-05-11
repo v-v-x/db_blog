@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>мнения on My New Hugo Site</title>
+    <link>http://example.org/tags/%D0%BC%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F/</link>
+    <description>Recent content in мнения on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jun 2008 09:01:16 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D0%BC%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>О верстке электронных книг</title>
+      <link>http://example.org/posts/2008-06-25-26/</link>
+      <pubDate>Wed, 25 Jun 2008 09:01:16 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-25-26/</guid>
+      <description>Полезная статья (с обещанным продолжением) о проблемах верстки и недостатках основных форматов электронных книг: Sans стыда, sans совести » Blog Archive » Об электронных книгах и Sans стыда, sans совести » Blog Archive » Еще об электронных книгах.</description>
+    </item>
+    
+  </channel>
+</rss>

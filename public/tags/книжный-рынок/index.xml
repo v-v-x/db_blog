@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>книжный рынок on My New Hugo Site</title>
+    <link>http://example.org/tags/%D0%BA%D0%BD%D0%B8%D0%B6%D0%BD%D1%8B%D0%B9-%D1%80%D1%8B%D0%BD%D0%BE%D0%BA/</link>
+    <description>Recent content in книжный рынок on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jul 2008 08:08:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D0%BA%D0%BD%D0%B8%D0%B6%D0%BD%D1%8B%D0%B9-%D1%80%D1%8B%D0%BD%D0%BE%D0%BA/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Любопытная статистика книжного рынка США</title>
+      <link>http://example.org/posts/2008-07-11-25/</link>
+      <pubDate>Fri, 11 Jul 2008 08:08:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-11-25/</guid>
+      <description>bestsellers: Книжный рынок США
+ По данным агентства Bowker, ежегодно в США выпускаются 120 тыс. наименований книг. По данным газеты Publishers Weekly, 57 % новых книг не дочитываются до конца, а 70 % публикуемых в США книг не приносят прибыли. По оценкам Гильдии Писателей, «успехом» можно считать, когда продаются 5 тыс. экземпляров книги, содержащей новое литературное произведение (роман, рассказы, стихи и пр.) и 7,5 тыс. экземпляров книги нелитературного содержания (научно-популярные издания, энциклопедии и пр.</description>
+    </item>
+    
+  </channel>
+</rss>

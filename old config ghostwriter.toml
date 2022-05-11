@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+languageCode = "ru-ru"
+title = "Новости электронного книгоиздания"
+theme = "ghostwriter"
+
+[Params]
+    twitter = "https://twitter.com/v_x"
+    facebook = "https://www.facebook.com/vladimir.haritonov"
+
+[[menu.main]]
+    name = "About"
+    url = "/pages/page_about/"
+    weight = 1
+
+[[menu.main]]
+    name = "Самое краткое руководство по EPUB"
+    url = "/pages/page_whyepub/"
+    weight = 4

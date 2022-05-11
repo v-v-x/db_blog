@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>лиетратурные премии on My New Hugo Site</title>
+    <link>http://example.org/tags/%D0%BB%D0%B8%D0%B5%D1%82%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D0%B8/</link>
+    <description>Recent content in лиетратурные премии on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jul 2008 10:12:12 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D0%BB%D0%B8%D0%B5%D1%82%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Книги-финалисты премии &#34;Большой книги&#34; в электронном доступе</title>
+      <link>http://example.org/posts/2008-07-14-21/</link>
+      <pubDate>Mon, 14 Jul 2008 10:12:12 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-14-21/</guid>
+      <description>Национальная литературная премия «Большая книга»: Новости премии / Большие книги доступны всем
+ Впервые на сайте Национальной литературной премии «Большая книга» представлены тексты произведений всех финалистов нынешнего сезона. Теперь их книги может прочитать любой пользователь интернета, посетив страницу, где проводится читательское голосование http://bigbook.ru/vote.
+ Заметный шаг вперед. Можно поздравить организаторов премии с этим решением, а также тем, что писательское и издательское сообщество оказалось готово к такому нетривиальному шагу. Хотелось бы только посоветовать еще один шаг — сделать электронные версии более «читабельными», воспользовавшись, например, сервисом Scribd, который готовит текст для удобного просмотра на экране (причем делает это бесплатно и позволяет вставлять код экранного просмотрщика на сайт).</description>
+    </item>
+    
+  </channel>
+</rss>

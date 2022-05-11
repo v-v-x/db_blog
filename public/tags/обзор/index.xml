@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>обзор on My New Hugo Site</title>
+    <link>http://example.org/tags/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80/</link>
+    <description>Recent content in обзор on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Aug 2008 08:40:10 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Обзор электронного книгоиздания</title>
+      <link>http://example.org/posts/2008-08-11-29/</link>
+      <pubDate>Mon, 11 Aug 2008 08:40:10 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-08-11-29/</guid>
+      <description>Бизнес-модели, кейсы и проблемы (что актуально — примеры из Рунета), а также немного базовой информации о букридерах и форматах электронных книг: Книжный бизнес - Электронные книги.</description>
+    </item>
+    
+    <item>
+      <title>Статья про букридеры в «Ведомостях»</title>
+      <link>http://example.org/posts/2008-05-20-55/</link>
+      <pubDate>Tue, 20 May 2008 19:48:50 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-05-20-55/</guid>
+      <description>Библиотека в кармане
+Наконец долгожданный отпуск! Вы пакуете чемодан и составляете список того, что хотелось бы прочитать, валяясь на пляже. Эту книгу рекомендовали друзья, а вот интересная новинка, и эту книгу давно надо дочитать, а еще… Стоп! Книги уже не помещаются в сумку. Что же делать? Взять с собой электронную книгу
+Зачем нужны электронные книги, если имеются почти универсальные КПК? Тут тебе и органайзер, и электронная почта, и записная книжка, и плейер, туда же можно закачать и текст книги.</description>
+    </item>
+    
+  </channel>
+</rss>

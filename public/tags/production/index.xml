@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>production on Новости электронного книгоиздания</title>
+    <link>/tags/production/</link>
+    <description>Recent content in production on Новости электронного книгоиздания</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 19 Jan 2017 22:46:49 +0000</lastBuildDate><atom:link href="/tags/production/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как это делается в Macmillan</title>
+      <link>/posts/2017-01-19-a/</link>
+      <pubDate>Thu, 19 Jan 2017 22:46:49 +0000</pubDate>
+      
+      <guid>/posts/2017-01-19-a/</guid>
+      <description>На конференции ebookcraft в Торонто 22–23 марта будет выступать Nellie McKesson, отвечающая за производство электронных книг в Macmillan Publishers (одно из пяти крупнейших издательств США, которым владеет немецкая Holtzbrinck Publishing Group). Совсем не конвертацией из InDesign, потому что это дорого и неэффективно. Производственный процесс начинается с специально приготовленного Word, а на выходе получается HTMLbook, PDF и EPUB.
+Всё это называется Bookmaker. Инструменты, разработанные в издательстве выложены в открытый доступ. Вот тут подробный рассказ Маккессон о том, как и что.</description>
+    </item>
+    
+    <item>
+      <title>Новый релиз Sigil — 0.9.5</title>
+      <link>/posts/2016-03-30-a/</link>
+      <pubDate>Wed, 30 Mar 2016 09:00:46 +0000</pubDate>
+      
+      <guid>/posts/2016-03-30-a/</guid>
+      <description>Source: Release Sigil-0.9.5 Release · Sigil-Ebook/Sigil · GitHub Обновления Sigil стали более частыми, что радует. Кроме того, не забудьте обновить плагин для дополнительного к epubcheck валидатора FlightCrew — он теперь не идет вместе с Sigil, а ставится отдельно через меню Manage Plugins.</description>
+    </item>
+    
+    <item>
+      <title>Вышел очередной Sigil — 0.9.4</title>
+      <link>/posts/2016-03-14-a/</link>
+      <pubDate>Mon, 14 Mar 2016 12:50:57 +0000</pubDate>
+      
+      <guid>/posts/2016-03-14-a/</guid>
+      <description>Sigil 0.9.4 is both a bug fix release and a release to greatly improve epub3 editing and generation all without impacting Sigil’s epub2 capabilities. The main bug fixes are: Prevent the use o…
+ Source: Sigil-0.9.4 Released | Sigil Ebook Пишут, что куча всяких улучшений и дальнейшее движение в сторону epub3.</description>
+    </item>
+    
+    <item>
+      <title>Теги для экспорта стилей из InDesign в EPUB</title>
+      <link>/posts/2016-02-17-a/</link>
+      <pubDate>Wed, 17 Feb 2016 18:58:02 +0000</pubDate>
+      
+      <guid>/posts/2016-02-17-a/</guid>
+      <description>Несколько простых советов, которые позволят вам сократить время обработки EPUB, сконвертированного из вашего макета в InDesign.
+Если при задании стилей оформления абзацев вы не задали теги, которые будут этим стилям соответствовать в CSS-файле EPUB, то некоторые программы и устройства для чтения не смогут корректно отобразить заданное вами оформление Проще говоря — абзац, описанный стилем &amp;lt;p class=&amp;quot;title&amp;quot;&amp;gt; будет выглядеть как обычный абзац, а вовсе не как заголовок. Чтобы программа чтения поняла, что это заголовок, стиль должен быть описан не как абзац p, а как заголовок h1…h6.</description>
+    </item>
+    
+    <item>
+      <title>Вышел Sigil 0.9.3</title>
+      <link>/posts/2016-02-01-a/</link>
+      <pubDate>Mon, 01 Feb 2016 10:04:08 +0000</pubDate>
+      
+      <guid>/posts/2016-02-01-a/</guid>
+      <description>Разработчики пишут, что эта версия значительно более совместима с EPUB3, разве что fixed layout не поддерживает, но скоро. Надо потестить.
+Source: Sigil-0.9.3 is Released</description>
+    </item>
+    
+    <item>
+      <title>Канадский конкурс для дизайнеров EPUB</title>
+      <link>/posts/2016-01-05-a/</link>
+      <pubDate>Tue, 05 Jan 2016 19:03:21 +0000</pubDate>
+      
+      <guid>/posts/2016-01-05-a/</guid>
+      <description>Do you want to prove that you are an ebook design superstar? This year at ebookcraft we have a contest with your name on it, not to mention some pretty sweet prizes up for grabs!
+ Source: So you think you can code? — BookNet Canada</description>
+    </item>
+    
+    <item>
+      <title>Удобная вставка иллюстрации в текст</title>
+      <link>/posts/2015-12-23-a/</link>
+      <pubDate>Wed, 23 Dec 2015 12:29:20 +0000</pubDate>
+      
+      <guid>/posts/2015-12-23-a/</guid>
+      <description>Для того, чтобы иллюстрация при экспорте макета InDesign в EPUB не попала в конец книги, её нужно вставить внутрь текста, то есть иллюстрации должны быть inline graphics. Нет проблем, если иллюстрации и так уже завёрстаны между абзацами. А если нет? И текст отдельно, а иллюстрации — отдельно? Самый простой вариант — вырезать иллюстрацию и вставить её в текст. Вариант понятный, но не самый удобный, поскольку вёрстка неизбежно «поедет», и дальнейшая работа по подготовке макета к экспорту станет не такой удобной.</description>
+    </item>
+    
+    <item>
+      <title>Очередной Sigil — 0.9.2</title>
+      <link>/posts/2015-12-21-a/</link>
+      <pubDate>Mon, 21 Dec 2015 06:17:44 +0000</pubDate>
+      
+      <guid>/posts/2015-12-21-a/</guid>
+      <description>Вроде бы, стал стабильнее. Качать тут.</description>
+    </item>
+    
+    <item>
+      <title>Обновился pagina EPUB-Checker</title>
+      <link>/posts/2015-12-10-a/</link>
+      <pubDate>Thu, 10 Dec 2015 05:58:20 +0000</pubDate>
+      
+      <guid>/posts/2015-12-10-a/</guid>
+      <description>На сайте проекта выложена версия 1.6 с исправленными библиотеками. Проверил — работает, EPUB проверяет.</description>
+    </item>
+    
+    <item>
+      <title>Обновился InDesign CC 2015.2</title>
+      <link>/posts/2015-12-02-a/</link>
+      <pubDate>Wed, 02 Dec 2015 12:24:36 +0000</pubDate>
+      
+      <guid>/posts/2015-12-02-a/</guid>
+      <description>Details and download links for the latest versions of InDesign and the other Creative Cloud applications.
+ Source: What’s New With InDesign CC 2015.2
+Помимо прочего, пишут, починилось внедрение шрифтов в fixed layout EPUB.</description>
+    </item>
+    
+    <item>
+      <title>Sigil 0.9 немного починили</title>
+      <link>/posts/2015-11-30-a/</link>
+      <pubDate>Mon, 30 Nov 2015 06:10:07 +0000</pubDate>
+      
+      <guid>/posts/2015-11-30-a/</guid>
+      <description>Вышла версия 0.9.1, исправленная.</description>
+    </item>
+    
+    <item>
+      <title>Вышел Sigil 0.9</title>
+      <link>/posts/2015-11-09-a/</link>
+      <pubDate>Mon, 09 Nov 2015 07:34:36 +0000</pubDate>
+      
+      <guid>/posts/2015-11-09-a/</guid>
+      <description>Source: Release Sigil-0.9.0 Release · Sigil-Ebook/Sigil · GitHub
+Новая версия Sigil — первая «полная» версия со времён 0.8.7. Более или менее стабильна. Рекомендую.</description>
+    </item>
+    
+    <item>
+      <title>Пара полезных плагинов для epub и mobi в Mac OS X</title>
+      <link>/posts/2015-11-05-a/</link>
+      <pubDate>Thu, 05 Nov 2015 08:20:27 +0000</pubDate>
+      
+      <guid>/posts/2015-11-05-a/</guid>
+      <description>Quick Look плагин для epub.
+Файл epub.qlgenerator просто копируется в папку /Library/QuickLook. Отображает обложки epub в Finder и основные метаданные при быстром просмотре. И Quick Look плагин для mobi. В ту же папку копируется файл QLMobi.qlgenerator. Помимо отображения обложек, в режиме быстрого просмотра позовляет просмотреть сам файл.</description>
+    </item>
+    
+    <item>
+      <title>Pressbooks развивается</title>
+      <link>/posts/2015-09-23-a/</link>
+      <pubDate>Wed, 23 Sep 2015 18:41:43 +0000</pubDate>
+      
+      <guid>/posts/2015-09-23-a/</guid>
+      <description>Pressbooks, сервис производства электронных книг из блога на WordPress, продолжает развиваться, и теперь предлагает услуги по печати, а также научился более/менее контролировать висячие строки. Всё бы хорошо, но экспорт стоит денег — 20 баксов за EPUB и MOBI, 100 баксов — за три формата (+PDF). За печать — отдельно. Судя по всему, впрочем, зарабатывает сервис на бизнес-клиентах, среди которых — университетские издательства и СМИ.</description>
+    </item>
+    
+    <item>
+      <title>EPUB-Checker — удобная оболочка для epubcheck</title>
+      <link>/posts/2015-09-23-b/</link>
+      <pubDate>Wed, 23 Sep 2015 15:12:27 +0000</pubDate>
+      
+      <guid>/posts/2015-09-23-b/</guid>
+      <description>Prüft und validiert E-Books im EPUB-Format auf Knopfdruck mit epubcheck
+ Удобная оболочка для валидатора epubcheck обновилась и теперь поддерживает epubcheck 4.0.0. Ошибки выдаются довольно удобной табличкой. Есть поддержка русского интерфейса, если вдруг кому. Для установки на Mac понадобится Java 7 или 8, и JDK, а не JRE, который стоит в Mac.</description>
+    </item>
+    
+    <item>
+      <title>Новый EpubCheck - 4.0.0</title>
+      <link>/posts/2015-09-02-b/</link>
+      <pubDate>Wed, 02 Sep 2015 07:39:56 +0000</pubDate>
+      
+      <guid>/posts/2015-09-02-b/</guid>
+      <description>epubcheck - Validation tool for EPUB
+ Source: Release EpubCheck 4.0.0 · IDPF/epubcheck · GitHub
+Наконец-то официально обновился инструмент проверки EPUB. Теперь — на совместимость с EPUB 3.</description>
+    </item>
+    
+    <item>
+      <title>Самое краткое руководство по EPUB</title>
+      <link>/posts/2015-08-26-a/</link>
+      <pubDate>Wed, 26 Aug 2015 11:48:10 +0000</pubDate>
+      
+      <guid>/posts/2015-08-26-a/</guid>
+      <description>Наконец, допилил до конца — до инструкции по конвертации из InDesign CC 2015. Может, кому-то будет полезно:
+ Самое краткое руководство по EPUB
+ Что такое epub, как его читать и как его сделать (для новичков, для гиков и для верстальщиков книг).</description>
+    </item>
+    
+    <item>
+      <title>InDesign и сноски в EPUB. Хозяйке на заметку</title>
+      <link>/posts/2015-06-03-b/</link>
+      <pubDate>Wed, 03 Jun 2015 15:16:45 +0000</pubDate>
+      
+      <guid>/posts/2015-06-03-b/</guid>
+      <description>Все, кто использует InDesign для вёрстки книг, хорошо знают, что Adobe не любит концевые сноски и не поддерживает их, предпочитая упихивать все сноски на страницу с большим или меньшим успехом. А при экспорте в EPUB — за отсутствием страниц — предлагает два варианта размещения сносок: сразу после абзаца или в конце главы. И никак иначе. Сноски после абзацев выглядят очень плохо и, конечно, сбивают читателя с толку. Сноски в конце глав более приемлемы, но слишком часто всё равно там не нужны.</description>
+    </item>
+    
+    <item>
+      <title>Ebook Developers Need a Seat at the Planning Table | Digital Book World</title>
+      <link>/posts/2015-05-08-a/</link>
+      <pubDate>Fri, 08 May 2015 12:41:28 +0000</pubDate>
+      
+      <guid>/posts/2015-05-08-a/</guid>
+      <description>Digital production expert Laura Brady explains why it helps to include ebook developers in the early stages of the publishing process.
+ Source: Ebook Developers Need a Seat at the Planning Table | Digital Book World
+Рекомендации все вполне разумные — при развитом рынке электронных книг. И, к сожалению, практически совсем бесполезные в России. В результате то, во что потом «превращаются» книги, заботит только технических специалистов и недовольных читателей.</description>
+    </item>
+    
+    <item>
+      <title>QuarkXPress 2015 научился делать FL-EPUB</title>
+      <link>/posts/2015-04-30-a/</link>
+      <pubDate>Thu, 30 Apr 2015 13:25:27 +0000</pubDate>
+      
+      <guid>/posts/2015-04-30-a/</guid>
+      <description>You can now create HTML5 fixed layout eBooks without any additional software or costs. The fixed layout eBook format (ePub3 or Amazon’s KF8), displays pixel-perfect layouts such as science reports or colorful animated kids books without the complexity and cost of creating and maintaining native apps. Unlike many fixed layout creation tools, your layouts need not be static either. You can add interactive enrichments such as scrollable areas, page flips, animations and more.</description>
+    </item>
+    
+    <item>
+      <title>Новый релиз Sigil. Исправлены ошибки</title>
+      <link>/posts/2015-04-01-a/</link>
+      <pubDate>Wed, 01 Apr 2015 12:34:07 +0000</pubDate>
+      
+      <guid>/posts/2015-04-01-a/</guid>
+      <description>Вышел очередной релиз Sigil — 0.8.5 — без принципиальных изменений, но с кое-какими исправленными ошибками.</description>
+    </item>
+    
+    <item>
+      <title>Adobe Digital Editions становится полезнее</title>
+      <link>/posts/2015-02-12-b/</link>
+      <pubDate>Thu, 12 Feb 2015 14:12:05 +0000</pubDate>
+      
+      <guid>/posts/2015-02-12-b/</guid>
+      <description>В последней версии читалки Adobe Digital Editions 4.0.3 появилась поддержка:
+ навигационных инструментов Landmarks, списков страниц, иллюстраций и таблиц; MathML — для формул — только в ADE на Windows; загрузка внешнего мультимедиа-контента; полная поддержка EPUB Fragment Identifier и др.  </description>
+    </item>
+    
+    <item>
+      <title>Sigil 0.8.3</title>
+      <link>/posts/2015-02-02-a/</link>
+      <pubDate>Mon, 02 Feb 2015 06:07:23 +0000</pubDate>
+      
+      <guid>/posts/2015-02-02-a/</guid>
+      <description>Вышла новая, более стабильная, как уверяют разработчики, версия редактора EPUB. Качать тут.</description>
+    </item>
+    
+    <item>
+      <title>Исправляем Kindle Previewer в OS X Yosemite</title>
+      <link>/posts/2014-10-31-a/</link>
+      <pubDate>Fri, 31 Oct 2014 13:22:54 +0000</pubDate>
+      
+      <guid>/posts/2014-10-31-a/</guid>
+      <description>После установки OS X Yosemite программа для конвертации epub в mobi Kindle Previewer перестаёт нормально работать. Чтобы как-то починить, устанавливаем Java для OS X, а затем последнюю версию xQuartz. После этого Kindle Previewer так-таки будет генерировать и показывать файлы mobi. Но чтобы увидеть получившийся файл на диске, надо поменять расширение у новообразованной папки (да, она с расширением) с .epub на .mobi. И в этой папке будет нужный mobi-файл.
+via Fixing Kindle Previewer on OS X Yosemite | ePUBSecrets.</description>
+    </item>
+    
+    <item>
+      <title>ADE 4.0.1: слежка стала безопаснее</title>
+      <link>/posts/2014-10-23-a/</link>
+      <pubDate>Thu, 23 Oct 2014 18:58:16 +0000</pubDate>
+      
+      <guid>/posts/2014-10-23-a/</guid>
+      <description>В новой версии читалки epub Adobe Digital Editions 4.0.1, которую можно скачать с сайта Adobe, появилось шифрование передаваемых из клиентской программы данных. Теперь они передаются по протоколу HTTPS. Так безопаснее. Но следить Adobe за пользователем, конечно, не перестала. Как копирайт-то охранять без слежки?</description>
+    </item>
+    
+    <item>
+      <title>Вышел Sigil 0.8.0</title>
+      <link>/posts/2014-10-02-a/</link>
+      <pubDate>Thu, 02 Oct 2014 13:12:50 +0000</pubDate>
+      
+      <guid>/posts/2014-10-02-a/</guid>
+      <description>Sigil 0.8.0 Released | John&amp;rsquo;s Blog. В новой версии — видно — почищены некоторые баги. В целом программа стала работать быстрее. Кроме того, появился механизм подключения плагинов (на Python). Уже и плагины подоспели, например, для импорта (!) файлов MOBI.</description>
+    </item>
+    
+    <item>
+      <title>Sigil скорее жив, чем мёртв</title>
+      <link>/posts/2014-09-22-a/</link>
+      <pubDate>Mon, 22 Sep 2014 07:54:46 +0000</pubDate>
+      
+      <guid>/posts/2014-09-22-a/</guid>
+      <description>Об этом в блоге программы написал разработчик John Schember. Более того, будут какие-то плагины. Но всё медленно и неуверенно. Как ни странно, но до сих пор без Sigil в качестве простого, но мощного редактора EPUB, обходиться крайне неудобно, а полноценной замены ему нет.</description>
+    </item>
+    
+    <item>
+      <title>Как сделать EPUB из RTF: путеводитель</title>
+      <link>/posts/2014-09-19-a/</link>
+      <pubDate>Fri, 19 Sep 2014 12:16:25 +0000</pubDate>
+      
+      <guid>/posts/2014-09-19-a/</guid>
+      <description>RTF → EPUB with a layover in InDesign | ePUBSecrets.
+Очень подробное руководство по конвертации RTF в EPUB. Актуально при больших объёмах работы. Автор — Лаура Брейди, владелец и главный сотрудник компании Brady Type, b2b-сервисе по электронным книгам.</description>
+    </item>
+    
+    <item>
+      <title>Adobe Digital Editions 4.0</title>
+      <link>/posts/2014-09-09-a/</link>
+      <pubDate>Tue, 09 Sep 2014 10:57:30 +0000</pubDate>
+      
+      <guid>/posts/2014-09-09-a/</guid>
+      <description>Adobe Digital Editions.
+Новая версия читалки от Adobe поддерживает EPUB3 почти в полный рост (и на Mac — версия для Windows есть, но половины возможностей EPUB3 пока не может). Хотите арабский справа налево и текст и пагинацию страниц — пожалуйста, хотите MathML (и формулы) — кривовато, но работает. Fixed layout тоже показывает, но только, почему-то, постранично, а разворотами не умеет.</description>
+    </item>
+    
+    <item>
+      <title>BackTypo — вполне приличный инструмент для epub</title>
+      <link>/posts/2014-07-31-a/</link>
+      <pubDate>Thu, 31 Jul 2014 10:08:17 +0000</pubDate>
+      
+      <guid>/posts/2014-07-31-a/</guid>
+      <description>Потестировал новый онлайный сервис BackTypo по созданию epub/mobi/pdf. Редактор симпатичный.
+Но не очень гибкий — или title, или не title. Допустимы только два уровня вложения глав, и настройка неочевидная. Картинки принимает. Endnote и footnote вставляет без проблем. Импорта документов нет — только через копирование и вставку (можно настроить копирование с сохранение форматирования или без). Позволяет выбирать шаблон макета (работает с латинскими языками, с кириллицей — только отчасти в epub/mobi). Шаблон макета с кириллицей для PDF не слишком удачный, впрочем, это ожидаемо.</description>
+    </item>
+    
+    <item>
+      <title>FlightDeck начинает брать деньги за валидацию</title>
+      <link>/posts/2014-07-22-a/</link>
+      <pubDate>Tue, 22 Jul 2014 07:53:30 +0000</pubDate>
+      
+      <guid>/posts/2014-07-22-a/</guid>
+      <description>FlightDeck - Pricing.
+От 35 баксов за проверку одной книги. Для российских издателей будет дороговато, с учётом пока слабого рынка.</description>
+    </item>
+    
+    <item>
+      <title>Лайза Дейли о правильной верстке и поисковой оптимизации</title>
+      <link>/posts/2014-07-21-a/</link>
+      <pubDate>Mon, 21 Jul 2014 09:14:01 +0000</pubDate>
+      
+      <guid>/posts/2014-07-21-a/</guid>
+      <description>The superior economics of well-crafted ebooks | Safari Blog.</description>
+    </item>
+    
+    <item>
+      <title>Превращаем Dreamweaver в редактор EPUB</title>
+      <link>/posts/2014-06-26-a/</link>
+      <pubDate>Thu, 26 Jun 2014 20:42:47 +0000</pubDate>
+      
+      <guid>/posts/2014-06-26-a/</guid>
+      <description>Расширение DMXzone ePub Manager превращает довольно популярный веб-редактор от Adobe в более или менее полноценный редактор EPUB. В общем — правильная идея, поскольку EPUB внутри по преимуществу и есть веб, только упакованный, структурированный и снабженный метаданными. В описании разработчик обещает, что благодаря этому расширению EPUB (и в стандарте 2, и в стандарте 3) можно будет открыть в Dreamweaver или создать с нуля. Испытать не удалось, поскольку 199 € жалко ;-( Но если кто решится — напишите, plz, свои впечатления.</description>
+    </item>
+    
+    <item>
+      <title>Требования Kobo к EPUB</title>
+      <link>/posts/2014-06-16-a/</link>
+      <pubDate>Mon, 16 Jun 2014 09:03:22 +0000</pubDate>
+      
+      <guid>/posts/2014-06-16-a/</guid>
+      <description>kobolabs/epub-spec · GitHub.
+Весьма полезная информация для вендоров, которые будут работать (уже работают) с Kobo. В том числе — по совместимости с разными букридерами от Kobo. Как-то пропустил, что дефолтная версия Kobo — уже EPUB3.</description>
+    </item>
+    
+    <item>
+      <title>Лайза Дейли о хорошей разметке</title>
+      <link>/posts/2014-06-04-a/</link>
+      <pubDate>Wed, 04 Jun 2014 07:54:50 +0000</pubDate>
+      
+      <guid>/posts/2014-06-04-a/</guid>
+      <description>The superior economics of well-crafted ebooks</description>
+    </item>
+    
+    <item>
+      <title>FlightDeck — отличный сервис проверки EPUB</title>
+      <link>/posts/2014-05-24-a/</link>
+      <pubDate>Sat, 24 May 2014 15:48:15 +0000</pubDate>
+      
+      <guid>/posts/2014-05-24-a/</guid>
+      <description>Компания eBook Architects, специализирующаяся на производстве электронных книг по заказу крупных издательств, запустила сервис FlightDeck, делающий подробный анализ EPUB 2 и 3. В отличие от обычного epubcheck, FlightDeck подробно объясняет, что именно не так и как можно сделать лучше.
+Кроме того, сервис позволяет определить степень соответствия вашего EPUB различным требованиям шести платформ дистрибуции — iBooks, nook, Kobo, Amazon, Google Play и NetGalley.
+По результатам анализа сервис выдаёт (подробную статистику по файлу — все линки, шрифты, иллюстрации с их размерами и пр.</description>
+    </item>
+    
+    <item>
+      <title>Пометки в EPUB — драфт</title>
+      <link>/posts/2014-04-02-a/</link>
+      <pubDate>Wed, 02 Apr 2014 21:04:53 +0000</pubDate>
+      
+      <guid>/posts/2014-04-02-a/</guid>
+      <description>IDPF опубликовал драфт стандарта для Open Annotation, пометок в EPUB, которые можно будет хранить в самом файле (при условии, конечно, что читалка позволит это делать). Прям как в книге ;-)</description>
+    </item>
+    
+    <item>
+      <title>Adobe тестирует экспорт в fixed layout epub</title>
+      <link>/posts/2014-03-28-a/</link>
+      <pubDate>Fri, 28 Mar 2014 22:53:02 +0000</pubDate>
+      
+      <guid>/posts/2014-03-28-a/</guid>
+      <description>Interested in EPUB3 FXL export from @InDesign? Join pre-release and help the InDesign EPUB team make it better. dwaterfa@adobe.com #eprdctn
+&amp;mdash; Douglas Waterfall (@AdobeDWaterfall) March 28, 2014  </description>
+    </item>
+    
+    <item>
+      <title>Как готовить макет InDesign для экспорта в EPUB</title>
+      <link>/posts/2014-03-25-a/</link>
+      <pubDate>Tue, 25 Mar 2014 09:38:41 +0000</pubDate>
+      
+      <guid>/posts/2014-03-25-a/</guid>
+      <description>Очень полезная статья известного специалиста по вёрстке EPUB Криса Дженнингса для издателей, которые не отдают конвертацию своих книг на аутсорсинг, а предпочитают делать их самостоятельно. Ниже привожу её в вольном и расширенном пересказе.
+Первый вопрос для них: как? Вроде бы все (ок, почти все) верстают в InDesign, а в InDesign есть Ctrl/Cmd+E — и экспорт в EPUB. Всё просто… Но результат получается не совсем такой или совсем не такой, как хотелось бы.</description>
+    </item>
+    
+    <item>
+      <title>CircularFLO: $99 за небольшую книгу</title>
+      <link>/posts/2014-03-06-b/</link>
+      <pubDate>Thu, 06 Mar 2014 10:47:41 +0000</pubDate>
+      
+      <guid>/posts/2014-03-06-b/</guid>
+      <description>Сервис CircularFLO, который занимается конвертаций макетов InDesign одновременно в Fixed Layout EPUB для iOS и в KF8 для планшетов Amazon, обновил программное обеспечение, а заодно снизил цены на конвертацию книг объёмом до 50 страниц. Теперь за такую конвертацию сервис просит $99 или £69, или 79 € . За конвертацию без ограничений объёма — $199 (£149 или 179 €). Если учесть, что, в частности, большинство детских иллюстрированных книг укладываются в этот объём, а ручной процесс вёрстки FL EPUB и KF8 довольно трудоёмок и требует дополнительных знаний, спрос на простой в использовании сервис от CircularFLO может вырасти.</description>
+    </item>
+    
+    <item>
+      <title>Оптимизация графики для EPUB без потери качества</title>
+      <link>/posts/2014-03-04-a/</link>
+      <pubDate>Tue, 04 Mar 2014 13:03:16 +0000</pubDate>
+      
+      <guid>/posts/2014-03-04-a/</guid>
+      <description>Одна из проблем, с которой сталкиваются дизайнеры электронных книг — необходимость уменьшения размера графических файлов. Она диктуется как техническими требованиями (очень жёсткими, например, для файлов MOBI/KF8), так и соображениями здравого смысла: чем больше файл, тем дольше он будет грузиться/открываться/тяжелее ворочаться в читалке. Самое простое решение — функция Adobe Photoshop «Save for Web». Более эффективное — использование программ ImageAlpha и ImageOptim. Обе программы на выходе создают PNG-файл, в первом случае, сжатый без видимой потери качества, во-втором — с удалённой ненужной информацией.</description>
+    </item>
+    
+    <item>
+      <title>FineReader Pro для Mac OS X</title>
+      <link>/posts/2014-02-05-a/</link>
+      <pubDate>Wed, 05 Feb 2014 13:37:10 +0000</pubDate>
+      
+      <guid>/posts/2014-02-05-a/</guid>
+      <description>Пропустил в декабре: наконец-то на смену ущербному FineReader Express для Mac OS X пришёл (почти) полноценный FineReader Pro. Важное отличие — возможность распознавания и конвертации документа прямо в EPUB или (зачем-то) FB2.
+Всё бы хорошо, но серьёзный минус, судя по отзывам, — отсутствие опции редактирования распознанного текста перед конвертаций. В FineReader XI для Windows такая возможность есть. И это очень существенно для действительно профессиональной работы, если можно почистить текст от ошибок распознавания (дефисов вместо переносов, табуляций вместо пробелов и т.</description>
+    </item>
+    
+    <item>
+      <title>Вышла Adobe Digital Editions 3.0</title>
+      <link>/posts/2014-01-22-a/</link>
+      <pubDate>Wed, 22 Jan 2014 21:39:00 +0000</pubDate>
+      
+      <guid>/posts/2014-01-22-a/</guid>
+      <description>Download | Adobe Digital Editions Home. Вертикальный текст, арабский/иврит. Не более того.</description>
+    </item>
+    
+    <item>
+      <title>Формат .folio станет свободным</title>
+      <link>/posts/2013-12-15-a/</link>
+      <pubDate>Sun, 15 Dec 2013 11:28:30 +0000</pubDate>
+      
+      <guid>/posts/2013-12-15-a/</guid>
+      <description>Adobe has announced it will offer its .folio file format, which is used with all magazines created with Adobe Digital Publishing Suite, under a free license beginning in January 2014. The company says, in the press release announcing the news, publishing the technical specification for the .folio format for digital magazines under a free license will make it possible for publishers to produce their own .folio viewer apps.
+via Adobe Offers .</description>
+    </item>
+    
+    <item>
+      <title>epubcheck for Mac OS X</title>
+      <link>/posts/2013-12-09-a/</link>
+      <pubDate>Mon, 09 Dec 2013 21:57:47 +0000</pubDate>
+      
+      <guid>/posts/2013-12-09-a/</guid>
+      <description>epubcheck for Mac OS X - MobileRead Forums. Коллеги-дизайнеры электронных книг. Если вам в лом запускать epubcheck из терминала, то скачайте и поставьте epubcheck в виде программы для Mac OS X. Она вполне рабочая.</description>
+    </item>
+    
+    <item>
+      <title>Первое пособие по вёрстке epub на русском языке</title>
+      <link>/posts/2013-10-08-d/</link>
+      <pubDate>Tue, 08 Oct 2013 13:28:20 +0000</pubDate>
+      
+      <guid>/posts/2013-10-08-d/</guid>
+      <description>Руководство по созданию книг ePub 2.0
+Учебно-развлекательное пособие по созданию книг ePub 2.0 (ePub Tutorial v.1.3)
+Written by: Николай Мурашов Published by: docking the mad dog
+Date published: 12/31/2012
+Edition: First (v.1.3)
+Available in Ebook (электронная книга ePub, pdf, mobi, azw3)
+ePub UUID: ef4e2508-7057-4e3e-817d-9f2a09a0c140
+Автор не всегда точен, не все его рекомендации работают, но книга весьма полезная, особенно для начинающих верстальщиков epub. Рекомендую.</description>
+    </item>
+    
+    <item>
+      <title>PubCoder — новая программа для вёрстки epub3</title>
+      <link>/posts/2013-10-08-b/</link>
+      <pubDate>Tue, 08 Oct 2013 08:46:01 +0000</pubDate>
+      
+      <guid>/posts/2013-10-08-b/</guid>
+      <description>PubCoder - Discover PubCoder, the digital publishing tool.
+Пока не пробовал, но предсказанный на 2013 год триумфальный выход authoring tools продолжается.</description>
+    </item>
+    
+    <item>
+      <title>Indesign -&gt; iBooks Author</title>
+      <link>/posts/2013-10-05-a/</link>
+      <pubDate>Sat, 05 Oct 2013 09:03:37 +0000</pubDate>
+      
+      <guid>/posts/2013-10-05-a/</guid>
+      <description>Bookry is one year old in October and to celebrate we’re delighted to be exhibiting at the Frankfurt Book Fair for the very first time – yay! We’re so excited to be joining this prestigious event, where we’ll be demonstrating all our iBooks Author services, including interactive widget generation and Reader Cloud.At the event we will also be launching a brand new tool that we’ve developed for existing book publishers which automatically converts InDesign files into iBooks Author files, complete with interactive widgets.</description>
+    </item>
+    
+    <item>
+      <title>Epub и иллюстрированные книги</title>
+      <link>/posts/2013-07-16-a/</link>
+      <pubDate>Tue, 16 Jul 2013 11:09:21 +0000</pubDate>
+      
+      <guid>/posts/2013-07-16-a/</guid>
+      <description>В отличие от обычных — условно говоря, «текстовых», — книг, относительно безболезненно превращающихся в электронные, с иллюстрированными книгами со сложным макетом есть проблемы. Кажется, что самый лучший вариант — это PDF. Действительно, PDF сохраняет не просто макет, но и макет целиком со всем форматированием. При надлежащих настройках PDF не слишком много весит. И — главное — отображается чертовой кучей программ. Кроме того, PDF может (издатели до сих пор это считают плюсом, несмотря на лютую ненависть читателей) быть защищенным от произвольного копирования посредством громоздкой и неудобной системой DRM типа Adobe Content Server.</description>
+    </item>
+    
+    <item>
+      <title>Ещё один, и симпатичный, онлайновый редактор Lacuna Books</title>
+      <link>/posts/2013-06-17-a/</link>
+      <pubDate>Mon, 17 Jun 2013 22:07:11 +0000</pubDate>
+      
+      <guid>/posts/2013-06-17-a/</guid>
+      <description>Lacuna Books.</description>
+    </item>
+    
+    <item>
+      <title>Весенний расцвет редакторов электронных публикаций</title>
+      <link>/posts/2013-04-18-a/</link>
+      <pubDate>Thu, 18 Apr 2013 22:09:30 +0000</pubDate>
+      
+      <guid>/posts/2013-04-18-a/</guid>
+      <description>Помимо Amazon Comics Creator, буквально за несколько последних дней появились — кто в бета-версии, кто и в официальной версии, — несколько инструментов для вёрстки электронных книг, журналов и статей.
+Wundrbooks выкатил десктопную версию незамысловатого редактора PlayWrite, который сможет удовлетворить умеренные потребности автора. Умеренные — удобоваримый макет, таблицы, вставка медиа. Протестировать качество EPUB не удалось, поскольку возможность сохранения и экспорта только при приобретении лицензии за 50 баксов. Что забавно, поскольку в редактор встроена кнопка Publish для мгновенного размещения книги в разных магазинах и в «родном» магазине сервиса.</description>
+    </item>
+    
+    <item>
+      <title>Amazon выпустил Kindle Comic Creator</title>
+      <link>/posts/2013-04-17-a/</link>
+      <pubDate>Wed, 17 Apr 2013 22:31:24 +0000</pubDate>
+      
+      <guid>/posts/2013-04-17-a/</guid>
+      <description>Kindle Comic Creator.
+Есть версия для Mac и Windows. Тихой сапой Amazon выпустил программу для подготовки комиксов, манги и графических романов для Kindle. Выглядит как несложный редактор, который позволяет делать очень простые вещи — импортировать страницы комиксов в графическом формате, распознавать границы отдельных иллюстраций, увеличивать их при просмотре, и всё это — экспортировать в формат, который понимают читалки и планшеты Kindle. 2013 год, как и было предсказано, становится годом издательских инструментов.</description>
+    </item>
+    
+    <item>
+      <title>Importing a DOCX file into BlueGriffon EPUB Edition</title>
+      <link>/posts/2013-03-29-a/</link>
+      <pubDate>Fri, 29 Mar 2013 14:19:56 +0000</pubDate>
+      
+      <guid>/posts/2013-03-29-a/</guid>
+      <description>Importing a DOCX file into BlueGriffon - YouTube.</description>
+    </item>
+    
+    <item>
+      <title>Особенности национальной вёрстки электронных книг</title>
+      <link>/posts/2013-02-28-a/</link>
+      <pubDate>Thu, 28 Feb 2013 18:29:02 +0000</pubDate>
+      
+      <guid>/posts/2013-02-28-a/</guid>
+      <description>Так выглядит в Kindle for iOS непонятно зачем завёрстанный список примечаний к книге Бориса Ковалева «Повседневная жизнь в России в период нацистской оккупации». Отношение к вёрстке у Литрес вообще своеобразное. Epub ещё куда ни шло, хотя отсутствие отдельного титула несколько смущает, а невозможность понять, какое же издательство выпустило книгу, и обескураживает. Но результат, судя по всему автоматической, конвертации в mobi очень забавный.
+Сначала обложка (ОК). Потом Annotation (именно так, и непонятно, зачем?</description>
+    </item>
+    
+    <item>
+      <title>PressBooks Plugin доступен для скачивания</title>
+      <link>/posts/2013-02-26-a/</link>
+      <pubDate>Tue, 26 Feb 2013 22:35:28 +0000</pubDate>
+      
+      <guid>/posts/2013-02-26-a/</guid>
+      <description>Сервис PressBooks на базе WordPress, позволяющий сделать электронную книгу в привычном многим блогерам интерфейсе популярного движка, выпустил бесплатный плагин с открытыми исходниками, который позволит (при его установке на «чистый» WordPress Multisite) делать электронные книги самостоятельно. Один большой минус: в упаковку не входит экспорт в PDF, поскольку сам PressBooks пользуется платным движком PrinceXML. Но epub получается вполне качественный.
+Free at Last! PressBooks Plugin is now Free/Open Source Software | PressBooks Blog.</description>
+    </item>
+    
+    <item>
+      <title>Пособие «Digital Publishing with Adobe InDesign CS6» со скидкой</title>
+      <link>/posts/2013-02-25-c/</link>
+      <pubDate>Mon, 25 Feb 2013 19:21:51 +0000</pubDate>
+      
+      <guid>/posts/2013-02-25-c/</guid>
+      <description>Digital Publishing with Adobe InDesign CS6 — пособие про разные возможности ИнДизайна CS6 по части производства электронных книг. Не только в виде epub, но и в виде приложений. До конца недели — за 10 баксов. А так — $36.
+$9.99 eBook Deal of the Week | Adobe Press.</description>
+    </item>
+    
+    <item>
+      <title>Что такое книга? Текст? Нет!</title>
+      <link>/posts/2013-02-18-a/</link>
+      <pubDate>Mon, 18 Feb 2013 22:59:55 +0000</pubDate>
+      
+      <guid>/posts/2013-02-18-a/</guid>
+      <description>Книга — это API. Текст не поменяется. Поменяется отношение, позиция, точка зрения, способ презентации. И чтобы учесть, у книги должен быть API.   Book as api hugh mc guire and alistair croll - toc nyc 2013  from Alistair Croll 
+А вот и список сервисов API для книг: 53 Books APIs: Google Books, Goodreads and SharedBook.</description>
+    </item>
+    
+    <item>
+      <title>Sigil 0.7</title>
+      <link>/posts/2013-02-17-a/</link>
+      <pubDate>Sun, 17 Feb 2013 22:56:04 +0000</pubDate>
+      
+      <guid>/posts/2013-02-17-a/</guid>
+      <description>Бесплатный многоплатформенный редактор EPUB Sigil добрался до версии 0.7. Благодаря переходу на новый движок и оптимизации поддержки шрифтов стал работать на порядок быстрее и устойчивее. Помимо этого там ещё много полезных нововведений, которые внятно описаны в руководстве, которое модно скачать на той же странице, что и основная программа. Очень рекомендую.
+Downloads - sigil - The EPUB Editor - Google Project Hosting.</description>
+    </item>
+    
+    <item>
+      <title>Открыт онлайновый редактор учебников Inkling Habitat</title>
+      <link>/posts/2013-02-12-b/</link>
+      <pubDate>Tue, 12 Feb 2013 22:35:32 +0000</pubDate>
+      
+      <guid>/posts/2013-02-12-b/</guid>
+      <description>Год назад Inkling объявил о грядущем запуске. Открыли только что, под начало конференции Tools of Change. Работает. Позволяет не только публиковать для веба и iOS, но и выгружать из своего формата (учебник из «карточек») в epub3 (проверил в Readium — ОК). Совместная работа, правка кода, все дела. Предназначен прежде всего для профессионалов (есть плагин для InDesign для экспорта), конечно, но управление довольно простое. Первое впечатление завораживающее.
+Inkling Habitat - Scalable digital publishing for professionals.</description>
+    </item>
+    
+    <item>
+      <title>eLAIX - ещё один плагин для OpenOffice и LibreOffice для epub</title>
+      <link>/posts/2013-02-08-b/</link>
+      <pubDate>Fri, 08 Feb 2013 21:06:59 +0000</pubDate>
+      
+      <guid>/posts/2013-02-08-b/</guid>
+      <description>Home - eLAIX EN.
+Надо попробовать.</description>
+    </item>
+    
+    <item>
+      <title>Вышла книжка EPUB 3 Best Practices</title>
+      <link>/posts/2013-01-31-a/</link>
+      <pubDate>Thu, 31 Jan 2013 12:10:31 +0000</pubDate>
+      
+      <guid>/posts/2013-01-31-a/</guid>
+      <description>EPUB 3 Best Practices - OReilly Media.
+Внятное и развернутое описание EPUB 3, включая его новые возможности, типа фиксированного и адаптивного макетов.</description>
+    </item>
+    
+    <item>
+      <title>Обзор инструментов и технологий вёрстки электронных книг</title>
+      <link>/posts/2013-01-14-b/</link>
+      <pubDate>Mon, 14 Jan 2013 23:37:46 +0000</pubDate>
+      
+      <guid>/posts/2013-01-14-b/</guid>
+      <description>If you are new to ebook production, start with The Basics section for a short introduction. Or do you want to jump right in and get started? We’ve divided this page up into Resources, which will introduce you to some great learning resources, Tools, which includes a rundown of the most commonly used software used in ebook production, and Quality Assurance, which will be useful for ebook developers as well as those who outsource their digital workflow.</description>
+    </item>
+    
+    <item>
+      <title>Предметный указатель для EPUB</title>
+      <link>/posts/2013-01-11-a/</link>
+      <pubDate>Fri, 11 Jan 2013 13:20:47 +0000</pubDate>
+      
+      <guid>/posts/2013-01-11-a/</guid>
+      <description>Создать предметный указатель для EPUB — задача не самая тривиальная. Продаваемый по ссылке скрипт, кажется, её решает. Правда, скорее всего, только для англоязычных текстов — русские склонения и InDesign при формировании указателя не понимает ;(
+Create Index for ePub | Ben Milander Consulting.</description>
+    </item>
+    
+    <item>
+      <title>Вышел EpubCheck 3.0</title>
+      <link>/posts/2012-12-23-a/</link>
+      <pubDate>Sun, 23 Dec 2012 20:12:30 +0000</pubDate>
+      
+      <guid>/posts/2012-12-23-a/</guid>
+      <description>epubcheck-3.0.zip - epubcheck - EpubCheck 3.0 binaries - Validation tool for EPUB - Google Project Hosting.
+Если кто не в курсе — это одно из главных средств по проверке файлов epub на соответствие требованиям формата.</description>
+    </item>
+    
+    <item>
+      <title>Ошибки эл.издателей и как их избежать</title>
+      <link>/posts/2012-12-05-b/</link>
+      <pubDate>Wed, 05 Dec 2012 20:30:19 +0000</pubDate>
+      
+      <guid>/posts/2012-12-05-b/</guid>
+      <description>Небольшой полезный мануал от Vook по ошибкам вёрстки, дизайна, дистрибуции и маркетинга.</description>
+    </item>
+    
+    <item>
+      <title>Видеоурок Lynda.com: Что внутри у EPUB?</title>
+      <link>/posts/2012-11-09-a/</link>
+      <pubDate>Fri, 09 Nov 2012 21:11:05 +0000</pubDate>
+      
+      <guid>/posts/2012-11-09-a/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Редактор Sigil обновился до 0.6</title>
+      <link>/posts/2012-10-30-a/</link>
+      <pubDate>Tue, 30 Oct 2012 14:47:25 +0000</pubDate>
+      
+      <guid>/posts/2012-10-30-a/</guid>
+      <description>Обновление де-факто основного — до поры практически единственного и бесплатного редактора EPUB — Sigil до верисии 0.6 получилось совсем не косметическим. Серьезно обновлено редактирование в режиме WYSIWYG. Главное, впрочем, что исправлены досадные ошибки отображения, так что теперь полужирный и правда выглядит полужирным, а текст с особым шрифтом действительно отображается им. Но это не всё: появились новые интерфейсы — для вставки якорей и внутренних гиперссылок (что удобно для верстки сносок), для привязки отдельных отдельных таблиц стилей, для оперирования файлами и даже для создания TOC в html (полезно для верстки EPUB для последущей конвертации в MOBI) и пр.</description>
+    </item>
+    
+    <item>
+      <title>Свершилось! Adobe Digital Editions понимает кириллицу</title>
+      <link>/posts/2012-09-24-b/</link>
+      <pubDate>Mon, 24 Sep 2012 09:46:21 +0000</pubDate>
+      
+      <guid>/posts/2012-09-24-b/</guid>
+      <description>Собственно, это самое интересное, что появилось в версии 2.0. Теперь для того, чтобы прочитать EPUB c русским языком в ADE, не нужно изощряться со встраиванием шрифтов. Уже плюс. Судя по всему по умолчанию ADE использует Minion Pro.
+via adobe.com</description>
+    </item>
+    
+    <item>
+      <title>Крейг Мод о том, как сложно и как нужно делать кросс-платформенные книги</title>
+      <link>/posts/2012-09-20-a/</link>
+      <pubDate>Thu, 20 Sep 2012 19:46:43 +0000</pubDate>
+      
+      <guid>/posts/2012-09-20-a/</guid>
+      <description>Особенно впечатляет описание процедуры подготовки верстки InDesign для экспорта в EPUB и его последующей обработки. Умотаться.
+via craigmod.com</description>
+    </item>
+    
+    <item>
+      <title>Новая книжка по верстке EPUB: «eBook Typography»</title>
+      <link>/posts/2012-09-18-b/</link>
+      <pubDate>Tue, 18 Sep 2012 20:38:37 +0000</pubDate>
+      
+      <guid>/posts/2012-09-18-b/</guid>
+      <description>Купить, правда, пока можно только с нероссийким аккаунтом. Рекомендую.</description>
+    </item>
+    
+    <item>
+      <title>А вот кому готовые обложки для эл.книг?</title>
+      <link>/posts/2012-07-17-a/</link>
+      <pubDate>Tue, 17 Jul 2012 17:45:56 +0000</pubDate>
+      
+      <guid>/posts/2012-07-17-a/</guid>
+      <description>via extendedimagery.com
+Недешево, правда — 200 баксов. Но кричаще.</description>
+    </item>
+    
+    <item>
+      <title>Kindlegen обновился до 2.5</title>
+      <link>/posts/2012-07-10-c/</link>
+      <pubDate>Tue, 10 Jul 2012 19:06:34 +0000</pubDate>
+      
+      <guid>/posts/2012-07-10-c/</guid>
+      <description>Kindlegen version 2.5 build 0626-3a91e28
+ via kindlegen.s3.amazonaws.com
+Главное «орудие» создателей книг для Amazon обновилось (вместе с Kindle Previewer и Kindle Plugin for InDesign). Прозрачные PNG конвертируются в JPG с белым фоном и пр. мелкие улучшения.</description>
+    </item>
+    
+    <item>
+      <title>Сервис &#34;Россинант&#34; от Xerox неплохо конвертит PDF в EPUB по-русски</title>
+      <link>/posts/2012-06-29-a/</link>
+      <pubDate>Fri, 29 Jun 2012 20:02:56 +0000</pubDate>
+      
+      <guid>/posts/2012-06-29-a/</guid>
+      <description>Convert any PDF document to the e-reader ePub format in just a few clicks! Simply upload your PDF file, activate the conversion and you&amp;rsquo;ll receive your ePub file. ePub is compatible with most of the currently available e-readers.
+ via open.xerox.com
+Причём русскоязычные тексты. Хорошая — и бесплатная — онлайновая замена ABBYY FineReader. Не без забавностей, типа вставки примерной разметки страниц, но для архивирования официальных документов — даже полезно. И удивительно хорошее качество распознавания как текста, так и восстановления семантической структуры.</description>
+    </item>
+    
+    <item>
+      <title>Первые скриншоты нового EPUB-редактора</title>
+      <link>/posts/2012-06-21-a/</link>
+      <pubDate>Thu, 21 Jun 2012 12:26:21 +0000</pubDate>
+      
+      <guid>/posts/2012-06-21-a/</guid>
+      <description>via bluegriffon-epubedition.com
+от Bluegriffon. В отличие от Sigil, будет платным.</description>
+    </item>
+    
+    <item>
+      <title>Что нового в InDesign CS6 с EPUB</title>
+      <link>/posts/2012-04-23-a/</link>
+      <pubDate>Mon, 23 Apr 2012 13:05:49 +0000</pubDate>
+      
+      <guid>/posts/2012-04-23-a/</guid>
+      <description>A new dropdown menu in the EPUB Export Options dialog box gives you a choice of export formats: EPUB 2.01, EPUB 3, and an enticingly-named ”EPUB 3 with Layout.”
+
+First let’s get that EPUB 3.0 with Layout one out of the way: As with a few other new commands in InDesign CS6, this option is more of a promise than a working feature. Choosing it results in a warning that it’s an “experimental” format they’re working on, aimed toward “adaptation of layouts across different mobile devices,” (so the “layout” in the name does not mean a fixed-layout EPUB), and currently only “specific Adobe viewer technologies” will work with this format, but these viewers are not named and aren’t available (yet).</description>
+    </item>
+    
+    <item>
+      <title>А внутри у него неонка, точнее Firefox: AZARDI, версия 11</title>
+      <link>/posts/2012-04-09-a/</link>
+      <pubDate>Mon, 09 Apr 2012 21:35:54 +0000</pubDate>
+      
+      <guid>/posts/2012-04-09-a/</guid>
+      <description>This April 2012 AZARDI 11 release is a major feature release with support for ePub3 with SMIL Audio and a major interface update to bring it into alignment with AZARDI Cloud Reader. AZARDI has jumped from version 8.2 to 11 to keep it in alignment with the version of Firefox Mozilla being used internally.
+ via azardi.infogridpacific.com
+Ещё одна читалка epub3 обновилась — вместе с обновлением Firefox, движок которой работает у неё внутри.</description>
+    </item>
+    
+    <item>
+      <title>Хотите узнать, что у Kindle/Mobi внутри?</title>
+      <link>/posts/2012-04-09-b/</link>
+      <pubDate>Mon, 09 Apr 2012 19:23:40 +0000</pubDate>
+      
+      <guid>/posts/2012-04-09-b/</guid>
+      <description>Thankfully, there are a bunch of folks over at MobileRead who have developed an open source tool for unpacking Mobi files and looking at their innards. It&amp;rsquo;s called Mobi Unpack and the latest version (047) can be found there.
+ via pigsgourdsandwikis.com
+А дальше — инструкции для ламеров по запуску волшебного скрипта. Жаль, обратно не умеет запаковывать.</description>
+    </item>
+    
+    <item>
+      <title>Плагин Readium теперь поддерживает EPUB 3 Fixed Layout и MathML</title>
+      <link>/posts/2012-03-30-c/</link>
+      <pubDate>Fri, 30 Mar 2012 11:34:51 +0000</pubDate>
+      
+      <guid>/posts/2012-03-30-c/</guid>
+      <description>The Google Chrome browser extension has been updated to version 0.21, which includes basic support for standard EPUB 3 fixed layout metadata, as per samples available here.
+ via readium.org
+Так что теперь издатели могут тестировать свои книги в новом формате — в ожидании, когда появится нормальная «читалка».</description>
+    </item>
+    
+    <item>
+      <title>Vook запустил онлайн-редактор</title>
+      <link>/posts/2012-03-26-a/</link>
+      <pubDate>Mon, 26 Mar 2012 05:43:56 +0000</pubDate>
+      
+      <guid>/posts/2012-03-26-a/</guid>
+      <description>Редактируем и распространяем. Бесплатно только первая книжка.
+Basic account $79/mo. Basic account (save $99) $849/yr. Pro account $199/mo. Pro account (save $389) $1999/yr. Advanced account $299/mo. Advanced account (save $389) $3,199/yr.
+Помогают с дистрибуцией без роялти, но с платежами: за 1 книжку $99, затем скидки.</description>
+    </item>
+    
+    <item>
+      <title>IDPF опубликовал спецификацию фиксированного макета для EPUB 3</title>
+      <link>/posts/2012-03-19-a/</link>
+      <pubDate>Mon, 19 Mar 2012 08:20:39 +0000</pubDate>
+      
+      <guid>/posts/2012-03-19-a/</guid>
+      <description>On March 13, 2012 the IDPF Board of Directors unanimously approved elevation of EPUB 3 Fixed Layout Documents to be an IDPF Informational Document. This specification, produced by the EPUB 3 Working Group, defines a set of metadata properties to allow declarative expression of intended rendering behaviors of fixed-layout documents in the context of EPUB 3. It also defines mechanisms to express the intended rendering dimensions.
+ via idpf.org</description>
+    </item>
+    
+    <item>
+      <title>Kitabu - еще одна читалка ePub для Mac</title>
+      <link>/posts/2012-02-28-a/</link>
+      <pubDate>Tue, 28 Feb 2012 12:32:12 +0000</pubDate>
+      
+      <guid>/posts/2012-02-28-a/</guid>
+      <description>Kitabu is our easy to use Desktop ePub reader. Simply drag and drop your ePub into Kitabu and start reading.
+Kitabu will be part of our cloud based service that will be released to the public in 2012.
+Features:
+ Apple Sandbox support. Drag and drop. Context popup menus. E-books library in two views. Table of contents. Book pane selection. Book can be displayed in one, two or three panes.</description>
+    </item>
+    
+    <item>
+      <title>Верстальщику на заметку: база данных по EPUB</title>
+      <link>/posts/2012-02-20-a/</link>
+      <pubDate>Mon, 20 Feb 2012 10:10:08 +0000</pubDate>
+      
+      <guid>/posts/2012-02-20-a/</guid>
+      <description>The EBW Knowledge Base Here’s some reference material on digital publishing that we’ve developed. It’s not comprehensive, and we don’t claim it’s best practice or silver-bullet info. Like most things in digital publishing, it’s a work in progress. Nonetheless, we hope you find it useful.
+ via ebw.co</description>
+    </item>
+    
+    <item>
+      <title>2012: Бум софта для электронных книг - Forbes</title>
+      <link>/posts/2012-02-08-a/</link>
+      <pubDate>Wed, 08 Feb 2012 19:01:12 +0000</pubDate>
+      
+      <guid>/posts/2012-02-08-a/</guid>
+      <description>There is undoubtedly a boom in ebooks at the moment. The opportunity for businesses and individuals alike cannot be ignored and many are hoping to benefit from the democratisation of publishing. Whilst we have some fantastic tools for writing, such the wonderful Scrivener, other parts of the production workflow are woefully underserved. Here’s hoping that this is the year some of these problems are solved!
+ via forbes.com
+Очень может быть, что автор прав.</description>
+    </item>
+    
+    <item>
+      <title>Red Staple: онлайновый редактор EPUB</title>
+      <link>/posts/2012-02-07-a/</link>
+      <pubDate>Tue, 07 Feb 2012 12:56:03 +0000</pubDate>
+      
+      <guid>/posts/2012-02-07-a/</guid>
+      <description>via theverge.com
+Про него я уже писал.
+Выглядит симпатично, без особых наворотов. Главы загружаются как файлы Word. Затем можно вручную редактировать.
+Деньги с издателя возьмут за: $29 за обычный EPUB2 объёмом до 500 — непонятно каких — страниц, а если книга больше или включает аудио и видео (это уже EPUB3), то $99. Расценки смелые, учитывая, что всё автоматизировано.</description>
+    </item>
+    
+    <item>
+      <title>Codex Arundel и другие редкости в fixed layout epub</title>
+      <link>/posts/2012-01-24-c/</link>
+      <pubDate>Tue, 24 Jan 2012 08:49:03 +0000</pubDate>
+      
+      <guid>/posts/2012-01-24-c/</guid>
+      <description>Click on the thumbnails below to see more.
+
+
+ via ebooktreasures.org
+Из запасов Британского музея и Музея естественной истории.
+Думаю, в российских библиотеках тоже разных редкостей найдётся немало.</description>
+    </item>
+    
+    <item>
+      <title>iBooks Author как сплошное разочарование</title>
+      <link>/posts/2012-01-19-b/</link>
+      <pubDate>Thu, 19 Jan 2012 20:16:51 +0000</pubDate>
+      
+      <guid>/posts/2012-01-19-b/</guid>
+      <description>Это реинкарнация iWeb, смешного (и уже «убитого» Apple редактора вебстраниц). Шаблоны, виджеты, несколько готовых макетов. Что-то из этого сделать можно. Но&amp;hellip;
+Но №1: новый формат .ibooks
+Но №2: совместимость только с iBookstore
+Но №3: никакого экспорта в .epub.
+Мечта о том, что Apple сделает нормальный редактор EPUB3, разбились о колючую проволоку экосистемы.
+Их же PIPA в их же SOPA.</description>
+    </item>
+    
+    <item>
+      <title>EPUB Validator (beta)</title>
+      <link>/posts/2012-01-12-b/</link>
+      <pubDate>Thu, 12 Jan 2012 13:49:15 +0000</pubDate>
+      
+      <guid>/posts/2012-01-12-b/</guid>
+      <description>Check out this website I found at validator.idpf.org
+Онлайновый контроль валидности epub наконец есть и на сайте International Digital Publishing Forum, который за epub и отвечает.</description>
+    </item>
+    
+    <item>
+      <title>Вышло руководство по новому формату Amazon KF8</title>
+      <link>/posts/2012-01-12-a/</link>
+      <pubDate>Thu, 12 Jan 2012 06:14:42 +0000</pubDate>
+      
+      <guid>/posts/2012-01-12-a/</guid>
+      <description>Брать тут.</description>
+    </item>
+    
+    <item>
+      <title>9 вещей, которые нужно знать о EPUB 3</title>
+      <link>/posts/2011-12-20-a/</link>
+      <pubDate>Tue, 20 Dec 2011 14:52:55 +0000</pubDate>
+      
+      <guid>/posts/2011-12-20-a/</guid>
+      <description>via bookbusinessmag.com</description>
+    </item>
+    
+    <item>
+      <title>Как верстать стихи в EPUB</title>
+      <link>/posts/2011-12-16-2/</link>
+      <pubDate>Fri, 16 Dec 2011 12:21:16 +0000</pubDate>
+      
+      <guid>/posts/2011-12-16-2/</guid>
+      <description>via blog.epubbooks.com
+Обычная разбивка строк при вёрстке стихов — крайне неудачна. Поможет отрицательный отступ.
+Подробнейший разбор с примерами CSS. И даже с кодом программы, который упростит жизнь верстальщикам. Правда, английских, книг.</description>
+    </item>
+    
+    <item>
+      <title>AZARDI 7 : кажется, первая нормальная EPUB-читалка для компьютеров</title>
+      <link>/posts/2011-12-14-1/</link>
+      <pubDate>Wed, 14 Dec 2011 12:07:00 +0000</pubDate>
+      
+      <guid>/posts/2011-12-14-1/</guid>
+      <description>AZARDI 7 is fully cross platform compatible. Download it for Linux, Mac or Windows.
+ via azardi.infogridpacific.com
+Вполне симпатичная читалка для Windows, Linux и Mac.
+Протестировал на Маке - ОК. Глюков, особенно в сравнении с другими программами, не заметно. Кириллицу понимает без встроенных шрифтов. Шрифт можно менять «на лету» на любой имеющийся в компьютере.
+Всех читателей электронных книг, кажется, можно поздравить с нормальным клиентом.</description>
+    </item>
+    
+    <item>
+      <title>Как сделать EPUB и MOBI в InDesign CS 5.5 : новая инструкция от Лиз Кастро</title>
+      <link>/posts/2011-12-13-1/</link>
+      <pubDate>Tue, 13 Dec 2011 13:00:02 +0000</pubDate>
+      
+      <guid>/posts/2011-12-13-1/</guid>
+      <description>via pigsgourdsandwikis.com
+Покупателям «EPUB Straight to the Point» — скидка. Must have всем верстальщикам, чего уж там.</description>
+    </item>
+    
+    <item>
+      <title>Тест pdf2epub через FineReader 11</title>
+      <link>/posts/2011-11-28-2/</link>
+      <pubDate>Mon, 28 Nov 2011 13:30:21 +0000</pubDate>
+      
+      <guid>/posts/2011-11-28-2/</guid>
+      <description>Создание электронных книг в популярных форматах fb2, ePub® и других для чтения на портативных устройствах
+Программа поддерживает сохранение в форматах электронных книг (fb2, ePub) и др., это поможет быстро сделать электронную копию для - бук-ридера, планшета, смартфона и других портативных устройств. Электронные книги, созданные с помощью ABBYY FineReader 11, можно отправлять прямо из приложения на аккаунт пользователя устройства Amazon® Kindle™.
+ via abbyy.ru
+В новой, 11-й, версии известной программы по распознаванию текста FineReader разработчики ввели функцию преобразования изображения (в частности, из PDF) популярные форматы электронных книг (EPUB и FB2).</description>
+    </item>
+    
+    <item>
+      <title>Онлайновые инструменты создания книг и книг-аппов для издателей</title>
+      <link>/posts/2011-11-11-3/</link>
+      <pubDate>Fri, 11 Nov 2011 06:34:06 +0000</pubDate>
+      
+      <guid>/posts/2011-11-11-3/</guid>
+      <description>Pandamian PressBooks Leanpub Interactive Touch Books Moglue Demibooks Composer Red Jumper’s Book Creator Red Foundry Genwi Appmakr My App Builder Webdoc Blurb Mobile Polyvore Editor Storify Hype Toontastic   via newkindofbook.com
+Могу добавить:
+ www.scriptito.com www.pinfolio.com](http://www.pinfolio.com)  Честно говоря, ожидал, что-то в этом роде должно появиться, но не думал, что в таком количестве. Внимательно пока не штудировал, но, кажется, никто не умеет нормально работать с русским языком.</description>
+    </item>
+    
+    <item>
+      <title>Kindle Previewer теперь отображает кириллицу</title>
+      <link>/posts/2011-10-19-3/</link>
+      <pubDate>Wed, 19 Oct 2011 13:45:20 +0000</pubDate>
+      
+      <guid>/posts/2011-10-19-3/</guid>
+      <description>Речь идёт о режиме просмотра Kindle и Kindle DX. Раньше программа могла показывать русский язык только в режимах просмотра для iOS-устройств. В версии 1.61 появилась поддержка русского и для симуляции картинки в Kindle.
+Странно, что у Apple нет превьюера для iBooks.</description>
+    </item>
+    
+    <item>
+      <title>Дзенский CSS-сад</title>
+      <link>/posts/2011-10-15-1/</link>
+      <pubDate>Sat, 15 Oct 2011 14:55:56 +0000</pubDate>
+      
+      <guid>/posts/2011-10-15-1/</guid>
+      <description>Дзенский CSS-сад.
+Старая игра со сменой CSS для сайтов в применение к электронной книге в формате EPUB.</description>
+    </item>
+    
+    <item>
+      <title>IDPF принял окончательную версию EPUB 3: звук, видео, интерактивность, формулы и пр.</title>
+      <link>/posts/2011-10-11-2/</link>
+      <pubDate>Tue, 11 Oct 2011 13:04:08 +0000</pubDate>
+      
+      <guid>/posts/2011-10-11-2/</guid>
+      <description>Frankfurt, Germany, October 11, 2011. The International Digital Publishing Forum (IDPF) today announced the completion of a major revision to EPUB, the global standard interchange and delivery format for eBooks and other digital publications. The IDPF membership unanimously voted to elevate EPUB 3.0 to a final IDPF Recommended Specification, publicly available at http://idpf.org/epub/30.
+EPUB 3 was chartered in May 2010 and developed by a global working group of over 100 contributors, reaching Proposed Recommendation status in May, 2011.</description>
+    </item>
+    
+    <item>
+      <title>Book Creator и Creative Book Builder - программа для быстрой верстки EPUB в iPad</title>
+      <link>/posts/2011-09-22-1/</link>
+      <pubDate>Thu, 22 Sep 2011 12:10:59 +0000</pubDate>
+      
+      <guid>/posts/2011-09-22-1/</guid>
+      <description>Делает только простые фиксированные макеты для просмотра в iBooks. Минимум шрифтов, несложное форматирование, композиция — всё есть. Программа вполне работает не только на iBooks.
+Программа, однако, это не первая, поскольку есть еще китайский Creative Book Builder, предназначенная для сборки текстовых книжек. И эта тоже работает, интегрируясь с Google Docs, выдавая уникальный идентификатор, позволяя редактировать оглавление, менять состав и т. д. Внутреннее стилевое оформление не поддерживается.
+Если в Book Creator вы можете сделать книжку с ребёнком, то в CBB — быстренько сверстать несложный EPUB из своего текста.</description>
+    </item>
+    
+    <item>
+      <title>FineReader 11.0 сканирует в EPUB??? О!</title>
+      <link>/posts/2011-09-13-2/</link>
+      <pubDate>Tue, 13 Sep 2011 21:25:20 +0000</pubDate>
+      
+      <guid>/posts/2011-09-13-2/</guid>
+      <description>via computerra.ru
+Интересно, с каким качеством?</description>
+    </item>
+    
+    <item>
+      <title>Red Staple - ещё один epub- и enhanced сервис для издателей</title>
+      <link>/posts/2011-09-13-4/</link>
+      <pubDate>Tue, 13 Sep 2011 14:10:07 +0000</pubDate>
+      
+      <guid>/posts/2011-09-13-4/</guid>
+      <description>On iBookstore, you can now offer an Enhanced version of your book. Include things like video and audio to enhance the experience. Great for topics like cooking, exercise, music, film, DIY and more. Add video that shows how something is done or add an audio file that gives readers more information.
+Use the Red Staple Enhanced iBook tool to bring together your .doc file with images, links, video and audio.</description>
+    </item>
+    
+    <item>
+      <title>PressBooks теперь понимает кириллицу</title>
+      <link>/posts/2011-09-11-1/</link>
+      <pubDate>Sun, 11 Sep 2011 19:20:56 +0000</pubDate>
+      
+      <guid>/posts/2011-09-11-1/</guid>
+      <description>PressBooks is an online book publishing platform (built on WordPress), that makes it easy for you and your team to author books, and to generate clean, well-formatted books in multiple outputs: .epub, print-ready PDF, InDesign-ready XML, and of course HTML. PressBooks is brought to you by the people behind Book Oven. Scroll down to get on our mailing list.
+ via pressbooks.com
+Проект PressBooks, который предлагает делать книги на своем движке WordPress, стал работоспособнее.</description>
+    </item>
+    
+    <item>
+      <title>Пример EPUB 3 от MacMillan Solutions</title>
+      <link>/posts/2011-09-01-1/</link>
+      <pubDate>Thu, 01 Sep 2011 12:21:24 +0000</pubDate>
+      
+      <guid>/posts/2011-09-01-1/</guid>
+      <description>Игрушки, да. Но симпатичные.</description>
+    </item>
+    
+    <item>
+      <title>Руководство от Smashwords по созданию EPUB. Бесплатно</title>
+      <link>/posts/2011-08-05-4/</link>
+      <pubDate>Fri, 05 Aug 2011 10:09:37 +0000</pubDate>
+      
+      <guid>/posts/2011-08-05-4/</guid>
+      <description>The Smashwords Style Guide has helped thousands of authors produce and publish high-quality ebooks. This free guide offers simple step-by-step instructions to create, format and publish an ebook. It&amp;rsquo;s required reading for any author who wants to distribute their book via Smashwords to major ebook retailers such as the Apple iBookstore, Barnes &amp;amp; Noble, Sony, Kobo and Diesel. Rev: August 3, 2011
+ via smashwords.com</description>
+    </item>
+    
+    <item>
+      <title>Более-менее человеческое объяснение новаций EPub 3</title>
+      <link>/posts/2011-07-29-3/</link>
+      <pubDate>Fri, 29 Jul 2011 12:22:34 +0000</pubDate>
+      
+      <guid>/posts/2011-07-29-3/</guid>
+      <description>In version 2.01 there were three defining documents, the OPF (Open Packaging Format), the OCF (Open Container Format), and the OPS (Open Publications Structure). The OPS referenced a DAISY standard for the NCX file. The new 3.0 standard has 4 defining documents with new names. The OPF becomes the ePub Publications standard. The OCF remains the same and the OPS received the most changes to become the ePub Content Documents.</description>
+    </item>
+    
+    <item>
+      <title>Полку недешёвых поделок прибыло: Wondershare MePub for Mac</title>
+      <link>/posts/2011-07-17-1/</link>
+      <pubDate>Sun, 17 Jul 2011 20:25:57 +0000</pubDate>
+      
+      <guid>/posts/2011-07-17-1/</guid>
+      <description>via wondershare.com
+Авторы из славного города Шенчженя характеризуют программу, продающуюся в Mac App Store за 40 баксов, как «Best EPUB Creator on Mac OS X». Верить не стоит. То есть, конечно, если у вы автор, а компьютер умеете только включать, то — при учёте идеальной вылизанности текста в последнем Word (программа понимает DOCX, но не DOC) — у вас, может быть, EPUB и получится. Впрочем, если вы умеете компьютер только включать, то и вылизанного текстового файла у вас тоже не получится.</description>
+    </item>
+    
+    <item>
+      <title>Скоро появится новый EPUB-редактор BlueGriffon EPUB Edition</title>
+      <link>/posts/2011-07-12-4/</link>
+      <pubDate>Tue, 12 Jul 2011 13:45:05 +0000</pubDate>
+      
+      <guid>/posts/2011-07-12-4/</guid>
+      <description>Our company Disruptive Innovations together with friend Innovimax will release in a near future a new native EPUB wysiwyg editor on the market, BlueGriffon EPUB Edition. It will be commercial, standalone (ie not a webapp), based on the open-source BlueGriffon. Unlike most existing solutions on the market, it will not rely on a private pivot format. While most other tools can only do &amp;ldquo;Export to EPUB&amp;rdquo;, BlueGriffon EPUB Edition will open EPUBs, create EPUBs, save EPUBs.</description>
+    </item>
+    
+    <item>
+      <title>Разработчик Sigil, программы для вёрстки EPUB, будет работать в Google</title>
+      <link>/posts/2011-06-10-c/</link>
+      <pubDate>Fri, 10 Jun 2011 12:20:43 +0000</pubDate>
+      
+      <guid>/posts/2011-06-10-c/</guid>
+      <description>The second important event is that after months of job offers, interview prep, flying around the planet so the interviews could be conducted etc., I have finally accepted an offer. From Google, no less. I’ll be moving to Mountain View in the San Francisco Bay Area some time in September or October of this year.
+I’d like to thank all the companies I’ve interviewed with/received offers from for their time and consideration.</description>
+    </item>
+    
+    <item>
+      <title>Цены на конвертацию в Epub</title>
+      <link>/posts/2011-06-06-c/</link>
+      <pubDate>Mon, 06 Jun 2011 12:24:44 +0000</pubDate>
+      
+      <guid>/posts/2011-06-06-c/</guid>
+      <description>Simple Title - US$0.30 to $0.50 cents per page. This includes simple text without the major complexities. Upto 15 elements allowed. Medium Title - US$0.50 to $0.70 cents per page. This includes text along with few images, graphs, footnotes links and upto 50 elements allowed. Complex Title- US$0.70 to $0.90 cents per page. This includes titles which require complex formatting on every page like two column formatting, Math equations, Symbols and other complexities.</description>
+    </item>
+    
+    <item>
+      <title>Как довести EPUB из Pages до ума?</title>
+      <link>/posts/2011-06-01-a/</link>
+      <pubDate>Wed, 01 Jun 2011 14:47:11 +0000</pubDate>
+      
+      <guid>/posts/2011-06-01-a/</guid>
+      <description>via blog.threepress.org
+Рекомендации Лайзы Дейли. Довольно полезные. Однако не вполне понятно — для кого. Авторы, конечно, могут использовать Pages, но если они пользуются Pages, то разбираются ли они в CSS? А если разбираются, то почему не используют Sigil? Загадка.
+P. S. Из будущего: http://web.archive.org/web/20110626125619/http://blog.threepress.org/2011/06/01/can-an-author-create-an-epub-file-using-normal-tools-part-1-pages/</description>
+    </item>
+    
+    <item>
+      <title>EPUB из QuarkXPress 9</title>
+      <link>/posts/2011-05-27-a/</link>
+      <pubDate>Fri, 27 May 2011 12:28:01 +0000</pubDate>
+      
+      <guid>/posts/2011-05-27-a/</guid>
+      <description>God save the TPB! Появилась возможность потестировать конвертацию в EPUB из QuarkXPress 9. Немногочисленные отзывы, которые мне попадались, были по преимуществу хвалебными: быстро и просто.
+В общем — да, быстро. Несложно и отчасти удобно с точки зрения интерфейса, но простовато в результате. В отличие от InDesign CS5, перед конвертацией файл для EPUB в Quark пересобирается по частям — из блоков и/или страниц текста. В меню Reflow собирается «поток» текста, там же редактируется TOC — машиночитаемое оглавление.</description>
+    </item>
+    
+    <item>
+      <title>Руководство Лиз Кастро по вставке звука и видео в EPUB</title>
+      <link>/posts/2011-05-18-a/</link>
+      <pubDate>Wed, 18 May 2011 12:56:56 +0000</pubDate>
+      
+      <guid>/posts/2011-05-18-a/</guid>
+      <description>via store.kagi.com
+Пакет из PDF, EPUB и файла примеров - 5 баксов. Того стоит.
+P. S. Archive</description>
+    </item>
+    
+    <item>
+      <title>AZARDI 2011: EPUB-вьюер для нужд издателей</title>
+      <link>/posts/2011-05-17-a/</link>
+      <pubDate>Tue, 17 May 2011 14:58:40 +0000</pubDate>
+      
+      <guid>/posts/2011-05-17-a/</guid>
+      <description>AZARDI 2011 is ready for a changing digital content future. It does ePubs, and allows App-like publisher products using IGP:FoundationXHTML, without the overheads of custom app creation. It is really important to state right here AZARDI does display books/e-books, but it is not just about books. The target is controlled distribution of high-value digital content.
+ via infogridpacific.typepad.com
+Точнее, для распространения контента помимо больших сетей типа Amazon.</description>
+    </item>
+    
+    <item>
+      <title>Why EPUB? Потому.</title>
+      <link>/posts/2011-04-14-b/</link>
+      <pubDate>Thu, 14 Apr 2011 07:09:13 +0000</pubDate>
+      
+      <guid>/posts/2011-04-14-b/</guid>
+      <description>via whyepub.ru
+Полезный маленький сайт с практической информацией о том, как читать и, главное, как сделать EPUB — и для авторов, и для издателей.</description>
+    </item>
+    
+    <item>
+      <title>Экосистема EPUB приросла iText Express</title>
+      <link>/posts/2011-04-08-a/</link>
+      <pubDate>Fri, 08 Apr 2011 08:13:13 +0000</pubDate>
+      
+      <guid>/posts/2011-04-08-a/</guid>
+      <description>Both you and us share the same priority,
+that is to make your writing simple.
+iText Express has just those helpful features
+to make you happy!
+  Note that the &amp;lsquo;Mac App Store&amp;rsquo; version of iText Express does NOT include iText Pro.
+Please download iText Pro on the &amp;lsquo;Mac App Store&amp;rsquo;, too!
+  
+LightWayText information**:**
+[](http://homepage.mac.com/lightway/LightWayText/)
+LightWayText 4.5.1E
+LightWayText French
+LightWayText Italian</description>
+    </item>
+    
+    <item>
+      <title>::COPIA::</title>
+      <link>/posts/2010-11-22-45/</link>
+      <pubDate>Mon, 22 Nov 2010 23:23:55 +0000</pubDate>
+      
+      <guid>/posts/2010-11-22-45/</guid>
+      <description>via thecopia.com
+Кажется, это первая программа, сделанная не в России, не считая Stanza, которая корректно отображает кириллицу в EPUB. И ещё там всякие social media штучки для бла-бла-бла. Книжек в продаже, впрочем, как-то мало.</description>
+    </item>
+    
+    <item>
+      <title>Bookish - ещё одна онлайновая читалка</title>
+      <link>/posts/2010-10-15-32/</link>
+      <pubDate>Fri, 15 Oct 2010 07:58:36 +0000</pubDate>
+      
+      <guid>/posts/2010-10-15-32/</guid>
+      <description>via booki.sh
+В браузере выглядит несколько недоделано. Отсутствует оглавление. Книжка автоматически кэшируются, что удобно в случае мобильных устройств. Главное для западного читателя — поддержка Kindle3.
+Блюдущие копирайт ценою своих жизней (это не моя ирония, так на сайте написано) разработчики не дают подгружать книги самостоятельно, а предлагают прислать файл в формате EPUB или Zhook (да! есть, оказывается, и такой), они его разместят и пришлют линк. Австралийские Самоделкины.</description>
+    </item>
+    
+    <item>
+      <title>Kindle-книга из InDesign через фирменный plug-in</title>
+      <link>/posts/2010-10-12-93/</link>
+      <pubDate>Tue, 12 Oct 2010 20:59:03 +0000</pubDate>
+      
+      <guid>/posts/2010-10-12-93/</guid>
+      <description>Отчитываюсь: плагин глючный, на книгах виснет. Плагин сумел сделать пробный файл из двух слов и обложки. Но! Кириллицу система официально не поддерживает. Точнее: Kindle Previewer выдаёт очень смешную картинку для разных видов киндлов — ОК для iPhone, iPad и Mac, но кракозябры для самого Kindle. Оч. смешно.</description>
+    </item>
+    
+    <item>
+      <title>Курцвейль так-таки запустил Blio</title>
+      <link>/posts/2010-09-28-106/</link>
+      <pubDate>Tue, 28 Sep 2010 19:27:31 +0000</pubDate>
+      
+      <guid>/posts/2010-09-28-106/</guid>
+      <description>via blio.com
+Первый раз пожалел, что нет под рукой Windows. Те, кто попробует - расскажите, плз.</description>
+    </item>
+    
+    <item>
+      <title>Blio запустят 28 сентября</title>
+      <link>/posts/2010-09-23-30/</link>
+      <pubDate>Thu, 23 Sep 2010 14:52:39 +0000</pubDate>
+      
+      <guid>/posts/2010-09-23-30/</guid>
+      <description>K-NFB Reading Technology, creator and developer of Blio, today announced that the world’s most advanced, flexible and engaging e-reader application, will be available for download beginning September 28 at www.blioreader.com. Blio, which is free to download, will be available immediately for all Windows-based devices, with applications for iOS and Android operating systems following soon after. In the coming months, Blio will be rolled out worldwide through device manufacturers, retailers, mobile carriers and educational institutions, and supported by fully-customized digital media storefronts.</description>
+    </item>
+    
+    <item>
+      <title>Обновлённый Pages делает ePub</title>
+      <link>/posts/2010-08-26-131/</link>
+      <pubDate>Thu, 26 Aug 2010 22:03:38 +0000</pubDate>
+      
+      <guid>/posts/2010-08-26-131/</guid>
+      <description>Pages ’09 lets you export your documents in ePub format for reading with iBooks on iPhone, iPad, or iPod touch.
+ via support.apple.com
+Проверил — шрифты не внедряет. Но работает. Этто вам не Word of Warcraft. Маленьким издательствам с претензией на электронное будущее теперь уже точно пора переходить на Mac.</description>
+    </item>
+    
+    <item>
+      <title>Online converter - convert video, images, audio and documents for free</title>
+      <link>/posts/2010-08-08-136/</link>
+      <pubDate>Sun, 08 Aug 2010 12:30:22 +0000</pubDate>
+      
+      <guid>/posts/2010-08-08-136/</guid>
+      <description>Free online file converter Convert media files online from one format into another. Please select the target format below:
+
+Audio converter 
+Video converter 
+Image converter 
+Document converter 
+Ebook converter 
+Hash generator This free online file converter lets you convert media easy and fast from one format to another. We support a lot of different source formats, just try. If you can&amp;rsquo;t find the conversion you need, please let us now and write us an e-mail.</description>
+    </item>
+    
+    <item>
+      <title>On Covers - Tools of Change for Publishing</title>
+      <link>/posts/2010-08-06-134/</link>
+      <pubDate>Fri, 06 Aug 2010 14:49:16 +0000</pubDate>
+      
+      <guid>/posts/2010-08-06-134/</guid>
+      <description>via toc.oreilly.com
+Отличные обложки для ебуков.</description>
+    </item>
+    
+    <item>
+      <title>Первая книжка о том, как делать EPUB</title>
+      <link>/posts/2010-07-24-144/</link>
+      <pubDate>Sat, 24 Jul 2010 12:44:49 +0000</pubDate>
+      
+      <guid>/posts/2010-07-24-144/</guid>
+      <description>via elizabethcastro.com
+Перевести, что ли?</description>
+    </item>
+    
+    <item>
+      <title>А вот и видео про Adobe Content Builder</title>
+      <link>/posts/2010-07-19-6/</link>
+      <pubDate>Mon, 19 Jul 2010 18:30:44 +0000</pubDate>
+      
+      <guid>/posts/2010-07-19-6/</guid>
+      <description>via tv.adobe.com
+Начало стандартизации «фишек».</description>
+    </item>
+    
+    <item>
+      <title>Quark --&gt; Blio</title>
+      <link>/posts/2010-06-20-174/</link>
+      <pubDate>Sun, 20 Jun 2010 09:52:25 +0000</pubDate>
+      
+      <guid>/posts/2010-06-20-174/</guid>
+      <description>via mobilitysite.com
+Как интересно. Quark пробует выжить за счёт превращения в инструмент для создания электронных материалов для новой платформы Blio, которую готовит Рэй Курцвейль. Проблема только в том, что Blio ещё нет и её будущее, учитывая заполненность рынка, непонятна.</description>
+    </item>
+    
+    <item>
+      <title>Stanza for iPad is a universal (and free) killer e-reader</title>
+      <link>/posts/2010-06-05-200/</link>
+      <pubDate>Sat, 05 Jun 2010 12:41:02 +0000</pubDate>
+      
+      <guid>/posts/2010-06-05-200/</guid>
+      <description>via reviews.cnet.com
+Ура! Наконец-то в iPad пришла самая лучшая айфонная читалка.</description>
+    </item>
+    
+    <item>
+      <title>Convert FB2 files to EPUB</title>
+      <link>/posts/2010-04-22-44/</link>
+      <pubDate>Thu, 22 Apr 2010 17:51:39 +0000</pubDate>
+      
+      <guid>/posts/2010-04-22-44/</guid>
+      <description>Check out this website I found at fb2epub.com
+Симпатичный онлайновый конвертор.</description>
+    </item>
+    
+    <item>
+      <title>Adobe InDesign CS5. Всего $699 ;)</title>
+      <link>/posts/2010-04-16-7/</link>
+      <pubDate>Fri, 16 Apr 2010 19:53:20 +0000</pubDate>
+      
+      <guid>/posts/2010-04-16-7/</guid>
+      <description>InDesign CS5 allows designers to create digital documents using their existing skill sets. When working directly in InDesign users can now add MP3 audio files, video, interactivity and animation without working in a timeline or writing code to deliver rich, interactive documents for the Flash Platform. The soon-to-be released Flash® Player 10.1 and Adobe AIR® 2 are optimized for high performance on mobile screens and designed to take advantage of native device capabilities for a richer, more immersive user experience.</description>
+    </item>
+    
+    <item>
+      <title>Первая читалка для iPad</title>
+      <link>/posts/2010-03-17-143/</link>
+      <pubDate>Wed, 17 Mar 2010 23:42:11 +0000</pubDate>
+      
+      <guid>/posts/2010-03-17-143/</guid>
+      <description>via blog.threepress.org
+Аааа!&amp;hellip; Первая пошла ;)
+P. S. Archive</description>
+    </item>
+    
+    <item>
+      <title>Reader Library - программа для чтения epub</title>
+      <link>/posts/2009-12-21-131/</link>
+      <pubDate>Mon, 21 Dec 2009 21:58:52 +0000</pubDate>
+      
+      <guid>/posts/2009-12-21-131/</guid>
+      <description>via ebookstore.sony.com
+Кажется, забыл по выходе версии 3.1 этой программы, предназначенной для связи ПК с букридером Sony Reader, упомянуть, что это вполне добротная программа для чтения электронных книг в формате epub. Правда, она предполагает, что русские шрифты в книгу внедрены. То есть epub, полученный бесхитростной конвертацией из русскоязычного текста, будет продемонстрирован в виде ???? Специально подготовленный epub (такие epub-книги продают, например, «Литрес» и iMobilco) прочитается нормально.
+Полку epub-программ прибыло. И это радует.</description>
+    </item>
+    
+    <item>
+      <title>Aptara запустила eGen</title>
+      <link>/posts/2009-11-19-18/</link>
+      <pubDate>Thu, 19 Nov 2009 13:52:53 +0000</pubDate>
+      
+      <guid>/posts/2009-11-19-18/</guid>
+      <description>The eGen Platform
+ The eGen platform is the only technology to automatically generate large volumes of high-quality eBook-ready content at a dramatically reduced cost. This offers publishers a truly flexible solution for distributing their content to eReaders including the Amazon Kindle, SONY Reader, Apple iPhone, and a variety of new devices, such as Barnes &amp;amp; Noble’s Nook.
+Convert your content assets for a multitude of eReaders with eGen and benefit from:</description>
+    </item>
+    
+    <item>
+      <title>Aptara анонсирует софт для конвейерной генерации epub</title>
+      <link>/posts/2009-11-17-17/</link>
+      <pubDate>Tue, 17 Nov 2009 22:37:58 +0000</pubDate>
+      
+      <guid>/posts/2009-11-17-17/</guid>
+      <description>Aptara Offers High-Volume ePub Conversion Software - 11/17/2009 8:13:00 AM - Publishers Weekly
+ Aptara, a digital vendor specializing in e-book data conversion, has developed eGen, a new e-book platform for converting large volumes of digital content into the ePub standard e-book format for distribution to multiple e-reader hardware platforms. The new web-based technology will be unveiled at the Online Information conference set for London December 1-3.
+ </description>
+    </item>
+    
+    <item>
+      <title>Полезные рекомендации по изотовлению epub и книг для Kindle</title>
+      <link>/posts/2009-10-08-68/</link>
+      <pubDate>Thu, 08 Oct 2009 15:35:17 +0000</pubDate>
+      
+      <guid>/posts/2009-10-08-68/</guid>
+      <description>InDesign to ePub, Kindle, and iPhone session at MAX - Scratch Disk</description>
+    </item>
+    
+    <item>
+      <title>Бизнес на конвертации</title>
+      <link>/posts/2009-09-23-136/</link>
+      <pubDate>Wed, 23 Sep 2009 20:43:00 +0000</pubDate>
+      
+      <guid>/posts/2009-09-23-136/</guid>
+      <description>ScrollMotion and Aptara team up to offer a publishing platform | TeleRead: Bring the E-Books Home
+ Aptara, a pioneer in digital publishing solutions, and ScrollMotion, creators of the Iceberg Reader and a leading developer of original iPhone applications, have teamed up to deliver an end-to-end eBook publishing solution that radically Screen shot 2009-09-23 at 12.22.20 PM.pngstreamlines the process of transforming books into interactive content for the iPhone.
+ Проще говоря: у ScrollMotion есть движок по рендерингу электронных книг для iPhone — Iceberg Reader.</description>
+    </item>
+    
+    <item>
+      <title>Подробные инструкции по генерации книг для Kindle в InDesign</title>
+      <link>/posts/2009-09-21-69/</link>
+      <pubDate>Mon, 21 Sep 2009 20:02:01 +0000</pubDate>
+      
+      <guid>/posts/2009-09-21-69/</guid>
+      <description>InDesign to Kindle white paper | Adobe Developer Connection</description>
+    </item>
+    
+    <item>
+      <title>Профессиональная программа для конвертации PDF в ePub</title>
+      <link>/posts/2009-09-15-115/</link>
+      <pubDate>Tue, 15 Sep 2009 14:59:47 +0000</pubDate>
+      
+      <guid>/posts/2009-09-15-115/</guid>
+      <description>DeskTop Author - eBook Software, Brochure Software
+ PdftoePub features: * Quick conversion (2 to 5 minutes for an average trade title) * 100 % text accuracy * Auto paragraph joining algorithm that works automatically across multiple pages * Correctly splits final HTML into multiple segments, improving performance and lowering memory requirements for ePub readers and eBook devices * Handles images and image positioning based on the PDF positioning * Provides the PDF to ePub user the option to overwrite glyphs (character images) utilised within the PDF, with custom characters using a simple interface which requires no programming knowledge * Converted ePub will be automatically validated to ensure 100% compatibility with ePub check * Can convert from PDF to HTML allowing for web pages creation from the PDF text * Customise PDF area to extract from thus avoiding common problems with other conversion tools like headers and footers of pages being treated as body text * Provides the PDF to ePub user a pre-set option using PDF to ePub preset rules or to employ custom rules to the ePub conversion process * For Advanced users - PDF to ePub uses a powerful scripting language (.</description>
+    </item>
+    
+    <item>
+      <title>Новость, однако</title>
+      <link>/posts/2009-09-09-90/</link>
+      <pubDate>Wed, 09 Sep 2009 10:23:51 +0000</pubDate>
+      
+      <guid>/posts/2009-09-09-90/</guid>
+      <description>ru_iphone: Несколько приложений на моём iPhone
+ Сначала на lib.rus.ec находите интересующую Вас книгу. Например, &amp;ldquo;Священная книга оборотня&amp;rdquo; Пелевина доступна здесь http://lib.rus.ec/b/42092/. Потом в программе на iPhone указываете, что скачать ее нужно с адреса http://lib.rus.ec/b/42092/epub (к линку на книгу добавляется epub).
+ Оказывается, Либрусек тишком сделал конвертацию в epub. Попробовал для других книг - то же самое. Фантастика. Пользователям Sony Reader теперь не нужно мучиться с конвертацией из fb2. Странно, что Либрусек просто линк не даёт.</description>
+    </item>
+    
+    <item>
+      <title>Появится профессиональный онлайновый генератор epub?</title>
+      <link>/posts/2009-09-01-51/</link>
+      <pubDate>Tue, 01 Sep 2009 13:59:03 +0000</pubDate>
+      
+      <guid>/posts/2009-09-01-51/</guid>
+      <description>Threepress: Digital tools for 21st century publishing » Blog Archive » Threepress is hiring!
+Судя по записи в блоге Лайзы Дейли, создателя профессионального онлайнового валидатора epub и онлайнового вьюера Bookworm (часть &amp;ldquo;империи&amp;rdquo; O&amp;rsquo;Reilly), о найме новых сотрудников — в недалеком будущем может появиться и онлайновый инструмент генерации epub.</description>
+    </item>
+    
+    <item>
+      <title>Sigil - новый редактор для формата ePub</title>
+      <link>/posts/2009-08-03-142/</link>
+      <pubDate>Mon, 03 Aug 2009 15:45:44 +0000</pubDate>
+      
+      <guid>/posts/2009-08-03-142/</guid>
+      <description>Sigil, the ePub editor - MobileRead Forums
+ # Free and open source software under GPLv3 # Multi-platform: runs on Windows, Linux and Mac # Full Unicode support: everything you see in Sigil is in UTF-16 # Full EPUB spec support # WYSIWYG editing # Multiple Views: Book View, Code View and Split View # Metadata editor with full support for all possible metadata entries (more than 200) with full descriptions for each # Table Of Contents editor # Multi-level TOC support # Book View fully supports the display any XHTML document possible under the OPS spec # SVG support # Basic XPGT support # Advanced automatic conversion of all imported documents to Unicode # Currently imports TXT, HTML and EPUB files; more will be added with time # Currently exports EPUB and SGF (Sigil native format); more will be added with time # Embedded HTML Tidy; all imported documents are thoroughly cleaned; changing views cleans the document so no matter how much you screw up your code, it will fix it (usually ) # An actually usable user interface # Native C++ application # Bugs # And a lot more&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Сервис конвертации макетов в ePub</title>
+      <link>/posts/2009-07-23-141/</link>
+      <pubDate>Thu, 23 Jul 2009 20:01:25 +0000</pubDate>
+      
+      <guid>/posts/2009-07-23-141/</guid>
+      <description>Introducing the Shortcovers ePUB Conversion Program — Shortcovers
+ Shortcovers is excited to announce a new service - the Shortcovers Publisher Conversion Program. Publishers can provide us with their digital source files - PDFs, Quark files, InDesign, .doc, .rtf - and for a shockingly low fee*, we’ll convert them into ePUB files, load them up into Shortcovers and then give back the ePUB file so the publisher can send it off to other vendors who also accept ePUB files.</description>
+    </item>
+    
+    <item>
+      <title>Хороший путеводитель по ePub-ресурсам</title>
+      <link>/posts/2009-04-21-171/</link>
+      <pubDate>Tue, 21 Apr 2009 08:30:59 +0000</pubDate>
+      
+      <guid>/posts/2009-04-21-171/</guid>
+      <description>ePub Resources and Guides - O&amp;rsquo;Reilly Labs</description>
+    </item>
+    
+    <item>
+      <title>Первая книга о верстке для Kindle</title>
+      <link>/posts/2009-04-06-116/</link>
+      <pubDate>Mon, 06 Apr 2009 19:41:18 +0000</pubDate>
+      
+      <guid>/posts/2009-04-06-116/</guid>
+      <description>Kindle Formatting: The Complete Guide</description>
+    </item>
+    
+    <item>
+      <title>Еще одна программа для изготовления epub</title>
+      <link>/posts/2009-02-24-55/</link>
+      <pubDate>Tue, 24 Feb 2009 16:58:07 +0000</pubDate>
+      
+      <guid>/posts/2009-02-24-55/</guid>
+      <description>Welcome to Infogrid Pacific :: AZARDI : eScape -ODT2ePub
+Программа для изготовления epub-книг на основе Open Office. Free. Для установки требует Windows XP или Vista, поэтому оценить, к сожалению, не могу.</description>
+    </item>
+    
+    <item>
+      <title>Adobe выпустила средства для разработки программных читалок для epub</title>
+      <link>/posts/2009-02-16-8/</link>
+      <pubDate>Mon, 16 Feb 2009 22:00:40 +0000</pubDate>
+      
+      <guid>/posts/2009-02-16-8/</guid>
+      <description>Adobe Announces New eBook and PDF Support for Mobile Devices - MobileRead Forums
+ Straight from the horse&amp;rsquo;s mouth : Adobe announced today a Mobile SDK which will allow the development of mobile phones capable of reading pdfs and epub ebooks.
+Quote:
+Software Development Kit Enables Reflowable PDF and Content Protection for Smartphones and Reading Devices
+BARCELONA, Spain — Feb. 16, 2009 — At the GSMA Mobile World Congress, Adobe Systems Incorporated (Nasdaq:ADBE) today announced the availability of the new Adobe® Reader® Mobile SDK, a software development kit (SDK) designed to enable companies to deliver mobile phones and handheld devices that can easily download, manage, and display PDF content and eBooks.</description>
+    </item>
+    
+    <item>
+      <title>eCub - кроссплатформенный генератор ePub</title>
+      <link>/posts/2009-01-13-49/</link>
+      <pubDate>Tue, 13 Jan 2009 16:57:44 +0000</pubDate>
+      
+      <guid>/posts/2009-01-13-49/</guid>
+      <description>eCub - a simple to use EPUB and MobiPocket ebook creator | JulianSmart.com
+ eCub - первая кроссплатформенная программа для создания электронных книг в формате ePub. eCub представляет удобный способ для импорта текстовых файлов и XHTML в формат ePub. Кроме того позволяет просматривать, редактировать, а также проверять ePub, используя внешние средства. eCub не поддерживает WISIWYG, не подчеркивает синтаксис при редактировании и создает только незашифрованные документы. Программа работает под управлением систем Windows, Linux, Mac, FreeBSD и Solaris.</description>
+    </item>
+    
+    <item>
+      <title>О верстке электронных книг</title>
+      <link>/posts/2008-06-25-26/</link>
+      <pubDate>Wed, 25 Jun 2008 09:01:16 +0000</pubDate>
+      
+      <guid>/posts/2008-06-25-26/</guid>
+      <description>Полезная статья (с обещанным продолжением) о проблемах верстки и недостатках основных форматов электронных книг: Sans стыда, sans совести » Blog Archive » Об электронных книгах и Sans стыда, sans совести » Blog Archive » Еще об электронных книгах.</description>
+    </item>
+    
+  </channel>
+</rss>

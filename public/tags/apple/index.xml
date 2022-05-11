@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple on Новости электронного книгоиздания</title>
+    <link>/tags/apple/</link>
+    <description>Recent content in Apple on Новости электронного книгоиздания</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 17 May 2017 07:26:12 +0000</lastBuildDate><atom:link href="/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Заразных книг ещё нет, но прививку стоит поставить</title>
+      <link>/posts/2017-05-17-a/</link>
+      <pubDate>Wed, 17 May 2017 07:26:12 +0000</pubDate>
+      
+      <guid>/posts/2017-05-17-a/</guid>
+      <description>Apple выпустила очередное обновление для iOS, которое закрывает дыру в безопасности, которая потенциально позволяла выполнить произвольный код при переходе по ссылке из iBooks. О такой возможности эксперты предупреждали несколько лет назад, когда в EPUB3 появилась поддержка JavaScript. Логично: где есть исполняемый язык, там можно исполнить и что-то не очень хорошее. Apple дыру закрыла, что хорошо. Но остаются вопросы с другими операционными системами. В любом случае, зловредный код не исполняется сам по себе, но только при клике на гиперссылке, ведущей на посторонние сайты.</description>
+    </item>
+    
+    <item>
+      <title>Apple становится ближе</title>
+      <link>/posts/2016-10-17-a/</link>
+      <pubDate>Mon, 17 Oct 2016 08:57:41 +0000</pubDate>
+      
+      <guid>/posts/2016-10-17-a/</guid>
+      <description>Компания Apple втихаря открыла доступ к дистрибуции книг в своем магазине iBookstore для пользователей из России. Для этого надо зарегистрироваться на iTunes Connect, выбрать, как именно вы собираетесь размещать книги — бесплатно или за деньги,— и, если за деньги, ввести данные банковского счета (в том числе и российских банков) и заполнить форму для подачи заявления в американскую налоговую о том, что вы нерезидент. Вход открыт и для отдельных пользователей, и для компаний.</description>
+    </item>
+    
+    <item>
+      <title>В iTunes Connect появились справочные материалы на русском языке</title>
+      <link>/posts/2015-09-25-a/</link>
+      <pubDate>Fri, 25 Sep 2015 10:16:31 +0000</pubDate>
+      
+      <guid>/posts/2015-09-25-a/</guid>
+      <description>Вы работаете по всему миру, раздел «Дополнительные материалы и справка» стремится к тому же. Мы добавили поддержку 13 языков. Теперь Вы можете искать ответы на бразильском португальском, французском, немецком, японском, испанском, китайском традиционном, китайском упрощенном, корейском, русском, тайском, португальском, итальянском и канадском французском.
+ Source: Дополнительные материалы и справка iTunes Connect
+Неужто Apple разрешит из России книжки покупать?
+P. S. (Голос из будущего, 2020 года) Нет.</description>
+    </item>
+    
+    <item>
+      <title>ADE для iPad</title>
+      <link>/posts/2015-01-30-a/</link>
+      <pubDate>Fri, 30 Jan 2015 06:56:30 +0000</pubDate>
+      
+      <guid>/posts/2015-01-30-a/</guid>
+      <description>И 5 лет не прошло, как Adobe сосредоточилась и выпустила программу Adobe Digital Editions — свою дефолтную читалку для EPUB — на iPad. Судя по описанию — поддерживаются те же функции, что и в последней версии ADE для компов (аудио и видео, более/менее fixed layout, математические формулы). Лучше поздно, чем никогда? Или уже поздно?</description>
+    </item>
+    
+    <item>
+      <title>iMagazine?</title>
+      <link>/posts/2014-09-23-a/</link>
+      <pubDate>Tue, 23 Sep 2014 21:43:53 +0000</pubDate>
+      
+      <guid>/posts/2014-09-23-a/</guid>
+      <description>PRSS Digital Magazine Platform Acquired By Apple | TechCrunch.
+Apple купила сервис Prss (сайт уже не открывается), который вырос у команды электронного журнала Trvl. Ребята только-только в прошлом году запустили сервис создания электронных журналов для iOS (дешевле и проще Adobe DPS), и вот… Может быть, в пару к iBooks Author появится какой-нибуль iMagazine?</description>
+    </item>
+    
+    <item>
+      <title>iPhone Single: самый смешной способ сделать эл.книгу</title>
+      <link>/posts/2013-10-23-a/</link>
+      <pubDate>Wed, 23 Oct 2013 14:00:02 +0000</pubDate>
+      
+      <guid>/posts/2013-10-23-a/</guid>
+      <description>После обновления редактора Pages для iOS у писателей, особенно предпочитающих малые литературные формы, есть самый простой способ сделать EPUB: прямо в этом редакторе можно выбрать в Sharing опцию Open in Another App, после чего программа предложит выбрать формат экспорта.
+После того, как программы выполнит экспорт относительно приемлемого качества, Pages предложит выбрать эту самую Another App. Самой подходящей будет какая-нибудь программа типа Dropbox или Box, из которой потом можно «вынуть» готовый EPUB.</description>
+    </item>
+    
+    <item>
+      <title>В iTunes Producer замечены рубли</title>
+      <link>/posts/2013-10-21-b/</link>
+      <pubDate>Mon, 21 Oct 2013 21:30:41 +0000</pubDate>
+      
+      <guid>/posts/2013-10-21-b/</guid>
+      <description>Теперь цены на книги, загружаемые в Apple iBookstore можно указывать в рублях. Страны России, правда, в территориях продаж всё ещё нет. Но, судя по всему, скоро уже будет.</description>
+    </item>
+    
+    <item>
+      <title>Indesign -&gt; iBooks Author</title>
+      <link>/posts/2013-10-05-a/</link>
+      <pubDate>Sat, 05 Oct 2013 09:03:37 +0000</pubDate>
+      
+      <guid>/posts/2013-10-05-a/</guid>
+      <description>Bookry is one year old in October and to celebrate we’re delighted to be exhibiting at the Frankfurt Book Fair for the very first time – yay! We’re so excited to be joining this prestigious event, where we’ll be demonstrating all our iBooks Author services, including interactive widget generation and Reader Cloud.At the event we will also be launching a brand new tool that we’ve developed for existing book publishers which automatically converts InDesign files into iBooks Author files, complete with interactive widgets.</description>
+    </item>
+    
+    <item>
+      <title>Apple iBookstore — четверть рынка?</title>
+      <link>/posts/2013-03-03-a/</link>
+      <pubDate>Sun, 03 Mar 2013 18:24:44 +0000</pubDate>
+      
+      <guid>/posts/2013-03-03-a/</guid>
+      <description>Measuring the iBook market | asymco.
+Это, конечно, не более, чем оценка аналитика. Но всё же: В июне 2011 года Apple объявила о продаже 130 млн электронных книг через iTunes. В октябре 2012 года — уже о 400 млн. Следовательно, за 16 месяце было продано 270 млн книг, или около 17 млн/мес. То есть примерно 200 млн книг за 2012 год. При консервативной оценке средней стоимости электронной книги на Apple $9 и учитывая постоянный размер роялти 70% получается, что в 2012 году Apple iBookstore получил $1,8 млрд (и $1,3 млрд роялти).</description>
+    </item>
+    
+    <item>
+      <title>Apple iBookstore, видимо, нацелился на Европу</title>
+      <link>/posts/2013-02-27-a/</link>
+      <pubDate>Wed, 27 Feb 2013 21:11:33 +0000</pubDate>
+      
+      <guid>/posts/2013-02-27-a/</guid>
+      <description>Patricia Arancibia has joined Apple as head of the iBookstore&amp;rsquo;s European operations. Previously she was editorial director, International Acquisition &amp;amp; Relations - International Digital Content at Barnes &amp;amp; Noble.
+ via People, Etc. | Publishers Lunch.
+Во многом благодаря усилиям Патрисии Barnes &amp;amp; Noble сумел сформировать неплохой пакет иностранных книг. Уход оттуда сейчас вполне логичен — непонятно, что будет с Nook Media, — впрочем, это может означать более активные, учитывая энергию Патрисии, действия Apple на книжном рынке Европы и, может быть, России.</description>
+    </item>
+    
+    <item>
+      <title>Apple запускает магазин электронных книг в Японии</title>
+      <link>/posts/2013-01-03-b/</link>
+      <pubDate>Thu, 03 Jan 2013 05:02:28 +0000</pubDate>
+      
+      <guid>/posts/2013-01-03-b/</guid>
+      <description>Apple Partners With Local Publishers To Launch eBook Service In Japan http://techcrunch.com/2012/12/31/apple-partners-with-local-publishers-to-launch-ebook-service-in-japan/
+Sent from Zite personalized magazine app. Available for free in the App Store. www.zite.com</description>
+    </item>
+    
+    <item>
+      <title>Ой, как всё серьёзно с иском американского минюста против Apple и издателей</title>
+      <link>/posts/2012-04-11-c/</link>
+      <pubDate>Wed, 11 Apr 2012 21:54:05 +0000</pubDate>
+      
+      <guid>/posts/2012-04-11-c/</guid>
+      <description>The 16 states that filed suit today seek “consumer restitution.” Hachette and HarperCollins reached settlements with the states today and agreed to pay $52 million in damages.
+ via paidcontent.org
+Там ещё и 16 штатов. И Hachette с HaperCollins уже сдались и заплатят $52 млн. А вот Macmillan и Penguin будут сражаться.
+И только в России всем по барабану, почему книги так дорого стоят и при этом никому от этого особенно не сладко.</description>
+    </item>
+    
+    <item>
+      <title>Requiem по Apple DRM</title>
+      <link>/posts/2012-02-24-a/</link>
+      <pubDate>Fri, 24 Feb 2012 12:38:41 +0000</pubDate>
+      
+      <guid>/posts/2012-02-24-a/</guid>
+      <description>http://goo.gl/4nksu
+Программа предназначена исключительно для снятия DRM с купленных самим пользователем книг на iBookStore. Посторонние защищенные файлы не чистит.
+Перед применением проконсультируйтесь у врача ;)</description>
+    </item>
+    
+    <item>
+      <title>&#34;Букля&#34; для чтения книг на Маке</title>
+      <link>/posts/2012-02-07-b/</link>
+      <pubDate>Tue, 07 Feb 2012 12:24:59 +0000</pubDate>
+      
+      <guid>/posts/2012-02-07-b/</guid>
+      <description>via macworld.com
+Полку программ для чтения EPUB на десктопе прибыло: Bookle для Mac OS X. Программа делает ровно это — отображает EPUB. Относительно корректно и в «родном» интерфейсе Mac. Fixed layout EPUB отображает постранично. Аудио и видео, правда, не воспроизводит. Но с работает. Важно — понимает внедренные шрифты и корректно отображает кириллицу даже без внедренных шрифтов. Позволяет менять шрифт текста — для любителей. Программа продаётся в Mac AppStore за $9.99. С учётом минусов, наверное, могла бы стоить и дешевле.</description>
+    </item>
+    
+    <item>
+      <title>Студия WALRUS сделала в iBooks Author журнал</title>
+      <link>/posts/2012-01-31-a/</link>
+      <pubDate>Tue, 31 Jan 2012 11:04:45 +0000</pubDate>
+      
+      <guid>/posts/2012-01-31-a/</guid>
+      <description>via walrus-books.com
+Смотреть, естественно, можно только в iBooks на iPad. Или как PDF ;)</description>
+    </item>
+    
+    <item>
+      <title>iBooks Author как сплошное разочарование</title>
+      <link>/posts/2012-01-19-b/</link>
+      <pubDate>Thu, 19 Jan 2012 20:16:51 +0000</pubDate>
+      
+      <guid>/posts/2012-01-19-b/</guid>
+      <description>Это реинкарнация iWeb, смешного (и уже «убитого» Apple редактора вебстраниц). Шаблоны, виджеты, несколько готовых макетов. Что-то из этого сделать можно. Но&amp;hellip;
+Но №1: новый формат .ibooks
+Но №2: совместимость только с iBookstore
+Но №3: никакого экспорта в .epub.
+Мечта о том, что Apple сделает нормальный редактор EPUB3, разбились о колючую проволоку экосистемы.
+Их же PIPA в их же SOPA.</description>
+    </item>
+    
+    <item>
+      <title>Apple покажет платформу для электронных книг?</title>
+      <link>/posts/2012-01-03-a/</link>
+      <pubDate>Tue, 03 Jan 2012 18:04:00 +0000</pubDate>
+      
+      <guid>/posts/2012-01-03-a/</guid>
+      <description>Apple may be poised to announce changes coming to iBooks, and perhaps eBook publishing, sometime this month. In particular, we believe the announcement may have important reverberations for textbook publishers and buyers.
+ via arstechnica.com
+По слухам, на «медиа-событии», назначенном Apple на конец января, компания анонсирует софт для создания книг и/или учебников.
+И всех тормозил уделает.</description>
+    </item>
+    
+    <item>
+      <title>Почему iBookstore проигрывает Amazon</title>
+      <link>/posts/2011-12-22-1/</link>
+      <pubDate>Thu, 22 Dec 2011 08:40:14 +0000</pubDate>
+      
+      <guid>/posts/2011-12-22-1/</guid>
+      <description>Our surveys have shown that only 49 percent of iPad owners read e-books on them, which suggests that although the iPad is a blockbuster device, it doesn&amp;rsquo;t necessarily lead to book reading for even a majority of its owners,&amp;quot; says James McQuivey, an analyst at Forrester Research. &amp;ldquo;And even when it does, what we know about the success of the Kindle store and app suggests that more Kindle books are being read on iPads than iBookstore books.</description>
+    </item>
+    
+    <item>
+      <title>iBookstore запустил &#34;партнёрку&#34;</title>
+      <link>/posts/2011-11-11-2/</link>
+      <pubDate>Fri, 11 Nov 2011 05:22:26 +0000</pubDate>
+      
+      <guid>/posts/2011-11-11-2/</guid>
+      <description>We are excited to announce the addition of the iBookstore to the affiliate program. Partners now have tools to create top charts and build deep links to specific books on the iBookstore. Affiliate partners will receive commission on all qualifying sales over a 72-hour purchase window.
+ via apple.com
+Теперь всё, как у больших ;) 5% для США и 4% для Евросоюза и Японии.
+России, ясное дело, нет, поскольку доступа к покупкам в iBookstore у российских аккаунтов и нет.</description>
+    </item>
+    
+    <item>
+      <title>iBookstore от Apple&#39;s открыт в 25 странах. Россия в пролёте</title>
+      <link>/posts/2011-09-28-2/</link>
+      <pubDate>Wed, 28 Sep 2011 20:12:38 +0000</pubDate>
+      
+      <guid>/posts/2011-09-28-2/</guid>
+      <description>Now, you can add twenty-five new markets for your iBooks: Austria, Belgium, Bulgaria, Cyprus, Czech Replublic, Denmark, Estonia, Finland, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portgal, Romania, Slovakia, Slovenia, Sweden, Switzerland.
+ via pigsgourdsandwikis.com
+Ну что за дела?</description>
+    </item>
+    
+    <item>
+      <title>Книжка Докинза для iPad. С экспериментами.</title>
+      <link>/posts/2011-09-26-1/</link>
+      <pubDate>Mon, 26 Sep 2011 18:21:54 +0000</pubDate>
+      
+      <guid>/posts/2011-09-26-1/</guid>
+      <description>Вот ещё один вариант правильной реаллизации концепции rich media book.</description>
+    </item>
+    
+    <item>
+      <title>Book Creator и Creative Book Builder - программа для быстрой верстки EPUB в iPad</title>
+      <link>/posts/2011-09-22-1/</link>
+      <pubDate>Thu, 22 Sep 2011 12:10:59 +0000</pubDate>
+      
+      <guid>/posts/2011-09-22-1/</guid>
+      <description>Делает только простые фиксированные макеты для просмотра в iBooks. Минимум шрифтов, несложное форматирование, композиция — всё есть. Программа вполне работает не только на iBooks.
+Программа, однако, это не первая, поскольку есть еще китайский Creative Book Builder, предназначенная для сборки текстовых книжек. И эта тоже работает, интегрируясь с Google Docs, выдавая уникальный идентификатор, позволяя редактировать оглавление, менять состав и т. д. Внутреннее стилевое оформление не поддерживается.
+Если в Book Creator вы можете сделать книжку с ребёнком, то в CBB — быстренько сверстать несложный EPUB из своего текста.</description>
+    </item>
+    
+    <item>
+      <title>Kindle vs iPad</title>
+      <link>/posts/2011-08-24-2/</link>
+      <pubDate>Wed, 24 Aug 2011 12:42:14 +0000</pubDate>
+      
+      <guid>/posts/2011-08-24-2/</guid>
+      <description>Both Kindle and iPad saw a 40% increase in searches in the busy post-Christmas period around Boxing Day and 27 December 2010. Searches for iPads also increased dramatically in the first week of March 2011 when the iPad 2 was launched. However, after the launch of the iPad 2 searches have flattened out and now iPad consistently receives twice as much search volume as the Kindle.
+ via weblogs.hitwise.com</description>
+    </item>
+    
+    <item>
+      <title>Магазины уходят из приложений. Кто выиграл?</title>
+      <link>/posts/2011-07-26-1/</link>
+      <pubDate>Tue, 26 Jul 2011 09:53:14 +0000</pubDate>
+      
+      <guid>/posts/2011-07-26-1/</guid>
+      <description>Anyone wins who can provide a unified portal for both customers and publishers to manage content for tablets and crucially, a great experience for readers. Apple may own the app store and the hardware, but that doesn’t mean they’re the only game in town.
+ via wired.com
+Те, кто не готовы отдавать 30% Джобсу, убирают ссылки на свои магазины из приложений для iPad — Amazon, B&amp;amp;N, Kobo… По мнению Тима Кармоди, это не так уж плохо для компаний типа Amazon, Flipboard и, может быть, Google.</description>
+    </item>
+    
+    <item>
+      <title>Apple отступила по вопросу о покупках внутри приложений</title>
+      <link>/posts/2011-06-09-a/</link>
+      <pubDate>Thu, 09 Jun 2011 12:30:37 +0000</pubDate>
+      
+      <guid>/posts/2011-06-09-a/</guid>
+      <description>11.13 Apps that link to external mechanisms for purchases or subscriptions to be used in the app, such as a “buy” button that goes to a web site to purchase a digital book, will be rejected
+11.14 Apps can read or play approved content (specifically magazines, newspapers, books, audio, music, and video) that is subscribed to or purchased outside of the app, as long as there is no button or external link in the app to purchase the approved content.</description>
+    </item>
+    
+    <item>
+      <title>Книжный в iTunes</title>
+      <link>/posts/2011-06-07-c/</link>
+      <pubDate>Tue, 07 Jun 2011 18:43:39 +0000</pubDate>
+      
+      <guid>/posts/2011-06-07-c/</guid>
+      <description>В новой версии iTunes 10.3 появился свой BookStore. Книжку можно тут же купить. Но вот читать можно только в iOS-устройстве. Решение странное. Может, всё-таки Apple обзаведётся iBooks для Маков? У Amazon вон есть…
+BookStore недоступнен российским аккаунтам. Русских книжек, которые стараниями ЛитРес так-таки в iBooksStore появились, в iTunes почему-то тоже нет. Впрочем, Apple пока вообще равнодушна к неамериканскому контенту.</description>
+    </item>
+    
+    <item>
+      <title>Музыка, книги и программы в iTunes: чья кривая круче?</title>
+      <link>/posts/2011-06-07-d/</link>
+      <pubDate>Tue, 07 Jun 2011 17:30:43 +0000</pubDate>
+      
+      <guid>/posts/2011-06-07-d/</guid>
+      <description>via asymco.com
+Автор верно замечает, что работает много факторов. В частности, цена (программы часто бесплатны, а треки дешевле книг). Но разница в порядки впечатляет.</description>
+    </item>
+    
+    <item>
+      <title>Financial Times изменяет Apple с веб-приложением</title>
+      <link>/posts/2011-06-07-a/</link>
+      <pubDate>Tue, 07 Jun 2011 06:44:41 +0000</pubDate>
+      
+      <guid>/posts/2011-06-07-a/</guid>
+      <description>via apps.ft.com
+А почему? А потому, что отстёгивать Джобсу за подписку газете жалко.
+Как, правда, они справятся с ограничением на объем хранимых в оффлайн-режиме данных?</description>
+    </item>
+    
+    <item>
+      <title>Майк Матас о книге Гора для iPad</title>
+      <link>/posts/2011-05-23-d/</link>
+      <pubDate>Mon, 23 May 2011 10:02:54 +0000</pubDate>
+      
+      <guid>/posts/2011-05-23-d/</guid>
+      <description>Какими могут быть книжки с rich media content. Фирма Матаса готова помочь издателям. Не бесплатно, видимо. Но иногда того стоит.</description>
+    </item>
+    
+    <item>
+      <title>Патентный тролль угрожает разработчикам программ для iOS</title>
+      <link>/posts/2011-05-23-f/</link>
+      <pubDate>Mon, 23 May 2011 09:43:09 +0000</pubDate>
+      
+      <guid>/posts/2011-05-23-f/</guid>
+      <description>It turns out that Apple actually has licensed the technology from Lodsys for its own uses—but the license does not transfer to developers using it, who have to make their own licensing arrangements. Lodsys wants a bit over half a percent of any in-app purchase revenue until the patent expires, which isn’t really large by itself but could represent only a drop in the bucket.
+ via teleread.com
+Оказывается, процедура покупок через приложения для iOS запатентована некоей Lodsys.</description>
+    </item>
+    
+    <item>
+      <title>Инди-издатели начали делать альбомы для iPad и Kindle</title>
+      <link>/posts/2011-05-19-e/</link>
+      <pubDate>Thu, 19 May 2011 09:36:11 +0000</pubDate>
+      
+      <guid>/posts/2011-05-19-e/</guid>
+      <description>via badlandsunlimited.com
+О постановке &amp;ldquo;В ожидании Годо&amp;rdquo; прямо на улицах Нового Орлеана.</description>
+    </item>
+    
+    <item>
+      <title>Вышел Bookmate для iPad</title>
+      <link>/posts/2011-05-12-d/</link>
+      <pubDate>Thu, 12 May 2011 08:13:09 +0000</pubDate>
+      
+      <guid>/posts/2011-05-12-d/</guid>
+      <description>Ссылка для загрузки.
+Российская платформа для абонентской модели дистрибуции электронных книг постепенно разрастается. Что правильно — чем больше устройств, тем больше читателей. Жаль, нельзя посадить эту историю на букридеры: для переходного периода, мне кажется, было бы самое то.</description>
+    </item>
+    
+    <item>
+      <title>iBooks дозволил внедрять шрифты в EPUB</title>
+      <link>/posts/2011-04-12-c/</link>
+      <pubDate>Tue, 12 Apr 2011 19:37:55 +0000</pubDate>
+      
+      <guid>/posts/2011-04-12-c/</guid>
+      <description>iBooks now supports embedded fonts even in regular, reflowable, non-fixed layout EPUBs.
+ via pigsgourdsandwikis.com
+Процедура описана в посте Лиз Кастро. Там же она пишет, что то же самое теперь возможно и на nook.
+У электронного книгоиздания и вправду есть шанс стать нормальным книгоизданием. Если сопутствующие проблемы всё не перекроют.</description>
+    </item>
+    
+    <item>
+      <title>Почему Амазон не беспокоится по поводу новых правил Apple</title>
+      <link>/posts/2011-02-23-a/</link>
+      <pubDate>Wed, 23 Feb 2011 23:23:21 +0000</pubDate>
+      
+      <guid>/posts/2011-02-23-a/</guid>
+      <description>Amazon has been working on Kindle for the Web, which has been in beta testing since last September. At the moment, you can only preview the first chapter from select titles on Amazon, but according to the Kindle for the Web page, full text is coming soon.
+To test this out, I went searching through Amazon’s Top 100 list to find a title available in the Kindle for the Web program.</description>
+    </item>
+    
+    <item>
+      <title>Поздравляю ЛитРес с попаданием в iBookstore</title>
+      <link>/posts/2011-01-17-a/</link>
+      <pubDate>Mon, 17 Jan 2011 23:19:58 +0000</pubDate>
+      
+      <guid>/posts/2011-01-17-a/</guid>
+      <description>ЛитРес сделала первый шаг к появлению книг на русском языке в iBookstore. Первый, потому что эти книги пока доступны только покупателям из США, Канады и Великобритании. Но это уже что-то. Ценообразование гибкое - цены, в общем, сравнимы с теми, которые ЛитРес ставит на книжки в России, но для некоторых — типа Пелевина, исключение — в два раза дороже. В любом случае — молодцы.</description>
+    </item>
+    
+    <item>
+      <title>Epub из Pages с русскими шрифтами</title>
+      <link>/posts/2011-01-08-a/</link>
+      <pubDate>Sat, 08 Jan 2011 00:12:41 +0000</pubDate>
+      
+      <guid>/posts/2011-01-08-a/</guid>
+      <description>Таки удалось победить Pages. Внедрение русских шрифтов в epub, сделанный Pages, оказалось задачей нетривиальной. Просто прописать в css и закинуть шрифты в epub не получается. Оказалось, что надо менять структуру epub. Но теперь понятно - как. Чувствую удовлетворение, а то думал - совсем ламер ;)</description>
+    </item>
+    
+    <item>
+      <title>Совет читателям книг на iOS</title>
+      <link>/posts/2010-12-28-a/</link>
+      <pubDate>Tue, 28 Dec 2010 15:21:17 +0000</pubDate>
+      
+      <guid>/posts/2010-12-28-a/</guid>
+      <description>Программка iBooks для чтения книг весьма хороша. А посл того, как она научилась расставлять переносы в русских текстах - тем более. Но есть у неё одно &amp;ldquo;но&amp;rdquo;. Чтобы загрузить в неё книгу, нужно непременно сначала сгрузить её на комп, потом поместить в iTunes, потом синхронизировать iTunes с iOS-устройством. Геморрой.
+Есть другое решение, на которое меня навёл журнал Time в обзоре альтернативных браузеров для iOS. Ставим браузер iCab (небесплатный, но недорогой). По сравнению с простачком Safari это швейцарский нож - со всякими букмарклетами, полноэкранными режимами и пр.</description>
+    </item>
+    
+    <item>
+      <title>Сколково! Ау! Oxford, Rice и Open U добавили в iTunes U электронные учебники в EPUB</title>
+      <link>/posts/2010-11-02-193/</link>
+      <pubDate>Tue, 02 Nov 2010 13:10:05 +0000</pubDate>
+      
+      <guid>/posts/2010-11-02-193/</guid>
+      <description>Three institutions&amp;ndash;Oxford University, Rice University, and Open University--have added e-books for free download through iTunes U, Apple&amp;rsquo;s educational area in its iTunes Store. Each is taking a unique approach to the selection of its e-books, but all are using the EPUB format.
+ via campustechnology.com
+Учебники Open University посмотрел — для старшеклассников. Но всё равно — круто.</description>
+    </item>
+    
+    <item>
+      <title>iPad кроет букридеры, как бык овцу (отчёт IMS)</title>
+      <link>/posts/2010-09-30-a/</link>
+      <pubDate>Thu, 30 Sep 2010 11:13:41 +0000</pubDate>
+      
+      <guid>/posts/2010-09-30-a/</guid>
+      <description>AUSTIN, TEXAS, September 28, 2010 – IMS Research has released the second issue of its Quarterly eBook and iPad Shipment and Forecast Service which provides actual shipments on eBook frontplanes, eBook displays, eBook readers, iPads and iPad displays along with a rolling 6-quarter forecast.
+ via fpdmarketresearch.com
+За 2-й квартал 2010 года продажи Apple iPad составили 3,3 млн штук против 2,4 млн букридеров (учитывалось 40 марок устройств).
+Буркидеры продолжают продваться неплохо — рост на 28% в сравнении с 2-м кварталом 2009 года.</description>
+    </item>
+    
+    <item>
+      <title>Обновлённый Pages делает ePub</title>
+      <link>/posts/2010-08-26-131/</link>
+      <pubDate>Thu, 26 Aug 2010 22:03:38 +0000</pubDate>
+      
+      <guid>/posts/2010-08-26-131/</guid>
+      <description>Pages ’09 lets you export your documents in ePub format for reading with iBooks on iPhone, iPad, or iPod touch.
+ via support.apple.com
+Проверил — шрифты не внедряет. Но работает. Этто вам не Word of Warcraft. Маленьким издательствам с претензией на электронное будущее теперь уже точно пора переходить на Mac.</description>
+    </item>
+    
+    <item>
+      <title>Издание Rolling Stone на Zinio для iPad с интеграцией iTunes</title>
+      <link>/posts/2010-08-03-82/</link>
+      <pubDate>Tue, 03 Aug 2010 15:12:24 +0000</pubDate>
+      
+      <guid>/posts/2010-08-03-82/</guid>
+      <description>Using the Zinio App for the iPad (zinio.com/ipad), the iconic music title&amp;rsquo;s digital version will allow music enthusiasts to sample and purchase music with a swipe of a finger. The interactive edition will be available on other platforms as well, including Windows, Mac and Linux PCs. While fans read about legends ranging from Bob Dylan and Beyonce to Bruce Springsteen and Aretha Franklin, they can preview and purchase the Rolling Stone Special Collectors Edition&amp;rsquo;s song recommendations via iTunes.</description>
+    </item>
+    
+    <item>
+      <title>Simon &amp; Schuster сделало книжку с видео</title>
+      <link>/posts/2010-07-30-191/</link>
+      <pubDate>Fri, 30 Jul 2010 20:20:31 +0000</pubDate>
+      
+      <guid>/posts/2010-07-30-191/</guid>
+      <description>Scribner and Simon &amp;amp; Schuster Digital have released what they are calling their first-ever “enhanced e-book,” Rick Perlstein’s Nixonland, via Apple’s iBookstore application.
+The enhanced e-book [iTunes link] includes an original interview with the author and 27 historic video segments produced by CBS News embedded alongside the original text, which was first published in hardcover in May 2008. A digital version without the video is also available through Amazon’s Kindle Store.</description>
+    </item>
+    
+    <item>
+      <title>Как сделать Wired. Adobe опубликовала деморолик DCB</title>
+      <link>/posts/2010-07-19-86/</link>
+      <pubDate>Mon, 19 Jul 2010 17:41:40 +0000</pubDate>
+      
+      <guid>/posts/2010-07-19-86/</guid>
+      <description>http://labs.adobe.com/technologies/digitalpublishing/
+Digital Content Builder - программа для интеграции мультимедиа-функций и превращения вёрстки в ID CS5 в формат .issue. Выглядит очень симпатично.</description>
+    </item>
+    
+    <item>
+      <title>WIRED Magazine for iPad временно бесплатен</title>
+      <link>/posts/2010-06-30-229/</link>
+      <pubDate>Wed, 30 Jun 2010 22:33:33 +0000</pubDate>
+      
+      <guid>/posts/2010-06-30-229/</guid>
+      <description>via itunes.apple.com
+Судя по противоречивым данным со всех сторон, у Conde Nast снесло крышу и он не знает, по какой цене торговать Wired. Последние данные из iTunes - приложение загружается бесплатно, июньский и июльский номера покупаются по $3,99.</description>
+    </item>
+    
+    <item>
+      <title>Смешно. Журналы про iPhone для iPhone и про iPad для iPad</title>
+      <link>/posts/2010-06-10-196/</link>
+      <pubDate>Thu, 10 Jun 2010 19:02:03 +0000</pubDate>
+      
+      <guid>/posts/2010-06-10-196/</guid>
+      <description>via sideways.com</description>
+    </item>
+    
+    <item>
+      <title>Apple Reveals New Service for Authors to Sell Their Books Directly in the iBookstore | Mac|Life</title>
+      <link>/posts/2010-05-27-26/</link>
+      <pubDate>Thu, 27 May 2010 21:26:04 +0000</pubDate>
+      
+      <guid>/posts/2010-05-27-26/</guid>
+      <description>via maclife.com</description>
+    </item>
+    
+    <item>
+      <title>Wired для iPad</title>
+      <link>/posts/2010-05-26-228/</link>
+      <pubDate>Wed, 26 May 2010 09:01:34 +0000</pubDate>
+      
+      <guid>/posts/2010-05-26-228/</guid>
+      <description>via mashable.com
+Ура, товарищи.</description>
+    </item>
+    
+    <item>
+      <title>The iPad Revolution | The New York Review of Books</title>
+      <link>/posts/2010-05-21-210/</link>
+      <pubDate>Fri, 21 May 2010 12:25:01 +0000</pubDate>
+      
+      <guid>/posts/2010-05-21-210/</guid>
+      <description>via nybooks.com
+Смешно читать статью из ИЮНЬСКОГО номера.</description>
+    </item>
+    
+    <item>
+      <title>Оу, кто рекламирует iPad</title>
+      <link>/posts/2010-04-22-140/</link>
+      <pubDate>Thu, 22 Apr 2010 16:26:42 +0000</pubDate>
+      
+      <guid>/posts/2010-04-22-140/</guid>
+      <description>via ntv.ru
+А чтение и правда надо поддерживать.</description>
+    </item>
+    
+    <item>
+      <title>The iPad, the Kindle, and the future of books : The New Yorker</title>
+      <link>/posts/2010-04-19-211/</link>
+      <pubDate>Mon, 19 Apr 2010 19:11:33 +0000</pubDate>
+      
+      <guid>/posts/2010-04-19-211/</guid>
+      <description>“By the end of last year, Amazon accounted for an estimated eighty per cent of all electronic book sales, and $9.99 seemed established as the price of an e-book. Publishers were panicked,” Auletta writes. After a confrontation with Amazon, five of the “big six” publishers have agreed to sell their e-books through Apple’s iBooks store, where they will be allowed to set prices, to a certain extent. One Apple insider told Auletta, “Ultimately, Apple is in the device—not the content—business.</description>
+    </item>
+    
+    <item>
+      <title>ePub Bud - бесплатные детские книжки в epub для iPad</title>
+      <link>/posts/2010-04-16-64/</link>
+      <pubDate>Fri, 16 Apr 2010 19:55:18 +0000</pubDate>
+      
+      <guid>/posts/2010-04-16-64/</guid>
+      <description>epubbud.com
+опять, правда, кажется, только английские</description>
+    </item>
+    
+    <item>
+      <title>Плохая новость — Apple, кажется, объявила войну Adobe</title>
+      <link>/posts/2010-04-16-151/</link>
+      <pubDate>Fri, 16 Apr 2010 19:50:37 +0000</pubDate>
+      
+      <guid>/posts/2010-04-16-151/</guid>
+      <description>New iPhone Developer Agreement Bans the Use of Adobe’s Flash-to-iPhone Compiler Thursday, 8 April 2010 Prior to today’s release of the iPhone OS 4 SDK, section 3.3.1 of the iPhone Developer Program License Agreement read, in its entirety:
+ 3.3.1 — Applications may only use Documented APIs in the manner prescribed by Apple and must not use or call any private APIs.
+ In the new version of the iPhone Developer Program License Agreement released by Apple today (and which developers must agree to before downloading the 4.</description>
+    </item>
+    
+    <item>
+      <title>The iPad in Education: Colleges Give iPads to All Incoming Students</title>
+      <link>/posts/2010-03-30-209/</link>
+      <pubDate>Tue, 30 Mar 2010 19:02:35 +0000</pubDate>
+      
+      <guid>/posts/2010-03-30-209/</guid>
+      <description>Seton Hill University plans to give every first year undergraduate student a 13&amp;quot; MacBook and an iPad. Just last month, George Fox University in Oregon also announced that it plans to give its new students a choice between a MacBook or an iPad
+ via readwriteweb.com
+iPad уже раздают в колледжах.</description>
+    </item>
+    
+    <item>
+      <title>Рекламодатели ломанулись в айпэдные журналы</title>
+      <link>/posts/2010-03-25-177/</link>
+      <pubDate>Thu, 25 Mar 2010 21:35:26 +0000</pubDate>
+      
+      <guid>/posts/2010-03-25-177/</guid>
+      <description>A report from The New York Times notes that a number of large corporations, including Coca-Cola, FedEx, Unilever, Toyota, Capital One, Oracle, and GM have already bought up advertising from the likes of Newsweek, Reuters, Time, Wall Street Journal, and NYT itself. In fact, Chase has bought out all of the NYT advertising units for two full months following the iPad&amp;rsquo;s introduction to advertise its high-end Chase Sapphire credit card.</description>
+    </item>
+    
+    <item>
+      <title>Шестой пошёл: в iPad будет Perseus</title>
+      <link>/posts/2010-03-22-189/</link>
+      <pubDate>Mon, 22 Mar 2010 21:25:20 +0000</pubDate>
+      
+      <guid>/posts/2010-03-22-189/</guid>
+      <description>Apple has signed a deal with the largest distributor of independent publishers to sell electronic versions of it books on the new device, report Motoko Rich and Brad Stone on Media Decoder.
+Perseus Books Group, a large independent publisher that also distributes works from 330 other smaller presses including Grove Atlantic, Harvard Business School Press, Zagat and City Lights Books, signed a deal last week with Apple, following five of the six biggest publishers that have already signed agreements with Apple.</description>
+    </item>
+    
+    <item>
+      <title>Kindle for iPad</title>
+      <link>/posts/2010-03-22-89/</link>
+      <pubDate>Mon, 22 Mar 2010 15:14:24 +0000</pubDate>
+      
+      <guid>/posts/2010-03-22-89/</guid>
+      <description>http://mashable.com/2010/03/22/kindle-app-ipad/
+В биологии, кажется, это называется паразитом ;)</description>
+    </item>
+    
+    <item>
+      <title>Kindle for Mac</title>
+      <link>/posts/2010-03-18-90/</link>
+      <pubDate>Thu, 18 Mar 2010 07:54:11 +0000</pubDate>
+      
+      <guid>/posts/2010-03-18-90/</guid>
+      <description>via amazon.com
+Без лишнего шума Amazon, вслед за программой Kindle for PC, выпустила Kindle for Mac — для чтения приобретенных в магазине электронных книг.</description>
+    </item>
+    
+    <item>
+      <title>Первая читалка для iPad</title>
+      <link>/posts/2010-03-17-143/</link>
+      <pubDate>Wed, 17 Mar 2010 23:42:11 +0000</pubDate>
+      
+      <guid>/posts/2010-03-17-143/</guid>
+      <description>via blog.threepress.org
+Аааа!&amp;hellip; Первая пошла ;)
+P. S. Archive</description>
+    </item>
+    
+    <item>
+      <title>Журнал VIV на iPad</title>
+      <link>/posts/2010-03-17-238/</link>
+      <pubDate>Wed, 17 Mar 2010 23:31:44 +0000</pubDate>
+      
+      <guid>/posts/2010-03-17-238/</guid>
+      <description>via mashable.com
+Симпатишно.</description>
+    </item>
+    
+    <item>
+      <title>Apple - iPad - Buy and read books like never before.</title>
+      <link>/posts/2010-03-12-24/</link>
+      <pubDate>Fri, 12 Mar 2010 21:18:46 +0000</pubDate>
+      
+      <guid>/posts/2010-03-12-24/</guid>
+      <description>And you can add free ePub titles to iTunes and sync them to the iBooks app on your iPad.
+ via apple.com
+Apple пустит в свою программу iBooks и другие книжки в формате EPUB. Одним вопросом меньше.</description>
+    </item>
+    
+    <item>
+      <title>Books in the Age of the iPad — Craig Mod</title>
+      <link>/posts/2010-03-07-34/</link>
+      <pubDate>Sun, 07 Mar 2010 14:48:10 +0000</pubDate>
+      
+      <guid>/posts/2010-03-07-34/</guid>
+      <description>via craigmod.com
+Точка зрения дизайнера. Весьма взвешенная и позитивная.</description>
+    </item>
+    
+    <item>
+      <title>Apple не будетииспользовать DRM от Adobe. Остальное - пока предположения</title>
+      <link>/posts/2010-02-19-25/</link>
+      <pubDate>Fri, 19 Feb 2010 13:29:03 +0000</pubDate>
+      
+      <guid>/posts/2010-02-19-25/</guid>
+      <description>&amp;ldquo;Apple has not licensed Adobe Content Server for their iBookstore,&amp;rdquo; Nick Bogaty, senior business development manager at Adobe, told Computerworld. &amp;ldquo;They appear to be doing something else.&amp;rdquo;
+ via computerworld.com</description>
+    </item>
+    
+    <item>
+      <title>На русской странице Apple iPad нет iBooks ;(</title>
+      <link>/posts/2010-02-03-2/</link>
+      <pubDate>Wed, 03 Feb 2010 22:38:38 +0000</pubDate>
+      
+      <guid>/posts/2010-02-03-2/</guid>
+      <description>via apple.com
+Ну что за блин</description>
+    </item>
+    
+    <item>
+      <title>Полный айпэд :: Частный Корреспондент</title>
+      <link>/posts/2010-01-28-1/</link>
+      <pubDate>Thu, 28 Jan 2010 08:54:44 +0000</pubDate>
+      
+      <guid>/posts/2010-01-28-1/</guid>
+      <description>via chaskor.ru
+Решение Apple выйти и на книжный рынок весьма примечательно. Пару лет назад Стив Джобс обмолвился — и фразу эту на фоне бума электронных книг ему припоминали не раз, — что «книг больше никто не читает». Джобс явно ошибся. Но Джобс дорого ценит свои слова и если уж он решил взять их обратно, то, видимо, в том числе и для того, чтобы и вправду «встать на плечи Amazon».</description>
+    </item>
+    
+    <item>
+      <title>Шатцкин по поводу будущей «яблочной таблетки»</title>
+      <link>/posts/2010-01-20-5/</link>
+      <pubDate>Wed, 20 Jan 2010 23:17:45 +0000</pubDate>
+      
+      <guid>/posts/2010-01-20-5/</guid>
+      <description>Although I’m as excited as the next guy by the coming Apple Tablet, I really don’t think it will change the world for ebooks. It’s too big, too heavy, too expensive, and likely to be too consumptive of battery power to be a better ereader for most people than a Kindle, a Sony Reader, an iPhone, or one of the many other devices announced last week at CES. My own hunch is that the Tablet won’t be as powerful a catalyst for ebooks as the Kindle was or the iPhone has been.</description>
+    </item>
+    
+    <item>
+      <title>Американские издатели вовсю ведут переговоры с Apple</title>
+      <link>/posts/2010-01-20-2/</link>
+      <pubDate>Wed, 20 Jan 2010 09:38:21 +0000</pubDate>
+      
+      <guid>/posts/2010-01-20-2/</guid>
+      <description>Top US publishers are in &amp;lsquo;secret&amp;rsquo; negotiations with Apple for the launch of the expected Apple Tablet/Slate/Pad later this month, with reports suggesting that they are seeking greater control over pricing and supply of digital material.
+ via thebookseller.com
+Джобс молодец — слова не держит, если его можно продать ;)</description>
+    </item>
+    
+    <item>
+      <title>Apple готовит платформу для rich media книг</title>
+      <link>/posts/2009-12-19-15/</link>
+      <pubDate>Sat, 19 Dec 2009 22:48:59 +0000</pubDate>
+      
+      <guid>/posts/2009-12-19-15/</guid>
+      <description>Apple Cooks Up Rich Interactive eBooks With PastryKit There was a lot of discussion earlier this week about the discovery (via Daring Fireball) of a new Apple JavaScript framework, used to implement the iPhone User Guide (link for iPhone users). The PastryKit framework enables HTML-based content with a more iPhone-native UI:
+full screen support, fixed-position toolbars, and native-feel scrolling. Much of the speculation focused on implications for mobile app development. But looking at PastryKit as just an &amp;ldquo;iPhone Web app library&amp;rdquo; misses a key point: the iPhone User Guide is not an application but a rich interactive eBook.</description>
+    </item>
+    
+    <item>
+      <title>Таблетки или букридеры? Решит 2010 год</title>
+      <link>/posts/2009-12-15-c/</link>
+      <pubDate>Tue, 15 Dec 2009 12:57:55 +0000</pubDate>
+      
+      <guid>/posts/2009-12-15-c/</guid>
+      <description>In an ideal world, huge amounts of content in EPUB format would come together with inexpensive, color, touch-enabled e-readers, making them solid textbook replacements and turning giant student backpacks into thin messenger bags.
+This is hardly an ideal world, though. Yes, it looks like the inexpensive color e-reader will be a reality, but the same technology will also enable inexpensive color tablets. What is a school going to buy? A one-trick pony e-reader for its students or a really useful convergence device for a slight upcharge?</description>
+    </item>
+    
+    <item>
+      <title>Kindle для iPhone 1.3</title>
+      <link>/posts/2009-12-15-80/</link>
+      <pubDate>Tue, 15 Dec 2009 01:24:41 +0000</pubDate>
+      
+      <guid>/posts/2009-12-15-80/</guid>
+      <description>Теперь электронные книги из Amazon можно покупать и так. Или читать отрывки. Выбор - хоть там и 300 тысяч - не очень велик. Много чего нет. Видимо, политика издателей + страновые ограничения. И эти люди запрещают мне ковыряться в носу? Нашёл, правда посткиберпанковскую антологию Re-Wired ;)</description>
+    </item>
+    
+    <item>
+      <title>К таблетке от Apple будь готов!</title>
+      <link>/posts/2009-11-18-14/</link>
+      <pubDate>Wed, 18 Nov 2009 22:21:32 +0000</pubDate>
+      
+      <guid>/posts/2009-11-18-14/</guid>
+      <description>Condé Nast Gets Wired Ready For Apple Tablet (In Case There Is One) | paidContent
+ Just as Condé Nast celebrates the acceptance of the special, digitized issue of GQ into Apple’s App store, the company is now hoping and praying the rumors of an Apple (NSDQ: AAPL) Tablet will come true next year. Just in case, CN is readying a digital version Wired magazine, ads and all, for the awaited Apple gadget, MediaMemo’s Peter Kafka reports.</description>
+    </item>
+    
+    <item>
+      <title>Scribd для iPhone</title>
+      <link>/posts/2009-09-29-135/</link>
+      <pubDate>Tue, 29 Sep 2009 14:11:53 +0000</pubDate>
+      
+      <guid>/posts/2009-09-29-135/</guid>
+      <description>Les Guides MAF, actualités du livre électronique et livres numériques: Les Guides MAF sur Iphone
+Версия для iPhone одного из самых известных сервисов онлайновой публикации scribd.com появилась в App Store. Бесплатная программа, правда, доступна только пользователям американского аккаунта iTunes Store и только для OS iPhone 3.1.</description>
+    </item>
+    
+    <item>
+      <title>Книги Amazon теперь и в iPhone</title>
+      <link>/posts/2009-03-04-87/</link>
+      <pubDate>Wed, 04 Mar 2009 09:14:31 +0000</pubDate>
+      
+      <guid>/posts/2009-03-04-87/</guid>
+      <description>Amazon Extends Book Sales Beyond Its Kindle to iPhone - WSJ.com
+ Amazon.com Inc. plans to release a program Wednesday for reading electronic books on Apple Inc.&amp;rsquo;s iPhone, extending Amazon&amp;rsquo;s sales of digital books to devices beyond its Kindle e-book reader. Amazon&amp;rsquo;s software application, which can be downloaded free of charge, allows iPhone and iPod Touch users to read books or periodicals purchased on the Web or through their dedicated Kindle device, usually for $9.</description>
+    </item>
+    
+    <item>
+      <title>Продажи книг для iPhone уже сравнимы с продажами для Sony Reader</title>
+      <link>/posts/2008-12-23-40/</link>
+      <pubDate>Tue, 23 Dec 2008 23:17:40 +0000</pubDate>
+      
+      <guid>/posts/2008-12-23-40/</guid>
+      <description>More Readers Are Picking Up Electronic Books - NYTimes.com
+ Publishers say these iPhone applications are already starting to generate nearly as many digital book sales as the Sony Reader, though they still trail sales of books in the Kindle format.
+ Но Kindle пока не догнали. Вопрос времени.</description>
+    </item>
+    
+    <item>
+      <title>Как измерить  спрос?</title>
+      <link>/posts/2008-07-13-20/</link>
+      <pubDate>Sun, 13 Jul 2008 09:32:57 +0000</pubDate>
+      
+      <guid>/posts/2008-07-13-20/</guid>
+      <description>По сообщениям MobileRead Forums и TeleRead: Bring the E-Books Home веб-сайт ereader.com вчера рухнул под наплывом счастливых обладателей нового iPhone, захотевших скачать себе программу для чтения и купить или скачать бесплатно электронных книг. Сегодня загрузка сайта хоть медленно, но идет. Помнится, Стив Джобс заметил, что «никто уже не читает книг».</description>
+    </item>
+    
+    <item>
+      <title>Stanza для iPhone</title>
+      <link>/posts/2008-07-12-51/</link>
+      <pubDate>Sat, 12 Jul 2008 21:19:21 +0000</pubDate>
+      
+      <guid>/posts/2008-07-12-51/</guid>
+      <description>В дополнение к предыдущей записи стоит добавить, что команда разработчиков Lexcycle подготовила к запуску полноценную программу чтения электронных книг для iPhone. Учитывая популярность iPhone, он — просто реализую свою вторичную функцию — может составить существенную конкуренцию другим букридерам. И, самое главное, сможет оказать содействие дальнейшему продвижению электронных книг. Демонстрационный ролик работы с программой в телефоне можно посмотреть здесь: Stanza_iPhone.mov. Via TeleRead.</description>
+    </item>
+    
+    <item>
+      <title>Stanza — программа для чтения электронных книг</title>
+      <link>/posts/2008-07-11-a/</link>
+      <pubDate>Fri, 11 Jul 2008 21:46:42 +0000</pubDate>
+      
+      <guid>/posts/2008-07-11-a/</guid>
+      <description>Полку программ для чтения электронных книг прибыло. Stanza комании LexCycle предназначена для чтения электронных книг на дисплеях компьютеров Macintosh (Mac OS X 10.4.8 or later). Программа поддерживает разные режимы отображения тексты, а также его автоматическую прокрутку. Stanza отличает довольно могучая всеядность. Она понимает практически все основные форматы электронных книг (PDB, PRC, EPUB, PDF, AZW и др.), а также основные текстовые форматы (MS Word, RTF и HTML). Что особенно актуально для российского читателя — программа не только понимает криллицу, но и (самая последняя версяя) популярный в России формат fb2.</description>
+    </item>
+    
+    <item>
+      <title>iPhone как конкурент букридеру: экономический аспект</title>
+      <link>/posts/2008-07-10-17/</link>
+      <pubDate>Thu, 10 Jul 2008 15:04:06 +0000</pubDate>
+      
+      <guid>/posts/2008-07-10-17/</guid>
+      <description>Publishing Frontier » Blog Archive » ebooks and the iPhone
+ Одна из проблем устройств, подобных Sony Reader и Kindle состоит в том, что они вступают в конкуренцию с другими «платформами» для чтения, например, книгой в обложке или книгой из библиотеки. Стоит ли тратить $300 на заменитель книги, который хрупок, в котором может кончиться батарейка и который жалко калечить неблагоприятным окружением (к примеру, на пляже)? Ведь можно купить книжику в мягкой обложке на распродаже за $5 или просто взять в библиотеке бесплатно.</description>
+    </item>
+    
+  </channel>
+</rss>

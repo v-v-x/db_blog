@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prosuction on Новости электронного книгоиздания</title>
+    <link>/tags/prosuction/</link>
+    <description>Recent content in prosuction on Новости электронного книгоиздания</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 11 Apr 2011 08:13:39 +0000</lastBuildDate><atom:link href="/tags/prosuction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>InDesign CS 5.5 становится серьезным редактором EPUB</title>
+      <link>/posts/2011-04-11-c/</link>
+      <pubDate>Mon, 11 Apr 2011 08:13:39 +0000</pubDate>
+      
+      <guid>/posts/2011-04-11-c/</guid>
+      <description>Среди улучшений — макет уже практически можно не подгонять под экспорт в EPUB, а создавать последовательность материалов в панели Articles. Кроме того, появилась более аккуратная настройка графики, поддержка видео (для устройств типа iPad), возможность автоматически растеризовать первую страницу для обложки и разное прочее. В общем — это уже серьезный инструмент.</description>
+    </item>
+    
+  </channel>
+</rss>

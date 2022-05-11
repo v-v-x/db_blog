@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on My New Hugo Site</title>
+    <link>http://example.org/tags/windows/</link>
+    <description>Recent content in Windows on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Aug 2008 16:04:10 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stanza для Windows</title>
+      <link>http://example.org/posts/2008-08-07-50/</link>
+      <pubDate>Thu, 07 Aug 2008 16:04:10 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-08-07-50/</guid>
+      <description>Программа для чтения, конвертации и экспорта электронных книг на портативные устройства Stanza появилась в варианте для Windows:Download Stanza for Windows | Lexcycle.</description>
+    </item>
+    
+  </channel>
+</rss>

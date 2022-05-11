@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>litres on My New Hugo Site</title>
+    <link>http://example.org/tags/litres/</link>
+    <description>Recent content in litres on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jul 2008 16:47:56 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/litres/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Как быстро растут книгохранилища</title>
+      <link>http://example.org/posts/2008-07-20-a/</link>
+      <pubDate>Sun, 20 Jul 2008 16:47:56 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-20-a/</guid>
+      <description>Пора подвести итоги небольшого полевого исследования. Имеем: Google Reader с RSS-лентами трех достаточно популярных и активно наполняемых книгохранилищ (lib.rus.ec, litres.ru, infanata.org). Посмотрим, с какой скоростью будет на ограниченном (скромными средствами rss-агрегатора, которые не может отражать точные цифры записей, более 1000) временном интервале происходит наполнение этих сайтов электронными книгами.  За период с 8–го по 19-е июля 2008 года количество книг на сайте lib.rus.ec увеличилось на 994 книги (примерно по 72 книги в день), в магазине litres.</description>
+    </item>
+    
+  </channel>
+</rss>

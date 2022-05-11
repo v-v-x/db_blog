@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>browsers on Новости электронного книгоиздания</title>
+    <link>/tags/browsers/</link>
+    <description>Recent content in browsers on Новости электронного книгоиздания</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 29 Apr 2015 20:00:35 +0000</lastBuildDate><atom:link href="/tags/browsers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Режим чтения в виде книги??? Microsoft представила новый браузер Edge</title>
+      <link>/posts/2015-04-29-a/</link>
+      <pubDate>Wed, 29 Apr 2015 20:00:35 +0000</pubDate>
+      
+      <guid>/posts/2015-04-29-a/</guid>
+      <description>Представитель компании рассказал о нововведениях браузера. Среди них - возможность создавать заметки на веб-странице и делиться ими с комментариями, новый режим чтения, который форматирует страницы в книгу или журнал, а также чтение страниц в режиме офлайн и интеграция с голосовым помощником Cortana.
+ Source: Microsoft представила новый браузер Edge / Slon.ru</description>
+    </item>
+    
+    <item>
+      <title>EPUB из нескольких облаков</title>
+      <link>/posts/2014-07-04-a/</link>
+      <pubDate>Fri, 04 Jul 2014 13:14:39 +0000</pubDate>
+      
+      <guid>/posts/2014-07-04-a/</guid>
+      <description>Что-то стало много облачных сервисов… Великий человек Алексей Гусев однажды пошутил, что теперь можно Google Drive можно засунуть в OneDrive, OneDrive положить в Dropbox, Dropbox — в Box, а Box — в MediaFire.
+Складывать файлы в разные облака матрёшкой, однако, думаю, небезопасно, а вот управляться многими из них можно с помощью Jolicloud Drive. И везде можно хранить электронные книги, естественно. Которые можно ведь как-то читать прямо из браузера (у всех «облаков» есть веб-приложения)?</description>
+    </item>
+    
+    <item>
+      <title>Браузер, который читает книги</title>
+      <link>/posts/2014-05-23-a/</link>
+      <pubDate>Fri, 23 May 2014 10:11:57 +0000</pubDate>
+      
+      <guid>/posts/2014-05-23-a/</guid>
+      <description>Пользователи современных браузеров уже довольно давно имеют возможность открывать обычные офисные документы прямо в браузере. Пришло вам письмо на почту, в нём вложен DOC. Скачивать и открывать в Word часто не обязательно, достаточно кликнуть на файле и посмотреть, что в нём, прямо в браузере. Аналогичный вьюер, только электронных книг (поддерживается epub, fb2 и fb2.zip), включился в последней (за номером 14.4.1750.13662 (129c834)) версии Яндекс.Браузера (на Маке обновление можно получить в меню Yandex &amp;gt; About Yandex, на Windows — в настройках).</description>
+    </item>
+    
+    <item>
+      <title>Конференция Books in Browsers 2012 на YouTube</title>
+      <link>/posts/2012-11-09-b/</link>
+      <pubDate>Fri, 09 Nov 2012 21:36:51 +0000</pubDate>
+      
+      <guid>/posts/2012-11-09-b/</guid>
+      <description>32 ролика</description>
+    </item>
+    
+    <item>
+      <title>Readium, лучшая браузерная читалка epub, в Chrome Web Store</title>
+      <link>/posts/2012-10-02-a/</link>
+      <pubDate>Tue, 02 Oct 2012 12:47:13 +0000</pubDate>
+      
+      <guid>/posts/2012-10-02-a/</guid>
+      <description>The Readium open source project to develop an EPUB 3 reference implementation, sponsored by IDPF and other supporters, continues to rapidly evolve. The Chrome web app configuration of Readium was recently launched on the Chrome Web Store, and can be installed via https://chrome.google.com/webstore/detail/fepbnnnkkadjhjahcafoaglimekefifl.
+ via idpf.org
+Собственно, это проект IDPF, которая EPUB и разрабатывает. Хоть в чём-то можно более-менее адекватно посмотреть epub3. Внедрена поддержка Canonical Fragment Identifier (CFI) — абсолютной ссылки на растекающийся текст, контроль проигрывания в Media Overlays и какая-то поддержка JavaScript (не тестировал).</description>
+    </item>
+    
+    <item>
+      <title>А внутри у него неонка, точнее Firefox: AZARDI, версия 11</title>
+      <link>/posts/2012-04-09-a/</link>
+      <pubDate>Mon, 09 Apr 2012 21:35:54 +0000</pubDate>
+      
+      <guid>/posts/2012-04-09-a/</guid>
+      <description>This April 2012 AZARDI 11 release is a major feature release with support for ePub3 with SMIL Audio and a major interface update to bring it into alignment with AZARDI Cloud Reader. AZARDI has jumped from version 8.2 to 11 to keep it in alignment with the version of Firefox Mozilla being used internally.
+ via azardi.infogridpacific.com
+Ещё одна читалка epub3 обновилась — вместе с обновлением Firefox, движок которой работает у неё внутри.</description>
+    </item>
+    
+    <item>
+      <title>Сделай EPUB из веба: плагин GrabMyBooks для Firefox</title>
+      <link>/posts/2011-05-31-c/</link>
+      <pubDate>Tue, 31 May 2011 15:38:28 +0000</pubDate>
+      
+      <guid>/posts/2011-05-31-c/</guid>
+      <description>via addons.mozilla.org
+Вполне работоспособный плагин для Firefox, который встраивается в контекстное меню и позволяет «собирать» подборку страниц, линков и избранных абзацев (то есть как хотите, так и делайте) в одну «книгу», которую можно скачать в формате EPUB.
+Русский шрифт, конечно же, не поддерживается, но для русифицированной читалки это не препятствие. Оглавление одноранговое, названия глав менять нельзя — будет просто Article 1, Article 2 и т. д., но их можно менять местами.</description>
+    </item>
+    
+    <item>
+      <title>Что такое HTML5 (Infographic)</title>
+      <link>/posts/2010-01-10-1/</link>
+      <pubDate>Thu, 10 Jun 2010 19:41:28 +0000</pubDate>
+      
+      <guid>/posts/2010-01-10-1/</guid>
+      <description>via flickr.com</description>
+    </item>
+    
+    <item>
+      <title>Руссифицирован плагин для чтения EPUB в FireFox</title>
+      <link>/posts/2010-03-07-180/</link>
+      <pubDate>Sun, 07 Mar 2010 14:52:11 +0000</pubDate>
+      
+      <guid>/posts/2010-03-07-180/</guid>
+      <description>Рады сообщить, что портал об электронных книгах epubBooks.ru локализовал add-on EPUBReader для браузера Firefox. Теперь каждый владелец Firefox (а это ни много ни мало 15,39 % посетителей сайта) сможет пользоваться этой онлайн читалкой книг в формате epub на русском языке начиная со следующего обновления аддона!
+Для тех, кто пока по каким-то причинам не знает, сообщаем, что add-on EPUBReader позволяет читать книги в формате epub прямо в Вашем браузере Firefox. Что для этого надо сделать:</description>
+    </item>
+    
+    <item>
+      <title>Плагин для Firefox для чтения epub</title>
+      <link>/posts/2009-11-02-54/</link>
+      <pubDate>Mon, 02 Nov 2009 23:51:40 +0000</pubDate>
+      
+      <guid>/posts/2009-11-02-54/</guid>
+      <description>EPUBReader :: Add-ons for Firefox Плагин пока очень простенький. Но автор над ним работает - мгновенно откликнулся на замечания и пофиксил баг. Всё работает и есть куда развиваться. К не очень большому набору программных ридеров epub добавился ещё один. Учитывая распространенность Firefox, такое решение может оказаться одним из самых массовых для PC и ноутбуков.</description>
+    </item>
+    
+  </channel>
+</rss>

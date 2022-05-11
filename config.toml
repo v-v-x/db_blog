@@ -1,0 +1,63 @@
+baseURL = "/"
+languageCode = "ru"
+title = "Новости электронного книгоиздания"
+theme = "mainroad"
+paginate = "10" # Number of posts per page
+ignoreErrors = ["error-remote-getjson"]
+
+[Author] # Used in authorbox
+  name = "Владимир Харитонов"
+
+menu = ["main"]
+
+[Params]
+subtitle = "Всё о производстве и дистрибуции электронных книг. И о книгах вообще"
+# Subtitle of your site. Used in site header
+  description = "Всё об электронных книг. И о книгах вообще" # Site description. Used in meta description
+  copyright = "Владимир Харитонов" # Footer copyright holder, otherwise will use site title
+  opengraph = true # Enable OpenGraph if true
+  twitter_cards = true # Enable Twitter Cards if true
+  readmore = true # Show "Read more" button in list if true
+  authorbox = false # Show authorbox at bottom of pages if true
+  toc = false # Enable Table of Contents
+  post_navigation = true # Show post navigation at bottom of pages if true
+  post_meta = ["date", "categories", "translations"] # Order of post meta information
+  mainSections = ["posts", "pages"] # Specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "2006-01-02" # Change the format of dates
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+  highlightColor = "#e22d30" # Override highlight color
+  customCSS = ["css/custom.css"] # Include custom CSS files
+  customJS = ["js/custom.js"] # Include custom JS files
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["sidemenu", "recent", "search", "categories", "social"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "vladimir.haritonov"
+  twitter = "v_x"
+  instagram = "v-v-x"
+  linkedin = "haritonov"
+  telegram = "vharitonov"
+#  github = "v-v-x"
+#  gitlab = "username"
+#  bitbucket = "username"
+#  email = "example@example.com"
+
+# [[Params.widgets.social.custom]]
+#  title = "Revue"
+#  url = "https://www.getrevue.co/profile/v_x"
+#  icon = "revue.svg"
+
+#   twitter = "https://twitter.com/v_x"
+#   facebook = "https://www.facebook.com/vladimir.haritonov"

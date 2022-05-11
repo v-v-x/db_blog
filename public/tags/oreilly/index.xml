@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OReilly on My New Hugo Site</title>
+    <link>http://example.org/tags/oreilly/</link>
+    <description>Recent content in OReilly on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jul 2008 20:30:49 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/oreilly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OReilly начал продажи своих книг для букридеров</title>
+      <link>http://example.org/posts/2008-06-15-a/</link>
+      <pubDate>Tue, 15 Jul 2008 20:30:49 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-15-a/</guid>
+      <description>Одно из крупнейших американских издательств, специализирующихся на компьютерной тематике, O&#39;Reilly, сегодня начало продажи книг для букридеров. В списке пока 30 наименований свободных от DRM (издательство экспериментирует с Social DRM) наборов электронных книг. Каждый набор включает книгу в трех форматах — EPUB, PDF и совместимый с Kindle формат Mobipocket. Набор продается по цене, чуть меньшей печатной книги ($19 против $23). За чуть большую цену (примерно $30) издательство предлагает комплект из печатной книги и электронного набора.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>print-on-demand on My New Hugo Site</title>
+    <link>http://example.org/tags/print-on-demand/</link>
+    <description>Recent content in print-on-demand on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Oct 2009 19:46:57 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/print-on-demand/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HP готовит масштабный POD-проект</title>
+      <link>http://example.org/posts/2009-10-21-64/</link>
+      <pubDate>Wed, 21 Oct 2009 19:46:57 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-21-64/</guid>
+      <description>AFP: HP partners with university to print digital books
+ The US computer giant announced Wednesday it has teamed with the University of Michigan to offer print versions of more than 500,000 out-of-copyright books in the school&#39;s library. The books will be available for purchase through online retail giant Amazon and other outlets including HP&#39;s own BookPrep.com, which already offers public domain volumes for print on-demand and purchase.
+ Судя по всему, этот союз решил войти на тот же рынок, что и Google с On Demand Books.</description>
+    </item>
+    
+    <item>
+      <title>Печать по запросу в книжных магазинах</title>
+      <link>http://example.org/posts/2008-06-21-34/</link>
+      <pubDate>Sat, 21 Jun 2008 10:11:11 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-21-34/</guid>
+      <description>Британская книготорговая сеть Blackwell&#39;s планирует осенью этого года начать установку Espresso Book Machine — принтеров «print-on-demand» — во всех 60-ти магазинах сети. Производством принтеров занимается компания On Demand, уже имеющая опыт установки машин в крупнейших библиотеках мира. Принтеры EBM способны печатать книги со скоростью 40 страниц в минуту. С помощью EBM посетители книжных магазинов смогут быстро распечать готовую книгу в обложке из каталога машины, насчитывающего 400 тыс названий. Каталог составлен по преимуществу из книг, права на которых перешли в общественное пользование, а также из книг, тираж которых давно закончился (эту часть каталога обсдуживает компания Lighting Source, один из крупнейших POD-компаний США и Великобритании).</description>
+    </item>
+    
+  </channel>
+</rss>

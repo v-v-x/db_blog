@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tor on My New Hugo Site</title>
+    <link>http://example.org/tags/tor/</link>
+    <description>Recent content in Tor on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jul 2008 09:09:29 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/tor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Бесплатное распространение электронных книг увеличивает продажи бумажных</title>
+      <link>http://example.org/posts/2008-07-10-7/</link>
+      <pubDate>Thu, 10 Jul 2008 09:09:29 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-10-7/</guid>
+      <description>Весьма поучительная история: Tor, один из самых заметных американских издателей научной фантастики, запустил в конце зимы программу бесплатной рассылки электронных версий книг (как правило, не бестселлеров). И вот результат — подъем продаж (как на эти книги в бумажном виде, так и на другие книги этих же авторов) на 20–50%.
+Did Tor’s free e-books boost sales? | TeleRead: Bring the E-Books Home Comments:  ekniga - Jul 4, 2008Аналогичные данные по П.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esquire on My New Hugo Site</title>
+    <link>http://example.org/tags/esquire/</link>
+    <description>Recent content in Esquire on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Jul 2008 20:45:22 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/esquire/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Esquire с обложкой из электронной бумаги</title>
+      <link>http://example.org/posts/2008-07-21-13/</link>
+      <pubDate>Mon, 21 Jul 2008 20:45:22 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-21-13/</guid>
+      <description>News Flash From the Cover of Esquire - Paper Magazines Can Be High Tech, Too - NYTimes.com В сентябре на стендах журнальных киосках в США появится журнал Esquire с обложкой из электронной бумаги. Для журнала, который весьма трепетно относится к своим обложкам, это важный шаг. Жаль, что новой обложкой будут снабжены только 100 тысяч экземпляров журанала, которые будут продаваться в розницу в США :-( Comments:  ekniga - Jul 2, 2008Видел я эту заметку, но так и не понял главного: зачем?</description>
+    </item>
+    
+  </channel>
+</rss>

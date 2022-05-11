@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CyBook on My New Hugo Site</title>
+    <link>http://example.org/tags/cybook/</link>
+    <description>Recent content in CyBook on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jul 2008 20:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/cybook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>На российском рынке появился новый букридер — ORSiO</title>
+      <link>http://example.org/posts/2008-07-07-33/</link>
+      <pubDate>Mon, 07 Jul 2008 20:30:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-07-33/</guid>
+      <description>На сайте The-eBook Russia опубликован подробный, содержательный и, в целом, весьма позитивный отчет о тестировании букридера с экраном из электронной бумаги ORSiO b721, продажи которого начинаются в России. Судя по отзывам экспертов, с точки зрения аппаратной начинки устройство — родной брат французского CyBook и Explay TXT.Book: вес 176 г, экран 6&amp;rdquo; (800 х 600 пикселей), интерфейс USB 2.0. Однако с точки зрения программной начинки может дать им фору, понимая файлы в форматах HTML, TXT, FB2, RTF, DjVu и PDF.</description>
+    </item>
+    
+  </channel>
+</rss>

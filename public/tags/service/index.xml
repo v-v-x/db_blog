@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>service on Новости электронного книгоиздания</title>
+    <link>/tags/service/</link>
+    <description>Recent content in service on Новости электронного книгоиздания</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 30 Sep 2016 14:42:55 +0000</lastBuildDate><atom:link href="/tags/service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Завёл, кстати, канал в Телеграме: «Слова и деньги»</title>
+      <link>/posts/2016-09-30-b/</link>
+      <pubDate>Fri, 30 Sep 2016 14:42:55 +0000</pubDate>
+      
+      <guid>/posts/2016-09-30-b/</guid>
+      <description>https://telegram.me/words_and_money И не всё там будет только про электронные книги. Хорошее ведь название?</description>
+    </item>
+    
+    <item>
+      <title>Fictionary — справочники для книжных сериалов</title>
+      <link>/posts/2014-08-22-a/</link>
+      <pubDate>Fri, 22 Aug 2014 13:44:35 +0000</pubDate>
+      
+      <guid>/posts/2014-08-22-a/</guid>
+      <description>Если вы читаете по-английски популярные сериалы типа «Песни льда и пламени» Джорджа Мартина, и причём с помощью Kindle, то вам могут пригодиться рукодельные словари-справочники, подготовленные на основе wiki-ресурсов по таким книгам. Персонажей и реалий в такого рода многотомных эпопеях много, потеряться легко, каждый раз ходить за справкой в интернет неудобно, но если под рукой (под пальцем) такой словарь с сайта http://thefictionary.net/, то чтение становится интереснее. С удовольствием бы имел такой под рукой для «Барочного цикла» Нила Стивенсона.</description>
+    </item>
+    
+  </channel>
+</rss>

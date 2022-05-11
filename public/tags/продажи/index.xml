@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>продажи on My New Hugo Site</title>
+    <link>http://example.org/tags/%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8/</link>
+    <description>Recent content in продажи on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jul 2008 20:30:49 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OReilly начал продажи своих книг для букридеров</title>
+      <link>http://example.org/posts/2008-06-15-a/</link>
+      <pubDate>Tue, 15 Jul 2008 20:30:49 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-15-a/</guid>
+      <description>Одно из крупнейших американских издательств, специализирующихся на компьютерной тематике, O&#39;Reilly, сегодня начало продажи книг для букридеров. В списке пока 30 наименований свободных от DRM (издательство экспериментирует с Social DRM) наборов электронных книг. Каждый набор включает книгу в трех форматах — EPUB, PDF и совместимый с Kindle формат Mobipocket. Набор продается по цене, чуть меньшей печатной книги ($19 против $23). За чуть большую цену (примерно $30) издательство предлагает комплект из печатной книги и электронного набора.</description>
+    </item>
+    
+    <item>
+      <title>Бесплатное распространение электронных книг увеличивает продажи бумажных</title>
+      <link>http://example.org/posts/2008-07-10-7/</link>
+      <pubDate>Thu, 10 Jul 2008 09:09:29 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-10-7/</guid>
+      <description>Весьма поучительная история: Tor, один из самых заметных американских издателей научной фантастики, запустил в конце зимы программу бесплатной рассылки электронных версий книг (как правило, не бестселлеров). И вот результат — подъем продаж (как на эти книги в бумажном виде, так и на другие книги этих же авторов) на 20–50%.
+Did Tor’s free e-books boost sales? | TeleRead: Bring the E-Books Home Comments:  ekniga - Jul 4, 2008Аналогичные данные по П.</description>
+    </item>
+    
+    <item>
+      <title>Рост продаж электронных учебников</title>
+      <link>http://example.org/posts/2008-06-24-45/</link>
+      <pubDate>Tue, 24 Jun 2008 12:37:18 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-24-45/</guid>
+      <description>6/20/2008 - Ingram DigitalSM survey of 680 e-book users uncovers key drivers behind surge in digital textbook adoption
+ Ingram Digital, опубликовала результаты исследования пользователей распространяемых IDG электронных книг, а заодно обнародавала данные о продажах электронных учебников для колледжей и университетов: за первые пять месяцев этого года они выросли в 4 раза по сравнению с 2007 г.
+ Каталог IDG — это 110 тысяч электронных книг (в pdf-, lit- и pdb-формате) примерно тысячи издательств, среди которых — крупнейшие издатели профессиональной и академической литературы McGraw-Hill, Wiley, Elsevier и др.</description>
+    </item>
+    
+    <item>
+      <title>Penguin объявляет о пятикратном росте продаж электронных книг</title>
+      <link>http://example.org/posts/2008-05-30-35/</link>
+      <pubDate>Fri, 30 May 2008 12:05:18 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-05-30-35/</guid>
+      <description>По сообщению Publishers Weekly, один из крупнейших в мире издательских холдингов, Penguin Group, объявил о пятикратном увеличении продаж электронных книг с апреля прошлого года. В I квартале текущего года Penguin продал электронных книг больше, чем за весь 2007 г. Исполнительный директор группы Дэвид Шанкс объяснил такой скачок ростом популярности бук-ридеров.[](http://www.publishersweekly.com/article/CA6564510.html) Comments:  Планета е-книг » Blog Archive » Заключение обзора - Apr 6, 2010[&amp;hellip;] товаров). Это подтверждает приведенная на digital_books мысль представителя Penguin Group, о том, что по сообщению Publishers [&amp;hellip;]</description>
+    </item>
+    
+  </channel>
+</rss>

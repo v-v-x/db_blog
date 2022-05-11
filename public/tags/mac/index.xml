@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mac on Новости электронного книгоиздания</title>
+    <link>/tags/mac/</link>
+    <description>Recent content in mac on Новости электронного книгоиздания</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 14 Apr 2016 12:11:22 +0000</lastBuildDate><atom:link href="/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Отличная читалка Clearview</title>
+      <link>/posts/2016-04-14-a/</link>
+      <pubDate>Thu, 14 Apr 2016 12:11:22 +0000</pubDate>
+      
+      <guid>/posts/2016-04-14-a/</guid>
+      <description>Читалка Clearview (понимает epub, mobi, pdf, fb2 и chm), довольно долго вылетавшая в новой версии Mac OS, наконец починилась. В версии 1.7.8 всё, кажется, стабильно. Читалка не только читает, но и позволяет систематизировать каталог, делать и сохранять заметки и пр. мелкие читательские радости. Рекомендую.</description>
+    </item>
+    
+  </channel>
+</rss>

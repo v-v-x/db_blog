@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brasil on Новости электронного книгоиздания</title>
+    <link>/tags/brasil/</link>
+    <description>Recent content in Brasil on Новости электронного книгоиздания</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 06 Dec 2012 10:43:23 +0000</lastBuildDate><atom:link href="/tags/brasil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Бразильское книжное Рождество: Kobo, Google и Amazon</title>
+      <link>/posts/2012-12-06-a/</link>
+      <pubDate>Thu, 06 Dec 2012 10:43:23 +0000</pubDate>
+      
+      <guid>/posts/2012-12-06-a/</guid>
+      <description>Практически в один день в Бразилии открылись местные сайты трёх гигантов рынка электронных книг. И это при том, что электронного ассортимента на португальском ещё меньше, чем на русском. Обидно.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sturtups on Новости электронного книгоиздания</title>
+    <link>/tags/sturtups/</link>
+    <description>Recent content in sturtups on Новости электронного книгоиздания</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 08 Feb 2013 21:09:16 +0000</lastBuildDate><atom:link href="/tags/sturtups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The People&#39;s E-Book — проект программы для epub на Kickstarter</title>
+      <link>/posts/2013-02-08-a/</link>
+      <pubDate>Fri, 08 Feb 2013 21:09:16 +0000</pubDate>
+      
+      <guid>/posts/2013-02-08-a/</guid>
+      <description>The People&amp;rsquo;s E-Book by Hol Art Books — Kickstarter.
+Можно помочь людям сделать бесплатный инструмент для производства epub.</description>
+    </item>
+    
+  </channel>
+</rss>

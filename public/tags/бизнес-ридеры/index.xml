@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>бизнес-ридеры on My New Hugo Site</title>
+    <link>http://example.org/tags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D1%80%D0%B8%D0%B4%D0%B5%D1%80%D1%8B/</link>
+    <description>Recent content in бизнес-ридеры on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Sep 2008 14:59:51 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D1%80%D0%B8%D0%B4%D0%B5%D1%80%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Будущий ридер для бизнес-пользователей</title>
+      <link>http://example.org/posts/2008-09-15-8/</link>
+      <pubDate>Mon, 15 Sep 2008 14:59:51 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-09-15-8/</guid>
+      <description>На конференции DEMOFall&#39;09 английская компания Plastic Logic презентовала большой экран на электронных чернилах. Нетрудно заметить, что устройство ориентировано по преимуществу на бизнес-пользователей и их потребности в чтении большого числа деловых бумаг. Не удивлюсь, если такое устройство когда-нибудь окрестят «бизнес-ридером»: И еще обзорная статья об устройстве в Technology Review. Comments:  http://nikadubrovsky.livejournal.com/ - Sep 0, 2008очень хорошо.</description>
+    </item>
+    
+  </channel>
+</rss>

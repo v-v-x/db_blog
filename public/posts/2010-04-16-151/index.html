@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html class="no-js" lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Плохая новость — Apple, кажется, объявила войну Adobe - Новости электронного книгоиздания</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+	<meta property="og:title" content="Плохая новость — Apple, кажется, объявила войну Adobe" />
+<meta property="og:description" content="New iPhone Developer Agreement Bans the Use of Adobe’s Flash-to-iPhone Compiler Thursday, 8 April 2010 Prior to today’s release of the iPhone OS 4 SDK, section 3.3.1 of the iPhone Developer Program License Agreement read, in its entirety:
+ 3.3.1 — Applications may only use Documented APIs in the manner prescribed by Apple and must not use or call any private APIs.
+ In the new version of the iPhone Developer Program License Agreement released by Apple today (and which developers must agree to before downloading the 4." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/posts/2010-04-16-151/" />
+<meta property="article:published_time" content="2010-04-16T19:50:37+00:00" />
+<meta property="article:modified_time" content="2010-04-16T19:50:37+00:00" />
+
+	<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Плохая новость — Apple, кажется, объявила войну Adobe"/>
+<meta name="twitter:description" content="New iPhone Developer Agreement Bans the Use of Adobe’s Flash-to-iPhone Compiler Thursday, 8 April 2010 Prior to today’s release of the iPhone OS 4 SDK, section 3.3.1 of the iPhone Developer Program License Agreement read, in its entirety:
+ 3.3.1 — Applications may only use Documented APIs in the manner prescribed by Apple and must not use or call any private APIs.
+ In the new version of the iPhone Developer Program License Agreement released by Apple today (and which developers must agree to before downloading the 4."/>
+
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/custom.css">
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container">
+		<div class="logo">
+			<a class="logo__link" href="/" title="Новости электронного книгоиздания" rel="home">
+				<div class="logo__title">Новости электронного книгоиздания</div>
+				<div class="logo__tagline">Всё о производстве и дистрибуции электронных книг. И о книгах вообще</div>
+			</a>
+		</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Плохая новость — Apple, кажется, объявила войну Adobe</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg>
+	<time class="meta__text" datetime="2010-04-16T19:50:37">2010-04-16</time>
+</div>
+</div>
+		</header><div class="content post__content clearfix">
+			<h3 id="new-iphone-developer-agreement-bans-the-use-of-adobes-flash-to-iphonecompiler">New iPhone Developer Agreement Bans the Use of Adobe’s Flash-to-iPhone Compiler</h3>
+<h6 id="thursday-8-april-2010">Thursday, 8 April 2010</h6>
+<p>Prior to today’s release of the iPhone OS 4 SDK, section 3.3.1 of the iPhone Developer Program License Agreement read, in its entirety:</p>
+<blockquote>
+<p>3.3.1 — Applications may only use Documented APIs in the manner prescribed by Apple and must not use or call any private APIs.</p>
+</blockquote>
+<p>In the new version of the iPhone Developer Program License Agreement released by Apple today (and which developers must agree to before downloading the 4.0 SDK beta), section 3.3.1 now reads:</p>
+<blockquote>
+<p>3.3.1 — Applications may only use Documented APIs in the manner prescribed by Apple and must not use or call any private APIs. Applications must be originally written in Objective-C, C, C++, or JavaScript as executed by the iPhone OS WebKit engine, and only code written in C, C++, and Objective-C may compile and directly link against the Documented APIs (e.g., Applications that link to Documented APIs through an intermediary translation or compatibility layer or tool are prohibited).</p>
+</blockquote>
+<p>My reading of this new language is that cross-compilers, such as the <a href="http://labs.adobe.com/technologies/flashcs5/appsfor_iphone/">Flash-to-iPhone compiler</a> in Adobe’s upcoming Flash Professional CS5 release, are prohibited. This also bans apps compiled using <a href="http://monotouch.net/">MonoTouch</a> and <a href="http://unity3d.com/unity/">Unity3D</a> — tools that compiles C# and .NET apps to the iPhone. It’s unclear what this means for tools like <a href="http://www.appcelerator.com/">Titanium</a> and <a href="http://phonegap.com/">PhoneGap</a>, but it sounds to me like they’re on the wrong side of this new rule, and the folks behind Appcelerator <a href="http://developer.appcelerator.com/blog/2010/04/apple-4-0-and-titanium.html">already realize they might be out of bounds</a>. There was no mention of this change during the announcement event today, but the language in the agreement doesn’t leave much wiggle room. It could hardly be more clear if they singled out Flash CS5 by name. (Wonder what Adobe does now? CS5 is _thisclose_to release and the iPhone compiler is the flagship feature in this version of Flash. They’re pretty much royally fucked.) I’m not sure how exactly Apple intends to enforce this, but my understanding is that iPhone apps produced by Flash CS5 are easily identifiable as such by inspecting the contents of the app bundle. I’m not sure if there are any “intermediary translation or compatibility layers or tools” which produce app bundles that are indistinguishable from app bundles produced by Xcode and the official SDK.</p>
+<p><strong>Previous:</strong></p>
+<p><a href="http://daringfireball.net/2010/04/the_ipad">The iPad</a></p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item"><a class="tags__link btn" href="/tags/apple/" rel="tag">Apple</a></li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="post-nav flex">
+	<div class="post-nav__item post-nav__item--prev">
+		<a class="post-nav__link" href="/posts/2010-04-06-29/" rel="prev"><span class="post-nav__caption">«&thinsp;Previous</span><p class="post-nav__post-title">Бесплатная! Библиотека! Детских! Книг!</p></a>
+	</div>
+	<div class="post-nav__item post-nav__item--next">
+		<a class="post-nav__link" href="/posts/2010-04-16-103/" rel="next"><span class="post-nav__caption">Next&thinsp;»</span><p class="post-nav__post-title">Конкурс на лучший логотип EPUB</p></a>
+	</div>
+</nav>
+
+
+			</div>
+			
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			Ⓐ|CC-BY 2021 Владимир Харитонов.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+<script src="/js/custom.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+</body>
+</html>

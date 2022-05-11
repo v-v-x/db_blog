@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>скептики on My New Hugo Site</title>
+    <link>http://example.org/tags/%D1%81%D0%BA%D0%B5%D0%BF%D1%82%D0%B8%D0%BA%D0%B8/</link>
+    <description>Recent content in скептики on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jun 2008 08:41:14 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D1%81%D0%BA%D0%B5%D0%BF%D1%82%D0%B8%D0%BA%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ложное чувство безопасности</title>
+      <link>http://example.org/posts/2008-06-24-24/</link>
+      <pubDate>Tue, 24 Jun 2008 08:41:14 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-24-24/</guid>
+      <description>TOC цитирует Майкла Кейрнса из Information Media Partners: Ebooks: False Sense of Security for Publishers? - Tools of Change for Publishing
+ Сегодняшние издатели впервые в истории не могут быть уверены в том, что поколение детей будет интересоваться результатами их труда.
+…Перевод контента в электронные книги создает ложное чувство безопасности у издателей, которые верят в то, что достаточно «перезапустить» книгу, [чтобы она была востребована] новым поколением [читателей].
+ </description>
+    </item>
+    
+  </channel>
+</rss>

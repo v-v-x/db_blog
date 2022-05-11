@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finland on Новости электронного книгоиздания</title>
+    <link>/tags/finland/</link>
+    <description>Recent content in Finland on Новости электронного книгоиздания</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 21 Feb 2020 12:11:50 +0300</lastBuildDate><atom:link href="/tags/finland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Что там у финнов?</title>
+      <link>/posts/2020-02-20/</link>
+      <pubDate>Fri, 21 Feb 2020 12:11:50 +0300</pubDate>
+      
+      <guid>/posts/2020-02-20/</guid>
+      <description>У Северной Европы с аудиокнижками, в отличие от Америки и бóльшей части остального мира, свой особый путь. Во всём мире издатели издают, а продавцы продают. У скандинавов и примкнувших к ним всё не так: шведский Storytel покупает издательства, издательство Bonnier заводит сервис BookBeat. И вот теперь второе по величине в Финляндии издательство Otava и книжная сеть Suomalainen Kirjakauppa завели сервис Suomalainen Plus.
+При этом самым большим издательством в стране владеет как раз Bonnier, а третьим по величине — Storytel.</description>
+    </item>
+    
+    <item>
+      <title>Чубайсу на заметку: финны помогут китайцам наладить текстовещание</title>
+      <link>/posts/2011-09-15-2/</link>
+      <pubDate>Thu, 15 Sep 2011 14:15:22 +0000</pubDate>
+      
+      <guid>/posts/2011-09-15-2/</guid>
+      <description>The Helsinki Metropolia University of Applied Sciences, Aalto University and the National Engineering Center of Digital Television (NERC-DTV) plan to make a low-power, reception only device based on an E-ink screen. The screen and general hardware design are expected to cheap and require minimal power, and that should make it possible to power the e-reader completely from a solar panel.
+ via the-digital-reader.com
+На устройства с «электронными чернилами». Видимо, китайских государственных новостей.</description>
+    </item>
+    
+  </channel>
+</rss>

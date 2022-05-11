@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NYTimes BookExpo 2008 on My New Hugo Site</title>
+    <link>http://example.org/tags/nytimes-bookexpo-2008/</link>
+    <description>Recent content in NYTimes BookExpo 2008 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Jun 2008 08:45:45 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/nytimes-bookexpo-2008/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Электронные книги на BookExpo&#39;08</title>
+      <link>http://example.org/posts/2008-06-03-a/</link>
+      <pubDate>Tue, 03 Jun 2008 08:45:45 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-03-a/</guid>
+      <description>Electronic Device Stirs Unease at BookExpo - NYTimes.com
+ That too makes bookstore owners nervous about the future of electronic books.
+ Автор статьи в New York Times акцентирует внимание на том, что в электронном книгоиздании, кажется, произошел перелом: его присутствие на книжной ярмарке в Лос-Анджелесе было более, чем заметным, равно как тревоги книгопродавцев и активность издателей, спешащих вскочить на подножку уходящего поезда. Comments:  Планета е-книг » Blog Archive » Заключение обзора - Apr 6, 2010[&amp;hellip;] не заставили себя ждать… Здесь же на digital-books.</description>
+    </item>
+    
+  </channel>
+</rss>

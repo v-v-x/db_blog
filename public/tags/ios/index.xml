@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iOS on Новости электронного книгоиздания</title>
+    <link>/tags/ios/</link>
+    <description>Recent content in iOS on Новости электронного книгоиздания</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 23 Oct 2013 14:00:02 +0000</lastBuildDate><atom:link href="/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iPhone Single: самый смешной способ сделать эл.книгу</title>
+      <link>/posts/2013-10-23-a/</link>
+      <pubDate>Wed, 23 Oct 2013 14:00:02 +0000</pubDate>
+      
+      <guid>/posts/2013-10-23-a/</guid>
+      <description>После обновления редактора Pages для iOS у писателей, особенно предпочитающих малые литературные формы, есть самый простой способ сделать EPUB: прямо в этом редакторе можно выбрать в Sharing опцию Open in Another App, после чего программа предложит выбрать формат экспорта.
+После того, как программы выполнит экспорт относительно приемлемого качества, Pages предложит выбрать эту самую Another App. Самой подходящей будет какая-нибудь программа типа Dropbox или Box, из которой потом можно «вынуть» готовый EPUB.</description>
+    </item>
+    
+  </channel>
+</rss>

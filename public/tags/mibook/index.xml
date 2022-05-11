@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MiBook on My New Hugo Site</title>
+    <link>http://example.org/tags/mibook/</link>
+    <description>Recent content in MiBook on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jun 2008 10:29:45 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/mibook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Букридер для домохозяек</title>
+      <link>http://example.org/posts/2008-07-27-9/</link>
+      <pubDate>Fri, 27 Jun 2008 10:29:45 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-27-9/</guid>
+      <description>Букридеры на электронной бумаге — вовсе не единственные устройства, которые можно использовать для чтения электронных книг. Критичен только удобный интерфейс (в том числе подходящие размеры, разрешение и качество экрана) и программное обеспечение, позволяющее читать книги. В этом смысле недорогой ($130) гаджет MiBook который в скором времени выпускает на рынок компания Photoco, с 7-дюймовым экраном может еще одним конкурентом для Amazon Kindle и Sony Reader. The miBook from Photoco - NYTimes.com Comments:  ekniga - Jun 5, 2008Не всё так просто.</description>
+    </item>
+    
+  </channel>
+</rss>

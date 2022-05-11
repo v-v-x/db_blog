@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>юзабилити on My New Hugo Site</title>
+    <link>http://example.org/tags/%D1%8E%D0%B7%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D1%82%D0%B8/</link>
+    <description>Recent content in юзабилити on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jun 2008 15:57:50 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D1%8E%D0%B7%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D1%82%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Эксперименты с двухэкранными электронными книгами</title>
+      <link>http://example.org/posts/2008-01-26-2/</link>
+      <pubDate>Thu, 26 Jun 2008 15:57:50 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-01-26-2/</guid>
+      <description>Соответствующему исследованию ученых из Университета Мэриленда и Беркли посвящена статья в New Scientist Technology Blog: Dual-display e-book reader lets you flip pages naturally.
+Доклад «Способы обращения с двухдисплейными букридерами» см.: http://www.cs.umd.edu/%7Efrancois/Papers/EBookReaderCHI08.pdf</description>
+    </item>
+    
+  </channel>
+</rss>

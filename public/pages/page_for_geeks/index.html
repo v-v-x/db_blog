@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html class="no-js" lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Для гиков - Новости электронного книгоиздания</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+	<meta property="og:title" content="Для гиков" />
+<meta property="og:description" content="EPUB изнутри На самом деле EPUB — это ZIP-файл, сжатый особым образом. В этом легко убедиться: измените расширение любого файла .epub на .zip и разархивируйте его любым архиватором. Внутри этого архива вы обнаружите файлы содержимого книги (в формате XHTML), дополнительные файлы иллюстраций, шрифтов и т. д., и обязательные вспомогательные файлы, которые стандарт EPUB требует для описания книги. Можно считать, что EPUB — это веб-сайт, с некоторыми ограничениями и созданный по особым правилам." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/pages/page_for_geeks/" />
+<meta property="article:published_time" content="2015-04-24T08:15:11+00:00" />
+<meta property="article:modified_time" content="2015-04-24T08:15:11+00:00" />
+
+	<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Для гиков"/>
+<meta name="twitter:description" content="EPUB изнутри На самом деле EPUB — это ZIP-файл, сжатый особым образом. В этом легко убедиться: измените расширение любого файла .epub на .zip и разархивируйте его любым архиватором. Внутри этого архива вы обнаружите файлы содержимого книги (в формате XHTML), дополнительные файлы иллюстраций, шрифтов и т. д., и обязательные вспомогательные файлы, которые стандарт EPUB требует для описания книги. Можно считать, что EPUB — это веб-сайт, с некоторыми ограничениями и созданный по особым правилам."/>
+
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/custom.css">
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container">
+		<div class="logo">
+			<a class="logo__link" href="/" title="Новости электронного книгоиздания" rel="home">
+				<div class="logo__title">Новости электронного книгоиздания</div>
+				<div class="logo__tagline">Всё о производстве и дистрибуции электронных книг. И о книгах вообще</div>
+			</a>
+		</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Для гиков</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg>
+	<time class="meta__text" datetime="2015-04-24T08:15:11">2015-04-24</time>
+</div>
+</div>
+		</header><div class="content post__content clearfix">
+			<h3 id="epub-изнутри">EPUB изнутри</h3>
+<p>На самом деле EPUB — это ZIP-файл, сжатый особым образом. В этом легко убедиться: измените расширение любого файла <em>.epub</em> на .zip и разархивируйте его любым архиватором. Внутри этого архива вы обнаружите файлы содержимого книги (в формате XHTML), дополнительные файлы иллюстраций, шрифтов и т. д., и обязательные вспомогательные файлы, которые стандарт EPUB требует для описания книги. Можно считать, что EPUB — это веб-сайт, с некоторыми ограничениями и созданный по особым правилам.</p>
+<p>Минимальный набор файлов, который входит в EPUB (речь о EPUB 2, пока самом распространённом, который с большей или меньшей гарантией будет прочитан любой программой или устройством, поддерживающим EPUB) , должен быть следующим:</p>
+<pre><code>.
+├── mimetype
+├── META-INF
+│   └── container.xml
+└── OEBPS
+    ├── content.opf
+    ├── toc.ncx
+    ├── Text
+    ├── Styles
+    ├── Fonts
+    ├── Images
+    ├── Video
+    ├── Audio
+    └── Misc
+</code></pre><ul>
+<li>
+<p>файл <em>mimetype</em>, единственный файл внутри EPUB, который остаётся несжатым в составе архива, с одной единственной строчкой <code>application/epub+zip</code>,</p>
+</li>
+<li>
+<p>папка <em>META-INF</em> с файлом <em>container.xml</em>, который указывает, где хранится содержимое книги,</p>
+</li>
+<li>
+<p>папка <em>OEBPS</em>, в которой должны быть:</p>
+<ul>
+<li>файл с метаданными книги, списком всех файлов, которые нужны для ее содержимого, описанием последовательности чтения файлов и путеводителем по ключевым файлам (обычно он называется <em>content.opf</em> ),</li>
+<li>файл <em>toc.ncx</em> — техническое оглавление книги в том виде, в котором оно будет считано программой для чтения и показано пользователю не внутри книги, а при клике на соответствующую кнопке интерфейса,</li>
+<li>файл <em>stylesheet.css</em> с описанием таблицы стилей для оформления текста (CSS-файлов может быть несколько, обычно их группируют в папку <em>Styles</em>),</li>
+<li>собственно файлы содержимого, например, в папке <em>Text</em>,</li>
+<li>папка с иллюстрациями <em>Images</em>, шрифтами <em>Fonts</em> и т. д.</li>
+</ul>
+<h4 id="ключевой-файл-contentopf">Ключевой файл <em>content.opf</em></h4>
+<p><em>Content.opf</em> — главный файл EPUB, в котором хранятся метаданные книги, опись всего содержимого EPUB и определяет для программы чтения последовательность воспроизведения книги. Он состоит из трёх (EPUB3) или четырёх (EPUB2) разделов:</p>
+<p><code>&lt;metadata&gt;…&lt;/metadata&gt;</code> — метаданные (или выходные данные) книги в формате Dubline Core, то есть язык, название книги, :её автор, аннотация, идентификатор, название файла обложки:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml"></code></pre></div></li>
+</ul>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p><code>&lt;manifest&gt;…&lt;/manifest&gt;</code> — полная опись файлов внутри EPUB:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml">    <span style="color:#f92672">&lt;manifest&gt;</span>
+      <span style="color:#f92672">&lt;item</span> <span style="color:#a6e22e">id=</span><span style="color:#e6db74">&#34;ncx&#34;</span> <span style="color:#a6e22e">href=</span><span style="color:#e6db74">&#34;toc.ncx&#34;</span> <span style="color:#a6e22e">media-type=</span><span style="color:#e6db74">&#34;application/x-dtbncx+xml&#34;</span><span style="color:#f92672">/&gt;</span>
+      <span style="color:#f92672">&lt;item</span> <span style="color:#a6e22e">id=</span><span style="color:#e6db74">&#34;cover.xhtml&#34;</span> <span style="color:#a6e22e">href=</span><span style="color:#e6db74">&#34;Text/cover.xhtml&#34;</span> <span style="color:#a6e22e">media-type=</span><span style="color:#e6db74">&#34;application/xhtml+xml&#34;</span><span style="color:#f92672">/&gt;</span>
+    <span style="color:#f92672">&lt;item</span> <span style="color:#a6e22e">id=</span><span style="color:#e6db74">&#34;cover.jpg&#34;</span> <span style="color:#a6e22e">href=</span><span style="color:#e6db74">&#34;Images/cover.jpg&#34;</span> <span style="color:#a6e22e">media-type=</span><span style="color:#e6db74">&#34;image/jpeg&#34;</span><span style="color:#f92672">/&gt;</span>
+      <span style="color:#f92672">&lt;item</span> <span style="color:#a6e22e">id=</span><span style="color:#e6db74">&#34;title.xhtml&#34;</span> <span style="color:#a6e22e">href=</span><span style="color:#e6db74">&#34;Text/title.xhtml&#34;</span> <span style="color:#a6e22e">media-type=</span><span style="color:#e6db74">&#34;application/xhtml+xml&#34;</span><span style="color:#f92672">/&gt;</span>
+    <span style="color:#f92672">&lt;item</span> <span style="color:#a6e22e">id=</span><span style="color:#e6db74">&#34;text.xhtml&#34;</span> <span style="color:#a6e22e">href=</span><span style="color:#e6db74">&#34;Text/text.xhtml&#34;</span> <span style="color:#a6e22e">media-type=</span><span style="color:#e6db74">&#34;application/xhtml+xml&#34;</span><span style="color:#f92672">/&gt;</span>
+      <span style="color:#f92672">&lt;item</span> <span style="color:#a6e22e">id=</span><span style="color:#e6db74">&#34;styles.css&#34;</span> <span style="color:#a6e22e">href=</span><span style="color:#e6db74">&#34;Styles/styles.css&#34;</span> <span style="color:#a6e22e">media-type=</span><span style="color:#e6db74">&#34;text/css&#34;</span><span style="color:#f92672">/&gt;</span>
+  <span style="color:#f92672">&lt;/manifest&gt;</span>
+</code></pre></div><p><code>&lt;spine&gt;…&lt;/spine&gt;</code> — «корешок», то есть последовательность воспроизведения текстовых файлов:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml"><span style="color:#f92672">&lt;spine</span> <span style="color:#a6e22e">toc=</span><span style="color:#e6db74">&#34;ncx&#34;</span><span style="color:#f92672">&gt;</span>
+    <span style="color:#f92672">&lt;itemref</span> <span style="color:#a6e22e">idref=</span><span style="color:#e6db74">&#34;cover.xhtml&#34;</span><span style="color:#f92672">/&gt;</span>
+    <span style="color:#f92672">&lt;itemref</span> <span style="color:#a6e22e">idref=</span><span style="color:#e6db74">&#34;title.xhtml&#34;</span><span style="color:#f92672">/&gt;</span>
+    <span style="color:#f92672">&lt;itemref</span> <span style="color:#a6e22e">idref=</span><span style="color:#e6db74">&#34;text.xhtml&#34;</span><span style="color:#f92672">/&gt;</span>
+  <span style="color:#f92672">&lt;/spine&gt;</span>
+</code></pre></div><p><code>&lt;guide&gt;…&lt;/guide&gt;</code> — «путеводитель по книге», то есть описание назначения ключевых текстовых файлов:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml">  <span style="color:#f92672">&lt;guide&gt;</span>
+    <span style="color:#f92672">&lt;reference</span> <span style="color:#a6e22e">type=</span><span style="color:#e6db74">&#34;cover&#34;</span> <span style="color:#a6e22e">title=</span><span style="color:#e6db74">&#34;Cover&#34;</span> <span style="color:#a6e22e">href=</span><span style="color:#e6db74">&#34;Text/cover.xhtml&#34;</span><span style="color:#f92672">/&gt;</span>
+    <span style="color:#f92672">&lt;reference</span> <span style="color:#a6e22e">type=</span><span style="color:#e6db74">&#34;title-page&#34;</span> <span style="color:#a6e22e">title=</span><span style="color:#e6db74">&#34;Title Page&#34;</span> <span style="color:#a6e22e">href=</span><span style="color:#e6db74">&#34;Text/title.xhtml&#34;</span><span style="color:#f92672">/&gt;</span>
+    <span style="color:#f92672">&lt;reference</span> <span style="color:#a6e22e">type=</span><span style="color:#e6db74">&#34;text&#34;</span> <span style="color:#a6e22e">title=</span><span style="color:#e6db74">&#34;Text&#34;</span> <span style="color:#a6e22e">href=</span><span style="color:#e6db74">&#34;Text/text.xhtml&#34;</span><span style="color:#f92672">/&gt;</span>
+  <span style="color:#f92672">&lt;/guide&gt;</span>
+<span style="color:#f92672">&lt;/package&gt;</span>
+</code></pre></div><h3 id="epub-для-продвинутых-пользователей">EPUB для продвинутых пользователей</h3>
+<p>Программисту и гику разобраться в том, что такое EPUB, будет совсем несложно. Достаточно ознакомиться со <a href="https://www.w3.org/community/epub3/">спецификацией формата</a> на сайте W3Consortium. Советуем, однако, прочитать краткие руководства, написанные известным специалистом по EPUB Лайзой Дейли о формате EPUB 2 <a href="http://www.ibm.com/developerworks/xml/tutorials/x-epubtut/index.html?ca=drs-">Build a digital book with EPUB</a>» и EPUB 3 «<a href="http://www.ibm.com/developerworks/web/library/x-richlayoutepub/index.html">Create rich-layout publications in EPUB 3 with HTML5, CSS3, and MathML</a>». Руководства предназначены в первую очередь для тех, кто знает, что такое XHTML и CSS и как ими пользоваться. Они будут полезны и тем, кто не хочет разбираться в тонкостях XML, но может столкнуться, к примеру, с проблемами при конвертации файлов верстки в EPUB. Если же информации вам недостаточно, то рекомендуем вам книги Джарета Бьюза «<a href="http://goo.gl/IwlwrO">EPUB From the Ground Up: A Hands-On Guide to EPUB 2 and EPUB 3</a>», Лизы Кастро «<a href="http://goo.gl/EwuLJ">EPUB: Straight to the Point</a>», «<a href="http://goo.gl/338GQE">From InDesign CS 5.5 to EPUB and Kindle</a>», Пэрайи Бёрка «<a href="http://iampariah.com/books/epublishing-with-indesign">Epublishing with InDesign</a>», а также книгу Мэтта Гарриша и Маркуса Гиллинга «<a href="http://shop.oreilly.com/product/0636920024897.do">EPUB 3 Best Practices</a>».</p>
+<p>Теперь, если вы смогли дочитать это руководство до конца, то вы и в самом деле можете открыть текстовый редактор, создать все эти файлы, например, в директории <em>MY-EBOOK</em>. Имейте в виду, что размер каждого текстового файла в EPUB 2 не должен превышать 260 Кб. (Этого ограничения уже нет в EPUB 3, однако свои ограничения накладывают платформы для дистрибуции.) Вся книга может быть практически любого размера, но состоять она должна из отдельных частей.</p>
+<p>Теперь осталось упаковать файлы таким образом, чтобы файл <em>mimetype</em> оказался архиве первым и несжатым, а все остальные файлы сохранили структуру папки. Для этого надо перейти в папку с файлами для EPUB и выполните две команды:</p>
+<pre><code>$ zip -0Xq my-book.epub mimetype
+$ zip -Xr9Dq my-book.epub
+</code></pre><p>(То же самое можно сделать с помощью утилиты ePub Zip/Unzip или eCanCrusher.) На выходе у вас получится файл электронной книги <em>my-book.epub</em>. Не забудьте проверить его — с помощью утилиты <a href="http://code.google.com/p/epubcheck/">epubcheck</a>, <a href="http://www.pagina-online.de/produkte/epub-checker/">EPUB-checker</a> или воспользовавшись <a href="http://validator.idpf.org/">онлайновым валидатором IDPF</a>. Кроме того, вы можете воспользоваться онлайновым сервисом <a href="http://ebookflightdeck.com/">FlightDeck</a>, чтобы узнать, как можно улучшить вашу книгу (с технической точки зрения, естественно).</p>
+<p>Готово!</p>
+<p>Для тех, кто всё это смог сделать, рекомендуем, чтобы не мучиться с обычными текстовыми редакторами, использовать для производства EPUB-файлов специализированными редакторами — <a href="https://github.com/user-none/Sigil">Sigil</a>, <a href="https://www.barebones.com/products/bbedit/">BBEdit</a> или <a href="http://www.oxygenxml.com/xml_author.html">oXygen XML Author</a>. Самый удобный из них — редактор <strong>Sigil</strong>, позволяющий с нуля сделать EPUB 2 (и 3) или отредактировать его. Создавая EPUB, Sigil — на основе стандартного шаблона — генерирует базовую структуру EPUB. Все изменения файлов контента (добавление или удаление текстовых файлов, файлов шрифтов и т. д.) Sigil автоматически вносит изменения в <em>content.opf</em> и <em>toc.ncx</em>, избавляя от большого объёма ручной работы.</p>
+<p>Все эти редакторы, конечно, не идеальны. Sigil не слишком устойчив в работе, не всегда корректно отображает шрифты и т. д. BBEdit умеет открывать, редактировать и корректно сохранять EPUB, но не умеет автоматически исправлять состав <code>manifest</code> внутри <em>content.opf</em>. Редактор oXygen XML Author — вариант программы oXygen XML Editor, мощного XML-редактора, предназначенного для работы со структурированными данными индустриальных масштабов. Это и его минус — для вёрстки электронных книг его функции избыточны, а в настройках легко разберется только профессионал в XML.</p>
+<p>Для дизайнеров книг более привычным, скорее всего, окажется создание EPUB не в специализированном редакторе, а в привычной и знакомой программе вёрстки InDesign. Подробнее об этом читайте <a href="/pages/page_indesign_to_epub">дальше</a>. Впрочем, без редактора, скорее всего, не обойтись при доведении EPUB, конвертированного в InDesign, до кондиции.</p>
+
+		</div>
+	</article>
+</main>
+
+
+<nav class="post-nav flex">
+	<div class="post-nav__item post-nav__item--prev">
+		<a class="post-nav__link" href="/pages/page_short/" rel="prev"><span class="post-nav__caption">«&thinsp;Previous</span><p class="post-nav__post-title">Краткая инструкция</p></a>
+	</div>
+	<div class="post-nav__item post-nav__item--next">
+		<a class="post-nav__link" href="/pages/page_rreport2016/" rel="next"><span class="post-nav__caption">Next&thinsp;»</span><p class="post-nav__post-title">3. Электронное книгоиздание в России (2016). Итоги пятилетки</p></a>
+	</div>
+</nav>
+
+
+			</div>
+			
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			Ⓐ|CC-BY 2021 Владимир Харитонов.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+<script src="/js/custom.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+</body>
+</html>

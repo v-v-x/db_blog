@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>typography on Новости электронного книгоиздания</title>
+    <link>/tags/typography/</link>
+    <description>Recent content in typography on Новости электронного книгоиздания</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 21 Nov 2017 13:44:17 +0000</lastBuildDate><atom:link href="/tags/typography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Буквица: история и CSS</title>
+      <link>/posts/2017-11-21-a/</link>
+      <pubDate>Tue, 21 Nov 2017 13:44:17 +0000</pubDate>
+      
+      <guid>/posts/2017-11-21-a/</guid>
+      <description>Большая и полезная статья по истории буквицы и о том, как их теперь верстать в вебе с помощью CSS: https://www.smashingmagazine.com/2012/04/drop-caps-historical-use-and-current-best-practices/ Для EPUB, в общем, тоже полезно.</description>
+    </item>
+    
+    <item>
+      <title>10 книг по типографике от Brain Pickings</title>
+      <link>/posts/2011-08-01-a/</link>
+      <pubDate>Mon, 01 Aug 2011 13:43:04 +0000</pubDate>
+      
+      <guid>/posts/2011-08-01-a/</guid>
+      <description>10 книг по типографике от Brain Pickings
+10 Essential Books on Typography
+What Arab culture has to do with industrial ideals, midcentury design and Victorian hand-lettering. Whet</description>
+    </item>
+    
+    <item>
+      <title>Вспомнить шпоны и шпации. Кое-что о вёрстке EPUB в ID CS 5.5</title>
+      <link>/posts/2011-07-29-5/</link>
+      <pubDate>Fri, 29 Jul 2011 12:33:30 +0000</pubDate>
+      
+      <guid>/posts/2011-07-29-5/</guid>
+      <description>В InDesign CS 5.5 появилась новая возможность — индивидуальная настройка параметров экспорта для объектов. В частности, картинки можно снабжать разрывами страницы (до, после или до и после картинки). У этой функции есть отличное применение. Дело в том, что &amp;ldquo;разрезание&amp;rdquo; макета на отдельные xhtml-файлы в InDesign можно делать или вручную, собирая отдельные файлы макета в Book, или автоматически, выставляя в опциях экспорта Break Document at Paragraph Style и выбирая соответствующий стиль — главы, например.</description>
+    </item>
+    
+    <item>
+      <title>PT Sans - Паратайп сделал бесплатный шрифт. Скоро будет и для сети. Рекомендую</title>
+      <link>/posts/2009-12-28-126/</link>
+      <pubDate>Mon, 28 Dec 2009 10:37:24 +0000</pubDate>
+      
+      <guid>/posts/2009-12-28-126/</guid>
+      <description>Компания ПараТайп объявляет о выходе в свет шрифта ПТ Санс—первой общенациональной бесплатной шрифтовой гарнитуры.
+Гарнитура ПТ Санс является частью проекта по созданию комплекта бесплатных общедоступных российских шрифтов с открытой пользовательской лицензией, призванных обеспечить потребности многонациональной страны в шрифте, который позволит не только обслуживать официальную и деловую переписку, но и служить средством развития национальных письменностей и межкультурного обмена. Проект является частью программы, посвящённой 300-летию реформы русского алфавита, проведённой Петром I с 1708 по 1710 год, и осуществляется при финансовой поддержке Федерального агентства по печати и массовым коммуникациям Российской Федерации.</description>
+    </item>
+    
+    <item>
+      <title>О верстке электронных книг</title>
+      <link>/posts/2008-06-25-26/</link>
+      <pubDate>Wed, 25 Jun 2008 09:01:16 +0000</pubDate>
+      
+      <guid>/posts/2008-06-25-26/</guid>
+      <description>Полезная статья (с обещанным продолжением) о проблемах верстки и недостатках основных форматов электронных книг: Sans стыда, sans совести » Blog Archive » Об электронных книгах и Sans стыда, sans совести » Blog Archive » Еще об электронных книгах.</description>
+    </item>
+    
+  </channel>
+</rss>

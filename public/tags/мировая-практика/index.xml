@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Мировая практика on My New Hugo Site</title>
+    <link>http://example.org/tags/%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/</link>
+    <description>Recent content in Мировая практика on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2017 12:38:30 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Подписные сервисы наносят ответный удар</title>
+      <link>http://example.org/posts/2017-10-27-a/</link>
+      <pubDate>Fri, 27 Oct 2017 12:38:30 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2017-10-27-a/</guid>
+      <description>В смысле — очень уж бодро себя ведут. Вот Kobo Plus (подписочный сервис Kobo в Нидерландах), например, подписывает эксклюзивные контракты с популярными местными авторами. Да так удачно, что книжные магазины обижаются и перестают продавать бумажные книжки этих авторов. Причём книг на голландском в сервисе не так уж много — около 20 тысяч. Договорились с четырьмя сотнями издателей. Каталог ведь не обязательно должен быть очень большим, главное — интересным и разнообразным. А Amazon вообще, говорят, озверел, и прямо-таки навязывает свой Kindle Unlimited каждому новому пользователю Kindle.</description>
+    </item>
+    
+    <item>
+      <title>Русские проблемы английской книготорговли</title>
+      <link>http://example.org/posts/2017-10-26-a/</link>
+      <pubDate>Thu, 26 Oct 2017 11:51:05 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2017-10-26-a/</guid>
+      <description>Возможное неожиданное последствие истории с банком «Открытие» — проблемы могут появиться у крупнейшей в Великобритании книготорговой сети Waterstones. Нет, счетов у книжных магазинов там нет, но был кредит у кипрского банка, которым владеет «Открытие». Да и у владельца Waterstones, г-на Мамута в «Открытии», пишет The Bookseller, зависло то ли три, то ли шесть миллиардов. Хех. Жалко Waterstones.</description>
+    </item>
+    
+    <item>
+      <title>Никакого спада чтения в Америке нет (Gallup)</title>
+      <link>http://example.org/posts/2017-01-12-a/</link>
+      <pubDate>Thu, 12 Jan 2017 14:03:25 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2017-01-12-a/</guid>
+      <description>Старый добрый Gallup проснулся и впервые за 14 лет спросил у американцев о том, сколько книг они читают. И внезапно выяснил, что слухи о снижении чтения сильно преувеличены. Более того, пенсионеры стали читать даже существенно больше. Во всяком случае, данные лонгитюдного мониторинга Gallup отличаются от ежегодных опросов Pew Research. Что, конечно, напрягает, но вселяет надежду. Возможно, это объясняется разными методиками проведения опросов. У Gallup и выборка меньше. Gallup, кстати, спросил и о том, книги в какой форме американцы предпочитают читать.</description>
+    </item>
+    
+    <item>
+      <title>ЖЗЛ в Amazon</title>
+      <link>http://example.org/posts/2016-01-26-a/</link>
+      <pubDate>Tue, 26 Jan 2016 11:05:44 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2016-01-26-a/</guid>
+      <description>Издательство «Молодая гвардия» долго не хотело иметь никакого дела с электронными книгами. И с бумажными ему было хорошо, а электронные… Ну, что с них толку? А сегодня пришла рекламная рассылка от Amazon, что «&amp;ldquo;Жизнь Замечательных Людей&amp;rdquo; впервые в электронном формате — эксклюзивно на Amazon». Проверил — точно, 25 книг. Ну, тоже хорошо. Только непонятно, почему эксклюзивно? P. S. Полистал превью книжек, везде бросилась в глаза одна и та же ошибка конвертации — неразрывный пробел после инициалов превратился в дефис.</description>
+    </item>
+    
+    <item>
+      <title>Новости середины лета 2015</title>
+      <link>http://example.org/posts/2015-07-15-a/</link>
+      <pubDate>Wed, 15 Jul 2015 11:02:28 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-07-15-a/</guid>
+      <description>Главное событие начала лета состоит из двух и связано с subscription: (1) Переход Amazon Kindle Unlimited на другой принцип расчёта базы для выплат роялти. Компания каждый месяц выделяет какую-то фиксированную сумму (на июль 2015 — $11 млн), которые распределяются между авторами в зависимости от активности читателей. До июля основным параметром, от которого зависели доходы авторов, были загрузки и чтение более 10%. Теперь — количество прочитанных пользователем страниц. Комментаторы теряются в сомнениях, к чему же это приведёт — к смерти коротких повестей или длинных научно-популярных книг?</description>
+    </item>
+    
+    <item>
+      <title>Epublishing. Новости 18–31/05/2015</title>
+      <link>http://example.org/posts/2015-06-01-a/</link>
+      <pubDate>Mon, 01 Jun 2015 12:15:33 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-06-01-a/</guid>
+      <description>Новость мая, конечно, временное закрытие Google приёма электронных книг через своей портал. Формально — для всяческих улучшений. Фактически — после многочисленных обвинений в отсутствии проверки пиратского контента. Поскольку действие DMCA в даном случае под вопросом (контент продаётся на Google Play), то налицо — столкновение большой компании с реальностью транзакционной модели авторского права. Договориться о лицензии часто бывает совсем не сложно, но всё равно очень долго. Поможет ли издателям сервис IPR License, который позволяет покупать лицензии онлайн, делать это «быстрее, проще и дешевле», пока непонятно.</description>
+    </item>
+    
+    <item>
+      <title>Epublishing. Новости за 4–11/05/2015</title>
+      <link>http://example.org/posts/2015-05-12-a/</link>
+      <pubDate>Tue, 12 May 2015 20:25:12 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-05-12-a/</guid>
+      <description>Громкая новость прошлой недели — данные о состоянии книжной индустрии в Великобритании. В 2014 году она сократилась на 2%, но при этом значительно выросли продажи электронных книг, доля которых в продажах теперь составляет 35% рынка (для художественной литературы — даже 37%), а также экспорт английских книг (+44%). О продажах в I квартале 2015 отчиталось Simon &amp;amp; Schuster: на электронные книги приходится 26,3% продаж (на 1 пункт больше, чем год назад), а если считать с аудиокнигами — 31%.</description>
+    </item>
+    
+    <item>
+      <title>35%, Карл!</title>
+      <link>http://example.org/posts/2015-05-08-b/</link>
+      <pubDate>Fri, 08 May 2015 22:04:41 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-05-08-b/</guid>
+      <description>According to the latest statistics released by The Publishers Association, the UK book publishing industry was stable in 2014 and valued at 4.3 billion pounds. Digital products account for 35% of the industry’s total revenue, and export sales account for 44%.
+ Source: Latest UK Book Publishing Statistics Show Stable Market - Publishing Perspectives 35% доходов книжной индустрии в Великобритании приходится на цифру. Из 4,3 миллиардов фунтов стерлингов.</description>
+    </item>
+    
+    <item>
+      <title>Epublishing. Новости 27 апреля — 3 мая 2015 г.</title>
+      <link>http://example.org/posts/2015-05-06-a/</link>
+      <pubDate>Wed, 06 May 2015 15:25:29 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-05-06-a/</guid>
+      <description>Главная новость прошлой недели — анонс проекта Барака Обамы, предусматриваюшего выделение в течение трех лет 250 млн USD на доступ к электронным книгам для детей из малоимущих семей. Участвуют все крупные издательства США. Доступ — через приложение, которое разрабатывает New York Public Library, а также в публичных и школьных библиотеках по всей стране. Год литературы по-американски. Точнее, три года. Ещё одна важная новость — сервис чтения по подписке (а с позапрошлой недели — ещё и по продаже) Oyster заключил договор с последним и самым крупным издателем из Big 5 — Penguin Random House.</description>
+    </item>
+    
+    <item>
+      <title>Epublishing. Новости 20–26/04/2015</title>
+      <link>http://example.org/posts/2015-04-27-a/</link>
+      <pubDate>Mon, 27 Apr 2015 12:23:08 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-04-27-a/</guid>
+      <description>Компания Olive Software начинает продвигать (b2b) технологию «расширения» обычных epub. Правда, всё это привязано к их облачному вьюеру. Пример реализации можно посмотреть тут. Выглядит страшновато, но идея интересная. Amazon косвенно отчиталась о том, как работает Kindle Unlimited и программа аренды: за март 2015 г. компания заплатит авторам $9.3 млн, по $1.34 за каждый взятый в аренду «экземпляр». То есть почти 7 млн экз. Не очень густо. На тернистую дорожку instant publishing вступило Associated Press: книги из материалов агентства, в том числе фото, делает Mango Media, а распространяет Ingram.</description>
+    </item>
+    
+    <item>
+      <title>Маленький телефонный и почтовый справочник мировой книжной отрасли. Вдруг, кому</title>
+      <link>http://example.org/posts/2015-04-23-a/</link>
+      <pubDate>Thu, 23 Apr 2015 11:09:15 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-04-23-a/</guid>
+      <description>Ежегодное обновление справочника от Publishing Perspectives: http://www.publishingtrends.com/2015/04/publishing-trends-annual-contact-sheet-2015/</description>
+    </item>
+    
+    <item>
+      <title>Epublishing. Новости недели 13–19/04/2015</title>
+      <link>http://example.org/posts/2015-04-20-a/</link>
+      <pubDate>Mon, 20 Apr 2015 14:51:59 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-04-20-a/</guid>
+      <description>Вопреки опасениям, HarperCollins быстро заключил новый договор с Amazon. По слухам, Amazon настаивал на понижении прайс-листа для электронных книг. К чему пришли стороны, впрочем, неизвестно. Представитель издательства радостно заявил, что всё ОК и книги HarperCollins никуда из Amazon не денутся. Ну, и славно. Пара новостей о подписочных сервисах. Издательский монстр Penguin Random House не слишком торопится заключать договоры с подписочными сервисами, однако поставило 9000 своих аудиокниг в Scribd (каалог аудиокниг Scribd вырос до 45 000) и 5000 в Mofibo.</description>
+    </item>
+    
+    <item>
+      <title>Epublishing. Новости 6–12 апреля 2015</title>
+      <link>http://example.org/posts/2015-04-13-a/</link>
+      <pubDate>Mon, 13 Apr 2015 22:01:18 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-04-13-a/</guid>
+      <description>Одна из главных новостей прошлой недели — запуск подписочным сервисом Oyster магазина электронных книг. Магазин доступен в вебе. Обещана синхронизация с чтением в приложении. Не все книги, которые продаются, доступны по подписке. И среди них часто встречаются книги Hachette. Видимо, реплика Арно Нури, CEO Hachette, о том, что подписка бессмысленна, была адресована только тем глупым сервисам, которые, в отличие от Oyster, ещё не начали продавать книги. Некоторые наблюдатели красиво написали, что вот, наконец, будет красивый Amazon для хипстеров.</description>
+    </item>
+    
+    <item>
+      <title>Книги для «игреков». Белая книга от Publishing Perspectives</title>
+      <link>http://example.org/posts/2015-04-02-a/</link>
+      <pubDate>Thu, 02 Apr 2015 12:48:35 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-04-02-a/</guid>
+      <description>Коротко и понятно о том, как читают, где покупают, к кому прислушиваются при выборе книг те, кто родились в 1982–2004 гг.: DESIGNING BOOKS FOR TOMORROW’S READERS: HOW MILLENNIALS CONSUME CONTENT</description>
+    </item>
+    
+    <item>
+      <title>Epublishing. Новости недели 16/03–22/03/2015</title>
+      <link>http://example.org/posts/2015-02-23-b/</link>
+      <pubDate>Mon, 23 Mar 2015 10:34:37 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-02-23-b/</guid>
+      <description>Главная новость прошлой недели—приобретение японским «магазином магазинов» Rakuten (который, помимо всего прочего, владеет куском Viber, а в России—«Озона») библиотечного сервиса OverDrive за 410 млн $. У OverDrive в клиентах 30 тыс. библиотек, по преимуществу в США, которым компания обеспечивает доступ к приличному каталогу электронных и аудиокниг в 2,5 млн наименований от 5 тысяч издателей. (Спросим шёпотом: «А в Россию OverDrive придёт?» Шёпотом и ответим: «Зачем, если тут уже есть чё?») Немецкий агрегатор книг Bookwire анонсировал свои планы по дальнешему международному расширению бизнеса.</description>
+    </item>
+    
+    <item>
+      <title>Вот это новость. Rakuten покупает OverDrive</title>
+      <link>http://example.org/posts/2015-03-19-a/</link>
+      <pubDate>Thu, 19 Mar 2015 08:44:14 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-03-19-a/</guid>
+      <description>Rakuten, японский «магазин магазинов» и владелец книжной платформы Kobo, покупает компанию OverDrive, крупнейшего дистрибьютора книжного контента (прежде всего, для библиотек) за 410 млн USD. Если учесть, что Rakuten контролирует российский «Озон», а «Озон»—«Литрес», то конкуренция на вялом рынке электронных книг в библиотеках может стать интереснее.</description>
+    </item>
+    
+    <item>
+      <title>Bookwire о России</title>
+      <link>http://example.org/posts/2015-03-16-b/</link>
+      <pubDate>Mon, 16 Mar 2015 10:22:26 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-03-16-b/</guid>
+      <description>The company has also been active in Russia since 2012: “We have already signed great publishers there but obviously the situation in Russia is not so easy at the moment. But we distribute their content worldwide. It’s just a smaller operation.” (Йенс Клингельхёфер) Большой материал о международных планах Bookwire тут.</description>
+    </item>
+    
+    <item>
+      <title>Epublishing. Новости 9/03–15/03/2015</title>
+      <link>http://example.org/posts/2015-03-16-a/</link>
+      <pubDate>Mon, 16 Mar 2015 10:16:04 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-03-16-a/</guid>
+      <description>Amazon запустил свой Wattpad — сервис Writeon, который может понравиться авторам публиковать свои книги и получать обратную связь от читателей, а читателям — читать их онлайн и общаться с авторами понравившихся текстов. А Amazon’у, видимо, просто нравится убивать конкурентов. Получать feedback, впрочем, можно и в месте, которое и так для этого готово. Тем более, если писать на нём удобно. Филип Дингра из Стэнфордского университета опубликовал свою книгу по главам в Medium.</description>
+    </item>
+    
+    <item>
+      <title>Scribd и self-publishing</title>
+      <link>http://example.org/posts/2015-03-10-a/</link>
+      <pubDate>Tue, 10 Mar 2015 12:06:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-03-10-a/</guid>
+      <description>Scribd заключил договор с базирующимся в Германии сервисом для самопубликации XinXii.com. Надеюсь, пользователям Scribd будет не только смешно.</description>
+    </item>
+    
+    <item>
+      <title>Epublishing. Новости 2/03–8/03/2015</title>
+      <link>http://example.org/posts/2015-03-10-b/</link>
+      <pubDate>Tue, 10 Mar 2015 10:28:59 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-03-10-b/</guid>
+      <description>Грустная и показательная картинка о том, как книг в окружающей физической среде становится меньше (во всяком случае, в Великобритании): Блог Good-eReader запустил специализированный App Store для книжных приложений под Android. В частности — для eInk-читалок типа Icarus, Onyx, Energy Sistem, Boyce. Джо Уикерт, экс-директор Tools of Change, популярно объясняет, почему нынешние студенты и нынешние электронные учебники плохо совместимы друг с другом. Чтение в США продолжает расти. Особенно — электронных книг: в среднем электронные книги читают 28% опрощенных, больше — женщины (33%), молодежь (18–29 лет — 37%), люди с высшим образованием (45%), с высоким годовым доходом и т.</description>
+    </item>
+    
+    <item>
+      <title>Epublishing. Новости 23/02–1/3/2015</title>
+      <link>http://example.org/posts/2015-03-02-a/</link>
+      <pubDate>Mon, 02 Mar 2015 11:53:39 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-03-02-a/</guid>
+      <description>Markets • Компания Boston Consulting Group, опросив жалкую тысячу пользователей мобильных устройств в разных странах, пришла к выводу, что только в США мобильный рынок контента в 2015 году вырастет на 10% и достигнет $10 млрд, из которых $3 млрд придётся на игры, а $4 млрд — на электронные книги. • В Германии ситуация «запутанная» (самое часто встречающееся слово в этом обзоре). У каких-то издателей 15–20% и Tolino переплюнуло Amazon, а у кого-то совсем ничего и Tolino в три раза меньше, чем Amazon.</description>
+    </item>
+    
+    <item>
+      <title>Epublishing. Новости 16–22/02/2015</title>
+      <link>http://example.org/posts/2015-02-23-a/</link>
+      <pubDate>Mon, 23 Feb 2015 13:03:29 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-02-23-a/</guid>
+      <description>По подсчётам Publishers Lunch, авторы, участвующие в Kindle Unlimited, несмотря на увеличение фонда компенсации, пока получают за свои книги в среднем всё меньше и меньше: в январе 2015 г. в среднем 1.38 $ за каждую загруженную книгу, что на 5 ¢ меньше, чем в декабре. Во Франции продолжается наступление на подписочные книжные сервисы. Министр культуры Флёр Пелерин заявила, что Kindle Unlimited и другие подобные сервисы незаконны, ибо нарушают законодательно закреплённую систему фиксации цены на книгу.</description>
+    </item>
+    
+    <item>
+      <title>Epublishing. Новости 09–15/02/2015</title>
+      <link>http://example.org/posts/2015-02-16-a/</link>
+      <pubDate>Mon, 16 Feb 2015 08:54:38 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-02-16-a/</guid>
+      <description>Может быть, не самая главная, но самая шумная новость — открытие отдела электронных книг на русском языке в Amazon (в разделе Foreign Languages). Собственно, просто собрали все книги на русском (9,5 тысяч) в одном месте, выделели несколько самых популярных жанров. Не более того. Кроме того, Amazon запустил Kindle Unlimited в Канаде и Мексике. В США за год на 3.2% сократились продажи планшетов. Но ещё сильнее — примерно на 15% от рынка в целом — относительные и абсолютные объёмы продаж планшетов крупных брендов (Apple, Amazon, Samsung, ASUS) за счёт массового проникновения на рынок производителей менее известных производителей.</description>
+    </item>
+    
+    <item>
+      <title>Дайджест новостей недели 2–8 февраля 2015</title>
+      <link>http://example.org/posts/2015-02-08-a/</link>
+      <pubDate>Sun, 08 Feb 2015 20:09:42 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-02-08-a/</guid>
+      <description>Французское объединение издателей Syndicat National de l’Edition выступило против подписочных сервисов. Главная цель — Amazon Kindle Unlimited, главный игрок — Hachette. Формально подписочные сервисы действительно могут быть признаны нарушителями, поскольку во Франции определение цены издателями закреплено законом. Тем временем, конкуренция между подписочными сервисами и Amazon становится бодрой. На прошлой неделе в Google Web Store появилось расширение для Chrome (скачать), которое при заходе на страницу книги в Kindle Store, есть ли такая книга в каталоге Oyster Books.</description>
+    </item>
+    
+    <item>
+      <title>Springer &#43; Macmillan</title>
+      <link>http://example.org/posts/2015-01-16-a/</link>
+      <pubDate>Fri, 16 Jan 2015 09:51:25 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-01-16-a/</guid>
+      <description>Ну, вот, Springer Science and Business Media сливается с Macmillan Science and Education. Общий оборот издательской группы составит 1,5 млрд €. Крупнейший в мире издатель научной литературы. Учитывая, что и Springer, и Macmillan активно экспериментировали с электронным книгоизданием, появился серьёзный лоббист интересов издателей научной литературы по части стандартов. Может, схему Content Fragment Identifier, наконец, внедрят, и разрешится обычное затруднение людей из академической среды, связанное с электронными книгами, — «а как дать точную ссылку?</description>
+    </item>
+    
+    <item>
+      <title>Wired: чем торгуют подписочные книжные сервисы?</title>
+      <link>http://example.org/posts/2015-01-14-a/</link>
+      <pubDate>Wed, 14 Jan 2015 13:10:11 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-01-14-a/</guid>
+      <description>The money may not be the real reason publishers are coming around, however. The greatest value of these “Netflix for books” services could be that these startups share valuable reader data, says James McQuivey, an analyst with Forrester Research. Subscription services in other media rarely share information with content producers themselves on how their content is being consumed, he says. “That’s the way [these e-book subscription services] differentiate themselves in the minds of publishers, and convince publishers to join them,” says McQuivey.</description>
+    </item>
+    
+    <item>
+      <title>Amazon подготовил Kindle для русского языка</title>
+      <link>http://example.org/posts/2014-11-20-a/</link>
+      <pubDate>Thu, 20 Nov 2014 12:43:47 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2014-11-20-a/</guid>
+      <description>«В свежей прошивке Kindle Voyage c номером 5.5.0 русский язык присутствует в пунктах меню, также добавлена русифицированная клавиатура. Данное обновление существенно упрощает чтение русских книжек, их аннотирование и поиск по тексту. Также оно облегчает использование сервисов вроде Flibusta.net, где искать литературу без использования русского языка было крайне тяжело. Приход книжного Amazon в Россию длится уже несколько лет: компания наняла в начале 2013-го года Аркадия Витрука на пост гендира. Сейчас для русскоязычных читателей Kindle уже готова и офлайновая инфраструктура, что позволяет надеяться на близкий запуск всех сервисов Kindle для российского пользователя и появление российских книг в онлайн-магазине Amazon»,</description>
+    </item>
+    
+    <item>
+      <title>Электронные книги в Нидерландах</title>
+      <link>http://example.org/posts/2014-11-17-a/</link>
+      <pubDate>Mon, 17 Nov 2014 20:56:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2014-11-17-a/</guid>
+      <description>Принято считать, что европейский (континентальный) рынок, в отличие от американского и английского, значительно более консервативен в отношении электронных книг. В общем это верно, но Европа слишком большая, чтобы делать такие обобщения. Вот, например, Нидерланды, где Amazon недавно запустила свой подписочный сервис. По данным GfK продажи электронных книг в III квартале 2014 г. составили 7% книжной розницы, при этом в категории художественной литературы продаётся в электронном виде примерно каждая седьмая книга, то есть эта ниша в 2 раза опережает рынок.</description>
+    </item>
+    
+    <item>
+      <title>Amazon забрала .book</title>
+      <link>http://example.org/posts/2014-11-12-a/</link>
+      <pubDate>Wed, 12 Nov 2014 14:33:48 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2014-11-12-a/</guid>
+      <description>Компании удалось получить на закрытом аукционе право администрирование домена .book. По слухам — за 5 млн долларов. А если бы отдать его агентству ISBN, чтобы он делал лендинги для каждой книги по номеру книги. Правда, Amazon тогда было бы не очень сладко.</description>
+    </item>
+    
+    <item>
+      <title>Меэждународный рынок эл.книг: оценка и прогноз</title>
+      <link>http://example.org/posts/2014-11-12-c/</link>
+      <pubDate>Wed, 12 Nov 2014 13:46:16 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2014-11-12-c/</guid>
+      <description>Согласно отчёту компании Strategy Analytics, мировой рынок электронных книг составил в 2013 году $7 млрд (при уровне проникновения 10% пользователей) и к 2020 году он вырастет до $16,7 млрд (при 25% пользователей). При этом к 2020 году на подписочные сервисы будет приходиться 20% этого рынка.</description>
+    </item>
+    
+    <item>
+      <title>Книжный рынок Европы сократился. Продажи эл.книг выросли</title>
+      <link>http://example.org/posts/2013-12-20-a/</link>
+      <pubDate>Fri, 20 Dec 2013 12:55:11 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2013-12-20-a/</guid>
+      <description>Федерация европейских издателей ФЕИ, FEP, представляющая 28 национальных издательских групп, опубликовала данные по доходам издателей Европы за 2012 год. Общая выручка издательских домов Европе составила €22.5 миллиарда около $30.5 миллиарда, что на 1,3% меньше чем в 2011 году. Этот показатель отображает исключительно продажи книг, не включая в себя продажу международных прав. «Наиболее заметными тенденциями 2012 года стал продолжающийся рост рынка электронных книг отвечающих за 3% от продаж, а также хорошие показатели по экспорту», — утверждается в документе ФЕИ.</description>
+    </item>
+    
+    <item>
+      <title>Доклад об индустрии эл.книг в развивающихся странах</title>
+      <link>http://example.org/posts/2012-10-19-a/</link>
+      <pubDate>Fri, 19 Oct 2012 12:44:47 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2012-10-19-a/</guid>
+      <description>Octavio Kulesz: Digital Publishing in Developing Countries (2011) [English/French/Spanish] at Monoskop Log. Да, Россия там тоже есть ;) Доклад, правда, по довольно старым материалам.</description>
+    </item>
+    
+    <item>
+      <title>10 прогнозов рынка электронных книг на 2010 год от Forrster Research</title>
+      <link>http://example.org/posts/2009-12-01-a/</link>
+      <pubDate>Tue, 01 Dec 2009 13:20:48 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-12-01-a/</guid>
+      <description>Ten Predictions For The E-Book Market In 2010 | paidContent
+ 1. E Ink will lose its claim to near-100% market share for e-reader displays.
+2. Dual-screen mobile phones and netbooks will eat into e-reader demand.
+3. Apps will make non-reading devices more e-book-friendly.
+4. eReaders will get apps, too.
+5. Amazon will launch a suite of new touchscreen e-readers.
+6. B&amp;amp;N will steal market share from Amazon and Sony.</description>
+    </item>
+    
+    <item>
+      <title>Тайвань со следующего года внедряет в школы букридеры</title>
+      <link>http://example.org/posts/2009-11-30-150/</link>
+      <pubDate>Mon, 30 Nov 2009 09:33:16 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-11-30-150/</guid>
+      <description>Taiwan Plans to Roll out E-readers in Schools - PC World
+ Taiwan&#39;s Ministry of Education plans to offer e-readers to schoolkids on the island next year as part of efforts to further digitize schools and promote reading. The e-readers are part of a five-year, NT$50 billion (US$1.55 billion) budget earmarked for information technology in classrooms. Currently the ministry is reviewing designs for e-readers and doesn&#39;t yet know how many it will purchase for next year, a representative said.</description>
+    </item>
+    
+    <item>
+      <title>Писатели против издателей</title>
+      <link>http://example.org/posts/2009-11-19-168/</link>
+      <pubDate>Thu, 19 Nov 2009 13:43:21 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-11-19-168/</guid>
+      <description>Американские авторы объединились для создания е-книг | Pro-Books.ru
+ Писатели создали организацию, дабы выпускать свои книги в электронном виде без помощи издателей. Как сообщает журнал Bookseller, группа американских писателей, включая Урсулу Ле Гуин, решила миновать стадию традиционного издательского процесса и самостоятельно подготовила электронные версии своих новых произведений. Они предназначены непосредственно для чтения на ридерах Kindle and Sony. Организация Book View Press была основана в начале этого года членами сообщества Book View Cafe, в котором состояли 27 авторов, на чьем счету числилось немало бестселлеров и наград.</description>
+    </item>
+    
+    <item>
+      <title>Google стал поддерживать поиск epub</title>
+      <link>http://example.org/posts/2009-11-04-61/</link>
+      <pubDate>Wed, 04 Nov 2009 13:06:21 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-11-04-61/</guid>
+      <description>Google supporting filetype:epub « JURN blog
+ Google is now supporting the filetype:epub search modifier, for finding ebooks in the popular epub format. Google has fairly limited coverage of such files so far, at a reported 54,000 hits. Searches for Iliad and Wonderland only show a few epub editions of each.
+ </description>
+    </item>
+    
+    <item>
+      <title>Ibis Reader - ответ BookServer на магазин Google Books</title>
+      <link>http://example.org/posts/2009-11-02-66/</link>
+      <pubDate>Mon, 02 Nov 2009 23:46:54 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-11-02-66/</guid>
+      <description>Ibis Reader and BookServer : Threepress Consulting blog
+Оказывается, для BookServer готовится онлайновая читалка Ibis Reader, аналогичная Bookworm Лайзы Дейли с дополнительными функциями: оффлайновым доступом, кроссплатформенная, гтовая для мобильных устройств, с синхронизацией места чтения и закладок, без всякого DRM и с гтовым биллингом для продавцов.</description>
+    </item>
+    
+    <item>
+      <title>Рынок букридеров стал напоминать метро в час пик</title>
+      <link>http://example.org/posts/2009-11-02-a/</link>
+      <pubDate>Mon, 02 Nov 2009 23:41:21 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-11-02-a/</guid>
+      <description>Marvell Syncs With E Ink On New E-Reader Tech Aimed At Mass Market | paidContent
+ The e-reader market is beginning to resemble a crowded subway train at rush hour and the latest entry could make it feel even more crowded. Marvell Technology Group and E Ink are partnering on a “turnkey” tech solution based on one integrated chip called the Marvell Armada 166E, with the first devices due in 2010.</description>
+    </item>
+    
+    <item>
+      <title>Шаг B&amp;N в сторону электронных книг рынок оценил негативно</title>
+      <link>http://example.org/posts/2009-10-25-27/</link>
+      <pubDate>Sun, 25 Oct 2009 22:13:33 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-25-27/</guid>
+      <description>The Associated Press: Shift to e-books to hurt bookstores, analysts say После объявления о начале продаж букридера B&amp;amp;N Уолл-стрит уронил акции компании. Goldman Sachs счел, что движение в сторону цифового формата книг наносит урон магазиннной модели B&amp;amp;N. Акции упали почти на 5%. Некоторая логика в этом есть (см. ссылку в предыдущем посте) — в перспективе компании придётся поменять весь бизнес, в отличие от Amazon. Впрочем, это ведь коснётся очень и очень многих компаний&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>HP готовит масштабный POD-проект</title>
+      <link>http://example.org/posts/2009-10-21-64/</link>
+      <pubDate>Wed, 21 Oct 2009 19:46:57 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-21-64/</guid>
+      <description>AFP: HP partners with university to print digital books
+ The US computer giant announced Wednesday it has teamed with the University of Michigan to offer print versions of more than 500,000 out-of-copyright books in the school&#39;s library. The books will be available for purchase through online retail giant Amazon and other outlets including HP&#39;s own BookPrep.com, which already offers public domain volumes for print on-demand and purchase.
+ Судя по всему, этот союз решил войти на тот же рынок, что и Google с On Demand Books.</description>
+    </item>
+    
+    <item>
+      <title>Вивьен Рединг о Google Books</title>
+      <link>http://example.org/posts/2009-10-20-130/</link>
+      <pubDate>Tue, 20 Oct 2009 20:03:35 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-20-130/</guid>
+      <description>EC Media Commissioner: Our Digital Library Plan Can Beat Google’s | paidContent:UK
+ 40 percent of the British Library’s catalogue has no identified copyright owner.
+ </description>
+    </item>
+    
+    <item>
+      <title>Internet Archive: открытая архитектура хранения и дистрибуции электронных книг</title>
+      <link>http://example.org/posts/2009-10-19-29/</link>
+      <pubDate>Mon, 19 Oct 2009 20:05:54 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-19-29/</guid>
+      <description>Internet Archive: A Future for Books &amp;ndash; BookServer
+ The BookServer is a growing open architecture for vending and lending digital books over the Internet. Built on open catalog and open book formats, the BookServer model allows a wide network of publishers, booksellers, libraries, and even authors to make their catalogs of books available directly to readers through their laptops, phones, netbooks, or dedicated reading devices. BookServer facilitates pay transactions, borrowing books from libraries, and downloading free, publicly accessible books.</description>
+    </item>
+    
+    <item>
+      <title>Google Editions</title>
+      <link>http://example.org/posts/2009-10-15-a/</link>
+      <pubDate>Thu, 15 Oct 2009 20:04:59 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-15-a/</guid>
+      <description>More Details Emerge on &amp;ldquo;Google Editions,&amp;rdquo; Google&#39;s eBook Store
+ the new digital books program will launch in the first half of 2010 and will offer 400,000 to 600,000 ebooks at that time.
+ Про бизнес-модели - самое интересное:
+ As noted on The Bookseller, a site covering the Tools of Change conference, Google Editions will offer three business models. The first will allow a consumer to purchase the ebook from Google Books, Google&#39;s online collection of digitized books.</description>
+    </item>
+    
+    <item>
+      <title>Букридер для B&amp;N спроектировали экс-дизайнеры Apple и Kindle</title>
+      <link>http://example.org/posts/2009-10-15-25/</link>
+      <pubDate>Thu, 15 Oct 2009 07:40:49 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-15-25/</guid>
+      <description>Barnes &amp;amp; Noble Taps Kindle Designer For Its Athena e-Book Reader - BusinessWeek
+ Yes, it’s true. The much-anticipated device from Barnes &amp;amp; Noble, which has been eliciting oohs and ahs since leaked photos appeared on Gizmodo, was designed by Ammunition Partners, a San Francisco firm headed by former Apple design chief Robert Brunner.
+Although Amazon has never confirmed this, two sources tell me that Brunner’s team also designed the initial Kindle for Amazon in 2007.</description>
+    </item>
+    
+    <item>
+      <title>Экс-президент HarperCollins открывает электронное издательство</title>
+      <link>http://example.org/posts/2009-10-14-57/</link>
+      <pubDate>Wed, 14 Oct 2009 20:17:27 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-14-57/</guid>
+      <description>Jane Friedman Starts Open Road Integrated Media, an E-Book Company - NYTimes.com
+ Sixteen months after stepping down as president and chief executive of HarperCollins Publishers Worldwide, Jane Friedman has formed a new company that will republish old titles by big-name authors including William Styron, Iris Murdoch and Pat Conroy in electronic form.
+Together with Jeffrey Sharp, a film producer of features including “Boys Don’t Cry” and “You Can Count on Me,” Ms.</description>
+    </item>
+    
+    <item>
+      <title>Новый букридер от Barnes&amp;Noble?</title>
+      <link>http://example.org/posts/2009-10-14-102/</link>
+      <pubDate>Wed, 14 Oct 2009 19:24:46 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-14-102/</guid>
+      <description>Exclusive: First Photos of Barnes &amp;amp; Noble&#39;s E-Reader - Barnes and Nobles reader - Gizmodo
+  Barnes and Noble&#39;s late to e-books. But the company&#39;s new gadget—first seen here—should address the weaknesses of all other readers with screens evoking a Kindle and an iPhone. A source from within reveals the first photos and details. The Barnes and Nobles e-reader project, set to be revealed next week, has been under development for years, with several devices of varying size and capability in the pipeline.</description>
+    </item>
+    
+    <item>
+      <title>Продажи книг от Google начнутся в июне 2010. Возможно, и для &#34;гуглридера&#34;?</title>
+      <link>http://example.org/posts/2009-10-14-58/</link>
+      <pubDate>Wed, 14 Oct 2009 14:52:31 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-14-58/</guid>
+      <description>Google book sales to begin by June of next year | TeleRead: Bring the E-Books Home
+ At the Tools of Change conference in Frankfurt Google announced that it will be running out its own book sales offering by June of next year.
+ А вот этот слух еще интереснее: Google plans &amp;lsquo;buy anywhere, read anywhere&amp;rsquo; offer - MobileRead Forums
+ it was &amp;ldquo;definitely&amp;rdquo; Google&#39;s intention to partner with device manufacturers, but declined to give names.</description>
+    </item>
+    
+    <item>
+      <title>Electronic Arts выходит на рынок э-книг через Nintendo DS</title>
+      <link>http://example.org/posts/2009-10-11-45/</link>
+      <pubDate>Sun, 11 Oct 2009 19:46:57 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-11-45/</guid>
+      <description>EA Extranet: &amp;ldquo;EA ANNOUNCES FLIPS ON THE NINTENDO DS&amp;rdquo;
+ Guildford, UK – 9th October 2009 – Electronic Arts (NASDAQ: ERTS) today announces the development of FLIPS™, an innovative new book range created for the Nintendo DS™. FLIPS has been designed to give children of all ages a fun new way to read their favorite books. EA has worked with some of the UK’s leading publishers of children&#39;s books and magazines, including Egmont and Penguin Publishing, to bring modern classic titles from critically acclaimed authors such as Cathy Cassidy, Eoin Colfer, Enid Blyton, and the various writers from the popular boys series, ‘Too Ghoul for School’ to the DS.</description>
+    </item>
+    
+    <item>
+      <title>Amazon упорствует</title>
+      <link>http://example.org/posts/2009-10-08-99/</link>
+      <pubDate>Thu, 08 Oct 2009 22:08:20 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-08-99/</guid>
+      <description>Using The International Kindle Could Rack Up Fees | paidContent
+ In addition to the $2 per-book fee for non-U.S. downloads, paidContent has learned from Amazon (NSDQ: AMZN) that it will cost users $5 a week to access their newspaper, magazine and blog subscriptions via Whispernet.
+ Кажется, Amazon упорствует, делая всё возможное, чтобы пользоваться Kindle было неудобно и дорого.</description>
+    </item>
+    
+    <item>
+      <title>Amazon начинает международные продажи Kindle 2 и электронных книг</title>
+      <link>http://example.org/posts/2009-10-07-84/</link>
+      <pubDate>Wed, 07 Oct 2009 08:54:17 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-07-84/</guid>
+      <description>New Kindle Will Download Books Abroad - NYTimes.com Международные продажи Kindle 2 начнутся 19 октября 2009 года. Букридер будет продаваться по $279 (без цены доставки). При этом цена для внутреннего рынка опускается до $259. &amp;ldquo;Международный&amp;rdquo; Kindle будет снабжен sim-картой от AT&amp;amp;T и, таким образом, сможет загружать электронные книги из Amazon. Покупателям не из США будет пока доступен каталог из 200 тысяч книг. И еще любопытные данные, о которых сказал Безос: когда продаётся электронная книга наряду с бумажной, на электронные продажи приходится 48% (в мае доля электронных книг составляла 35%).</description>
+    </item>
+    
+    <item>
+      <title>Нью-Йоркская публичная библиотека предлагает доступ к цифровым версиям public domain</title>
+      <link>http://example.org/posts/2009-10-04-105/</link>
+      <pubDate>Sun, 04 Oct 2009 21:38:53 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-04-105/</guid>
+      <description>New York Public Library and Kirtas Technologies Partner to Make 500,000 Public-Domain Books Available to the World | LISWire
+ Readers and researchers looking for hard-to-find books now have the opportunity to dip into the collections of one of the world’s most comprehensive libraries to purchase digitized copies of public domain titles. Through their Digitize-on-Demand program, Kirtas Technologies has partnered with The New York Public Library to make 500,000 public domain works from the Library’s collections available (to anyone in the world).</description>
+    </item>
+    
+    <item>
+      <title>Бесплатный семинар по электронному книгоизданию Adobe</title>
+      <link>http://example.org/posts/2009-10-04-6/</link>
+      <pubDate>Sun, 04 Oct 2009 21:31:31 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-04-6/</guid>
+      <description>Adobe - Online events : Event Details
+ Discover how the Adobe eBook platform makes reading an immersive experience—everywhere and across devices. Join us for an hour-long complimentary online eSeminar and explore how the Adobe eBook platform enables reader engagement through a streamlined workflow for authoring, protecting and delivering digital books. Hosted by Adobe product experts, this eSeminar shows how to enable a seamless reading experience across multiple screen types and why an open, interoperable eBook platform serves your readers best.</description>
+    </item>
+    
+    <item>
+      <title>Бесплатный семинар по электронному книгоизданию Adobe</title>
+      <link>http://example.org/posts/2009-10-04-5/</link>
+      <pubDate>Sun, 04 Oct 2009 21:29:38 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-04-5/</guid>
+      <description>Adobe - Online events : Event Details
+ Discover how the Adobe eBook platform makes reading an immersive experience—everywhere and across devices. Join us for an hour-long complimentary online eSeminar and explore how the Adobe eBook platform enables reader engagement through a streamlined workflow for authoring, protecting and delivering digital books. Hosted by Adobe product experts, this eSeminar shows how to enable a seamless reading experience across multiple screen types and why an open, interoperable eBook platform serves your readers best.</description>
+    </item>
+    
+    <item>
+      <title>Не пропустите</title>
+      <link>http://example.org/posts/2009-09-30-46/</link>
+      <pubDate>Wed, 30 Sep 2009 23:40:28 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-30-46/</guid>
+      <description>Program - eBook Summit Среди докладчиков: Susan Danziger (директор), Steve Haber (президент Sony’s Digital Reading Business Division), Neelan Choksi (основатель Lexcycle), Brandon Badger (продакт-менеджер Google Books), Bob Livolsi (директор Books on Board).</description>
+    </item>
+    
+    <item>
+      <title>Издатели считают &#34;электронный поворот&#34; неизбежным</title>
+      <link>http://example.org/posts/2009-09-30-a/</link>
+      <pubDate>Wed, 30 Sep 2009 23:35:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-30-a/</guid>
+      <description>Company - Emergence of new business models
+ Time is of the essence. As a general rule, digital products still only comprise a small fraction of sales: Around 60 per cent of those polled estimate that considerably less than ten per cent of their revenue will come from digital sources in 2009. However, this will change in the next two years in the opinion of those polled: 41 per cent of those polled calculate sales of up to ten per cent for 2011 and 58 per cent anticipate that digital products will comprise a considerably higher share of total sales.</description>
+    </item>
+    
+    <item>
+      <title>O&#39;Reilly берет на себя Microsoft Press</title>
+      <link>http://example.org/posts/2009-09-24-110/</link>
+      <pubDate>Thu, 24 Sep 2009 20:27:46 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-24-110/</guid>
+      <description>O&#39;Reilly Media and Microsoft Announce Plans to Expand Microsoft Press: O&#39;Reilly to Distribute Microsoft Press Titles and Launch New Ebook Initiatives
+ O&#39;Reilly Media, Inc. and Microsoft Corp. today announced a joint arrangement to support and expand Microsoft Press from production through distribution, co-publishing and content development, marketing and management. Through this strategic relationship, on November 30, O&#39;Reilly will become the distributor of Microsoft Press titles in North America with a global roll out in a phased approach.</description>
+    </item>
+    
+    <item>
+      <title>iRex начинает продажи в США</title>
+      <link>http://example.org/posts/2009-09-23-73/</link>
+      <pubDate>Wed, 23 Sep 2009 09:26:21 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-23-73/</guid>
+      <description>Best Buy and Verizon Jump Into E-Reader Fray, With iRex - NYTimes.comНа американский массовый рынок выходит iRex. Букридер с 8-дюймовым сенсорным экраном, 3G-модемом, международной связью с Verizon и встроенным магазином от Barnes&amp;amp;Noble по цене $399 будет продаваться в более чем 1000 магазинов Best Buy по всем США. Это очевидный конкурент и Kindle DX, и Sony Reader Daily Edition. Кстати, по прогнозам iSuppli в этом году будет продано около 5,2 млн букридеров (из них более половины — в Северной Америке).</description>
+    </item>
+    
+    <item>
+      <title>2 млн экз книжки Брауна продано за неделю. 5% - в электронном виде</title>
+      <link>http://example.org/posts/2009-09-22-33/</link>
+      <pubDate>Tue, 22 Sep 2009 21:24:54 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-22-33/</guid>
+      <description>New Dan Brown novel tops 2 million mark - Yahoo! Finance
+ Doubleday announced Tuesday that hardcover, audio and e-book sales for &amp;ldquo;The Lost Symbol&amp;rdquo; topped 2 million copies for its first week of release in the United States, Britain and Canada. The total is &amp;ldquo;well over&amp;rdquo; 2 million for English-language editions worldwide, according to Doubleday spokeswoman Suzanne Herz, who declined to offer a specific number. Herz did say that around 5 percent, or 100,000 copies, of &amp;ldquo;The Lost Symbol&amp;rdquo; were sold as e-books.</description>
+    </item>
+    
+    <item>
+      <title>Структура электронного книгоиздания в США</title>
+      <link>http://example.org/posts/2009-09-19-53/</link>
+      <pubDate>Sat, 19 Sep 2009 08:54:42 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-19-53/</guid>
+      <description>Graphic: A Big Boom in the Universe of Electronic Books
+ Comments:  emailtoid.net/i/6c855d8c/… - Sep 6, 2009Очень интересно, но картинка слегка вылезает за макет (не примите за спам - это так) С уважением http://blog.rhub.ru/ekniga</description>
+    </item>
+    
+    <item>
+      <title>Электронная лихорадка</title>
+      <link>http://example.org/posts/2009-09-17-44/</link>
+      <pubDate>Thu, 17 Sep 2009 10:38:41 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-17-44/</guid>
+      <description>четверг, 17 сентября 2009 года, 10.14
+Владимир Харитонов Электронная лихорадка
+Электронный Дэн Браун продаётся лучше бумажного: книжную отрасль ждут перемены
+Рынок электронного книгоиздания, кажется, подходит к точке кипения. В США первые продажи бестселлера — новой книги Дэна Брауна — в бумажном виде отстали от продаж электронной версии, чему не помешали даже пираты. Amazon открывает код своего букридера Kindle. Правительство Тайваня собирается поддержать своих производителей объёмными инвестициями, чтобы сохранить за собой рынок букридеров.</description>
+    </item>
+    
+    <item>
+      <title>Производитель &#34;книгоматов&#34; договорился с Google</title>
+      <link>http://example.org/posts/2009-09-17-59/</link>
+      <pubDate>Thu, 17 Sep 2009 08:29:10 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-17-59/</guid>
+      <description>The Associated Press: Google to reincarnate digital books as paperbacks
+Каталог оцифрованных Google Books книг, находящихся в общественном достоянии, будет доступен пользователям микротипографских комплексов Espresso, производимых компанией On Demand Books. Это 2 млн книг, которые можно будет распечатать за 5-7 минут. Рекомендованная цена 300-страничной книги - $8, из которых $1 пойдет на благотворительность. В случае одобрения коллективного соглашения Google и Американской авторской ассоциации, каталог пополнится и книгами-сиротами. Стоимость машины - $100 тыс.</description>
+    </item>
+    
+    <item>
+      <title>Продажи последней книги Дэна Брауна для Kindle на Amazon превысили продажи бумажной версии</title>
+      <link>http://example.org/posts/2009-09-16-32/</link>
+      <pubDate>Wed, 16 Sep 2009 21:28:12 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-16-32/</guid>
+      <description>Kindle Nation Daily: Kindle edition of The Lost Symbol outselling Amazon hardcovers!
+ As of 10:30 a.m. EDT today, September 15, the Kindle edition is ahead of the hardcover edition in Amazon&#39;s own hourly-updated sales rankings.
+ Может быть, это и не надолго. И, конечно, это только относительные данные продаж самого Amazon. Но факт исключительно примечательный.</description>
+    </item>
+    
+    <item>
+      <title>Господдержка производства букридеров. Тайвань</title>
+      <link>http://example.org/posts/2009-09-16-151/</link>
+      <pubDate>Wed, 16 Sep 2009 08:00:48 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-16-151/</guid>
+      <description>Taiwan government aims at 80% global market share for Taiwan-made e-book readers in 2013
+ Taiwan&#39;s Ministry of Economic Affairs (MOEA) will be implementing a 5-year project with a total budget of NT$2.134 billion (US$65 million) to boost development of digital publication industries in Taiwan, with the goal being to make Taiwan-produced e-book readers reach a global market share of 80% with sales of NT$50 billion in 2013, according to the agency.</description>
+    </item>
+    
+    <item>
+      <title>Американские журналы подумывают о букридере</title>
+      <link>http://example.org/posts/2009-09-10-156/</link>
+      <pubDate>Thu, 10 Sep 2009 22:32:38 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-10-156/</guid>
+      <description>Time Inc.: Time for a New E-Reader | NBC Bay Area
+ Time Inc. executives have discussed the new venture with other magazine publishers, including Conde Nast, Meredith, and Hearst.
+ За каждым из фирм — с десяток журналов. Все вместе — это очень существенный кусок рынка американских периодических изданий. Если они и впрямь объединятся, то такой проект с букридером (журридером?) будет вполне жизнеспособен. Пока, правда, это только слухи.</description>
+    </item>
+    
+    <item>
+      <title>Университет Виктории перевел в ePub новозеландскую классику</title>
+      <link>http://example.org/posts/2009-09-09-98/</link>
+      <pubDate>Wed, 09 Sep 2009 13:28:41 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-09-98/</guid>
+      <description>1000 New Zealand classics released as ebooks | The National Business Review - New Zealand - business, markets, finance, politics, property, technology and more
+ New Zealanders can now freely download - and store in their pockets - hundreds of our most well-known books, courtesy of Victoria University’s New Zealand Electronic Text Centre (NZETC). More than 1000 New Zealand electronic books (eBooks) are now available for download on the NZETC website.</description>
+    </item>
+    
+    <item>
+      <title>Asus готовит букридер с двумя экранами за 100 фунтов</title>
+      <link>http://example.org/posts/2009-09-07-19/</link>
+      <pubDate>Mon, 07 Sep 2009 10:01:45 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-07-19/</guid>
+      <description>Tech news: For the smarter kind of bookworm - Times Online
+ Unlike current ebook readers, which take the form of a single flat screen, the Asus device has a hinged spine, like a printed book. This, in theory, enables its owner to read an ebook much like a normal book, using the touchscreen to “turn” the pages from one screen to the next. It also gives the user the option of seeing the text on one screen while browsing a web page on the other.</description>
+    </item>
+    
+    <item>
+      <title>В Россию придёт &#34;корейский Kindle&#34;?</title>
+      <link>http://example.org/posts/2009-09-01-75/</link>
+      <pubDate>Tue, 01 Sep 2009 09:25:09 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-01-75/</guid>
+      <description>iRiver&#39;s new e-book reader &amp;lsquo;Story&amp;rsquo; - MobileRead Forums
+   С 16 сентября в Южной Корее можно будет заказать букридер Story от старого доброго производителя mp3-плейеров iRiver: 6-дюймовый экран, QWERTY-клавиатура (!), поддержка pdf, epub, txt, ppt, doc, xls без конвертации (!), просмотр комиксов, память, расширяемая до 32 Гб, батарея на 9 тыс &amp;ldquo;перелистываний&amp;rdquo;. Цена около $300. О беспроводных интерфейсах информации пока нет, но клавиатура ведь для чего-то нужна? Интересно, однако, даже не это, а то, что производитель «also talking with retailers in Russia».</description>
+    </item>
+    
+    <item>
+      <title>Директор Hachette считает, что $10 за электронную книгу и Google убьют традиционное книгоиздание</title>
+      <link>http://example.org/posts/2009-08-31-63/</link>
+      <pubDate>Mon, 31 Aug 2009 19:14:11 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-08-31-63/</guid>
+      <description>World&#39;s Second Largest Publisher: $9.99 eBooks Will Kill Hardcover Books
+ Arnaud Nourry, the CEO of the world&#39;s second largest book publisher, Hachette Livre, says that the current pricing trends for eBooks may soon kill the hardcover book as we know it. In an interview with the Financial Times, Nourry says that he worries that the combination of the $9.99 price for bestsellers and the fact that Google now offers millions of out-of-copyright books for free could destroy profits for traditional publishing houses.</description>
+    </item>
+    
+    <item>
+      <title>1000000 книг в формате epub</title>
+      <link>http://example.org/posts/2009-08-26-3/</link>
+      <pubDate>Wed, 26 Aug 2009 20:20:09 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-08-26-3/</guid>
+      <description>Inside Google Books: Download Over a Million Public Domain Books from Google Books in the Open EPUB Format
+ Google Books will offer free downloads of these and more than one million more public domain books in an additional format, EPUB.
+ Google сделал доступным около 1 млн оцифрованных ею книг в формате epub (и в pdf). Радоваться смогут не только пользователи Sony Reader. Кажется, пока это самая большая «библиотека» книг в этом формате.</description>
+    </item>
+    
+    <item>
+      <title>Новый 7&#34; и беспроводной Sony Reader - в декабре</title>
+      <link>http://example.org/posts/2009-08-25-147/</link>
+      <pubDate>Tue, 25 Aug 2009 15:46:11 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-08-25-147/</guid>
+      <description>Sony Unveils Three Would-Be Kindle Killers—Pocket, Touch and Now, 3G Wireless With AT&amp;amp;T | paidContent
+ Sony’s Daily Edition, a 3G powered wireless device meant to go head to head with Kindle. Will ship this December for $399.
+ В Рождество начнутся продажи нового Sony Reader - Daily Edition: 7-дюймовый экран (кажется, все же маловат для газет) и беспроводная 3G-связь (в США - через AT&amp;amp;T). $399</description>
+    </item>
+    
+    <item>
+      <title>Продажи электронных книг в Китае</title>
+      <link>http://example.org/posts/2009-08-18-47/</link>
+      <pubDate>Tue, 18 Aug 2009 10:18:57 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-08-18-47/</guid>
+      <description>Kindling e-book Fever in China
+ Jo Lusby, General Manager of Penguin China, sees a growing interest. &amp;ldquo;E-book sales in China reached more than Rmb200 million last year and we are spending a great deal at Penguin at the moment on digitising our back catalogue.
+&amp;ldquo;We have more than 4,000 titles available at present, including our popular DK range. At least 60 per cent of our catalogue is informative, non-fiction titles.</description>
+    </item>
+    
+    <item>
+      <title>Продажи электронных книг в США - итоги мая 2009</title>
+      <link>http://example.org/posts/2009-08-09-148/</link>
+      <pubDate>Sun, 09 Aug 2009 09:12:41 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-08-09-148/</guid>
+      <description>Wholesale eBook Sales Statistics
+  Если ничего не случится, то по итогам года продажи электронных книг в США будут больше $110-120 млн.</description>
+    </item>
+    
+    <item>
+      <title>Как превращаются в издателя электронных книг</title>
+      <link>http://example.org/posts/2009-08-07-111/</link>
+      <pubDate>Fri, 07 Aug 2009 15:13:27 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-08-07-111/</guid>
+      <description>Does Digital Cannibalize Print? Not Yet. - Tools of Change for Publishing
+ Over the past 18 months, we&#39;ve gone from print outselling digital by more than 2:1 to just the opposite.
+ За последние полтора года издательство соотношение проданных O&#39;Reilly бумажных и электронных книг 2:1 изменилось на противоположное.</description>
+    </item>
+    
+    <item>
+      <title>Новости от Sony: снижение цен на букридеры и электронные книги</title>
+      <link>http://example.org/posts/2009-08-04-101/</link>
+      <pubDate>Tue, 04 Aug 2009 22:18:42 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-08-04-101/</guid>
+      <description>Sony Cuts Prices on E-Books and Unveils Readers - NYTimes.com
+ Sony Electronics plans to announce on Tuesday that it is lowering prices for new and bestselling books in its e-book store, to $9.99 from $11.99. Sony is also introducing two new electronic reading devices: the Reader Pocket Edition and Reader Touch Edition. They will sell for $199 and $299 respectively and will go on sale at the end of August.</description>
+    </item>
+    
+    <item>
+      <title>Сервис конвертации макетов в ePub</title>
+      <link>http://example.org/posts/2009-07-23-141/</link>
+      <pubDate>Thu, 23 Jul 2009 20:01:25 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-07-23-141/</guid>
+      <description>Introducing the Shortcovers ePUB Conversion Program — Shortcovers
+ Shortcovers is excited to announce a new service - the Shortcovers Publisher Conversion Program. Publishers can provide us with their digital source files - PDFs, Quark files, InDesign, .doc, .rtf - and for a shockingly low fee*, we’ll convert them into ePUB files, load them up into Shortcovers and then give back the ePUB file so the publisher can send it off to other vendors who also accept ePUB files.</description>
+    </item>
+    
+    <item>
+      <title>Амазоновский садик за колючий проволокой станет экзотикой: B&amp;N заключил соглашение с Plastic Logic</title>
+      <link>http://example.org/posts/2009-07-20-24/</link>
+      <pubDate>Mon, 20 Jul 2009 21:44:18 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-07-20-24/</guid>
+      <description>Barnes &amp;amp; Noble Booksellers
+ Barnes &amp;amp; Noble Launches World&#39;s Largest eBookstore Introduces “Every Device” Strategy Upgrades eReader Application Free Downloads Announces eBookstore Partnership with Plastic Logic New York, New York – July 20, 2009 – Barnes &amp;amp; Noble, Inc. (NYSE: BKS), the world’s largest bookseller, announced today the launch of the Barnes &amp;amp; Noble eBookstore (www.bn.com/ebooks), the world’s largest eBookstore, on Barnes &amp;amp; Noble.com (www.bn.com), enabling customers to buy eBooks and read them on a wide range of platforms, including the iPhone and iPod touch, BlackBerry® smartphones, as well as most Windows® and Mac® laptops or full-sized desktop computers.</description>
+    </item>
+    
+    <item>
+      <title>Хороший обзор о книгоиздании: какой будет эта смерть?</title>
+      <link>http://example.org/posts/2009-07-17-170/</link>
+      <pubDate>Fri, 17 Jul 2009 12:45:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-07-17-170/</guid>
+      <description>Bits Of Destruction Hit the Book Publishing Business: Part 1
+Bits of Destruction Hit the Book Publishing Business: Part 2</description>
+    </item>
+    
+    <item>
+      <title>Kindle в каждый ранец</title>
+      <link>http://example.org/posts/2009-07-15-82/</link>
+      <pubDate>Wed, 15 Jul 2009 13:27:55 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-07-15-82/</guid>
+      <description>Democratic Group’s Proposal: Give Each Student a Kindle - Bits Blog - NYTimes.com
+Несколько влиятельных членов Демократической партии США выступили с инициативой раздать устройства для чтения электронных книг (типа Amazon Kindle) каждому учащемуся в стране. Главный довод в пользу такого решения — значительная экономия на печати учебников , а также забота об окружающей среде. «Не нужно ждать 10-20 лет, чтобы приступить к реализации программы будущего, которой все равно или поздно придется заняться.</description>
+    </item>
+    
+    <item>
+      <title>Опубликованы итоги продаж электронных книг в США за 1 квартал 2009 года</title>
+      <link>http://example.org/posts/2009-05-20-109/</link>
+      <pubDate>Wed, 20 May 2009 20:13:31 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-05-20-109/</guid>
+      <description>IDPF опубликовал итоги продаж электронных книг в США за 1 квартал 2009 года. $25,8 млн. Это в 2,3 раза больше, чем в 1 квартале 2008 года. Это в 1,5 раза больше, чем за последний квартал 2008 года. Это почти столько же, сколько за второе полугодие 2008 года. Кажется, электронное книгоиздание — одна из немногих отраслей, в которой нет никакого кризиса. Напротив, только бурный рост.</description>
+    </item>
+    
+    <item>
+      <title>Краткие новости с Digital Book&#39;09</title>
+      <link>http://example.org/posts/2009-05-12-a/</link>
+      <pubDate>Tue, 12 May 2009 22:02:17 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-05-12-a/</guid>
+      <description>Пролистывая ленту твитов участников ежегодного форума IDPF, довольно быстро становится понятно, на что сами участники обращают внимание. Перепостинг — RT — удобное средство ловить важные новости и мемы. Вот некоторые из них: • Рынок электронных книг в США удваивается каждые польтора года (факт) и к 2012 году достигнет $500–550 млн (прогноз). • Random House через пару месяцев сделает доступным ВСЕ сви книги и в электронной форме (непонятно только — и backlist тоже?</description>
+    </item>
+    
+    <item>
+      <title>#idpf09</title>
+      <link>http://example.org/posts/2009-05-12-67/</link>
+      <pubDate>Tue, 12 May 2009 15:12:07 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-05-12-67/</guid>
+      <description>Twitter / Search - #idpf09Следить за одним из двух главных форумов по электронным книгам - Digital Book 2009, который проводит International Digital Publishing Forum (IDPF) - можно в Twitter по вышеприведенной ссылке.</description>
+    </item>
+    
+    <item>
+      <title>Скоро появится Amazon Kindle для газет</title>
+      <link>http://example.org/posts/2009-05-04-143/</link>
+      <pubDate>Mon, 04 May 2009 10:18:31 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-05-04-143/</guid>
+      <description>Big-Screen e-Readers May Help Save Newspapers - NYTimes.com
+ But it is Amazon, maker of the Kindle, that appears to be first in line to try throwing an electronic life preserver to old-media companies. As early as this week, according to people briefed on the online retailer’s plans, Amazon will introduce a larger version of its Kindle wireless device tailored for displaying newspapers, magazines and perhaps textbooks. An Amazon spokesman would not comment, but some news organizations, including The New York Times, are expected to be involved in the introduction of the device, according to people briefed on the plans.</description>
+    </item>
+    
+    <item>
+      <title>Amazon купил Lexcycle, производителя Stanza</title>
+      <link>http://example.org/posts/2009-04-27-10/</link>
+      <pubDate>Mon, 27 Apr 2009 20:43:02 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-04-27-10/</guid>
+      <description>Lexcycle has been acquired by Amazon.com! | Lexcycle
+ We are very excited to announce that Lexcycle has been acquired by Amazon.com!
+ Официальный пресс-релиз от команды, которая делает (делала?) Stanza, самую популярную (и популярную заслуженно) программу для чтения книг в электронных форматах для iPhone и iPod Touch (а также для Mac и Sony Reader). В пресс-релизе говорится, что все будет по-старому и еще лучше. Судя по стремлению Amazon «закрыть технологическую песочницу», верится в это с трудом.</description>
+    </item>
+    
+    <item>
+      <title>Книги Amazon теперь и в iPhone</title>
+      <link>http://example.org/posts/2009-03-04-87/</link>
+      <pubDate>Wed, 04 Mar 2009 09:14:31 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-03-04-87/</guid>
+      <description>Amazon Extends Book Sales Beyond Its Kindle to iPhone - WSJ.com
+ Amazon.com Inc. plans to release a program Wednesday for reading electronic books on Apple Inc.&amp;lsquo;s iPhone, extending Amazon&#39;s sales of digital books to devices beyond its Kindle e-book reader. Amazon&#39;s software application, which can be downloaded free of charge, allows iPhone and iPod Touch users to read books or periodicals purchased on the Web or through their dedicated Kindle device, usually for $9.</description>
+    </item>
+    
+    <item>
+      <title>Альтернатива Amazon?</title>
+      <link>http://example.org/posts/2009-02-26-9/</link>
+      <pubDate>Thu, 26 Feb 2009 08:00:46 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-02-26-9/</guid>
+      <description>Shortcovers.com — Онлайновый книжный магазин для пользователей Blackberry, iPhone и Android. Комментарий mobileread: Shortcovers launches tomorrow! - MobileRead Forums
+ It&#39;s been a long time coming and we&#39;ve heard a lot about the &amp;ldquo;Kindle killer&amp;rdquo;, but now is the time for Indigo&#39;s Shortcovers to open its doors and show us what&#39;s inside. * Public launch is tomorrow, February 26th * Shortcovers will be launching on iPhone, Blackberry and Android * The service will be available globally, but launching with US and Canadian currencies * Shortcovers will have 200,000 first chapters of books, 50,000 full books at launch, but adding much more content in the coming weeks from top publishers such as Random House, Simon &amp;amp; Schuster and Harper Collins.</description>
+    </item>
+    
+    <item>
+      <title>Тим О&#39;Рейли об закрытости Amazon</title>
+      <link>http://example.org/posts/2009-02-24-155/</link>
+      <pubDate>Tue, 24 Feb 2009 21:07:30 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-02-24-155/</guid>
+      <description>Платформу Amazon Kindle сметет волна бесплатных электронных книг - Культура - Литература - Электронные книги - Компьюлента
+ Культура / Литература / Электронные книги / Платформу Amazon Kindle сметет волна бесплатных электронных книг 24 февраля 2009 года, 16:45 | Текст: Дмитрий Целиков Основатель крупного книжного издательства O’Reilly Media Тим О’Рейли предупреждает: корпорация Amazon должна предлагать свои электронные книги в общедоступном формате (к примеру, *.epub), иначе ридер Kindle уйдет с рынка в течение ближайших трех лет.</description>
+    </item>
+    
+    <item>
+      <title>Бывший CEO Random House об Amazon и Google</title>
+      <link>http://example.org/posts/2009-02-24-35/</link>
+      <pubDate>Tue, 24 Feb 2009 21:04:22 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-02-24-35/</guid>
+      <description>Рынок электронных книг ожидает дуополия Amazon и Google - Культура - Литература - Электронные книги - Компьюлента
+ Корпорация согласилась платить по 60 долларов за каждую отсканированную книгу, защищенную авторским правом. Кроме того, правообладатели смогут решать, стоит ли размещать рекламу рядом со страницами книги на соответствующем сайте. Если реклама будет разрешена, правообладатели получат комиссионные. Наконец, Google поможет правообладателям с выплатой налогов. Соглашение создало еще один источник доходов для издателей и авторов — библиотеки.</description>
+    </item>
+    
+    <item>
+      <title>Ну, хоть что-то уже изменилось</title>
+      <link>http://example.org/posts/2009-01-20-104/</link>
+      <pubDate>Tue, 20 Jan 2009 21:53:17 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-01-20-104/</guid>
+      <description>Copyright Policy
+ Except where otherwise noted, third-party content on this site is licensed under a Creative Commons Attribution 3.0 License. Visitors to this website agree to grant a non-exclusive, irrevocable, royalty-free license to the rest of the world for their submissions to Whitehouse.gov under the Creative Commons Attribution 3.0 License.
+ Материалы самого Белого дома — public domain. Под СС — материалы третьих лиц. Есть, правда, и оговорка про DMCA.</description>
+    </item>
+    
+    <item>
+      <title>Продажи книг для iPhone уже сравнимы с продажами для Sony Reader</title>
+      <link>http://example.org/posts/2008-12-23-40/</link>
+      <pubDate>Tue, 23 Dec 2008 23:17:40 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-12-23-40/</guid>
+      <description>More Readers Are Picking Up Electronic Books - NYTimes.com
+ Publishers say these iPhone applications are already starting to generate nearly as many digital book sales as the Sony Reader, though they still trail sales of books in the Kindle format.
+ Но Kindle пока не догнали. Вопрос времени.</description>
+    </item>
+    
+    <item>
+      <title>ScrollMotion будет делать айфонные книги для мейджоров книжного рынка США</title>
+      <link>http://example.org/posts/2008-12-23-46/</link>
+      <pubDate>Tue, 23 Dec 2008 09:33:27 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-12-23-46/</guid>
+      <description>App Developer Strikes E-Book Deals With Major Publishers | Epicenter from Wired.com
+ ScrollMotion, a New York mobile app developer, has concluded deals with a number of major publishing houses, and is in talks with several others, to produce newly released and best-selling e-books as applications for the iPhone and iPod touch. Publishers now on board include Houghton Mifflin, Simon &amp;amp; Schuster, Random House, Hachette and Penguin Group USA. The first official books will begin to roll out Monday and include titles such as Stephenie Meyer&#39;s &amp;ldquo;Twilight,&amp;rdquo; Philip Pullman&#39;s &amp;ldquo;The Golden Compass&amp;rdquo; and a number of others by Christopher Paolini, Brad Meltzer and Scott Westerfeld.</description>
+    </item>
+    
+    <item>
+      <title>Поиграл в «Марио» — почитай Шекспира</title>
+      <link>http://example.org/posts/2008-12-12-37/</link>
+      <pubDate>Fri, 12 Dec 2008 10:49:40 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-12-12-37/</guid>
+      <description>Mario makes way for Shakespeare on Nintendo DS in HarperCollins deal - Times Online
+ Nintendo, the Japanese video games company that brought us Donkey Kong and Mario the Plumber, is to announce a deal with the publisher HarperCollins today to make literary classics available to read on its DS portable games consoles.
+The 100 Classic Book Collection ranges from Shakespeare and Dickens to Jane Austen and the Brontë sisters. It will cost about £20 and will be available initially only in Britain.</description>
+    </item>
+    
+    <item>
+      <title>Random House, Ballantine предложат бесплатные книги для пользователей Stanza</title>
+      <link>http://example.org/posts/2008-12-09-42/</link>
+      <pubDate>Tue, 09 Dec 2008 21:48:31 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-12-09-42/</guid>
+      <description>Random House Publishing Group Makes Free Titles Available on Lexcycle&#39;s Stanza Reader | Lexcycle
+ New York, NY - December 8, 2008 &amp;ndash; The Random House Publishing Group and Lexcycle, Inc., jointly announced today that Random House and Ballantine will be the first major book publishers to make full-length books available for free on iPhone through Lexcycle Stanza, the most popular electronic book reader for the Apple iPhone and iPod Touch.</description>
+    </item>
+    
+    <item>
+      <title>800 газет на букридере iRex</title>
+      <link>http://example.org/posts/2008-12-06-a/</link>
+      <pubDate>Sat, 06 Dec 2008 23:37:19 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-12-06-a/</guid>
+      <description>E-Reads: Digi-Newspaper Scoreboard: Kindle 28, Kindle Killer 800
+ It&#39;s a good time to be alive if you&#39;re a tree. Digitally delivered news is gaining momentum and as we turn the corner to 2009 it&#39;s gotten a rocket boost from the Dutch firm iRex Technologies, which announced it has made a deal with NewspaperDirect to deliver 800 newspapers on iRex&#39;s Digital Reader 1000.
+ iRex договорился с NewspaperDirect о том, что с 11 декабря 2008 года пользователям букридера iRex 1000 будет доступна подписка на 800 газет со всего мира в электронном формате для чтения на этом устройстве.</description>
+    </item>
+    
+    <item>
+      <title>За два года продано 300 тыс Sony Reader</title>
+      <link>http://example.org/posts/2008-12-04-57/</link>
+      <pubDate>Thu, 04 Dec 2008 20:35:20 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-12-04-57/</guid>
+      <description>Business Technology : Turns Out Sony E-Book Readers Sell After All
+ Sony for the first time disclosed that it sold 300,000 units of its Reader Digital Book globally since the device launched in October 2006.
+ Via MobileRead.</description>
+    </item>
+    
+    <item>
+      <title>O&#39;Reilly продает книги для iPhone</title>
+      <link>http://example.org/posts/2008-11-26-32/</link>
+      <pubDate>Wed, 26 Nov 2008 22:25:23 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-11-26-32/</guid>
+      <description>Experimental O&#39;Reilly Ebook iPhone Integration with Stanza - Tools of Change for Publishing
+ Back in August, I showed how to read O&#39;Reilly EPUB ebooks on an iPhone (or iPod Touch) using the popular (and free) Stanza reader app. I&#39;m pleased to announce that you can now directly download EPUB ebooks purchased from O&#39;Reilly on your iPhone to Stanza. The integration is experimental for now, as we iron out some kinks and work to make our own site more iPhone-friendly.</description>
+    </item>
+    
+    <item>
+      <title>iTunes становится еще и книжным магазином</title>
+      <link>http://example.org/posts/2008-11-26-18/</link>
+      <pubDate>Wed, 26 Nov 2008 21:48:43 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-11-26-18/</guid>
+      <description>E-Books Have a Future in iTunes | Epicenter from Wired.com
+ Top publishers are revving up their libraries of digital books to capitalize on the presumed success and hype of the Amazon Kindle — actual sales are still based on speculation — but one big name is putting its money on a device that has proven its popularity: the iPhone. “We’re very bullish on that as a platform. We think it’s gonna be a great competitor to Amazon,” said David Langevin, VP and director of electronic markets for Houghton Mifflin Harcourt Publishing Company.</description>
+    </item>
+    
+    <item>
+      <title>Random House расширяет свою электронную библиотеку</title>
+      <link>http://example.org/posts/2008-11-25-43/</link>
+      <pubDate>Tue, 25 Nov 2008 08:37:47 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-11-25-43/</guid>
+      <description>Компьюлента. Новости науки и техники.
+ Издательская компания Random House пополнит свою цифровую библиотеку тысячами книг. Среди прочих в число переведенных в электронную форму попадут произведения Джона Апдайка и Харлана Кобена, а также несколько томов из детской серии Magic Treehouse.
+ </description>
+    </item>
+    
+    <item>
+      <title>Данные продаж бумажных книг в США</title>
+      <link>http://example.org/posts/2008-11-10-11/</link>
+      <pubDate>Mon, 10 Nov 2008 10:59:08 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-11-10-11/</guid>
+      <description>Google Signs a Deal to e-Publish Out-of-Print Books - NYTimes.com:
+ in the first nine months of this year, book sales in the United States fell 1.5 percent, according to the Association of American Publishers
+ То есть продажи бумажных книг упали на 1,5%. Ага.</description>
+    </item>
+    
+    <item>
+      <title>Stanza для iPhone популярнее, чем Amazon Kindle</title>
+      <link>http://example.org/posts/2008-10-03-49/</link>
+      <pubDate>Fri, 03 Oct 2008 14:44:20 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-10-03-49/</guid>
+      <description>Stanza для iPhone популярнее, чем Amazon Kindle
+ Как сообщает ресурс Forbes, бесплатное приложение Stanza, позволяющее пользователям загружать и читать электронные книги на смартфоне iPhone, становится более популярным, чем отдельное устройство для чтения Amazon Kindle. На сегодняшний день, по данным его разработчика Lexcycle, Stanza загрузили свыше 395 тысяч пользователей, что составляет более пяти тысяч загрузок в день. Между тем, по сведениям банка Citigroup, устройство Amazon Kindle в этом году приобрели лишь 380 тысяч пользователей, несмотря на то, что оно продавалось с самого начала года.</description>
+    </item>
+    
+    <item>
+      <title>Анонс EZ Reader от Astak и Jinke</title>
+      <link>http://example.org/posts/2008-09-27-5/</link>
+      <pubDate>Sat, 27 Sep 2008 10:29:32 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-09-27-5/</guid>
+      <description>Astak&#39;s press release for the EZ Reader - MobileRead Forums Компания Astak объявила о начале продаж в ноябре первого устройства из серии букридеров EZ Reader. Первый EZ Reader будет иметь 6-дюймовый экран. Производитель — Jinke, то есть это lBook для американцев.</description>
+    </item>
+    
+    <item>
+      <title>Букридер Sony Reader: новая прошивка, новые форматы, новые рынки</title>
+      <link>http://example.org/posts/2008-07-24-10/</link>
+      <pubDate>Thu, 24 Jul 2008 14:53:41 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-24-10/</guid>
+      <description>За последние несколько дней в новостных лентах, на тематических блогах и форумах появилось сразу несколько новостей о Sony Reader: PRS505 Firmware update: epub, DE, and reflow &amp;ndash; oh my! - MobileRead Forums: После сегодняшнего пакета обновления прошивки букридер сможет понимать формат EPUB . Кроме того, для закачки в него электронных книг (в формате EPUB и PDF) можно будет использовать Adobe Digital Edition. Sony Reader UK preorder opens tomorrow - MobileRead Forums: Букридер вскоре начнет продаваться в Англиии и, возможно, в России.</description>
+    </item>
+    
+    <item>
+      <title>Esquire с обложкой из электронной бумаги</title>
+      <link>http://example.org/posts/2008-07-21-13/</link>
+      <pubDate>Mon, 21 Jul 2008 20:45:22 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-21-13/</guid>
+      <description>News Flash From the Cover of Esquire - Paper Magazines Can Be High Tech, Too - NYTimes.com В сентябре на стендах журнальных киосках в США появится журнал Esquire с обложкой из электронной бумаги. Для журнала, который весьма трепетно относится к своим обложкам, это важный шаг. Жаль, что новой обложкой будут снабжены только 100 тысяч экземпляров журанала, которые будут продаваться в розницу в США :-( Comments:  ekniga - Jul 2, 2008Видел я эту заметку, но так и не понял главного: зачем?</description>
+    </item>
+    
+    <item>
+      <title>OReilly начал продажи своих книг для букридеров</title>
+      <link>http://example.org/posts/2008-06-15-a/</link>
+      <pubDate>Tue, 15 Jul 2008 20:30:49 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-15-a/</guid>
+      <description>Одно из крупнейших американских издательств, специализирующихся на компьютерной тематике, O&#39;Reilly, сегодня начало продажи книг для букридеров. В списке пока 30 наименований свободных от DRM (издательство экспериментирует с Social DRM) наборов электронных книг. Каждый набор включает книгу в трех форматах — EPUB, PDF и совместимый с Kindle формат Mobipocket. Набор продается по цене, чуть меньшей печатной книги ($19 против $23). За чуть большую цену (примерно $30) издательство предлагает комплект из печатной книги и электронного набора.</description>
+    </item>
+    
+    <item>
+      <title>Как измерить  спрос?</title>
+      <link>http://example.org/posts/2008-07-13-20/</link>
+      <pubDate>Sun, 13 Jul 2008 09:32:57 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-13-20/</guid>
+      <description>По сообщениям MobileRead Forums и TeleRead: Bring the E-Books Home веб-сайт ereader.com вчера рухнул под наплывом счастливых обладателей нового iPhone, захотевших скачать себе программу для чтения и купить или скачать бесплатно электронных книг. Сегодня загрузка сайта хоть медленно, но идет. Помнится, Стив Джобс заметил, что «никто уже не читает книг».</description>
+    </item>
+    
+    <item>
+      <title>Stanza для iPhone</title>
+      <link>http://example.org/posts/2008-07-12-51/</link>
+      <pubDate>Sat, 12 Jul 2008 21:19:21 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-12-51/</guid>
+      <description>В дополнение к предыдущей записи стоит добавить, что команда разработчиков Lexcycle подготовила к запуску полноценную программу чтения электронных книг для iPhone. Учитывая популярность iPhone, он — просто реализую свою вторичную функцию — может составить существенную конкуренцию другим букридерам. И, самое главное, сможет оказать содействие дальнейшему продвижению электронных книг. Демонстрационный ролик работы с программой в телефоне можно посмотреть здесь: Stanza_iPhone.mov. Via TeleRead. Comments:  ekniga - Jul 0, 2008Точнее, мне кажется, окажет содействие изменению е-книг в сторону универсальных устройств и, тем самым, окажет содействие дальнейшему продвижению е-книг</description>
+    </item>
+    
+    <item>
+      <title>Любопытная статистика книжного рынка США</title>
+      <link>http://example.org/posts/2008-07-11-25/</link>
+      <pubDate>Fri, 11 Jul 2008 08:08:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-11-25/</guid>
+      <description>bestsellers: Книжный рынок США
+ По данным агентства Bowker, ежегодно в США выпускаются 120 тыс. наименований книг. По данным газеты Publishers Weekly, 57 % новых книг не дочитываются до конца, а 70 % публикуемых в США книг не приносят прибыли. По оценкам Гильдии Писателей, «успехом» можно считать, когда продаются 5 тыс. экземпляров книги, содержащей новое литературное произведение (роман, рассказы, стихи и пр.) и 7,5 тыс. экземпляров книги нелитературного содержания (научно-популярные издания, энциклопедии и пр.</description>
+    </item>
+    
+    <item>
+      <title>iPhone как конкурент букридеру: экономический аспект</title>
+      <link>http://example.org/posts/2008-07-10-17/</link>
+      <pubDate>Thu, 10 Jul 2008 15:04:06 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-10-17/</guid>
+      <description>Publishing Frontier » Blog Archive » ebooks and the iPhone
+ Одна из проблем устройств, подобных Sony Reader и Kindle состоит в том, что они вступают в конкуренцию с другими «платформами» для чтения, например, книгой в обложке или книгой из библиотеки. Стоит ли тратить $300 на заменитель книги, который хрупок, в котором может кончиться батарейка и который жалко калечить неблагоприятным окружением (к примеру, на пляже)? Ведь можно купить книжику в мягкой обложке на распродаже за $5 или просто взять в библиотеке бесплатно.</description>
+    </item>
+    
+    <item>
+      <title>Бесплатное распространение электронных книг увеличивает продажи бумажных</title>
+      <link>http://example.org/posts/2008-07-10-7/</link>
+      <pubDate>Thu, 10 Jul 2008 09:09:29 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-10-7/</guid>
+      <description>Весьма поучительная история: Tor, один из самых заметных американских издателей научной фантастики, запустил в конце зимы программу бесплатной рассылки электронных версий книг (как правило, не бестселлеров). И вот результат — подъем продаж (как на эти книги в бумажном виде, так и на другие книги этих же авторов) на 20–50%.
+Did Tor’s free e-books boost sales? | TeleRead: Bring the E-Books Home Comments:  ekniga - Jul 4, 2008Аналогичные данные по П.</description>
+    </item>
+    
+    <item>
+      <title>Электронные газеты выйдут на рынок через год</title>
+      <link>http://example.org/posts/2008-07-08-a/</link>
+      <pubDate>Tue, 08 Jul 2008 09:17:08 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-08-a/</guid>
+      <description>E Ink: &amp;lsquo;E-newspapers&amp;rsquo; to Go Commercial in late 2009 &amp;ndash; Tech-On!
+ «Тестирование газет на электронной бумаге начнется в конце 2008 г., а выход на рынок — во второй половине 2009 г.» — сказал Рёсуке Кувата, вице-президент E Ink Corp: «Газеты — это сфера, на которую мы обращаем большое внимание. Я имею в виду газеты на электронной бумаге. Издательские компании сделали серьезные шаги в этом направлении в прошлом году. Сейчас мы работаем в очень плотном контакте с основными издателями газет в Японии […] И не только японские газеты заинтересованы в этом.</description>
+    </item>
+    
+    <item>
+      <title>Обзор ситуации с электронными книгами в США (от «Эксперт Казахстан»)</title>
+      <link>http://example.org/posts/2008-06-30-30/</link>
+      <pubDate>Mon, 30 Jun 2008 08:11:24 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-30-30/</guid>
+      <description>Несокрушимый бастион — Эксперт Online 2.0
+ Электронные книги не только не стали серьезным конкурентом бумажным, но, напротив, поддерживают традиционное книгопечатание, подогревая интерес читателей к литературе.
+ Via http://community.livejournal.com/bestsellers/57544.htm</description>
+    </item>
+    
+    <item>
+      <title>Princeton University Press в новом учебном году начнет продавать учебники для Kindle</title>
+      <link>http://example.org/posts/2008-06-25-a/</link>
+      <pubDate>Wed, 25 Jun 2008 09:26:27 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-25-a/</guid>
+      <description>Digital college textbooks | Christian Science Monitor
+ Так же, как Apple позволила миллионам учащихся колледжей оставить дома свои CD и взять в общаги свои iPod, Amazon пытается убедить студентов в том, что нет смысла таскать набитые учебниками рюкзаки: можно просто купить Kindle. Этой осенью Princeton University Press начнет выпускать электронные учебники в формате для Kindle. Пока это один из немногих издательских домов, которые пробуют войти в электронную воду. (За Kindle уцепились еще униеврситеты Йеля, Окфорда и Университет Калифорнии.</description>
+    </item>
+    
+    <item>
+      <title>Рост продаж электронных учебников</title>
+      <link>http://example.org/posts/2008-06-24-45/</link>
+      <pubDate>Tue, 24 Jun 2008 12:37:18 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-24-45/</guid>
+      <description>6/20/2008 - Ingram DigitalSM survey of 680 e-book users uncovers key drivers behind surge in digital textbook adoption
+ Ingram Digital, опубликовала результаты исследования пользователей распространяемых IDG электронных книг, а заодно обнародавала данные о продажах электронных учебников для колледжей и университетов: за первые пять месяцев этого года они выросли в 4 раза по сравнению с 2007 г.
+ Каталог IDG — это 110 тысяч электронных книг (в pdf-, lit- и pdb-формате) примерно тысячи издательств, среди которых — крупнейшие издатели профессиональной и академической литературы McGraw-Hill, Wiley, Elsevier и др.</description>
+    </item>
+    
+    <item>
+      <title>Онлайновый книжный магазин с виртуальными полками</title>
+      <link>http://example.org/posts/2008-06-22-31/</link>
+      <pubDate>Sun, 22 Jun 2008 10:19:30 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-22-31/</guid>
+      <description>Любопытная надстройка над Amazon: Zoomii.com - The &amp;ldquo;Real&amp;rdquo; Online Bookstore Полезная для тех, кто хочет «что-нибудь» купить.</description>
+    </item>
+    
+    <item>
+      <title>Печать по запросу в книжных магазинах</title>
+      <link>http://example.org/posts/2008-06-21-34/</link>
+      <pubDate>Sat, 21 Jun 2008 10:11:11 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-21-34/</guid>
+      <description>Британская книготорговая сеть Blackwell&#39;s планирует осенью этого года начать установку Espresso Book Machine — принтеров «print-on-demand» — во всех 60-ти магазинах сети. Производством принтеров занимается компания On Demand, уже имеющая опыт установки машин в крупнейших библиотеках мира. Принтеры EBM способны печатать книги со скоростью 40 страниц в минуту. С помощью EBM посетители книжных магазинов смогут быстро распечать готовую книгу в обложке из каталога машины, насчитывающего 400 тыс названий. Каталог составлен по преимуществу из книг, права на которых перешли в общественное пользование, а также из книг, тираж которых давно закончился (эту часть каталога обсдуживает компания Lighting Source, один из крупнейших POD-компаний США и Великобритании).</description>
+    </item>
+    
+    <item>
+      <title>В 2008 году будет продан, как минимум, 1 млн букридеров</title>
+      <link>http://example.org/posts/2008-06-09-a/</link>
+      <pubDate>Mon, 09 Jun 2008 14:50:30 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-09-a/</guid>
+      <description>Вице-президент Oxford University Press Эван Шнитман (Evan Schnittman) сформулировал оценку продаж букридеров Kindle и Sony, исходя из данных о планах поставок основного компонента устройства — 6-дюймовых экранов электронной бумаги, которые производит тайваньская фирма PVI. К концу года фирма собирается отгружать по 120 тыс экранов ежемесячно (при текущих поставках порядка 70 тыс). При этом 60% поставок приходится на Amazon, а 40% — на Sony. На основе этих данных, а также статистики IDPF и заявлению главы Amazon Джефа безоса о том, что на Kindle приходится 6% продаж книг его магазина, Шнитман делает вывод о том, что рынок продаж электронных книг в США может достичь в 2008 году $120 млн и увеличиться в несколько раз в следующем.</description>
+    </item>
+    
+    <item>
+      <title>Simon and Schuster добавило еще 5 тысяч книг на Amazon. Электронных</title>
+      <link>http://example.org/posts/2008-06-31-a/</link>
+      <pubDate>Sat, 31 May 2008 14:36:35 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-31-a/</guid>
+      <description>Вчера на проходящей в Лос-Анджелесе книжной ярмарке BookExpo Кэролайн Рейди,президент и исполнительный директор Simon &amp;amp; Schuster, объявила о том, что издательство добавляют к уже продающимся в электронном виде через Amazon книгам еще 5000 наименований из бэклиста. Теперь для владельцев Kindle доступно около 10 тысяч книг этого издательства (в числе примерно 125 000, продающихся на Amazon; для сравнения: в самом большом российском магазине электронных книг читателям могут предложить всего 6346 наименований.). Рейди с удовлетворением отметила, что те из покупателей книг на Amazon, кто пользуется Kindle, покупают примерно в 2,6 раза больше книг.</description>
+    </item>
+    
+    <item>
+      <title>Penguin объявляет о пятикратном росте продаж электронных книг</title>
+      <link>http://example.org/posts/2008-05-30-35/</link>
+      <pubDate>Fri, 30 May 2008 12:05:18 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-05-30-35/</guid>
+      <description>По сообщению Publishers Weekly, один из крупнейших в мире издательских холдингов, Penguin Group, объявил о пятикратном увеличении продаж электронных книг с апреля прошлого года. В I квартале текущего года Penguin продал электронных книг больше, чем за весь 2007 г. Исполнительный директор группы Дэвид Шанкс объяснил такой скачок ростом популярности бук-ридеров.[](http://www.publishersweekly.com/article/CA6564510.html) Comments:  Планета е-книг » Blog Archive » Заключение обзора - Apr 6, 2010[&amp;hellip;] товаров). Это подтверждает приведенная на digital_books мысль представителя Penguin Group, о том, что по сообщению Publishers [&amp;hellip;]</description>
+    </item>
+    
+    <item>
+      <title>Крупнейшее французское издательство покупает главного продавца электронных книг</title>
+      <link>http://example.org/posts/2008-05-20-15/</link>
+      <pubDate>Tue, 20 May 2008 14:13:21 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-05-20-15/</guid>
+      <description>Издательство Hachette, крупнейшее французское издательство, покупает компанию Numilog, одного из главных дистрибьюторов и продавцов электронных книг в стране. Кроме того, Hachette объявило о том, что собирается начать официальные продажи букридеров Sony Reader до конца этого года. Hachette plans to buy Numilog—and introduce the Sony Reader to France this year | TeleRead: Bring the E-Books Home</description>
+    </item>
+    
+  </channel>
+</rss>

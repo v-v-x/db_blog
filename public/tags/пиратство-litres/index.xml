@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>пиратство litres on My New Hugo Site</title>
+    <link>http://example.org/tags/%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%81%D1%82%D0%B2%D0%BE-litres/</link>
+    <description>Recent content in пиратство litres on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 May 2008 15:09:54 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%81%D1%82%D0%B2%D0%BE-litres/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Две новости</title>
+      <link>http://example.org/posts/2008-05-21-3/</link>
+      <pubDate>Wed, 21 May 2008 15:09:54 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-05-21-3/</guid>
+      <description>ЛитРес :: Новости сайта
+ Впервые в России электронная версия книги выходит раньше печатного издания! Издательство «Эксмо» начала продажи электронных книг на LitRes.ru, лидер российского книжного рынка, выпускает книгу Алекса Лесли «Новая ЖЖизнь без трусов»в электронной версии значительно раньше выхода книги из печати. Этот шаг призван удовлетворить горячий читательский интерес к творчеству широко известного в рунете автора бестселлера «ЖЖизнь без трусов: жесть как она есть» Алекса Лесли. Издательство «Эксмо», используя свой обширный инновационный потенциал, будет и впредь активно проявлять заботу о своих читателях.</description>
+    </item>
+    
+  </channel>
+</rss>

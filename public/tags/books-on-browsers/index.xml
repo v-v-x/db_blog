@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>books on browsers on Новости электронного книгоиздания</title>
+    <link>/tags/books-on-browsers/</link>
+    <description>Recent content in books on browsers on Новости электронного книгоиздания</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 23 Feb 2010 22:05:09 +0000</lastBuildDate><atom:link href="/tags/books-on-browsers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Встречайте - Ibis Reader, онлайновая читалка ePub</title>
+      <link>/posts/2010-02-23-225/</link>
+      <pubDate>Tue, 23 Feb 2010 22:05:09 +0000</pubDate>
+      
+      <guid>/posts/2010-02-23-225/</guid>
+      <description>via ibisreader.com
+От Лайзы Дейли — главного специалиста по epub.
+Функционально, кажется, ничем не отличается от Bookworm, — те же возможности для чтения из браузера мобильных устройств. Но несколько проще по интерфейсу. На первый взгляд может показаться, что получить книги можно только с Feedbook.com, ан нет — после регистрации вы можете добавить книгу самостоятельно. На DRM пока не проверял. Десктопная версия уступает, на мой взгляд, bookmate.ru по удобству (когда ребята доведут этот сервис до ума — Лайза Дейли, наверное, обзавидуется, правда, только для десктопа).</description>
+    </item>
+    
+  </channel>
+</rss>

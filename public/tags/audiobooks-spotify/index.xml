@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>audiobooks, Spotify on Новости электронного книгоиздания</title>
+    <link>/tags/audiobooks-spotify/</link>
+    <description>Recent content in audiobooks, Spotify on Новости электронного книгоиздания</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 28 Jan 2021 13:00:25 +0300</lastBuildDate><atom:link href="/tags/audiobooks-spotify/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Аудиокниги в Spotify</title>
+      <link>/posts/2021-01-28-1/</link>
+      <pubDate>Thu, 28 Jan 2021 13:00:25 +0300</pubDate>
+      
+      <guid>/posts/2021-01-28-1/</guid>
+      <description>Кстати, в Spotify аудокниги завезли. Пока по преимуществу классика. Но на русском есть, например, Пелевин и Акунин. Впрочем, они и так чуть ли не в каждом утюге. Отдельной секции аудиокниг в русском Spotify пока не нашёл. Ищется по «audiobooks», «аудиокниги» и пр. Но появится, конечно. В общем, как и предсказывалось. На рынке аудиокниг уже не продохнуть, кажется.</description>
+    </item>
+    
+  </channel>
+</rss>

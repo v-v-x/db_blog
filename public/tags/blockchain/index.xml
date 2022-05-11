@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blockchain on Новости электронного книгоиздания</title>
+    <link>/tags/blockchain/</link>
+    <description>Recent content in blockchain on Новости электронного книгоиздания</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 25 Oct 2017 11:24:43 +0000</lastBuildDate><atom:link href="/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Блокчейн в электронных книгах</title>
+      <link>/posts/2017-10-25-a/</link>
+      <pubDate>Wed, 25 Oct 2017 11:24:43 +0000</pubDate>
+      
+      <guid>/posts/2017-10-25-a/</guid>
+      <description>Биткойн и (в меньшей степени) технология блокчейна, на которой биткойн базируется, — у всех на слуху. Не прошло это поветрие и мимо книжной индустрии. Особенно мимо самой бодрой её части — самиздатчиков, которые, кажется, очень воодушевились, что теперь как-то смогут избавиться от олигополии дистрибуционных платформ, а продаваемые электронные книжки и правда будут продаваться, а не даваться «в пользование», как сейчас. То есть их можно будет легально давать почитать, дарить, завещать и пр.</description>
+    </item>
+    
+  </channel>
+</rss>

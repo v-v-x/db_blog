@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Penguin on My New Hugo Site</title>
+    <link>http://example.org/tags/penguin/</link>
+    <description>Recent content in Penguin on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 May 2008 12:05:18 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/penguin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Penguin объявляет о пятикратном росте продаж электронных книг</title>
+      <link>http://example.org/posts/2008-05-30-35/</link>
+      <pubDate>Fri, 30 May 2008 12:05:18 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-05-30-35/</guid>
+      <description>По сообщению Publishers Weekly, один из крупнейших в мире издательских холдингов, Penguin Group, объявил о пятикратном увеличении продаж электронных книг с апреля прошлого года. В I квартале текущего года Penguin продал электронных книг больше, чем за весь 2007 г. Исполнительный директор группы Дэвид Шанкс объяснил такой скачок ростом популярности бук-ридеров.[](http://www.publishersweekly.com/article/CA6564510.html) Comments:  Планета е-книг » Blog Archive » Заключение обзора - Apr 6, 2010[&amp;hellip;] товаров). Это подтверждает приведенная на digital_books мысль представителя Penguin Group, о том, что по сообщению Publishers [&amp;hellip;]</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>электронные газеты on My New Hugo Site</title>
+    <link>http://example.org/tags/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D1%8B/</link>
+    <description>Recent content in электронные газеты on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jul 2008 09:17:08 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Электронные газеты выйдут на рынок через год</title>
+      <link>http://example.org/posts/2008-07-08-a/</link>
+      <pubDate>Tue, 08 Jul 2008 09:17:08 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-08-a/</guid>
+      <description>E Ink: &amp;lsquo;E-newspapers&amp;rsquo; to Go Commercial in late 2009 &amp;ndash; Tech-On!
+ «Тестирование газет на электронной бумаге начнется в конце 2008 г., а выход на рынок — во второй половине 2009 г.» — сказал Рёсуке Кувата, вице-президент E Ink Corp: «Газеты — это сфера, на которую мы обращаем большое внимание. Я имею в виду газеты на электронной бумаге. Издательские компании сделали серьезные шаги в этом направлении в прошлом году. Сейчас мы работаем в очень плотном контакте с основными издателями газет в Японии […] И не только японские газеты заинтересованы в этом.</description>
+    </item>
+    
+  </channel>
+</rss>

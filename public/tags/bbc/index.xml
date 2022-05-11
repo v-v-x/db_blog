@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BBC on My New Hugo Site</title>
+    <link>http://example.org/tags/bbc/</link>
+    <description>Recent content in BBC on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Aug 2008 16:00:33 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/bbc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BBC об электронных книгах</title>
+      <link>http://example.org/posts/2008-08-07-6/</link>
+      <pubDate>Thu, 07 Aug 2008 16:00:33 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-08-07-6/</guid>
+      <description>BBC - Today
+ When electronic books first came onto the market, some thought it spelt the end for the printed page.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

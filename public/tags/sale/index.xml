@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sale on My New Hugo Site</title>
+    <link>http://example.org/tags/sale/</link>
+    <description>Recent content in sale on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jun 2008 10:19:30 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/sale/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Онлайновый книжный магазин с виртуальными полками</title>
+      <link>http://example.org/posts/2008-06-22-31/</link>
+      <pubDate>Sun, 22 Jun 2008 10:19:30 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-22-31/</guid>
+      <description>Любопытная надстройка над Amazon: Zoomii.com - The &amp;ldquo;Real&amp;rdquo; Online Bookstore Полезная для тех, кто хочет «что-нибудь» купить.</description>
+    </item>
+    
+    <item>
+      <title>Печать по запросу в книжных магазинах</title>
+      <link>http://example.org/posts/2008-06-21-34/</link>
+      <pubDate>Sat, 21 Jun 2008 10:11:11 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-21-34/</guid>
+      <description>Британская книготорговая сеть Blackwell&#39;s планирует осенью этого года начать установку Espresso Book Machine — принтеров «print-on-demand» — во всех 60-ти магазинах сети. Производством принтеров занимается компания On Demand, уже имеющая опыт установки машин в крупнейших библиотеках мира. Принтеры EBM способны печатать книги со скоростью 40 страниц в минуту. С помощью EBM посетители книжных магазинов смогут быстро распечать готовую книгу в обложке из каталога машины, насчитывающего 400 тыс названий. Каталог составлен по преимуществу из книг, права на которых перешли в общественное пользование, а также из книг, тираж которых давно закончился (эту часть каталога обсдуживает компания Lighting Source, один из крупнейших POD-компаний США и Великобритании).</description>
+    </item>
+    
+  </channel>
+</rss>

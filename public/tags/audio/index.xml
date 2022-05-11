@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>audio on Новости электронного книгоиздания</title>
+    <link>/tags/audio/</link>
+    <description>Recent content in audio on Новости электронного книгоиздания</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 20 Jan 2020 22:43:02 +0300</lastBuildDate><atom:link href="/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Penguin Random House отозвал книги у безлимитных сервисов</title>
+      <link>/posts/2020-01-20-1/</link>
+      <pubDate>Mon, 20 Jan 2020 22:43:02 +0300</pubDate>
+      
+      <guid>/posts/2020-01-20-1/</guid>
+      <description>Пишут, что Penguin Random House со знакомыми повадками самого крутого парня на деревне отозвал свои аудиокниги на английском из подписочных сервисов Storytel, Bookbeat и Nextory, ссылаясь на &amp;ldquo;каннибализацию&amp;rdquo;. Это особенно забавно, поскольку практически все эти сервисы работают в странах, где не английский язык — основной.
+По слухам, впрочем, причина в другом: PRH готовит свой собственный аудиосервис. Готовить-то он, конечно, может — каталога хватит. Вот только предыдущие попытки сделать собственный конкурентоспособный магазин заканчивались пфуком.</description>
+    </item>
+    
+    <item>
+      <title>AudioFile — сайт с рецензиями только на аудиокниги</title>
+      <link>/posts/2016-01-11-a/</link>
+      <pubDate>Mon, 11 Jan 2016 11:18:04 +0000</pubDate>
+      
+      <guid>/posts/2016-01-11-a/</guid>
+      <description>Explore great audio book listening with AudioFile recommendations and reviews. We help you find your next great audiobook. Independent reviews help you discover the best narrators, great listening, and spoken word programs worth your listening time. We talk all audiobooks, all the time.
+ Source: AudioFile Magazine
+До чего дошёл прогресс )</description>
+    </item>
+    
+  </channel>
+</rss>

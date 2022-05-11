@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>industry on Новости электронного книгоиздания</title>
+    <link>/tags/industry/</link>
+    <description>Recent content in industry on Новости электронного книгоиздания</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 26 Dec 2018 14:28:24 +0000</lastBuildDate><atom:link href="/tags/industry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Некоторые итоги 2018</title>
+      <link>/posts/2018-12-26-a/</link>
+      <pubDate>Wed, 26 Dec 2018 14:28:24 +0000</pubDate>
+      
+      <guid>/posts/2018-12-26-a/</guid>
+      <description>На «Горьком» про индустрию. В Republic про авторские права. В Telegram про прочитанные книги.</description>
+    </item>
+    
+    <item>
+      <title>Типографский дисбаланс</title>
+      <link>/posts/2018-12-24-b/</link>
+      <pubDate>Mon, 24 Dec 2018 17:08:32 +0000</pubDate>
+      
+      <guid>/posts/2018-12-24-b/</guid>
+      <description>Жаль, не попалась мне эта история до написания всяких обзор книжных индустриальных событий этого года. История крайне примечательная: в США типографии, сократившие свои мощности, закупки бумагу и рабочую силу, не справляются с печатью нескольких последних бестселлеров этого года. В частности, книгу Мишель Обамы продали уже 3 800 000 экз. В результате сдвигаются допечатки и тиражи других книг. В выигрыше, конечно, останутся независимые книжные, у которых и так рост продаж в этом году на 5%.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>СМИ on My New Hugo Site</title>
+    <link>http://example.org/tags/%D1%81%D0%BC%D0%B8/</link>
+    <description>Recent content in СМИ on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 May 2009 10:18:31 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D1%81%D0%BC%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Скоро появится Amazon Kindle для газет</title>
+      <link>http://example.org/posts/2009-05-04-143/</link>
+      <pubDate>Mon, 04 May 2009 10:18:31 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-05-04-143/</guid>
+      <description>Big-Screen e-Readers May Help Save Newspapers - NYTimes.com
+ But it is Amazon, maker of the Kindle, that appears to be first in line to try throwing an electronic life preserver to old-media companies. As early as this week, according to people briefed on the online retailer’s plans, Amazon will introduce a larger version of its Kindle wireless device tailored for displaying newspapers, magazines and perhaps textbooks. An Amazon spokesman would not comment, but some news organizations, including The New York Times, are expected to be involved in the introduction of the device, according to people briefed on the plans.</description>
+    </item>
+    
+  </channel>
+</rss>

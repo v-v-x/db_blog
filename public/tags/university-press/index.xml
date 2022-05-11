@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>University Press on My New Hugo Site</title>
+    <link>http://example.org/tags/university-press/</link>
+    <description>Recent content in University Press on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jun 2008 09:26:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/university-press/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Princeton University Press в новом учебном году начнет продавать учебники для Kindle</title>
+      <link>http://example.org/posts/2008-06-25-a/</link>
+      <pubDate>Wed, 25 Jun 2008 09:26:27 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-25-a/</guid>
+      <description>Digital college textbooks | Christian Science Monitor
+ Так же, как Apple позволила миллионам учащихся колледжей оставить дома свои CD и взять в общаги свои iPod, Amazon пытается убедить студентов в том, что нет смысла таскать набитые учебниками рюкзаки: можно просто купить Kindle. Этой осенью Princeton University Press начнет выпускать электронные учебники в формате для Kindle. Пока это один из немногих издательских домов, которые пробуют войти в электронную воду. (За Kindle уцепились еще униеврситеты Йеля, Окфорда и Университет Калифорнии.</description>
+    </item>
+    
+  </channel>
+</rss>

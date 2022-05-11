@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Олма on My New Hugo Site</title>
+    <link>http://example.org/tags/%D0%BE%D0%BB%D0%BC%D0%B0/</link>
+    <description>Recent content in Олма on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Jul 2008 18:36:17 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D0%BE%D0%BB%D0%BC%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Российские издатели против обязательного электронного экземпляра</title>
+      <link>http://example.org/posts/2008-07-03-44/</link>
+      <pubDate>Thu, 03 Jul 2008 18:36:17 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-03-44/</guid>
+      <description>Ъ - Госдума цифруется на случай буквоедства
+ Сегодня Госдума в первом чтении должна рассмотреть поправки к закону &amp;ldquo;О библиотечном деле&amp;rdquo;, легализующие деятельность электронных библиотек. В целях &amp;ldquo;сохранности фондов&amp;rdquo; национальные библиотеки предлагается наделить правом оцифровывания книг, видеофильмов и других произведений, что позволит им создавать электронные копии документов без согласия авторов и без выплаты им вознаграждения &amp;lt;&amp;hellip;&amp;gt;
+&amp;ldquo;Издатели захотят зафиксировать защиту своего авторского права, и читатели будут оплачивать вот этот бесплатный доступ&amp;rdquo;,— прогнозирует гендиректор &amp;ldquo;Олма Медиа Групп&amp;rdquo; Дмитрий Иванов.</description>
+    </item>
+    
+  </channel>
+</rss>

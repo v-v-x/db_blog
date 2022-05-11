@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>тенденции on My New Hugo Site</title>
+    <link>http://example.org/tags/%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B8/</link>
+    <description>Recent content in тенденции on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jun 2008 08:41:14 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ложное чувство безопасности</title>
+      <link>http://example.org/posts/2008-06-24-24/</link>
+      <pubDate>Tue, 24 Jun 2008 08:41:14 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-24-24/</guid>
+      <description>TOC цитирует Майкла Кейрнса из Information Media Partners: Ebooks: False Sense of Security for Publishers? - Tools of Change for Publishing
+ Сегодняшние издатели впервые в истории не могут быть уверены в том, что поколение детей будет интересоваться результатами их труда.
+…Перевод контента в электронные книги создает ложное чувство безопасности у издателей, которые верят в то, что достаточно «перезапустить» книгу, [чтобы она была востребована] новым поколением [читателей].
+ </description>
+    </item>
+    
+    <item>
+      <title>PWC о книгах и электронных книгах в России</title>
+      <link>http://example.org/posts/2008-06-23-41/</link>
+      <pubDate>Mon, 23 Jun 2008 08:20:33 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-06-23-41/</guid>
+      <description>Российский рынок развлечений становится одним из самых крупных в мире - Интерфакс
+ Российский рынок развлечений и СМИ становится одним из самых крупных в мире с объемом почти в $30 млрд в год. Это показало исследование PricewaterhouseCoopers «Всемирная индустрия развлечений и СМИ: прогноз на 2008–2012 годы» (Global Entertainment and Media Outlook: 2008–2012)&amp;lt;…&amp;gt; Согласно исследованию, российский рынок книжной продукции (не включая профессиональную литературу) в 2007 году в России составил около $2 млрд.</description>
+    </item>
+    
+  </channel>
+</rss>

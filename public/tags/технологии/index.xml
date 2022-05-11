@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Технологии on My New Hugo Site</title>
+    <link>http://example.org/tags/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
+    <description>Recent content in Технологии on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Oct 2017 11:24:43 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Блокчейн в электронных книгах</title>
+      <link>http://example.org/posts/2017-10-25-a/</link>
+      <pubDate>Wed, 25 Oct 2017 11:24:43 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2017-10-25-a/</guid>
+      <description>Биткойн и (в меньшей степени) технология блокчейна, на которой биткойн базируется, — у всех на слуху. Не прошло это поветрие и мимо книжной индустрии. Особенно мимо самой бодрой её части — самиздатчиков, которые, кажется, очень воодушевились, что теперь как-то смогут избавиться от олигополии дистрибуционных платформ, а продаваемые электронные книжки и правда будут продаваться, а не даваться «в пользование», как сейчас. То есть их можно будет легально давать почитать, дарить, завещать и пр.</description>
+    </item>
+    
+    <item>
+      <title>BookNet Canada 2017</title>
+      <link>http://example.org/posts/2017-04-28-a/</link>
+      <pubDate>Fri, 28 Apr 2017 14:34:58 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2017-04-28-a/</guid>
+      <description>Конференций про электронные книги не так уж много. TOC закрылся, Digital Books World — неизвестно, состоится ли в следующем году. А BookNet Canada жива. Вот презентации с последней конференции https://www.slideshare.net/booknetcanada/, а вот записи выступлений https://booknetcanada.wistia.com/projects/vrpddmz9gm. Самая полезная для российских издателей вот эта, мне кажется, о том, как в McMillan организовали рабочий процесс по производству электронных книг — без InDesign и SMS:
+How I Built an Automated Ebook Production Platform—And You Can, Too!</description>
+    </item>
+    
+    <item>
+      <title>Readium LCP — децентрализованный DRM</title>
+      <link>http://example.org/posts/2017-01-24-a/</link>
+      <pubDate>Tue, 24 Jan 2017 22:39:44 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2017-01-24-a/</guid>
+      <description>Издатели искренно любят DRM, digital rights management. Их любовью иногда болеют даже целые стран, запрещая обход DRM. Издатели наивно полагают, что «управление цифровыми правами» (эвфемизм «предотвращения копирования») может действительно ограничить копирование. Истории противостояния DRM и программистов, которой уже не одно десятилетие и на протяжении которой каждая новая хитроумная технология DRM через довольно короткий срок оказывалась взломанной не менее хитроумными программными инструментами. Но издатели продолжают верить, потому что кое-где и кое-как DRM работает, хотя бы потому что успокаивает их тревогу.</description>
+    </item>
+    
+    <item>
+      <title>Теги для экспорта стилей из InDesign в EPUB</title>
+      <link>http://example.org/posts/2016-02-17-a/</link>
+      <pubDate>Wed, 17 Feb 2016 18:58:02 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2016-02-17-a/</guid>
+      <description>Несколько простых советов, которые позволят вам сократить время обработки EPUB, сконвертированного из вашего макета в InDesign. Если при задании стилей оформления абзацев вы не задали теги, которые будут этим стилям соответствовать в CSS-файле EPUB, то некоторые программы и устройства для чтения не смогут корректно отобразить заданное вами оформление Проще говоря — абзац, описанный стилем будет выглядеть как обычный абзац, а вовсе не как заголовок. Чтобы программа чтения поняла, что это заголовок, стиль должен быть описан не как абзац p, а как заголовок h1…h6.</description>
+    </item>
+    
+    <item>
+      <title>Пара полезных плагинов для epub и mobi в Mac OS X</title>
+      <link>http://example.org/posts/2015-11-05-a/</link>
+      <pubDate>Thu, 05 Nov 2015 08:20:27 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-11-05-a/</guid>
+      <description>Quick Look плагин для epub. Файл epub.qlgenerator просто копируется в папку /Library/QuickLook. Отображает обложки epub в Finder и основные метаданные при быстром просмотре. И Quick Look плагин для mobi. В ту же папку копируется файл QLMobi.qlgenerator. Помимо отображения обложек, в режиме быстрого просмотра позовляет просмотреть сам файл.</description>
+    </item>
+    
+    <item>
+      <title>Лекарство для Kindle Previewer 2.94</title>
+      <link>http://example.org/posts/2015-10-16-a/</link>
+      <pubDate>Fri, 16 Oct 2015 12:24:36 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-10-16-a/</guid>
+      <description>A discussion in the Kindle Publishing forum
+ Source: Amazon.com: Customer Discussions: Announcing Kindle Previewer 2.94 Свежий Kindle Previewer не запускается в новой OS X. Лечение — только установкой x11 и старой Java 1.6, а также прописывание новых путей руками в загрузочном файле. Зато можно почувствовать себя программистом! With the latest update of Mac 10.11, Kindle Previewer 2.94 is having some problems. We recommend our users to follow the steps in the order that we are giving below:</description>
+    </item>
+    
+    <item>
+      <title>Новости середины лета 2015</title>
+      <link>http://example.org/posts/2015-07-15-a/</link>
+      <pubDate>Wed, 15 Jul 2015 11:02:28 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-07-15-a/</guid>
+      <description>Главное событие начала лета состоит из двух и связано с subscription: (1) Переход Amazon Kindle Unlimited на другой принцип расчёта базы для выплат роялти. Компания каждый месяц выделяет какую-то фиксированную сумму (на июль 2015 — $11 млн), которые распределяются между авторами в зависимости от активности читателей. До июля основным параметром, от которого зависели доходы авторов, были загрузки и чтение более 10%. Теперь — количество прочитанных пользователем страниц. Комментаторы теряются в сомнениях, к чему же это приведёт — к смерти коротких повестей или длинных научно-популярных книг?</description>
+    </item>
+    
+    <item>
+      <title>Новый релиз Sigil. Исправлены ошибки</title>
+      <link>http://example.org/posts/2015-04-01-a/</link>
+      <pubDate>Wed, 01 Apr 2015 12:34:07 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-04-01-a/</guid>
+      <description>Вышел очередной релиз Sigil — 0.8.5 — без принципиальных изменений, но с кое-какими исправленными ошибками.</description>
+    </item>
+    
+    <item>
+      <title>Суровая конкуренция Oyster и Amazon</title>
+      <link>http://example.org/posts/2015-02-02-b/</link>
+      <pubDate>Mon, 02 Feb 2015 13:12:09 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-02-02-b/</guid>
+      <description>Доброжелатели написали плагин для Chrome, которые прямо на странице магазина книг Amazon показывает, есть ли искомая книга в каталоге Oyster. И уже сам пользователь решает — покупать её, или проще подписаться на Oyster за 9,99$. Сурово. Пока расширение на GitHub, но вроде бы обещают и в Google Web Store.</description>
+    </item>
+    
+    <item>
+      <title>Sigil 0.8.3</title>
+      <link>http://example.org/posts/2015-02-02-a/</link>
+      <pubDate>Mon, 02 Feb 2015 06:07:23 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2015-02-02-a/</guid>
+      <description>Вышла новая, более стабильная, как уверяют разработчики, версия редактора EPUB. Качать тут.</description>
+    </item>
+    
+    <item>
+      <title>Браузер, который читает книги</title>
+      <link>http://example.org/posts/2014-05-23-a/</link>
+      <pubDate>Fri, 23 May 2014 10:11:57 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2014-05-23-a/</guid>
+      <description>Пользователи современных браузеров уже довольно давно имеют возможность открывать обычные офисные документы прямо в бразуре. Пришло вам письмо на почту, в нём вложен DOC. Скачивать и открывать в Word часто не обязательно, достаточно кликнуть на файле и посмотреть, что в нём, прямо в браузере. Аналогичный вьюер, только электронных книг (поддерживается epub, fb2 и fb2.zip), включился в последней (за номером 14.4.1750.13662 (129c834)) версии Яндекс.Браузера (на Маке обновление можно получить в меню Yandex &amp;gt; About Yandex, на Windows — в настройках).</description>
+    </item>
+    
+    <item>
+      <title>Полезная и несложная книга про верстку EPUB 2 и 3</title>
+      <link>http://example.org/posts/2014-05-20-a/</link>
+      <pubDate>Tue, 20 May 2014 15:47:25 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2014-05-20-a/</guid>
+      <description>«EPUB From the Ground Up: A Hands-On Guide to EPUB 2 and EPUB 3» — довольно полезный и несложный (для веб-дизайнера) учебник по верстке EPUB, дающий минимально необходимый набор полезной информации об устройстве EPUB и процессе его верстки с нуля. Причём на примере работы в редакторе Sigil. Впрочем, неудивительно, более простого, бесплатного и достаточно мощного инструмента для верстки и правки EPUB так и не появилось.</description>
+    </item>
+    
+    <item>
+      <title>Aptara запустила eGen</title>
+      <link>http://example.org/posts/2009-11-19-18/</link>
+      <pubDate>Thu, 19 Nov 2009 13:52:53 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-11-19-18/</guid>
+      <description>The eGen Platform
+ The eGen platform is the only technology to automatically generate large volumes of high-quality eBook-ready content at a dramatically reduced cost. This offers publishers a truly flexible solution for distributing their content to eReaders including the Amazon Kindle, SONY Reader, Apple iPhone, and a variety of new devices, such as Barnes &amp;amp; Noble’s Nook.
+Convert your content assets for a multitude of eReaders with eGen and benefit from:</description>
+    </item>
+    
+    <item>
+      <title>К таблетке от Apple будь готов!</title>
+      <link>http://example.org/posts/2009-11-18-14/</link>
+      <pubDate>Wed, 18 Nov 2009 22:21:32 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-11-18-14/</guid>
+      <description>Condé Nast Gets Wired Ready For Apple Tablet (In Case There Is One) | paidContent
+ Just as Condé Nast celebrates the acceptance of the special, digitized issue of GQ into Apple’s App store, the company is now hoping and praying the rumors of an Apple (NSDQ: AAPL) Tablet will come true next year. Just in case, CN is readying a digital version Wired magazine, ads and all, for the awaited Apple gadget, MediaMemo’s Peter Kafka reports.</description>
+    </item>
+    
+    <item>
+      <title>Конец 2010 года: цветной букридер с видео от Qualcomm</title>
+      <link>http://example.org/posts/2009-11-18-128/</link>
+      <pubDate>Wed, 18 Nov 2009 22:17:28 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-11-18-128/</guid>
+      <description>Qualcomm mirasol color video ebook readers to ship in 2010 - SlashGear
+ Ebook readers are arguably coming of age, but don’t assume e-ink – and the push to produce color e-ink panels – have won the game quite yet. SlashGear met up with Qualcomm’s mirasol team today to discuss their latest display news, and while you might remember the technology from their early 1.1-inch single-color panels, they’re now showing off a 5.</description>
+    </item>
+    
+    <item>
+      <title>Плагин для Firefox для чтения epub</title>
+      <link>http://example.org/posts/2009-11-02-54/</link>
+      <pubDate>Mon, 02 Nov 2009 23:51:40 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-11-02-54/</guid>
+      <description>EPUBReader :: Add-ons for Firefox Плагин пока очень простенький. Но автор над ним работает - мгновенно откликнулся на замечания и пофиксил баг. Всё работает и есть куда развиваться. К не очень большому набору программных ридеров epub добавился ещё один. Учитывая распространенность Firefox, такое решение может оказаться одним из самых массовых для PC и ноутбуков.</description>
+    </item>
+    
+    <item>
+      <title>Kindle для PC — удар по будущему Google Books Store и iTunes Books Store</title>
+      <link>http://example.org/posts/2009-10-24-81/</link>
+      <pubDate>Sat, 24 Oct 2009 10:49:05 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-24-81/</guid>
+      <description>Анонс Amazon о скором появлении бесплатной программы Kindle for PC (и для Mac), которяа позволит покупать и читать электронные книги книги из онлайнового магазина — это не просто шаг на встречу тем, у кого нет амазоновского букридера. В сущности — это «iTunes для книг». Пока Apple еще собирается заводить «таблетку», а к ней — книжный ассортимент в iTunes, пока Google только пообещал завести книжный магазин с загрузкой книг «на любое устройство в браузер» — Amazon уже готов.</description>
+    </item>
+    
+    <item>
+      <title>HP готовит масштабный POD-проект</title>
+      <link>http://example.org/posts/2009-10-21-64/</link>
+      <pubDate>Wed, 21 Oct 2009 19:46:57 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-21-64/</guid>
+      <description>AFP: HP partners with university to print digital books
+ The US computer giant announced Wednesday it has teamed with the University of Michigan to offer print versions of more than 500,000 out-of-copyright books in the school&#39;s library. The books will be available for purchase through online retail giant Amazon and other outlets including HP&#39;s own BookPrep.com, which already offers public domain volumes for print on-demand and purchase.
+ Судя по всему, этот союз решил войти на тот же рынок, что и Google с On Demand Books.</description>
+    </item>
+    
+    <item>
+      <title>Двухэкранный букридер на Android</title>
+      <link>http://example.org/posts/2009-10-19-43/</link>
+      <pubDate>Mon, 19 Oct 2009 20:02:47 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-19-43/</guid>
+      <description>Spring Design
+ Spring Design today announced Alex™, the first Google Android-based e-book with full browser capabilities and patented dual screen, the Duet Navigator™. Alex, the first Google Android-based e-book device to provide full Internet browsing over Wi-Fi or mobile networks such as 3G, EVDO/CDMA and GSM. Alex™ features a 6&amp;rdquo; E-Ink EPD display and 3.5&amp;rdquo; color LCD display, earphones and speakers. A removable SD card will free up library space on the device while letting users archive content for future reference.</description>
+    </item>
+    
+    <item>
+      <title>Букридер для B&amp;N спроектировали экс-дизайнеры Apple и Kindle</title>
+      <link>http://example.org/posts/2009-10-15-25/</link>
+      <pubDate>Thu, 15 Oct 2009 07:40:49 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-15-25/</guid>
+      <description>Barnes &amp;amp; Noble Taps Kindle Designer For Its Athena e-Book Reader - BusinessWeek
+ Yes, it’s true. The much-anticipated device from Barnes &amp;amp; Noble, which has been eliciting oohs and ahs since leaked photos appeared on Gizmodo, was designed by Ammunition Partners, a San Francisco firm headed by former Apple design chief Robert Brunner.
+Although Amazon has never confirmed this, two sources tell me that Brunner’s team also designed the initial Kindle for Amazon in 2007.</description>
+    </item>
+    
+    <item>
+      <title>Новый букридер от Barnes&amp;Noble?</title>
+      <link>http://example.org/posts/2009-10-14-102/</link>
+      <pubDate>Wed, 14 Oct 2009 19:24:46 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-14-102/</guid>
+      <description>Exclusive: First Photos of Barnes &amp;amp; Noble&#39;s E-Reader - Barnes and Nobles reader - Gizmodo
+  Barnes and Noble&#39;s late to e-books. But the company&#39;s new gadget—first seen here—should address the weaknesses of all other readers with screens evoking a Kindle and an iPhone. A source from within reveals the first photos and details. The Barnes and Nobles e-reader project, set to be revealed next week, has been under development for years, with several devices of varying size and capability in the pipeline.</description>
+    </item>
+    
+    <item>
+      <title>Продажи книг от Google начнутся в июне 2010. Возможно, и для &#34;гуглридера&#34;?</title>
+      <link>http://example.org/posts/2009-10-14-58/</link>
+      <pubDate>Wed, 14 Oct 2009 14:52:31 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-14-58/</guid>
+      <description>Google book sales to begin by June of next year | TeleRead: Bring the E-Books Home
+ At the Tools of Change conference in Frankfurt Google announced that it will be running out its own book sales offering by June of next year.
+ А вот этот слух еще интереснее: Google plans &amp;lsquo;buy anywhere, read anywhere&amp;rsquo; offer - MobileRead Forums
+ it was &amp;ldquo;definitely&amp;rdquo; Google&#39;s intention to partner with device manufacturers, but declined to give names.</description>
+    </item>
+    
+    <item>
+      <title>Electronic Arts выходит на рынок э-книг через Nintendo DS</title>
+      <link>http://example.org/posts/2009-10-11-45/</link>
+      <pubDate>Sun, 11 Oct 2009 19:46:57 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-11-45/</guid>
+      <description>EA Extranet: &amp;ldquo;EA ANNOUNCES FLIPS ON THE NINTENDO DS&amp;rdquo;
+ Guildford, UK – 9th October 2009 – Electronic Arts (NASDAQ: ERTS) today announces the development of FLIPS™, an innovative new book range created for the Nintendo DS™. FLIPS has been designed to give children of all ages a fun new way to read their favorite books. EA has worked with some of the UK’s leading publishers of children&#39;s books and magazines, including Egmont and Penguin Publishing, to bring modern classic titles from critically acclaimed authors such as Cathy Cassidy, Eoin Colfer, Enid Blyton, and the various writers from the popular boys series, ‘Too Ghoul for School’ to the DS.</description>
+    </item>
+    
+    <item>
+      <title>Полезные рекомендации по изотовлению epub и книг для Kindle</title>
+      <link>http://example.org/posts/2009-10-08-68/</link>
+      <pubDate>Thu, 08 Oct 2009 15:35:17 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-08-68/</guid>
+      <description>InDesign to ePub, Kindle, and iPhone session at MAX - Scratch Disk</description>
+    </item>
+    
+    <item>
+      <title>AUO - новый игрок на рынке букридеров</title>
+      <link>http://example.org/posts/2009-10-05-21/</link>
+      <pubDate>Mon, 05 Oct 2009 10:12:24 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-05-21/</guid>
+      <description>FT.com / Technology - AUO to kindle rivalry with half-price e-readers
+ Taiwan’s AU Optronics has thrown down the gauntlet to its rivals, saying it expects to be able to halve the cost of electronic readers, popularised by Amazon’s Kindle devices, within two years.
+The world’s third-biggest flat-panel maker has begun shipping six- to nine-inch-sized e-readers to a number of clients, according to CT Liu, a senior vice-president of consumer product displays at AUO.</description>
+    </item>
+    
+    <item>
+      <title>Бесплатный семинар по электронному книгоизданию Adobe</title>
+      <link>http://example.org/posts/2009-10-04-6/</link>
+      <pubDate>Sun, 04 Oct 2009 21:31:31 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-04-6/</guid>
+      <description>Adobe - Online events : Event Details
+ Discover how the Adobe eBook platform makes reading an immersive experience—everywhere and across devices. Join us for an hour-long complimentary online eSeminar and explore how the Adobe eBook platform enables reader engagement through a streamlined workflow for authoring, protecting and delivering digital books. Hosted by Adobe product experts, this eSeminar shows how to enable a seamless reading experience across multiple screen types and why an open, interoperable eBook platform serves your readers best.</description>
+    </item>
+    
+    <item>
+      <title>Бесплатный семинар по электронному книгоизданию Adobe</title>
+      <link>http://example.org/posts/2009-10-04-5/</link>
+      <pubDate>Sun, 04 Oct 2009 21:29:38 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-04-5/</guid>
+      <description>Adobe - Online events : Event Details
+ Discover how the Adobe eBook platform makes reading an immersive experience—everywhere and across devices. Join us for an hour-long complimentary online eSeminar and explore how the Adobe eBook platform enables reader engagement through a streamlined workflow for authoring, protecting and delivering digital books. Hosted by Adobe product experts, this eSeminar shows how to enable a seamless reading experience across multiple screen types and why an open, interoperable eBook platform serves your readers best.</description>
+    </item>
+    
+    <item>
+      <title>Производитель &#34;книгоматов&#34; договорился с Google</title>
+      <link>http://example.org/posts/2009-09-17-59/</link>
+      <pubDate>Thu, 17 Sep 2009 08:29:10 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-17-59/</guid>
+      <description>The Associated Press: Google to reincarnate digital books as paperbacks
+Каталог оцифрованных Google Books книг, находящихся в общественном достоянии, будет доступен пользователям микротипографских комплексов Espresso, производимых компанией On Demand Books. Это 2 млн книг, которые можно будет распечатать за 5-7 минут. Рекомендованная цена 300-страничной книги - $8, из которых $1 пойдет на благотворительность. В случае одобрения коллективного соглашения Google и Американской авторской ассоциации, каталог пополнится и книгами-сиротами. Стоимость машины - $100 тыс.</description>
+    </item>
+    
+    <item>
+      <title>Amazon опубликовал исходники Kindle</title>
+      <link>http://example.org/posts/2009-09-16-79/</link>
+      <pubDate>Wed, 16 Sep 2009 22:21:28 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-16-79/</guid>
+      <description>Amazon Releases Kindle Source Code | Techgeist
+ Amazon has released the source code for all models of the Kindle. This means that we can now look at the code which makes the Kindle, Kindle 2, and the Kindle DX tick. The code can be found here on the Amazon site. So the question for all the curious minds out there is why did Amazon do this.
+ Просто опубликовал. Но никакого явного разрешения использовать.</description>
+    </item>
+    
+    <item>
+      <title>Mobipocket выходит из конкуренции ePub и Amazon</title>
+      <link>http://example.org/posts/2009-09-08-96/</link>
+      <pubDate>Tue, 08 Sep 2009 22:20:09 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-08-96/</guid>
+      <description>Is the end near for Mobipocket? - MobileRead Forums
+ The end seems to be near for the Mobipocket ebook standard. On the sign up page of Mobipocket Ebookbase, the following text is displayed:
+Effective September 2009, we will no longer open new accounts for publishers to sell titles through the Kindle Store or MobiPocket.com. If you have an existing account, there will be no change and you can continue to upload and sell titles using Ebookbase.</description>
+    </item>
+    
+    <item>
+      <title>Отличный проект: SellYourRights = CC &#43; продажи &#43; коллаборация</title>
+      <link>http://example.org/posts/2009-09-08-138/</link>
+      <pubDate>Tue, 08 Sep 2009 15:15:51 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-08-138/</guid>
+      <description>SellYourRights Создатели собирают деньги, которые платят пользователи только если контент отпускается на свободу. Пока только музыка. Но обещали и книги. Фишка в том, что деньги собираются фиксированное время, и пока они не соберутся - никто не платит ни гроша - фактически, это подписка. Система только проверит достоверность кредитки или счета в Paypal. Получается, что это та же схема, которая используется logos.com для своей христианской литературы, но только попроще - и для всего.</description>
+    </item>
+    
+    <item>
+      <title>Asus готовит букридер с двумя экранами за 100 фунтов</title>
+      <link>http://example.org/posts/2009-09-07-19/</link>
+      <pubDate>Mon, 07 Sep 2009 10:01:45 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-07-19/</guid>
+      <description>Tech news: For the smarter kind of bookworm - Times Online
+ Unlike current ebook readers, which take the form of a single flat screen, the Asus device has a hinged spine, like a printed book. This, in theory, enables its owner to read an ebook much like a normal book, using the touchscreen to “turn” the pages from one screen to the next. It also gives the user the option of seeing the text on one screen while browsing a web page on the other.</description>
+    </item>
+    
+    <item>
+      <title>Появится профессиональный онлайновый генератор epub?</title>
+      <link>http://example.org/posts/2009-09-01-51/</link>
+      <pubDate>Tue, 01 Sep 2009 13:59:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-01-51/</guid>
+      <description>Threepress: Digital tools for 21st century publishing » Blog Archive » Threepress is hiring!
+Судя по записи в блоге Лайзы Дейли, создателя профессионального онлайнового валидатора epub и онлайнового вьюера Bookworm (часть &amp;ldquo;империи&amp;rdquo; O&#39;Reilly), о найме новых сотрудников — в недалеком будущем может появиться и онлайновый инструмент генерации epub.</description>
+    </item>
+    
+    <item>
+      <title>1000000 книг в формате epub</title>
+      <link>http://example.org/posts/2009-08-26-3/</link>
+      <pubDate>Wed, 26 Aug 2009 20:20:09 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-08-26-3/</guid>
+      <description>Inside Google Books: Download Over a Million Public Domain Books from Google Books in the Open EPUB Format
+ Google Books will offer free downloads of these and more than one million more public domain books in an additional format, EPUB.
+ Google сделал доступным около 1 млн оцифрованных ею книг в формате epub (и в pdf). Радоваться смогут не только пользователи Sony Reader. Кажется, пока это самая большая «библиотека» книг в этом формате.</description>
+    </item>
+    
+    <item>
+      <title>Новый 7&#34; и беспроводной Sony Reader - в декабре</title>
+      <link>http://example.org/posts/2009-08-25-147/</link>
+      <pubDate>Tue, 25 Aug 2009 15:46:11 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-08-25-147/</guid>
+      <description>Sony Unveils Three Would-Be Kindle Killers—Pocket, Touch and Now, 3G Wireless With AT&amp;amp;T | paidContent
+ Sony’s Daily Edition, a 3G powered wireless device meant to go head to head with Kindle. Will ship this December for $399.
+ В Рождество начнутся продажи нового Sony Reader - Daily Edition: 7-дюймовый экран (кажется, все же маловат для газет) и беспроводная 3G-связь (в США - через AT&amp;amp;T). $399</description>
+    </item>
+    
+    <item>
+      <title>Sigil - новый редактор для формата ePub</title>
+      <link>http://example.org/posts/2009-08-03-142/</link>
+      <pubDate>Mon, 03 Aug 2009 15:45:44 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-08-03-142/</guid>
+      <description>Sigil, the ePub editor - MobileRead Forums
+ # Free and open source software under GPLv3 # Multi-platform: runs on Windows, Linux and Mac # Full Unicode support: everything you see in Sigil is in UTF-16 # Full EPUB spec support # WYSIWYG editing # Multiple Views: Book View, Code View and Split View # Metadata editor with full support for all possible metadata entries (more than 200) with full descriptions for each # Table Of Contents editor # Multi-level TOC support # Book View fully supports the display any XHTML document possible under the OPS spec # SVG support # Basic XPGT support # Advanced automatic conversion of all imported documents to Unicode # Currently imports TXT, HTML and EPUB files; more will be added with time # Currently exports EPUB and SGF (Sigil native format); more will be added with time # Embedded HTML Tidy; all imported documents are thoroughly cleaned; changing views cleans the document so no matter how much you screw up your code, it will fix it (usually ) # An actually usable user interface # Native C++ application # Bugs # And a lot more&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Инструкция по извлечению ePub из app-books</title>
+      <link>http://example.org/posts/2009-07-29-13/</link>
+      <pubDate>Wed, 29 Jul 2009 19:36:41 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-07-29-13/</guid>
+      <description>E-book review: iPhone: The Missing Manual | TeleRead: Bring the E-Books Home
+ One thing that might keep many people from even considering an appbook regardless of price is the idea of having it tied to an app. Some might find only ever being able to read it on your iPhone, or the app taking up one of a (relatively) finite number of available icon spaces to be insurmountable handicaps, and pass up a book that they otherwise might have bought.</description>
+    </item>
+    
+    <item>
+      <title>Сервис конвертации макетов в ePub</title>
+      <link>http://example.org/posts/2009-07-23-141/</link>
+      <pubDate>Thu, 23 Jul 2009 20:01:25 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-07-23-141/</guid>
+      <description>Introducing the Shortcovers ePUB Conversion Program — Shortcovers
+ Shortcovers is excited to announce a new service - the Shortcovers Publisher Conversion Program. Publishers can provide us with their digital source files - PDFs, Quark files, InDesign, .doc, .rtf - and for a shockingly low fee*, we’ll convert them into ePUB files, load them up into Shortcovers and then give back the ePUB file so the publisher can send it off to other vendors who also accept ePUB files.</description>
+    </item>
+    
+    <item>
+      <title>Полномасштабный запуск цветной электронной бумаги намечен на 2010 год</title>
+      <link>http://example.org/posts/2009-05-12-121/</link>
+      <pubDate>Tue, 12 May 2009 10:58:35 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-05-12-121/</guid>
+      <description>Epaper Central Talks with E Ink’s VP Sriram K. Peruvemba - Epaper Central
+ E Ink is targeting the end of 2010 for commercial launch of our color displays. We will demonstrate color displays in the meanwhile at the SID (Society for Information Display) show in San Antonio, Texas from June 2-5.
+ </description>
+    </item>
+    
+    <item>
+      <title>Обзор «электронных бумаг» от Next Big Future</title>
+      <link>http://example.org/posts/2009-05-08-107/</link>
+      <pubDate>Fri, 08 May 2009 08:43:29 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-05-08-107/</guid>
+      <description>Next Big Future: E-books with Larger Screens and Soon Brighter Color
+Самое интересное — про новую электрофоретную технологию. Судя по всему, именно на ней будет делаться новое поколение букридеров с функцией видеоплееров: цветные и пр.</description>
+    </item>
+    
+    <item>
+      <title>Вот вам и цветной букридер</title>
+      <link>http://example.org/posts/2009-03-18-165/</link>
+      <pubDate>Wed, 18 Mar 2009 20:58:16 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-03-18-165/</guid>
+      <description>Fujitsu FLEPia released! - MobileRead Forums
+ Featuring an 8-inch XGA screen capable of displaying 260,000 colors, along with Bluetooth, WiFi and up to 4GB of storage via SD card, and measuring less than half an inch thick, FLEPia&#39;s not just getting by on color alone. Fujitsu promises 40 hours of continuos use, and the unit can be operated by its touchscreen or the assortment of function buttons. &amp;hellip; FLEPia ships on April 20th in Japan for 99,750 Yen (about $1,010 US).</description>
+    </item>
+    
+    <item>
+      <title>Букридеры ORSiO будут понимать epub</title>
+      <link>http://example.org/posts/2009-02-16-34/</link>
+      <pubDate>Mon, 16 Feb 2009 22:05:52 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-02-16-34/</guid>
+      <description>В электронной переписке представитель компании ORSiO сообщил, что программисты компании планирует расширить ряд форматов, которые понимает производимый компанией букридер, за счет epub. Начинание можно только приветствовать — формат быстро наьирает популярность. Последняя версия ORSiO исполльзует тот же экран, что и Sony Reader, так что у ORSiO есть все шансы стать его достойным конкурентом — тем более, что все форматы этот букридер понимает без дополнительной конвертации.</description>
+    </item>
+    
+    <item>
+      <title>Adobe выпустила средства для разработки программных читалок для epub</title>
+      <link>http://example.org/posts/2009-02-16-8/</link>
+      <pubDate>Mon, 16 Feb 2009 22:00:40 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-02-16-8/</guid>
+      <description>Adobe Announces New eBook and PDF Support for Mobile Devices - MobileRead Forums
+ Straight from the horse&#39;s mouth : Adobe announced today a Mobile SDK which will allow the development of mobile phones capable of reading pdfs and epub ebooks.
+Quote:
+Software Development Kit Enables Reflowable PDF and Content Protection for Smartphones and Reading Devices
+BARCELONA, Spain — Feb. 16, 2009 — At the GSMA Mobile World Congress, Adobe Systems Incorporated (Nasdaq:ADBE) today announced the availability of the new Adobe® Reader® Mobile SDK, a software development kit (SDK) designed to enable companies to deliver mobile phones and handheld devices that can easily download, manage, and display PDF content and eBooks.</description>
+    </item>
+    
+    <item>
+      <title>Instapaper</title>
+      <link>http://example.org/posts/2009-01-24-71/</link>
+      <pubDate>Sat, 24 Jan 2009 22:47:24 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-01-24-71/</guid>
+      <description>Еще один, видимо, самый простой, способ закачать текст (книги) в iPhone - поставить (бесплатную) программку Instapaper, зайти на одноименный сайт, завести (даже не вводя пароль, при желании) там аккаунт и перетащить в строку браузера кнопку &amp;ldquo;Read Later&amp;rdquo;. Теперь можно зайти в онлайновую библиотеку на страницу интересующей книги и нажать Read Later. При ближайшей синхронизации программки в iPhone страничка закачается в телефон и будет доступна для чтения. Gradiska!</description>
+    </item>
+    
+    <item>
+      <title>И сколько же эта радость будет стоить со всеми ее фичами?</title>
+      <link>http://example.org/posts/2009-01-24-65/</link>
+      <pubDate>Sat, 24 Jan 2009 16:45:44 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-01-24-65/</guid>
+      <description>Announcing the txtr reader : blog.txtr.com
+ * The latest 6-inch eInk display for maximum readability
+* Advanced power management guaranteeing weeks of reading time
+* Full connectivity including USB, Bluetooth, and true mobility with SIM-enabled UMTS/GPRS
+* An user interface that will blow away everything you’ve seen on eInk so far
+* Of course, tight integration with txtr.com
+ </description>
+    </item>
+    
+    <item>
+      <title>eCub - кроссплатформенный генератор ePub</title>
+      <link>http://example.org/posts/2009-01-13-49/</link>
+      <pubDate>Tue, 13 Jan 2009 16:57:44 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-01-13-49/</guid>
+      <description>eCub - a simple to use EPUB and MobiPocket ebook creator | JulianSmart.com
+ eCub - первая кроссплатформенная программа для создания электронных книг в формате ePub. eCub представляет удобный способ для импорта текстовых файлов и XHTML в формат ePub. Кроме того позволяет просматривать, редактировать, а также проверять ePub, используя внешние средства. eCub не поддерживает WISIWYG, не подчеркивает синтаксис при редактировании и создает только незашифрованные документы. Программа работает под управлением систем Windows, Linux, Mac, FreeBSD и Solaris.</description>
+    </item>
+    
+    <item>
+      <title>ScrollMotion будет делать айфонные книги для мейджоров книжного рынка США</title>
+      <link>http://example.org/posts/2008-12-23-46/</link>
+      <pubDate>Tue, 23 Dec 2008 09:33:27 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-12-23-46/</guid>
+      <description>App Developer Strikes E-Book Deals With Major Publishers | Epicenter from Wired.com
+ ScrollMotion, a New York mobile app developer, has concluded deals with a number of major publishing houses, and is in talks with several others, to produce newly released and best-selling e-books as applications for the iPhone and iPod touch. Publishers now on board include Houghton Mifflin, Simon &amp;amp; Schuster, Random House, Hachette and Penguin Group USA. The first official books will begin to roll out Monday and include titles such as Stephenie Meyer&#39;s &amp;ldquo;Twilight,&amp;rdquo; Philip Pullman&#39;s &amp;ldquo;The Golden Compass&amp;rdquo; and a number of others by Christopher Paolini, Brad Meltzer and Scott Westerfeld.</description>
+    </item>
+    
+    <item>
+      <title>800 газет на букридере iRex</title>
+      <link>http://example.org/posts/2008-12-06-a/</link>
+      <pubDate>Sat, 06 Dec 2008 23:37:19 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-12-06-a/</guid>
+      <description>E-Reads: Digi-Newspaper Scoreboard: Kindle 28, Kindle Killer 800
+ It&#39;s a good time to be alive if you&#39;re a tree. Digitally delivered news is gaining momentum and as we turn the corner to 2009 it&#39;s gotten a rocket boost from the Dutch firm iRex Technologies, which announced it has made a deal with NewspaperDirect to deliver 800 newspapers on iRex&#39;s Digital Reader 1000.
+ iRex договорился с NewspaperDirect о том, что с 11 декабря 2008 года пользователям букридера iRex 1000 будет доступна подписка на 800 газет со всего мира в электронном формате для чтения на этом устройстве.</description>
+    </item>
+    
+    <item>
+      <title>За два года продано 300 тыс Sony Reader</title>
+      <link>http://example.org/posts/2008-12-04-57/</link>
+      <pubDate>Thu, 04 Dec 2008 20:35:20 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-12-04-57/</guid>
+      <description>Business Technology : Turns Out Sony E-Book Readers Sell After All
+ Sony for the first time disclosed that it sold 300,000 units of its Reader Digital Book globally since the device launched in October 2006.
+ Via MobileRead.</description>
+    </item>
+    
+    <item>
+      <title>Совет пользователям Stanza</title>
+      <link>http://example.org/posts/2008-12-03-48/</link>
+      <pubDate>Wed, 03 Dec 2008 08:29:48 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-12-03-48/</guid>
+      <description>Если вы пользуетесь программой Stanza на iPod Touch или iPhone для чтения книг, то в ее последней версии при загрузке из online-каталога русских книг появляется надпись: «The ebook file did not contain any data. It may be corrupt». Такое предупреждение выводится в том случае, если не происходит прямой загрузки книги с сервера при явном прописывании пути до файла. Однако есть решение — если зайти в опцию «Online Catalog» и там, нажав на «+», добавить свой каталог, то есть ту папку на сервере, где у вас хранятся тексты (с расширением .</description>
+    </item>
+    
+    <item>
+      <title>Stanza для iPhone популярнее, чем Amazon Kindle</title>
+      <link>http://example.org/posts/2008-10-03-49/</link>
+      <pubDate>Fri, 03 Oct 2008 14:44:20 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-10-03-49/</guid>
+      <description>Stanza для iPhone популярнее, чем Amazon Kindle
+ Как сообщает ресурс Forbes, бесплатное приложение Stanza, позволяющее пользователям загружать и читать электронные книги на смартфоне iPhone, становится более популярным, чем отдельное устройство для чтения Amazon Kindle. На сегодняшний день, по данным его разработчика Lexcycle, Stanza загрузили свыше 395 тысяч пользователей, что составляет более пяти тысяч загрузок в день. Между тем, по сведениям банка Citigroup, устройство Amazon Kindle в этом году приобрели лишь 380 тысяч пользователей, несмотря на то, что оно продавалось с самого начала года.</description>
+    </item>
+    
+    <item>
+      <title>Sony представила букридер с сенсорным управлением</title>
+      <link>http://example.org/posts/2008-10-03-47/</link>
+      <pubDate>Fri, 03 Oct 2008 07:58:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-10-03-47/</guid>
+      <description>Компьюлента. Новости науки и техники.
+ Sony представила электронную книгу нового поколения с поддержкой сенсорного управления
+ </description>
+    </item>
+    
+    <item>
+      <title>Анонс EZ Reader от Astak и Jinke</title>
+      <link>http://example.org/posts/2008-09-27-5/</link>
+      <pubDate>Sat, 27 Sep 2008 10:29:32 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-09-27-5/</guid>
+      <description>Astak&#39;s press release for the EZ Reader - MobileRead Forums Компания Astak объявила о начале продаж в ноябре первого устройства из серии букридеров EZ Reader. Первый EZ Reader будет иметь 6-дюймовый экран. Производитель — Jinke, то есть это lBook для американцев.</description>
+    </item>
+    
+    <item>
+      <title>Будущий ридер для бизнес-пользователей</title>
+      <link>http://example.org/posts/2008-09-15-8/</link>
+      <pubDate>Mon, 15 Sep 2008 14:59:51 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-09-15-8/</guid>
+      <description>На конференции DEMOFall&#39;09 английская компания Plastic Logic презентовала большой экран на электронных чернилах. Нетрудно заметить, что устройство ориентировано по преимуществу на бизнес-пользователей и их потребности в чтении большого числа деловых бумаг. Не удивлюсь, если такое устройство когда-нибудь окрестят «бизнес-ридером»: И еще обзорная статья об устройстве в Technology Review. Comments:  http://nikadubrovsky.livejournal.com/ - Sep 0, 2008очень хорошо.</description>
+    </item>
+    
+    <item>
+      <title>Объемы продаж Kindle и прогнозы рынка электронной бумаги</title>
+      <link>http://example.org/posts/2008-08-04-27/</link>
+      <pubDate>Mon, 04 Aug 2008 13:54:48 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-08-04-27/</guid>
+      <description>We Know How Many Kindles Amazon Has Sold: 240,000
+ По данным источника, знакомого с цифрами продаж Amazon, с начала продаж Kindle в ноябре 2007 года продано около 240 000 букридеров.
+ Что составляет доход не менее $100 млн (включая продажи контента). Учитывая эти данные, оптимистичный прогноз рынка электронной бумаги, сделанный руководством основного ее производителя, компании PVI, — десятикратный рост за следующие три года, — кажется вполне достоверным.</description>
+    </item>
+    
+    <item>
+      <title>Букридер Sony Reader: новая прошивка, новые форматы, новые рынки</title>
+      <link>http://example.org/posts/2008-07-24-10/</link>
+      <pubDate>Thu, 24 Jul 2008 14:53:41 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-24-10/</guid>
+      <description>За последние несколько дней в новостных лентах, на тематических блогах и форумах появилось сразу несколько новостей о Sony Reader: PRS505 Firmware update: epub, DE, and reflow &amp;ndash; oh my! - MobileRead Forums: После сегодняшнего пакета обновления прошивки букридер сможет понимать формат EPUB . Кроме того, для закачки в него электронных книг (в формате EPUB и PDF) можно будет использовать Adobe Digital Edition. Sony Reader UK preorder opens tomorrow - MobileRead Forums: Букридер вскоре начнет продаваться в Англиии и, возможно, в России.</description>
+    </item>
+    
+    <item>
+      <title>Как измерить  спрос?</title>
+      <link>http://example.org/posts/2008-07-13-20/</link>
+      <pubDate>Sun, 13 Jul 2008 09:32:57 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-13-20/</guid>
+      <description>По сообщениям MobileRead Forums и TeleRead: Bring the E-Books Home веб-сайт ereader.com вчера рухнул под наплывом счастливых обладателей нового iPhone, захотевших скачать себе программу для чтения и купить или скачать бесплатно электронных книг. Сегодня загрузка сайта хоть медленно, но идет. Помнится, Стив Джобс заметил, что «никто уже не читает книг».</description>
+    </item>
+    
+    <item>
+      <title>Stanza для iPhone</title>
+      <link>http://example.org/posts/2008-07-12-51/</link>
+      <pubDate>Sat, 12 Jul 2008 21:19:21 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-12-51/</guid>
+      <description>В дополнение к предыдущей записи стоит добавить, что команда разработчиков Lexcycle подготовила к запуску полноценную программу чтения электронных книг для iPhone. Учитывая популярность iPhone, он — просто реализую свою вторичную функцию — может составить существенную конкуренцию другим букридерам. И, самое главное, сможет оказать содействие дальнейшему продвижению электронных книг. Демонстрационный ролик работы с программой в телефоне можно посмотреть здесь: Stanza_iPhone.mov. Via TeleRead. Comments:  ekniga - Jul 0, 2008Точнее, мне кажется, окажет содействие изменению е-книг в сторону универсальных устройств и, тем самым, окажет содействие дальнейшему продвижению е-книг</description>
+    </item>
+    
+    <item>
+      <title>Stanza — программа для чтения электронных книг</title>
+      <link>http://example.org/posts/2008-07-11-a/</link>
+      <pubDate>Fri, 11 Jul 2008 21:46:42 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-11-a/</guid>
+      <description>Полку программ для чтения электронных книг прибыло. Stanza комании LexCycle предназначена для чтения электронных книг на дисплеях компьютеров Macintosh (Mac OS X 10.4.8 or later). Программа поддерживает разные режимы отображения тексты, а также его автоматическую прокрутку. Stanza отличает довольно могучая всеядность. Она понимает практически все основные форматы электронных книг (PDB, PRC, EPUB, PDF, AZW и др.), а также основные текстовые форматы (MS Word, RTF и HTML). Что особенно актуально для российского читателя — программа не только понимает криллицу, но и (самая последняя версяя) популярный в России формат fb2.</description>
+    </item>
+    
+    <item>
+      <title>Компьютерра о Kindle</title>
+      <link>http://example.org/posts/2008-07-11-22/</link>
+      <pubDate>Fri, 11 Jul 2008 20:02:19 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-11-22/</guid>
+      <description>Успехи Kindle - Компьютерра-Онлайн
+ &amp;ldquo;В России у Kindle успеха однозначно не было бы. Дело здесь совсем не в устройстве и его доступности. В нашей стране нет культуры покупки легального контента. Нет у людей такой привычки&amp;rdquo; (Сергей Талевнин, коммерческий директор компании Utility.ru).
+ Утверждение уважаемого Сергея Талевнина, к сожалению, недоказуемо. Просто потому, что в нашей стране практически нет продажи электронных книг (7684 наименования в litres.ru — явно маловато даже для среднего книжного магазина).</description>
+    </item>
+    
+    <item>
+      <title>iPhone как конкурент букридеру: экономический аспект</title>
+      <link>http://example.org/posts/2008-07-10-17/</link>
+      <pubDate>Thu, 10 Jul 2008 15:04:06 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-10-17/</guid>
+      <description>Publishing Frontier » Blog Archive » ebooks and the iPhone
+ Одна из проблем устройств, подобных Sony Reader и Kindle состоит в том, что они вступают в конкуренцию с другими «платформами» для чтения, например, книгой в обложке или книгой из библиотеки. Стоит ли тратить $300 на заменитель книги, который хрупок, в котором может кончиться батарейка и который жалко калечить неблагоприятным окружением (к примеру, на пляже)? Ведь можно купить книжику в мягкой обложке на распродаже за $5 или просто взять в библиотеке бесплатно.</description>
+    </item>
+    
+    <item>
+      <title>Последняя книга</title>
+      <link>http://example.org/posts/2008-07-09-39/</link>
+      <pubDate>Wed, 09 Jul 2008 08:02:19 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-09-39/</guid>
+      <description>Еще в 1997 году в журнале IBM Systems Journal была опубликована статья Джозефа Джекобсона из MIT Media Lab «The last book», в которой автор излагает концепцию устройства, выполненного в виде книга со страницами из электронной бумаги. Надо отметить, что прогнозы автора по поводу будущего снижения стоимости комплектующих оказались вполне реалистичными. Не исключено, что именно такой концепт станет одной из основных разновидностей будущих электронных книг. Впрочем, и сами книги станут другими — автор отмечает, что «уже сейчас обращение к электронным чернилам возможно с частотой до 20 Гц, что позволяет сделать страницы анимированными».</description>
+    </item>
+    
+    <item>
+      <title>Электронные газеты выйдут на рынок через год</title>
+      <link>http://example.org/posts/2008-07-08-a/</link>
+      <pubDate>Tue, 08 Jul 2008 09:17:08 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-08-a/</guid>
+      <description>E Ink: &amp;lsquo;E-newspapers&amp;rsquo; to Go Commercial in late 2009 &amp;ndash; Tech-On!
+ «Тестирование газет на электронной бумаге начнется в конце 2008 г., а выход на рынок — во второй половине 2009 г.» — сказал Рёсуке Кувата, вице-президент E Ink Corp: «Газеты — это сфера, на которую мы обращаем большое внимание. Я имею в виду газеты на электронной бумаге. Издательские компании сделали серьезные шаги в этом направлении в прошлом году. Сейчас мы работаем в очень плотном контакте с основными издателями газет в Японии […] И не только японские газеты заинтересованы в этом.</description>
+    </item>
+    
+    <item>
+      <title>На российском рынке появился новый букридер — ORSiO</title>
+      <link>http://example.org/posts/2008-07-07-33/</link>
+      <pubDate>Mon, 07 Jul 2008 20:30:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-07-33/</guid>
+      <description>На сайте The-eBook Russia опубликован подробный, содержательный и, в целом, весьма позитивный отчет о тестировании букридера с экраном из электронной бумаги ORSiO b721, продажи которого начинаются в России. Судя по отзывам экспертов, с точки зрения аппаратной начинки устройство — родной брат французского CyBook и Explay TXT.Book: вес 176 г, экран 6&amp;rdquo; (800 х 600 пикселей), интерфейс USB 2.0. Однако с точки зрения программной начинки может дать им фору, понимая файлы в форматах HTML, TXT, FB2, RTF, DjVu и PDF.</description>
+    </item>
+    
+    <item>
+      <title>Обновление формата fictionbook и электронный Вавилон</title>
+      <link>http://example.org/posts/2008-07-04-28/</link>
+      <pubDate>Fri, 04 Jul 2008 20:52:40 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-04-28/</guid>
+      <description>The-eBook Russia » Blog Archive » Формат FB2 следующего поколения
+ Формат FB2 стал популярным в течении нескольких лет и не останавливается в своем развитии. В это время идет активное обсуждение формата следующего поколения - FB3.Основное отличие формата будет заключаться в использовании контейнера (package content). В качестве контейнера предлагается использовать ZIP. Внутри контейнера будут храниться все элементы отдельно, что облегчит считывание и главное редактирование всех отдельных частей. Раздельно будут храниться: файл с данными (книгой), закладками, обложкой, иллюстрациями и т.</description>
+    </item>
+    
+    <item>
+      <title>lBook в розничной продаже</title>
+      <link>http://example.org/posts/2008-07-04-23/</link>
+      <pubDate>Fri, 04 Jul 2008 19:31:19 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-04-23/</guid>
+      <description>The-eBook Russia » Blog Archive » В “Союзе” есть еще пока, устройства лучше чем всегда!
+ LBook&amp;hellip; ждет своего покупателя в сети магазинов СОЮЗ.
+ 9990 р. Еще дорого, но все равно — отличная новость. Еще немного — и в «Евросети».</description>
+    </item>
+    
+    <item>
+      <title>Букридер для домохозяек</title>
+      <link>http://example.org/posts/2008-07-27-9/</link>
+      <pubDate>Fri, 27 Jun 2008 10:29:45 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-07-27-9/</guid>
+      <description>Букридеры на электронной бумаге — вовсе не единственные устройства, которые можно использовать для чтения электронных книг. Критичен только удобный интерфейс (в том числе подходящие размеры, разрешение и качество экрана) и программное обеспечение, позволяющее читать книги. В этом смысле недорогой ($130) гаджет MiBook который в скором времени выпускает на рынок компания Photoco, с 7-дюймовым экраном может еще одним конкурентом для Amazon Kindle и Sony Reader. The miBook from Photoco - NYTimes.com Comments:  ekniga - Jun 5, 2008Не всё так просто.</description>
+    </item>
+    
+    <item>
+      <title>Эксперименты с двухэкранными электронными книгами</title>
+      <link>http://example.org/posts/2008-01-26-2/</link>
+      <pubDate>Thu, 26 Jun 2008 15:57:50 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-01-26-2/</guid>
+      <description>Соответствующему исследованию ученых из Университета Мэриленда и Беркли посвящена статья в New Scientist Technology Blog: Dual-display e-book reader lets you flip pages naturally.
+Доклад «Способы обращения с двухдисплейными букридерами» см.: http://www.cs.umd.edu/%7Efrancois/Papers/EBookReaderCHI08.pdf</description>
+    </item>
+    
+    <item>
+      <title>Прекрасное далёко: ePaper и One Laptop Per Child-2</title>
+      <link>http://example.org/posts/2008-05-24-12/</link>
+      <pubDate>Sat, 24 May 2008 07:47:07 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-05-24-12/</guid>
+      <description>[gallery]За последнюю неделю появилось еще две примечательные новости, касающиеся будущего технологий электронного книгоиздания. Компания Epson на выставке SID 2008 в Лос-Анджелесе представила образец электронной бумаги формата A4 (3104 × 4128 пикселей, разрешение 385ppi). Образец был разработан в сотрудничестве с E Ink Corp. Электронная бумага таких размеров может претендовать на то, чтобы быть заменой бумажным черно-белым газетам. Однако говорить об этом пока рановато применительно к этому образцу: он сделан на стеклянной основе.</description>
+    </item>
+    
+    <item>
+      <title>Электронная сенсорная бумага</title>
+      <link>http://example.org/posts/2008-05-21-4/</link>
+      <pubDate>Wed, 21 May 2008 15:45:40 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2008-05-21-4/</guid>
+      <description>Компания Prime View International Co., Ltd., главный производитель электронной бумаги по технологии электронных чернил, объявила о том, что уже в 2008 году начнется производство электронной бумаги и LCD с сенсорной технологией американской фирмы F-Origin. Пассаж Тима О&#39;Рейли о книгах в iPhone и сенсорном экране в Kindle начинает обретать реальность.</description>
+    </item>
+    
+  </channel>
+</rss>
