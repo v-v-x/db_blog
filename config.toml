@@ -49,12 +49,12 @@ subtitle = "Всё о производстве и дистрибуции эле�
   instagram = "v-v-x"
   linkedin = "haritonov"
   telegram = "vharitonov"
-#  github = "v-v-x"
+  github = "v-v-x"
 #  gitlab = "username"
 #  bitbucket = "username"
-#  email = "example@example.com"
+  email = "vx@proton.me"
 
-# [[Params.widgets.social.custom]]
+ [[Params.widgets.social.custom]]
 #  title = "Revue"
 #  url = "https://www.getrevue.co/profile/v_x"
 #  icon = "revue.svg"
