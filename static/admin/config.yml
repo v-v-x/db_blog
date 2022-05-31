@@ -7,9 +7,9 @@ public_folder: /img
 collections:
   - name: 'blog'
     label: 'Blog'
-    folder: 'content/blog'
+    folder: 'content/posts'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{hour}}-{{minute}}'
     editor:
       preview: false
     fields:
