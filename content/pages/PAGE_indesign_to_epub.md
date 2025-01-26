@@ -1,6 +1,6 @@
 ---
 title: '2. Из InDesign в EPUB'
-date: Sat, 24 March 2020 18:17:12 +0000
+date: Fri, 24 Apr 2015 07:28:26 +0000
 draft: false
 type: page
 menu: ["side"]

@@ -1031,6 +1031,9 @@
     <loc>//localhost:1313/pages/page_short/</loc>
     <lastmod>2015-04-24T08:15:11+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/pages/page_indesign_to_epub/</loc>
+    <lastmod>2015-04-24T07:28:26+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/pages/page_for_newbies/</loc>
     <lastmod>2015-04-24T07:28:26+00:00</lastmod>
   </url><url>
@@ -5047,8 +5050,6 @@
   </url><url>
     <loc>//localhost:1313/posts/2008-05-20-15/</loc>
     <lastmod>2008-05-20T14:13:21+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/pages/page_indesign_to_epub/</loc>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url>
