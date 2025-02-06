@@ -1,61 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lending on Новости электронного книгоиздания</title>
-    <link>/tags/lending/</link>
-    <description>Recent content in lending on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Lending on Новости электронного книгоиздания</title>
+    <link>//localhost:1313/tags/lending/</link>
+    <description>Recent content in Lending on Новости электронного книгоиздания</description>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 May 2012 13:34:18 +0000</lastBuildDate><atom:link href="/tags/lending/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 May 2012 13:34:18 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/lending/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Джефф Безос — маглам</title>
-      <link>/posts/2012-05-10-a/</link>
+      <link>//localhost:1313/posts/2012-05-10-a/</link>
       <pubDate>Thu, 10 May 2012 13:34:18 +0000</pubDate>
-      
-      <guid>/posts/2012-05-10-a/</guid>
-      <description>via amazon.com
-Amazon так-таки договорился с Роулинг об аренде книжек в амазоновской библиотеке. По штуке в месяц за $79 в год.</description>
+      <guid>//localhost:1313/posts/2012-05-10-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/&#34;&gt;&lt;img src=&#34;http://g-ecx.images-amazon.com/images/G/01/kindle/merch/HP/kindle-HP-lending-jeff-letter._V148406585_.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/&#34;&gt;via&lt;/a&gt; &lt;a href=&#34;http://www.amazon.com/&#34;&gt;amazon.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Amazon так-таки договорился с Роулинг об аренде книжек в амазоновской библиотеке. По штуке в месяц за $79 в год.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Afictionado: сервис MacMillan по прокату книг</title>
-      <link>/posts/2011-09-15-4/</link>
+      <link>//localhost:1313/posts/2011-09-15-4/</link>
       <pubDate>Thu, 15 Sep 2011 14:32:42 +0000</pubDate>
-      
-      <guid>/posts/2011-09-15-4/</guid>
-      <description>a fresh new website where you can borrow ebooks for your computer, tablet, smartphone or ebook reader; the freedom to read anything, anytime, anywhere.  Welcome to a new way of reading. Afictionado is a fresh new website where you can borrow ebooks for your computer, tablet, smartphone or ebook reader. Browse our online library and choose from thousands of titles. Read sample chapters to get a feel for your favourites.</description>
+      <guid>//localhost:1313/posts/2011-09-15-4/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;a fresh new website where you can borrow ebooks for your computer, tablet, smartphone or ebook reader; the freedom to read anything, anytime, anywhere.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Welcome to a new way of reading. Afictionado is a fresh new website where you can borrow ebooks for your computer, tablet, smartphone or ebook reader. Browse our online library and choose from thousands of titles. Read sample chapters to get a feel for your favourites. And then borrow the ones you want. It couldn’t be simpler!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Книга напрокат для Kindle</title>
-      <link>/posts/2011-08-27-1/</link>
+      <link>//localhost:1313/posts/2011-08-27-1/</link>
       <pubDate>Sat, 27 Aug 2011 21:02:50 +0000</pubDate>
-      
-      <guid>/posts/2011-08-27-1/</guid>
-      <description>Цены, конечно, зачудительные. Но интересно, насколько модель будет жизнеспособной.</description>
+      <guid>//localhost:1313/posts/2011-08-27-1/</guid>
+      <description>&lt;p&gt;Цены, конечно, зачудительные. Но интересно, насколько модель будет жизнеспособной.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Амазон начал сдавать электронные учебники в аренду</title>
-      <link>/posts/2011-07-18-1/</link>
+      <link>//localhost:1313/posts/2011-07-18-1/</link>
       <pubDate>Mon, 18 Jul 2011 14:03:06 +0000</pubDate>
-      
-      <guid>/posts/2011-07-18-1/</guid>
-      <description>Amazon.com announced the launch of Kindle Textbook Rental—now students can save up to 80% off textbook list prices by renting from the Kindle Store. Tens of thousands of textbooks are available for the 2011 school year from leading textbook publishers such as John Wiley &amp;amp; Sons, Elsevier and Taylor &amp;amp; Francis. Students can find details about the program at www.amazon.com/kindletextbooks.
- via businesswire.com
-на срок от месяца до года. Учитывая, что учебники в США стоят неимоверных денег (100–150 долларов), даже электронные, то взять на время за 1/5 цены — good deal.</description>
+      <guid>//localhost:1313/posts/2011-07-18-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Amazon.com announced the launch of Kindle Textbook Rental—now students can save up to 80% off textbook list prices by renting from the Kindle Store. Tens of thousands of textbooks are available for the 2011 school year from leading textbook publishers such as John Wiley &amp;amp; Sons, Elsevier and Taylor &amp;amp; Francis. Students can find details about the program at &lt;a href=&#34;http://cts.businesswire.com/ct/CT?id=smartlink&amp;amp;url=http%3A%2F%2Fwww.amazon.com%2Fkindletextbooks&amp;amp;esheet=6796108&amp;amp;lan=en-US&amp;amp;anchor=www.amazon.com%2Fkindletextbooks&amp;amp;index=1&amp;amp;md5=cdf129a6f80c55852b0bccd300a9eb85&#34;&gt;www.amazon.com/kindletextbooks&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.businesswire.com/news/home/20110718005937/en/Students-Save-80-Kindle-Textbook-Rental&#34;&gt;businesswire.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;на срок от месяца до года. Учитывая, что учебники в США стоят неимоверных денег (100–150 долларов), даже электронные, то взять на время за 1/5 цены — good deal.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>DRM-книгообмен</title>
-      <link>/posts/2011-01-27-a/</link>
+      <link>//localhost:1313/posts/2011-01-27-a/</link>
       <pubDate>Thu, 27 Jan 2011 08:12:58 +0000</pubDate>
-      
-      <guid>/posts/2011-01-27-a/</guid>
-      <description>With eBook Fling, swap unlimited ebooks with thousands of readers nationwide. Just fling an eBook to others and catch the eBook of your choice - choose from the hottest New York Times Bestsellers, timeless classics and even rare, eclectic titles, textbooks and tech manuals! Trade Kindle™ and Nook™ books using your e-reader device, iPad, iPhone, Blackberry™ or Android™ smartphone.
- via ebookfling.com
-Сервис предлагает меняться защищёнными электронными книгами для Kindle и nook.</description>
+      <guid>//localhost:1313/posts/2011-01-27-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;With eBook Fling, swap unlimited ebooks with thousands of readers nationwide. Just fling an eBook to others and catch the eBook of your choice - choose from the hottest New York Times Bestsellers, timeless classics and even rare, eclectic titles, textbooks and tech manuals! Trade Kindle™ and Nook™ books using your e-reader device, iPad, iPhone, Blackberry™ or Android™ smartphone.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://ebookfling.com/&#34;&gt;ebookfling.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Сервис предлагает меняться защищёнными электронными книгами для Kindle и nook. Функция «дать почитать» в них есть. Теперь можно будет дать почитать кому угодно. Про ущерб издателей кричать не стоит: если книга понравится, то читатель не утерпит и новую книгу автора купит.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

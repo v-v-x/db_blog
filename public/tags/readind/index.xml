@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>readind on Новости электронного книгоиздания</title>
-    <link>/tags/readind/</link>
-    <description>Recent content in readind on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Readind on Новости электронного книгоиздания</title>
+    <link>//localhost:1313/tags/readind/</link>
+    <description>Recent content in Readind on Новости электронного книгоиздания</description>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 13 Jan 2011 09:55:45 +0000</lastBuildDate><atom:link href="/tags/readind/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Jan 2011 09:55:45 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/readind/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Тайм-шифтинг чтения веба</title>
-      <link>/posts/2011-01-13-a/</link>
+      <link>//localhost:1313/posts/2011-01-13-a/</link>
       <pubDate>Thu, 13 Jan 2011 09:55:45 +0000</pubDate>
-      
-      <guid>/posts/2011-01-13-a/</guid>
-      <description>via readitlaterlist.com
-Сохраняем днём — читаем вечером. Актуально не только для ТВ.</description>
+      <guid>//localhost:1313/posts/2011-01-13-a/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://readitlaterlist.com/blog/2011/01/is-mobile-affecting-when-we-read/&#34;&gt;readitlaterlist.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Сохраняем днём — читаем вечером. Актуально не только для ТВ.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

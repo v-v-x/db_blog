@@ -1,194 +1,138 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>books in browsers on Новости электронного книгоиздания</title>
-    <link>/tags/books-in-browsers/</link>
-    <description>Recent content in books in browsers on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Books in Browsers on Новости электронного книгоиздания</title>
+    <link>//localhost:1313/tags/books-in-browsers/</link>
+    <description>Recent content in Books in Browsers on Новости электронного книгоиздания</description>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 17 Jul 2012 13:26:20 +0000</lastBuildDate><atom:link href="/tags/books-in-browsers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jul 2012 13:26:20 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/books-in-browsers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NOOK for Web: Barnes &amp; Noble запустили онлайновую читалку</title>
-      <link>/posts/2012-07-17-b/</link>
+      <link>//localhost:1313/posts/2012-07-17-b/</link>
       <pubDate>Tue, 17 Jul 2012 13:26:20 +0000</pubDate>
-      
-      <guid>/posts/2012-07-17-b/</guid>
-      <description>via barnesandnoble.com
-Выглядит симпатично. Теперь в клубе онлайновых читалок при больших магазинах Google, Amazon, Kobo и B&amp;amp;N.</description>
+      <guid>//localhost:1313/posts/2012-07-17-b/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.barnesandnoble.com/u/nook-for-web/379003594&#34;&gt;barnesandnoble.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Выглядит симпатично. Теперь в клубе онлайновых читалок при больших магазинах Google, Amazon, Kobo и B&amp;amp;N.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Books in Browsers 2011 : программа со сносками на презентации</title>
-      <link>/posts/2011-11-02-1/</link>
+      <link>//localhost:1313/posts/2011-11-02-1/</link>
       <pubDate>Wed, 02 Nov 2011 13:46:37 +0000</pubDate>
-      
-      <guid>/posts/2011-11-02-1/</guid>
-      <description>Videos of many of these talks are available on O’Reilly Media at YouTube.
- via bib.archive.org
-«Книга в браузере» — явный тренд. Хотя бы потому, что электронная книга, в сущности, это веб-страница, а читалка — специализированный веб-браузер.</description>
+      <guid>//localhost:1313/posts/2011-11-02-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Videos of many of these talks are available on &lt;a href=&#34;https://www.youtube.com/user/OreillyMedia/search?query=books+in+browsers+2011%22&#34;&gt;O’Reilly Media at YouTube&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://bib.archive.org/2011/07/26/books-in-browsers-program/&#34;&gt;bib.archive.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;«Книга в браузере» — явный тренд. Хотя бы потому, что электронная книга, в сущности, это веб-страница, а читалка — специализированный веб-браузер.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Презентация Лайзы Дейли в HTML5</title>
-      <link>/posts/2011-11-02-2/</link>
+      <link>//localhost:1313/posts/2011-11-02-2/</link>
       <pubDate>Wed, 02 Nov 2011 10:36:49 +0000</pubDate>
-      
-      <guid>/posts/2011-11-02-2/</guid>
-      <description>First Draft of Revolution
- via threepress.org
-Это стоит смотреть только в самом новом браузере ))</description>
+      <guid>//localhost:1313/posts/2011-11-02-2/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;First Draft of Revolution&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://threepress.org/static/talks/html5-tools/books-in-browsers-2011/&#34;&gt;threepress.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Это стоит смотреть только в самом новом браузере ))&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Book is webpages</title>
-      <link>/posts/2011-10-30-1/</link>
+      <link>//localhost:1313/posts/2011-10-30-1/</link>
       <pubDate>Sun, 30 Oct 2011 14:35:45 +0000</pubDate>
-      
-      <guid>/posts/2011-10-30-1/</guid>
-      <description>The Beauty of Web-First Workflows (for Books)  from Hugh McGuire 
-View more [presentations](http://www.slideshare.net/) from [Hugh McGuire](http://www.slideshare.net/mackinaw) Доклад Хью Макгвайра на конференции Book in Browser&#39;2011.</description>
+      <guid>//localhost:1313/posts/2011-10-30-1/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/h1vNuYLQO7uEP1&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/mackinaw/the-beauty-of-webfirst-workflows-for-books&#34; title=&#34;The Beauty of Web-First Workflows (for Books)&#34; target=&#34;_blank&#34;&gt;The Beauty of Web-First Workflows (for Books)&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/mackinaw&#34; target=&#34;_blank&#34;&gt;Hugh McGuire&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;&#xA;&#xA;View more [presentations](http://www.slideshare.net/) from [Hugh McGuire](http://www.slideshare.net/mackinaw)&#xA;&#xA;Доклад Хью Макгвайра на конференции Book in Browser&#39;2011.</description>
     </item>
-    
     <item>
       <title>Полку неавторизованной дистрибуции прибыло</title>
-      <link>/posts/2011-10-25-1/</link>
+      <link>//localhost:1313/posts/2011-10-25-1/</link>
       <pubDate>Tue, 25 Oct 2011 09:12:31 +0000</pubDate>
-      
-      <guid>/posts/2011-10-25-1/</guid>
-      <description>via lithub.ru
-Между прочим, lithub довольно нахально перепёр стиль вьюера у Bookmate. Да и сама идея текстового стриминга уже не нова ))
-Ребята бодрые, но с доменом в зоне .ru — это они, конечно, ошиблись.</description>
+      <guid>//localhost:1313/posts/2011-10-25-1/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://lithub.ru/&#34;&gt;lithub.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Между прочим, lithub довольно нахально перепёр стиль вьюера у Bookmate. Да и сама идея текстового стриминга уже не нова ))&lt;br&gt;&#xA;Ребята бодрые, но с доменом в зоне .ru — это они, конечно, ошиблись.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kindle Cloud Reader: читай всегда, читай везде</title>
-      <link>/posts/2011-08-10-a/</link>
+      <link>//localhost:1313/posts/2011-08-10-a/</link>
       <pubDate>Wed, 10 Aug 2011 14:31:38 +0000</pubDate>
-      
-      <guid>/posts/2011-08-10-a/</guid>
-      <description>Kindle Cloud Reader
-Дотянулся кровавый Amazon: читаем Kindle-книжки в браузере (пока только Chrome, Safari и Safari for iOS). И даже храним их оффлайн (непонятно, правда, сколько). И покупаем, ясное дело. На любом компе и в iPad&amp;rsquo;e. Кажется, Amazon достроила свою экосистему до конца. Осталось всё нормально интегрировать и допилить. Или ей и так сойдёт? PS По слухам, пришествие Amazon в Россию запланировано уже на 2012 года. Пока, вроде бы, без Kindle.</description>
+      <guid>//localhost:1313/posts/2011-08-10-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://read.amazon.com&#34;&gt;Kindle Cloud Reader&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Дотянулся кровавый Amazon: читаем Kindle-книжки в браузере (пока только Chrome, Safari и Safari for iOS). И даже храним их оффлайн (непонятно, правда, сколько). И покупаем, ясное дело. На любом компе и в iPad&amp;rsquo;e. Кажется, Amazon достроила свою экосистему до конца. Осталось всё нормально интегрировать и допилить. Или ей и так сойдёт? PS По слухам, пришествие Amazon в Россию запланировано уже на 2012 года. Пока, вроде бы, без Kindle. «Озону» приготовиться с вещами. Кто следующий?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Электронная книжка Google о бразуерах и интернете теперь и на русском</title>
-      <link>/posts/2011-06-06-d/</link>
+      <link>//localhost:1313/posts/2011-06-06-d/</link>
       <pubDate>Mon, 06 Jun 2011 10:29:51 +0000</pubDate>
-      
-      <guid>/posts/2011-06-06-d/</guid>
-      <description>via 20thingsilearned.com
-Гуд. Молодцы.
-P. S. из 2020-го года: ссылка не работает. Только так.</description>
+      <guid>//localhost:1313/posts/2011-06-06-d/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.20thingsilearned.com/ru-RU&#34;&gt;20thingsilearned.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Гуд. Молодцы.&lt;/p&gt;&#xA;&lt;p&gt;P. S. из 2020-го года: ссылка не работает. Только &lt;a href=&#34;https://web.archive.org/web/20101129235045/http://www.20thingsilearned.com/&#34;&gt;так&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Книгоориентированный браузер</title>
-      <link>/posts/2011-05-11-c/</link>
+      <link>//localhost:1313/posts/2011-05-11-c/</link>
       <pubDate>Wed, 11 May 2011 13:52:51 +0000</pubDate>
-      
-      <guid>/posts/2011-05-11-c/</guid>
-      <description>WebKit now supports the -epub- CSS property-prefix as an alias, similar to its support for the -apple- and -khtml- prefixes. This addition was made following a conference call in the EPUB Working Group last Thursday, and while [not](http://twitter.com/#!/hober/status/64014556854366208 &amp;ldquo;&amp;quot;@beverloo the disagreement is mostly around author conformance of unprefixed &amp;amp; prefixed content and not on what RSs need to support. Mostly.&amp;quot;&amp;quot;) [all issues](http://groups.google.com/group/epub-working-group/msg/ca976a3264b03baa &amp;ldquo;&amp;ldquo;In the teleconf, I opposed to the original proposal from Apple,which uses both unprefixed properties and fixed properties.</description>
+      <guid>//localhost:1313/posts/2011-05-11-c/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;WebKit &lt;a href=&#34;http://trac.webkit.org/changeset/85257&#34; title=&#34;Add support for -epub-prefixed properties&#34;&gt;now supports&lt;/a&gt; the -epub- CSS property-prefix as an alias, similar to its support for the -apple- and -khtml- prefixes. This addition was made following &lt;a href=&#34;http://groups.google.com/group/epub-working-group/browse_thread/thread/654782de647ee7d7&#34; title=&#34;CSS Prefixes con-call results&#34;&gt;a conference call&lt;/a&gt; in the EPUB Working Group last Thursday, and while [not](&lt;a href=&#34;http://twitter.com/#!/hober/status/64014556854366208&#34;&gt;http://twitter.com/#!/hober/status/64014556854366208&lt;/a&gt; &amp;ldquo;&amp;quot;@beverloo the disagreement is mostly around author conformance of unprefixed &amp;amp; prefixed content and not on what RSs need to support. Mostly.&amp;rdquo;&amp;quot;) [all issues](&lt;a href=&#34;http://groups.google.com/group/epub-working-group/msg/ca976a3264b03baa&#34;&gt;http://groups.google.com/group/epub-working-group/msg/ca976a3264b03baa&lt;/a&gt; &amp;ldquo;&amp;ldquo;In the teleconf, I opposed to the original proposal from Apple,which uses both unprefixed properties and fixed properties.Let me explain why.&amp;rdquo;&amp;rdquo;) have been resolved yet, it’s likely that they’re here to stay. One thing which is surprising is the fact that all vendors will use the same prefix: -epub-, contrary to CSS’ vendor prefixes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bibliotype для WordPress</title>
-      <link>/posts/2011-02-07-a/</link>
+      <link>//localhost:1313/posts/2011-02-07-a/</link>
       <pubDate>Mon, 07 Feb 2011 22:34:13 +0000</pubDate>
-      
-      <guid>/posts/2011-02-07-a/</guid>
-      <description>Дизайнер Крейг Мод, сотрудничая с Enhanced Editions, разработал веб-интерфейс (дизайн страницы и типографику) для удобного чтения книг онлайн на iPad. Онлайновое меню позволяет подстраивать размер шрифта и другие несложные параметры текста под вкусы читателя и расстояние, с которого читается книг на планшетнике (лёжа, держа айпад на животе, на коленях, или сидя за столом). Кир Бильоне на основе открытой библиотеки Мода сделал шаблон для WordPress. Ставите шаблон, распихиваете главы по страницам, на главную выводите оглавление - и вуаля.</description>
+      <guid>//localhost:1313/posts/2011-02-07-a/</guid>
+      <description>&lt;p&gt;Дизайнер Крейг Мод, сотрудничая с Enhanced Editions, разработал веб-интерфейс (дизайн страницы и типографику) для удобного чтения книг онлайн на iPad. Онлайновое меню позволяет подстраивать размер шрифта и другие несложные параметры текста под вкусы читателя и расстояние, с которого читается книг на планшетнике (лёжа, держа айпад на животе, на коленях, или сидя за столом). Кир Бильоне на основе открытой библиотеки Мода сделал шаблон для WordPress. Ставите шаблон, распихиваете главы по страницам, на главную выводите оглавление - и вуаля. Читать, кстати, удобно не только на айпаде, но и на компьютере.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Readings Ebooks: австралийский эксперимент</title>
-      <link>/posts/2011-01-26-a/</link>
+      <link>//localhost:1313/posts/2011-01-26-a/</link>
       <pubDate>Wed, 26 Jan 2011 21:27:30 +0000</pubDate>
-      
-      <guid>/posts/2011-01-26-a/</guid>
-      <description>via ebooks.readings.com.au
-Продаются не файлы, а доступ к ним — из любого браузера. В основе - движок booki.sh от Inventive Labs.</description>
+      <guid>//localhost:1313/posts/2011-01-26-a/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://posterous.com/getfile/files.posterous.com/v-x/bbhsDyzEJdBtdvcJzcijFznipecIdwDDudumtJlrsigFgtnkmnmhwlyfgGqr/media_httpwwwreadings_mBGnw.jpg.scaled500.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://ebooks.readings.com.au/posts/welcome-to-readings-ebooks&#34;&gt;ebooks.readings.com.au&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Продаются не файлы, а доступ к ним — из любого браузера. В основе - движок booki.sh от Inventive Labs.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Пленарный доклад на Books in Browsers - Brewster Kahle</title>
-      <link>/posts/2010-10-25-150/</link>
+      <link>//localhost:1313/posts/2010-10-25-150/</link>
       <pubDate>Mon, 25 Oct 2010 08:51:37 +0000</pubDate>
-      
-      <guid>/posts/2010-10-25-150/</guid>
-      <description>via internetarchive.wordpress.com</description>
+      <guid>//localhost:1313/posts/2010-10-25-150/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;https://internetarchive.wordpress.com/2010/10/22/books-in-browsers-keynote-speech-by-brewster-kahle/&#34;&gt;internetarchive.wordpress.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Конференция Books in Browsers 2010</title>
-      <link>/posts/2010-10-25-102/</link>
+      <link>//localhost:1313/posts/2010-10-25-102/</link>
       <pubDate>Mon, 25 Oct 2010 08:50:03 +0000</pubDate>
-      
-      <guid>/posts/2010-10-25-102/</guid>
-      <description>via archive.org
-Очевидный тренд - электронные книги не в устройствах, а в браузерах, то есть в сети, в онлайновых читалках, в контексте, в гиперсвязях.</description>
+      <guid>//localhost:1313/posts/2010-10-25-102/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.archive.org/details/booksinbrowsers&#34;&gt;archive.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Очевидный тренд - электронные книги не в устройствах, а в браузерах, то есть в сети, в онлайновых читалках, в контексте, в гиперсвязях.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bookish - ещё одна онлайновая читалка</title>
-      <link>/posts/2010-10-15-32/</link>
+      <link>//localhost:1313/posts/2010-10-15-32/</link>
       <pubDate>Fri, 15 Oct 2010 07:58:36 +0000</pubDate>
-      
-      <guid>/posts/2010-10-15-32/</guid>
-      <description>via booki.sh
-В браузере выглядит несколько недоделано. Отсутствует оглавление. Книжка автоматически кэшируются, что удобно в случае мобильных устройств. Главное для западного читателя — поддержка Kindle3.
-Блюдущие копирайт ценою своих жизней (это не моя ирония, так на сайте написано) разработчики не дают подгружать книги самостоятельно, а предлагают прислать файл в формате EPUB или Zhook (да! есть, оказывается, и такой), они его разместят и пришлют линк. Австралийские Самоделкины.</description>
+      <guid>//localhost:1313/posts/2010-10-15-32/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://booki.sh/&#34;&gt;booki.sh&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;В браузере выглядит несколько недоделано. Отсутствует оглавление. Книжка автоматически кэшируются, что удобно в случае мобильных устройств. Главное для западного читателя — поддержка Kindle3.&lt;br&gt;&#xA;Блюдущие копирайт ценою своих жизней (это не моя ирония, так на сайте написано) разработчики не дают подгружать книги самостоятельно, а предлагают прислать файл в формате EPUB или Zhook (да! есть, оказывается, и такой), они его разместят и пришлют линк. Австралийские Самоделкины.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kindle for the Web</title>
-      <link>/posts/2010-09-28-91/</link>
+      <link>//localhost:1313/posts/2010-09-28-91/</link>
       <pubDate>Tue, 28 Sep 2010 13:32:02 +0000</pubDate>
-      
-      <guid>/posts/2010-09-28-91/</guid>
-      <description>via amazon.com
-Онлайновые книги становятся, похоже, трендом. Amazon запустила, правда, не читалку, но превьюер фрагментов электронных книг.
-Bookmate пока может расслабиться )) Вопрос, надолго ли?</description>
+      <guid>//localhost:1313/posts/2010-09-28-91/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.amazon.com/gp/feature.html/?docId=1000579091&#34;&gt;amazon.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Онлайновые книги становятся, похоже, трендом. Amazon запустила, правда, не читалку, но превьюер фрагментов электронных книг.&lt;br&gt;&#xA;Bookmate пока может расслабиться )) Вопрос, надолго ли?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Geo-aware ebook demo : Threepress Consulting blog</title>
-      <link>/posts/2010-06-10-71/</link>
+      <link>//localhost:1313/posts/2010-06-10-71/</link>
       <pubDate>Thu, 10 Jun 2010 19:03:03 +0000</pubDate>
-      
-      <guid>/posts/2010-06-10-71/</guid>
-      <description>via blog.threepress.org
-Пример страницы электронной книги (webkit-based), определяющей ваше местоположение.</description>
+      <guid>//localhost:1313/posts/2010-06-10-71/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://blog.threepress.org/2010/06/08/geo-aware-ebook-demo/&#34;&gt;blog.threepress.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Пример страницы электронной книги (webkit-based), определяющей ваше местоположение.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Сайт Blio eReader открыт</title>
-      <link>/posts/2010-01-08-2/</link>
+      <link>//localhost:1313/posts/2010-01-08-2/</link>
       <pubDate>Fri, 08 Jan 2010 00:26:03 +0000</pubDate>
-      
-      <guid>/posts/2010-01-08-2/</guid>
-      <description>via blioreader.com
-Но программы Курцвейля ещё нет. Ждём-с.</description>
+      <guid>//localhost:1313/posts/2010-01-08-2/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://blioreader.com/&#34;&gt;blioreader.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Но программы Курцвейля ещё нет. Ждём-с.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bookworm теперь поддерживает видео</title>
-      <link>/posts/2009-11-13-30/</link>
+      <link>//localhost:1313/posts/2009-11-13-30/</link>
       <pubDate>Fri, 13 Nov 2009 22:53:57 +0000</pubDate>
-      
-      <guid>/posts/2009-11-13-30/</guid>
-      <description>Bookworm now supports inline video : Threepress Consulting blog
-Bookworm — проект Лайзы Дейли и издательского дома Тима О&amp;rsquo;Рейли. Это онлайновый сервис для чтения epub-книг. На сегодняшний день — едва ли не единственный. Во всяком слкучае — самый профессиональный, учитывая, что главное и едиснтвенное средство для проверки epub — программа epubcheck — детище самой Лайзы. Сегодня Лайза написала в своём блоге, что «Книжный червь» поддерживает видео в форматах mp4, ogv и swf.</description>
+      <guid>//localhost:1313/posts/2009-11-13-30/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://blog.threepress.org/2009/11/13/bookworm-now-supports-inline-video/&#34;&gt;Bookworm now supports inline video : Threepress Consulting blog&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bookworm — проект Лайзы Дейли и издательского дома Тима О&amp;rsquo;Рейли. Это онлайновый сервис для чтения epub-книг. На сегодняшний день — едва ли не единственный. Во всяком слкучае — самый профессиональный, учитывая, что главное и едиснтвенное средство для проверки epub — программа epubcheck — детище самой Лайзы. Сегодня Лайза написала в своём блоге, что «Книжный червь» поддерживает видео в форматах mp4, ogv и swf. Собственно, спецификация epub предусматривает поддержку любого медиа-контента, поскольку epub является форматом-контейнером. Другое дело, что до последнего времени букридеры — ни программные, ни железные — читать этот контент не умели. В общем, это своего рода возврат к «мультимедиа-энциклопедиям» пятнадцатилетней давности. Но только виток другой и дело серьёзней. Дорога к индустриальному стандарту электронных мультимедиа-книг проложена.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ibis Reader - ответ BookServer на магазин Google Books</title>
-      <link>/posts/2009-11-02-66/</link>
+      <link>//localhost:1313/posts/2009-11-02-66/</link>
       <pubDate>Mon, 02 Nov 2009 23:46:54 +0000</pubDate>
-      
-      <guid>/posts/2009-11-02-66/</guid>
-      <description>Ibis Reader and BookServer : Threepress Consulting blog
-Оказывается, для BookServer готовится онлайновая читалка Ibis Reader, аналогичная Bookworm Лайзы Дейли с дополнительными функциями: оффлайновым доступом, кроссплатформенная, готовая для мобильных устройств, с синхронизацией места чтения и закладок, без всякого DRM и с готовым биллингом для продавцов.</description>
+      <guid>//localhost:1313/posts/2009-11-02-66/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://blog.threepress.org/2009/11/02/ibis-reader-and-bookserver/&#34;&gt;Ibis Reader and BookServer : Threepress Consulting blog&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Оказывается, для BookServer готовится онлайновая читалка &lt;a href=&#34;http://ibisreader.com/&#34;&gt;Ibis Reader&lt;/a&gt;, аналогичная &lt;a href=&#34;http://bookworm.oreilly.com/&#34;&gt;Bookworm&lt;/a&gt; Лайзы Дейли с дополнительными функциями: оффлайновым доступом, кроссплатформенная, готовая для мобильных устройств, с синхронизацией места чтения и закладок, без всякого DRM и с готовым биллингом для продавцов.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,476 +1,327 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>piracy on Новости электронного книгоиздания</title>
-    <link>/tags/piracy/</link>
-    <description>Recent content in piracy on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Piracy on Новости электронного книгоиздания</title>
+    <link>//localhost:1313/tags/piracy/</link>
+    <description>Recent content in Piracy on Новости электронного книгоиздания</description>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 15 Jan 2018 14:57:57 +0000</lastBuildDate><atom:link href="/tags/piracy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jan 2018 14:57:57 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/piracy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Бедные голландские писатели</title>
-      <link>/posts/2018-01-15-a/</link>
+      <link>//localhost:1313/posts/2018-01-15-a/</link>
       <pubDate>Mon, 15 Jan 2018 14:57:57 +0000</pubDate>
-      
-      <guid>/posts/2018-01-15-a/</guid>
-      <description>Говорят, в Нидерландах уровень неавторизованной дистрибуции среди читателей чуть ли не как в России — 90%. Голландские писатели даже сняли ролик, в котором они ходят и тырят у сограждан газеты, букридеры, собак, вино и сэндвичи. Бедные писатели, они всё ещё верят в сказку про украденные булочки.
-  </description>
+      <guid>//localhost:1313/posts/2018-01-15-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://tweakers.net/nieuws/94091/merendeel-e-books-in-nederland-is-niet-betaald.html&#34;&gt;Говорят&lt;/a&gt;, в Нидерландах уровень неавторизованной дистрибуции среди читателей чуть ли не как в России — 90%. Голландские писатели даже сняли ролик, в котором они ходят и тырят у сограждан газеты, букридеры, собак, вино и сэндвичи. Бедные писатели, они всё ещё верят в сказку про украденные булочки.&lt;/p&gt;&#xA;&#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/jfZg594O40M?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>«Манарага» и Readium LCP</title>
-      <link>/posts/2017-03-13-a/</link>
+      <link>//localhost:1313/posts/2017-03-13-a/</link>
       <pubDate>Mon, 13 Mar 2017 13:12:07 +0000</pubDate>
-      
-      <guid>/posts/2017-03-13-a/</guid>
-      <description>Новый роман Сорокина в день начала продаж уже на Flibusta. Быстро. А потом спрашивают, зачем издателям Readium LCP. Чтобы не быстро )
-P. S. Точнее, «спрашивают» — это фигура речи. Ну, начнут спрашивать.</description>
+      <guid>//localhost:1313/posts/2017-03-13-a/</guid>
+      <description>&lt;p&gt;Новый роман Сорокина в день начала продаж уже на Flibusta. Быстро. А потом спрашивают, зачем издателям &lt;a href=&#34;https://www.edrlab.org/readium/readium-lcp/&#34;&gt;Readium LCP&lt;/a&gt;. Чтобы не быстро )&lt;/p&gt;&#xA;&lt;p&gt;P. S. Точнее, «спрашивают» — это фигура речи. Ну, начнут спрашивать.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>15% — эффективность борьбы с пиратством</title>
-      <link>/posts/2017-01-10-c/</link>
+      <link>//localhost:1313/posts/2017-01-10-c/</link>
       <pubDate>Tue, 10 Jan 2017 14:46:58 +0000</pubDate>
-      
-      <guid>/posts/2017-01-10-c/</guid>
-      <description>Digital Books World сегодня написал о любопытном исследовании &amp;ldquo;Can Private Copyright Protection Be Effective? Evidence from Book Publishing&amp;rdquo; преподавательницы Северовосточного университета в Чикаго Имке Реймерс, опубликованное в University of Chicago’s Journal of Law and Economics. В 2010-2013 гг. Реймерс получала реальную статистику продаж по нескольким сотням книг издательства RosettaBooks, о защите которых издательство договорилось с сервисом Digimarc. Сервис кроулит сеть, находит ссылки, а потом (1) отсылает требования об удалении ссылок поисковым системам и (2) требования об удалении файлов самим сайтам-нарушителям.</description>
+      <guid>//localhost:1313/posts/2017-01-10-c/</guid>
+      <description>&lt;p&gt;Digital Books World сегодня &lt;a href=&#34;http://www.digitalbookworld.com/2017/study-cloud-based-piracy-protection-increase-sales/&#34;&gt;написал&lt;/a&gt; о любопытном исследовании &amp;ldquo;Can Private Copyright Protection Be Effective? Evidence from Book Publishing&amp;rdquo; преподавательницы Северовосточного университета в Чикаго Имке Реймерс, опубликованное в University of Chicago’s Journal of Law and Economics. В 2010-2013 гг. Реймерс получала реальную статистику продаж по нескольким сотням книг издательства RosettaBooks, о защите которых издательство договорилось с сервисом Digimarc. Сервис кроулит сеть, находит ссылки, а потом (1) отсылает требования об удалении ссылок поисковым системам и (2) требования об удалении файлов самим сайтам-нарушителям.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Пиратство и цена электронной книги</title>
-      <link>/posts/2014-06-10-a/</link>
+      <link>//localhost:1313/posts/2014-06-10-a/</link>
       <pubDate>Tue, 10 Jun 2014 13:06:54 +0000</pubDate>
-      
-      <guid>/posts/2014-06-10-a/</guid>
-      <description>Отличная формула по определению субъективной приемлемости цены:
- Если цена электронной книги (в долларах) меньше β, то, скорее всего, я её куплю.
-где t = время (в минутах), которое потребуется, чтобы найти электронную книгу в серых зонах интернета;
-f = мультипликатор фейковых файлов: количество фейковых файлов, которые я скачаю, чтобы найти действительно то, что мне нужно.
-E = индекс Elsevier, то есть относительный уровень злобности издателя. Индекс самого Elsevier — 100.</description>
+      <guid>//localhost:1313/posts/2014-06-10-a/</guid>
+      <description>&lt;p&gt;Отличная &lt;a href=&#34;http://www.quora.com/eBooks/How-much-do-people-typically-expect-to-pay-for-an-eBook/answer/Ramzi-Amri&#34;&gt;формула&lt;/a&gt; по определению субъективной приемлемости цены:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Если цена электронной книги (в долларах) меньше β, то, скорее всего, я её куплю.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://qph.cr.quoracdn.com/main-qimg-bd8a17a74cb89a888210077e6225fb89&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;где &lt;em&gt;t&lt;/em&gt; = время (в минутах), которое потребуется, чтобы найти электронную книгу в серых зонах интернета;&lt;br&gt;&#xA;&lt;em&gt;f&lt;/em&gt; = мультипликатор фейковых файлов: количество фейковых файлов, которые я скачаю, чтобы найти действительно то, что мне нужно.&lt;br&gt;&#xA;&lt;em&gt;E&lt;/em&gt; = индекс Elsevier, то есть относительный уровень злобности издателя. Индекс самого Elsevier — 100.&lt;br&gt;&#xA;&lt;em&gt;s&lt;/em&gt; = разыскиваемость (searchability). Если в легальном обороте книги вообще нет, то показатель равен 0, в противном случае &lt;em&gt;s&lt;/em&gt; = 1.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Новый роман Сорокина: утром в интернете, вечером в магазине</title>
-      <link>/posts/2013-10-15-a/</link>
+      <link>//localhost:1313/posts/2013-10-15-a/</link>
       <pubDate>Tue, 15 Oct 2013 09:13:49 +0000</pubDate>
-      
-      <guid>/posts/2013-10-15-a/</guid>
-      <description>На моей — слабой, конечно, — памяти первая такая история, когда долгожданный новый роман хорошего писателя появляется в продаже пусть с небольшим, но опережением, сначала в электронном виде, а потом уже в бумажном. Сегодня начались продажи «Теллурии» Владимира Сорокина. И сначала книга начала дистрибутироваться в сети — в Bookmate и на «Литресе». А в «Москве» и «Библиоглобусе» на данный момент книги ещё нет, в МДК книга появилась час назад (по цене в 3 раза дороже электронной книги или месячной подписки на библиотеку), в любимом же «Фаланстере» книгу обещают только к пятнице.</description>
+      <guid>//localhost:1313/posts/2013-10-15-a/</guid>
+      <description>&lt;p&gt;На моей — слабой, конечно, — памяти первая такая история, когда долгожданный новый роман хорошего писателя появляется в продаже пусть с небольшим, но опережением, сначала в электронном виде, а потом уже в бумажном. Сегодня начались продажи «Теллурии» Владимира Сорокина. И сначала книга начала дистрибутироваться в сети — в &lt;a href=&#34;http://bookmate.com/books/jBROtxof&#34;&gt;Bookmate&lt;/a&gt; и на &lt;a href=&#34;http://www.litres.ru/vladimir-sorokin/telluriya/&#34;&gt;«Литресе»&lt;/a&gt;. А в «Москве» и «Библиоглобусе» на данный момент книги ещё нет, в МДК книга появилась час назад (по цене в 3 раза дороже электронной книги или месячной подписки на библиотеку), в любимом же «Фаланстере» книгу обещают только к пятнице. Интересные времена.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Amazon о том, как издатели способствуют пиратству</title>
-      <link>/posts/2013-10-08-c/</link>
+      <link>//localhost:1313/posts/2013-10-08-c/</link>
       <pubDate>Tue, 08 Oct 2013 14:22:54 +0000</pubDate>
-      
-      <guid>/posts/2013-10-08-c/</guid>
-      <description>Amazon on The Global Transition to Online Bookselling (Russ Grandinetti at Launch Frankfurt 2013)  de Publishers Launch Conferences 
-Расс Грандинетти, вице-президент Amazon по Kindle Content, конечно, рассказывал на нынешнем Publishers Lunch во Франкфурте, не столько о пиратстве, сколько вообще о бизнесе электронных книг Amazon много интересного. Но с его тезисами сложно не согласиться: - медленная оцифровка каталога — это уменьшение продаж и поддержка пиратства; - отсрочка электронных продаж — это уменьшение продаж и поддержка пиратства; - слишком высокие цены на электронные книги — это проигрыш в конкуренции с более дешевым контентом (в том числе не книжным), и поддержка пиратства.</description>
+      <guid>//localhost:1313/posts/2013-10-08-c/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/AHQcRYK4K0mbkw&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/PublishersLaunch/launch-frankfurt2013-amazonrussgrandinetti&#34; title=&#34;Amazon on The Global Transition to Online Bookselling (Russ Grandinetti at Launch Frankfurt 2013)&#34; target=&#34;_blank&#34;&gt;Amazon on The Global Transition to Online Bookselling (Russ Grandinetti at Launch Frankfurt 2013)&lt;/a&gt; &lt;/strong&gt; de &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/PublishersLaunch&#34; target=&#34;_blank&#34;&gt;Publishers Launch Conferences&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;&#xA;&#xA;Расс Грандинетти, вице-президент Amazon по Kindle Content, конечно, рассказывал на нынешнем Publishers Lunch во Франкфурте, не столько о пиратстве, сколько вообще о бизнесе электронных книг Amazon много интересного. Но с его тезисами сложно не согласиться:&#xA;&#xA;- медленная оцифровка каталога — это уменьшение продаж и поддержка пиратства;&#xA;- отсрочка электронных продаж — это уменьшение продаж и поддержка пиратства;&#xA;- слишком высокие цены на электронные книги — это проигрыш в конкуренции с более дешевым контентом (в том числе не книжным), и поддержка пиратства.</description>
     </item>
-    
     <item>
       <title>Треть студентов — страшные пираты. В США</title>
-      <link>/posts/2013-07-17-a/</link>
+      <link>//localhost:1313/posts/2013-07-17-a/</link>
       <pubDate>Wed, 17 Jul 2013 12:38:31 +0000</pubDate>
-      
-      <guid>/posts/2013-07-17-a/</guid>
-      <description>The percentage of students reporting they had downloaded course content from an unauthorized Web site has risen steadily to 34 percent from 20 percent when it was first measured in 2010. Over the same period, the percent of students saying they photocopied or scanned chapters of textbooks from other students rose from 21 percent to 31 percent.
- via BISG: Student Pirating on the Rise | Digital Book World.</description>
+      <guid>//localhost:1313/posts/2013-07-17-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The percentage of students reporting they had downloaded course content from an unauthorized Web site has risen steadily to 34 percent from 20 percent when it was first measured in 2010. Over the same period, the percent of students saying they photocopied or scanned chapters of textbooks from other students rose from 21 percent to 31 percent.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.digitalbookworld.com/2013/bisg-student-pirating-on-the-rise/?et_mid=628534&amp;amp;rid=233889817&#34;&gt;BISG: Student Pirating on the Rise | Digital Book World&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;А почему американские студенты такие страшные пираты (34% загружают пиратский учебный контент, 31% копируют его у друзей)? Да потому, что, несмотря на незначительное снижение цен, один бумажный учебник обходится им в $110, а электронный — в $58. Другой интересный вывод опроса: значительная часть студентов готова к MOOC (Massive Open Online Courses) типа Coursera, и даже готова платить за это деньги, если плата будет меньше, чем в их колледже/университете.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Пропаганда чтения? ВКонтакте</title>
-      <link>/posts/2013-04-04-b/</link>
+      <link>//localhost:1313/posts/2013-04-04-b/</link>
       <pubDate>Thu, 04 Apr 2013 12:07:15 +0000</pubDate>
-      
-      <guid>/posts/2013-04-04-b/</guid>
-      <description>Сознание веб-сёрфера отмечало на периферии, что что-то в этом роде должно быть. Сегодня столкнулся в полный рост. Пока борцы с книжным пиратством скупают «Либрусек» и охотятся за «Флибустой», прямо у них под носом в самой большой российской социальной сети тысячи, десятки и сотни тысяч людей ежедневно только и занимаются тем, что обмениваются книгами. В несчётном — или хорошо известном разве что Павлу Дурову — количестве. Конечно, там есть не всё, что душе угодно.</description>
+      <guid>//localhost:1313/posts/2013-04-04-b/</guid>
+      <description>&lt;p&gt;Сознание веб-сёрфера отмечало на периферии, что что-то в этом роде должно быть. Сегодня столкнулся в полный рост. Пока борцы с книжным пиратством скупают «Либрусек» и охотятся за «Флибустой», прямо у них под носом в самой большой российской социальной сети тысячи, десятки и сотни тысяч людей ежедневно только и занимаются тем, что обмениваются книгами. В несчётном — или хорошо известном разве что Павлу Дурову — количестве. Конечно, там есть не всё, что душе угодно. И найти можно не сразу. Но можно. Издательское сердце, думаю, должно наполниться радостью, что книги ещё кому-то нужны. Но ум, наверное, не позволит.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Отличное исследование пиратства в США</title>
-      <link>/posts/2012-04-18-a/</link>
+      <link>//localhost:1313/posts/2012-04-18-a/</link>
       <pubDate>Wed, 18 Apr 2012 14:07:20 +0000</pubDate>
-      
-      <guid>/posts/2012-04-18-a/</guid>
-      <description>via piracy.ssrc.org
-Тот же Джо Караганис, который организовал исследование &amp;ldquo;Медиапиратство в развивающихся экономиках&amp;rdquo;.
-Очень показательно — для любителей публично побиться головой об стену с криками «Россия — самая пиратская страна». Нет, не самая. Обычная.
-46% всего (!) взрослого населения США качают музыку, фильмы и т. д. Среди молодёжи (18–29) — 70%.
-На сайте пока только одна глава, но обещают скоро целиком.</description>
+      <guid>//localhost:1313/posts/2012-04-18-a/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://piracy.ssrc.org/get-the-copy-culture-report/&#34;&gt;piracy.ssrc.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Тот же Джо Караганис, который организовал исследование &amp;ldquo;Медиапиратство в развивающихся экономиках&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Очень показательно — для любителей публично побиться головой об стену с криками «Россия — самая пиратская страна». Нет, не самая. Обычная.&lt;/p&gt;&#xA;&lt;p&gt;46% всего (!) взрослого населения США качают музыку, фильмы и т. д. Среди молодёжи (18–29) — 70%.&lt;/p&gt;&#xA;&lt;p&gt;На сайте пока только одна глава, но обещают скоро целиком.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Сет Годин о непиратстве</title>
-      <link>/posts/2012-01-30-a/</link>
+      <link>//localhost:1313/posts/2012-01-30-a/</link>
       <pubDate>Mon, 30 Jan 2012 18:37:18 +0000</pubDate>
-      
-      <guid>/posts/2012-01-30-a/</guid>
-      <description>Web users have been trained long enough to know what they want: everything.
-That’s the promise of the web. Every book for sale at Amazon. Every search result visible on Google. Every auctioned item right there on eBay.
-Not piracy. Availability.
-The music industry got confused about this and decided that people merely wanted to steal music. What’s clear now from the rise of iTunes as well as ad and subscriber-supported services like Spotify is that people will happily pay as long as it brings most everything along for the ride.</description>
+      <guid>//localhost:1313/posts/2012-01-30-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Web users have been trained long enough to know what they want: everything.&lt;/p&gt;&#xA;&lt;p&gt;That’s the promise of the web. Every book for sale at Amazon. Every search result visible on Google. Every auctioned item right there on eBay.&lt;/p&gt;&#xA;&lt;p&gt;Not piracy. Availability.&lt;/p&gt;&#xA;&lt;p&gt;The music industry got confused about this and decided that people merely wanted to steal music. What’s clear now from the rise of iTunes as well as ad and subscriber-supported services like Spotify is that people will happily pay as long as it brings most everything along for the ride.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Круче всех французские пираты манги</title>
-      <link>/posts/2012-01-25-b/</link>
+      <link>//localhost:1313/posts/2012-01-25-b/</link>
       <pubDate>Wed, 25 Jan 2012 11:19:31 +0000</pubDate>
-      
-      <guid>/posts/2012-01-25-b/</guid>
-      <description>The MOTif report reveals that of the 50 best-selling comics, 58% of these are not available as e-books. Pirated mangas are often streamed, whereas comic books are scanned. These generally good quality files, either PDFs or images, sell for an average of $15, slightly below the price of the equivalent paper book.
-It is also interesting to note that these pirating teams are well organized and able to scan new mangas that are released in Japan.</description>
+      <guid>//localhost:1313/posts/2012-01-25-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The MOTif report reveals that of the 50 best-selling comics, 58% of these are not available as e-books. Pirated mangas are often streamed, whereas comic books are scanned. These generally good quality files, either PDFs or images, sell for an average of $15, slightly below the price of the equivalent paper book.&lt;/p&gt;&#xA;&lt;p&gt;It is also interesting to note that these pirating teams are well organized and able to scan new mangas that are released in Japan. They even provide professional quality translations (including footnotes). The pirated comics are then sold online until the legal version appears in France, at which point they are removed. (After Japan, France is the country where the most mangas are sold.)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Эксмо пиарит пиратов — Газета «Маркер»</title>
-      <link>/posts/2011-10-24-1/</link>
+      <link>//localhost:1313/posts/2011-10-24-1/</link>
       <pubDate>Mon, 24 Oct 2011 11:33:22 +0000</pubDate>
-      
-      <guid>/posts/2011-10-24-1/</guid>
-      <description>via marker.ru
-Молодцы. Сколько пока не объясняй издателям, что к пиратству разумнее, по совету Тима О&amp;rsquo;Рейли, вообще никак не относиться, они не верят. Что же ещё нужно сделать, чтобы поверили? Или само пройдёт?</description>
+      <guid>//localhost:1313/posts/2011-10-24-1/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.marker.ru/news/504614&#34;&gt;marker.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Молодцы. Сколько пока не объясняй издателям, что к пиратству разумнее, по совету Тима О&amp;rsquo;Рейли, вообще никак не относиться, они не верят. Что же ещё нужно сделать, чтобы поверили? Или само пройдёт?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Основатель Valve о том, как правильно бороться с пиратством в России | webpublishers•ru</title>
-      <link>/posts/2011-10-24-2/</link>
+      <link>//localhost:1313/posts/2011-10-24-2/</link>
       <pubDate>Mon, 24 Oct 2011 09:07:23 +0000</pubDate>
-      
-      <guid>/posts/2011-10-24-2/</guid>
-      <description>Основатель Valve о том, как правильно бороться с пиратством в России
- via webpublishers.ru</description>
+      <guid>//localhost:1313/posts/2011-10-24-2/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Основатель Valve о том, как правильно бороться с пиратством в России&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.webpublishers.ru/?p=191&#34;&gt;webpublishers.ru&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Великий книжный файерволл от Российского книжного союза</title>
-      <link>/posts/2011-09-02-2/</link>
+      <link>//localhost:1313/posts/2011-09-02-2/</link>
       <pubDate>Fri, 02 Sep 2011 10:03:16 +0000</pubDate>
-      
-      <guid>/posts/2011-09-02-2/</guid>
-      <description>По сообщению журнала «Книжное дело», в продолжение недавних дискуссий РКС готовится при поддержке Федерального агентства по печати и массовым коммуникациям развернуть кампанию против «интернет-пиратства». По словам вице-президента союза Александры Шипетиной, проект предполагает два основных направления работы. С одной стороны, достижение договоренности со всеми заинтересованными сторонами (включая интернет-провайдеров) о создании четкой процедуры противодействия «пиратам». Для обсуждения спорных моментов будет организован «круглый стол» в Госдуме.
- via pro-books.ru
-Российский книжный союз не знает, что такое прокси-сервер?</description>
+      <guid>//localhost:1313/posts/2011-09-02-2/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;По сообщению журнала «Книжное дело», в продолжение недавних &lt;a href=&#34;http://pro-books.ru/news/3/7714&#34;&gt;дискуссий&lt;/a&gt; &lt;strong&gt;РКС&lt;/strong&gt; готовится при поддержке &lt;strong&gt;Федерального агентства по печати и массовым коммуникациям&lt;/strong&gt; развернуть кампанию против «интернет-пиратства». По словам вице-президента союза &lt;strong&gt;Александры Шипетиной&lt;/strong&gt;, проект предполагает два основных направления работы. С одной стороны, достижение договоренности со всеми заинтересованными сторонами (включая интернет-провайдеров) о создании четкой процедуры противодействия «пиратам». Для обсуждения спорных моментов будет организован «круглый стол» в Госдуме.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://pro-books.ru/news/3/7776?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+Publishit+%28Pro-Books.Ru%29&#34;&gt;pro-books.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Российский книжный союз не знает, что такое прокси-сервер? Видимо, придётся узнать. А также узнать, что такое Tor. Да мало ли ещё есть не слишком напряжных способов добраться до нужной информации.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Первое академическое исследование книжного &#34;пиратства&#34;</title>
-      <link>/posts/2011-08-24-4/</link>
+      <link>//localhost:1313/posts/2011-08-24-4/</link>
       <pubDate>Wed, 24 Aug 2011 12:35:36 +0000</pubDate>
-      
-      <guid>/posts/2011-08-24-4/</guid>
-      <description>The research question of this study was, how does giving away digital books influence the print sales of those books? In the 10 weeks following the free books being made available, sales of the seven books studied increased 25.9%.
- via quod.lib.umich.edu
-Deseret Book решило десяток книжек с падающими продажами отдать на свободное скачивание. Экономисты проанализировали эффект: рост продаж на 26%.
-Это, правда, второе исследование такого рода. До этого эксперимент ставил O&amp;rsquo;Рейли ещё в 2008 году.</description>
+      <guid>//localhost:1313/posts/2011-08-24-4/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The research question of this study was, how does giving away digital books influence the print sales of those books? In the 10 weeks following the free books being made available, sales of the seven books studied increased 25.9%.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://quod.lib.umich.edu/cgi/t/text/text-idx?c=jep;view=text;rgn=main;idno=3336451.0014.109&#34;&gt;quod.lib.umich.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Deseret Book решило десяток книжек с падающими продажами отдать на &lt;a href=&#34;http://deseretbook.com/free&#34;&gt;свободное скачивание&lt;/a&gt;. Экономисты проанализировали эффект: рост продаж на 26%.&lt;br&gt;&#xA;Это, правда, второе исследование такого рода. До этого эксперимент ставил O&amp;rsquo;Рейли ещё в 2008 году. Результаты сравнимы. Но там ещё много дополнительных интересных наблюдений: позитивный эффект на интернет-продажи, а не оффлайновый ритейл и пр. Оч. полезный текст.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Пол Карр: &#34;Издатели, не парьтесь о пиратстве&#34;</title>
-      <link>/posts/2011-08-24-5/</link>
+      <link>//localhost:1313/posts/2011-08-24-5/</link>
       <pubDate>Wed, 24 Aug 2011 11:53:27 +0000</pubDate>
-      
-      <guid>/posts/2011-08-24-5/</guid>
-      <description>“Let’s say my goal is to sell 10,000 copies of something. And let’s say that if by putting DRM in it I sell 10,000 copies and I make my money, and if by having no DRM 100,000 copies go into circulation and I still sell 10,000 copies. Which of those is the better outcome?
-I think having 100,000 [books] in circulation and selling 10,000 is way better than having just the 10,000 that are paid for and nobody else benefits.</description>
+      <guid>//localhost:1313/posts/2011-08-24-5/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“Let’s say my goal is to sell 10,000 copies of something. And let’s say that if by putting DRM in it I sell 10,000 copies and I make my money, and if by having no DRM 100,000 copies go into circulation and I still sell 10,000 copies. Which of those is the better outcome?&lt;/p&gt;&#xA;&lt;p&gt;I think having 100,000 [books] in circulation and selling 10,000 is way better than having just the 10,000 that are paid for and nobody else benefits. People who don’t pay you generally wouldn’t have paid you anyway. We’re delighted when people who can’t afford our books don’t pay us for them, if they go out and do something useful with that information.”&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Забавная идея: внешний диск с &#34;пираткой&#34; как искусство</title>
-      <link>/posts/2011-08-24-8/</link>
+      <link>//localhost:1313/posts/2011-08-24-8/</link>
       <pubDate>Wed, 24 Aug 2011 10:11:27 +0000</pubDate>
-      
-      <guid>/posts/2011-08-24-8/</guid>
-      <description>via wired.co.uk
-Объект называется &amp;ldquo;5 Million Dollars, 1 Terabyte&amp;rdquo;.
-Художник тщательно подбирал контент подороже.</description>
+      <guid>//localhost:1313/posts/2011-08-24-8/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.wired.co.uk/news/archive/2011-08/24/illegal-downloads-as-art&#34;&gt;wired.co.uk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Объект называется &amp;ldquo;5 Million Dollars, 1 Terabyte&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Художник тщательно подбирал контент подороже.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Михаил Визель про пиратство</title>
-      <link>/posts/2011-08-22-3/</link>
+      <link>//localhost:1313/posts/2011-08-22-3/</link>
       <pubDate>Mon, 22 Aug 2011 13:20:27 +0000</pubDate>
-      
-      <guid>/posts/2011-08-22-3/</guid>
-      <description>Смотрите, как получается: принято думать, что комфорт есть прямое следствие цивилизованности. Хочешь удобств - плати. У меня же вышло наоборот: чем дальше я удалялся от цивилизованного рынка электронных книг, тем ближе я приближался к тому, что нужно конкретно мне, а не неведомым маркетологам: получить нужную книгу в нужном мне формате в данный конкретный момент времени.
-Мне захотелось набрать побольше воздуху и крикнуть тому самому Всемирному Информаторию: &amp;ldquo;Товарищи рунетчики! Админы с программистами!</description>
+      <guid>//localhost:1313/posts/2011-08-22-3/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Смотрите, как получается: принято думать, что комфорт есть прямое следствие цивилизованности. Хочешь удобств - плати. У меня же вышло наоборот: чем дальше я удалялся от цивилизованного рынка электронных книг, тем ближе я приближался к тому, что нужно конкретно мне, а не неведомым маркетологам: получить нужную книгу в нужном мне формате в данный конкретный момент времени.&lt;/p&gt;&#xA;&lt;p&gt;Мне захотелось набрать побольше воздуху и крикнуть тому самому Всемирному Информаторию: &amp;ldquo;Товарищи рунетчики! Админы с программистами! Для того, чтобы бороться с пиратами, не нужно обращаться в Конституционный суд и Гаагский трибунал. Просто додумайте свои замечательные легальные ресурсы, чтобы они действительно работали, а поисковики их действительно находили. Вспомните, наконец: вы же прямые потомки умелого и совестливого Саши Привалова, а не имитирующего бурную деятельность халтурщика Выбегалло!&amp;rdquo;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Пираты в законе продолжают бороться с неавторизованной дистрибуцией</title>
-      <link>/posts/2011-08-17-5/</link>
+      <link>//localhost:1313/posts/2011-08-17-5/</link>
       <pubDate>Wed, 17 Aug 2011 08:18:20 +0000</pubDate>
-      
-      <guid>/posts/2011-08-17-5/</guid>
-      <description>В конце июля на заседании правления Российского книжного союза речь в очередной раз шла о том, как остановить нелегальное распространение цифровых книг в Рунете.
-Роли спикеров на заседании РКС, посвященному книжному интернет-пиратству, взяли на себя генеральный директор магазина «ЛитРес» Сергей Анурьев и генеральный директор издательства «Эксмо», вице-президент РКС Олег Новиков.
-По сообщению журнала «Книжное дело», Анурьев выделил различные типы «пиратских» сайтов (сайты магазинов, официально работающих на территории РФ; сайты с серверами на территории РФ и СНГ или за рубежом; сайты-«варезники» со ссылками на «файлообменники»; торрент-трекеры; магазины по продаже устройств для чтения е-книг с предустановленным контрафактным контентом) и рассказал, какие меры предпринимаются в их отношении.</description>
+      <guid>//localhost:1313/posts/2011-08-17-5/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://pro-books.ru/sites/default/files/imagecache/normal/rkscopy.jpg&#34;&gt;&lt;img src=&#34;http://pro-books.ru/sites/default/files/imagecache/thumb200/rkscopy.jpg&#34; alt=&#34;В РКС вновь обсуждались меры противодействия интернет-пиратам&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;В конце июля на заседании правления Российского книжного союза речь в очередной раз шла о том, как остановить нелегальное распространение цифровых книг в Рунете.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Роли спикеров на заседании РКС, посвященному книжному интернет-пиратству, взяли на себя генеральный директор магазина &lt;strong&gt;«ЛитРес» Сергей Анурьев&lt;/strong&gt; и генеральный директор издательства &lt;strong&gt;«Эксмо»&lt;/strong&gt;, вице-президент РКС &lt;strong&gt;Олег Новиков&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;По сообщению журнала «Книжное дело», Анурьев выделил различные типы «пиратских» сайтов (сайты магазинов, официально работающих на территории РФ; сайты с серверами на территории РФ и СНГ или за рубежом; сайты-«варезники» со ссылками на «файлообменники»; торрент-трекеры; магазины по продаже устройств для чтения е-книг с предустановленным контрафактным контентом) и рассказал, какие меры предпринимаются в их отношении. Обычная схема работы такова: проведение переговоров и выявление позиции ресурса по отношению к «пиратству»; проведение тестовых закупок и составление нотариальных протоколов; подготовка и направление адвокатских запросов; передача дел в суд. Это длительная процедура, поскольку, к примеру, ожидание ответа на адвокатский запрос занимает до 3-4 месяцев. Судебные документы, касающиеся деятельности нескольких пиратских сайтов, уже переданы в Управление «К» МВД РФ. Ранее несколько ресурсов были закрыты по судебной процедуре и без нее.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Писатели тупо не читатели</title>
-      <link>/posts/2011-07-12-3/</link>
+      <link>//localhost:1313/posts/2011-07-12-3/</link>
       <pubDate>Tue, 12 Jul 2011 13:14:24 +0000</pubDate>
-      
-      <guid>/posts/2011-07-12-3/</guid>
-      <description>Российские писатели и деятели культуры, в число которых вошли Дарья Донцова, Татьяна Устинова, Александра Маринина, Леонид Парфенов, Андрей Кончаловский и другие, обратились к руководству компании &amp;ldquo;Яндекс&amp;rdquo; с просьбой защитить авторские права и заблокировать доступ на пиратские сайты.
- via ria.ru
-Если бы писатели были читателями, то, вместо того, чтобы ставить Яндексу в пример Google, они бы почитали, КАК ИМЕННО и КАКИЕ ИМЕННО Google убрал ссылки на неавторизованные ресурсы. Может быть, они бы даже поняли, чем 4-я часть ГК отличается от DMCA.</description>
+      <guid>//localhost:1313/posts/2011-07-12-3/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Российские писатели и деятели культуры, в число которых вошли Дарья Донцова, Татьяна Устинова, Александра Маринина, Леонид Парфенов, Андрей Кончаловский и другие, обратились к руководству компании &lt;a href=&#34;http://www.yandex.ru/&#34;&gt;&amp;ldquo;Яндекс&amp;rdquo;&lt;/a&gt; с просьбой защитить авторские права и заблокировать доступ на пиратские сайты.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://ria.ru/culture/20110712/400603927.html&#34;&gt;ria.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Если бы писатели были читателями, то, вместо того, чтобы ставить Яндексу в пример Google, они бы почитали, КАК ИМЕННО и КАКИЕ ИМЕННО Google убрал ссылки на неавторизованные ресурсы. Может быть, они бы даже поняли, чем 4-я часть ГК отличается от DMCA.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Киношники</title>
-      <link>/posts/2011-06-08-b/</link>
+      <link>//localhost:1313/posts/2011-06-08-b/</link>
       <pubDate>Wed, 08 Jun 2011 18:02:44 +0000</pubDate>
-      
-      <guid>/posts/2011-06-08-b/</guid>
-      <description>Называть пиратами тех, кто вывешивает фильмы в Интернете на торрентах, и тех, кто потом их скачивает, неправомерно; главными кинопиратами в России являются порталы Вконтакте, Яндекс и Мейл.ру, решили участники круглого стола &amp;ldquo;Мир изменился. Теперь очередь за нами&amp;rdquo;, прошедшего в среду в Сочи в рамках кинофестиваля &amp;ldquo;Кинотавр&amp;rdquo;.
-&amp;ldquo;Кроме названных порталов, должна быть наказана &amp;ldquo;большая тройка&amp;rdquo; российских мобильных операторов, участвующая в незаконном распространении пиратского контента и зарабатывании на нем денег&amp;rdquo;, - сказал на &amp;ldquo;круглом столе&amp;rdquo; дистрибьютор, президент компании &amp;ldquo;Кино без границ&amp;rdquo; Сэм Клебанов.</description>
+      <guid>//localhost:1313/posts/2011-06-08-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Называть пиратами тех, кто вывешивает фильмы в Интернете на торрентах, и тех, кто потом их скачивает, неправомерно; главными кинопиратами в России являются порталы Вконтакте, Яндекс и Мейл.ру, решили участники круглого стола &amp;ldquo;Мир изменился. Теперь очередь за нами&amp;rdquo;, прошедшего в среду в Сочи в рамках кинофестиваля &amp;ldquo;Кинотавр&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Кроме названных порталов, должна быть наказана &amp;ldquo;большая тройка&amp;rdquo; российских мобильных операторов, участвующая в незаконном распространении пиратского контента и зарабатывании на нем денег&amp;rdquo;, - сказал на &amp;ldquo;круглом столе&amp;rdquo; дистрибьютор, президент компании &amp;ldquo;Кино без границ&amp;rdquo; Сэм Клебанов.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Вот, кстати, и сам доклад</title>
-      <link>/posts/2011-05-18-c/</link>
+      <link>//localhost:1313/posts/2011-05-18-c/</link>
       <pubDate>Wed, 18 May 2011 20:10:57 +0000</pubDate>
-      
-      <guid>/posts/2011-05-18-c/</guid>
-      <description>Ipreview Final Report by Vladimir Haritonov on Scribd</description>
+      <guid>//localhost:1313/posts/2011-05-18-c/</guid>
+      <description>&lt;p  style=&#34;   margin: 12px auto 6px auto;   font-family: Helvetica,Arial,Sans-serif;   font-style: normal;   font-variant: normal;   font-weight: normal;   font-size: 14px;   line-height: normal;   font-size-adjust: none;   font-stretch: normal;   -x-system-font: none;   display: block;&#34;   &gt;&lt;a title=&#34;View Ipreview Final Report on Scribd&#34; href=&#34;https://www.scribd.com/document/55713184/Ipreview-Final-Report#from_embed&#34;  style=&#34;text-decoration: underline;&#34;&gt;Ipreview Final Report&lt;/a&gt; by &lt;a title=&#34;View Vladimir Haritonov&#39;s profile on Scribd&#34; href=&#34;https://www.scribd.com/user/37245838/Vladimir-Haritonov#from_embed&#34;  style=&#34;text-decoration: underline;&#34;&gt;Vladimir Haritonov&lt;/a&gt; on Scribd&lt;/p&gt;&lt;iframe class=&#34;scribd_iframe_embed&#34; title=&#34;Ipreview Final Report&#34; src=&#34;https://www.scribd.com/embeds/55756243/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=false&amp;access_key=key-29vrpo8due418r5x9mdl&#34; data-auto-height=&#34;false&#34; data-aspect-ratio=&#34;0.7080062794348508&#34; scrolling=&#34;no&#34; width=&#34;600&#34; height=&#34;800&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;</description>
     </item>
-    
     <item>
       <title>Влияние пиратства на экономику не так ужасно, как иногда кажется</title>
-      <link>/posts/2011-05-18-b/</link>
+      <link>//localhost:1313/posts/2011-05-18-b/</link>
       <pubDate>Wed, 18 May 2011 20:07:34 +0000</pubDate>
-      
-      <guid>/posts/2011-05-18-b/</guid>
-      <description>Estimates of the scale of illegal digital downloads in the UK ranges between 13 per cent and 65 per cent in two studies published last year. A detailed survey of UK and international data finds that very little of it is supported by transparent research criteria. Meanwhile sales and profitability levels in most creative business sectors appear to be holding up reasonably well. We conclude that many creative businesses are experiencing turbulence from digital copyright infringement, but that at the level of the whole economy, measurable impacts are not as stark as is sometimes suggested.</description>
+      <guid>//localhost:1313/posts/2011-05-18-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Estimates of the scale of illegal digital downloads in the UK ranges between 13 per cent and 65 per cent in two studies published last year. A detailed survey of UK and international data finds that very little of it is supported by transparent research criteria. Meanwhile sales and profitability levels in most creative business sectors appear to be holding up reasonably well. We conclude that many creative businesses are experiencing turbulence from digital copyright infringement, but that at the level of the whole economy, measurable impacts are not as stark as is sometimes suggested.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Авторы пиратят свои электронные книги ради рекламы?</title>
-      <link>/posts/2011-05-13-a/</link>
+      <link>//localhost:1313/posts/2011-05-13-a/</link>
       <pubDate>Fri, 13 May 2011 15:52:12 +0000</pubDate>
-      
-      <guid>/posts/2011-05-13-a/</guid>
-      <description>via goodereader.com
-Немного неожиданно, но, помня практику Коэльо, логично.</description>
+      <guid>//localhost:1313/posts/2011-05-13-a/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://thailandtimes.asia/files/spies1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://goodereader.com/blog/electronic-readers/goodereader-exclusive-are-authors-pirating-their-own-books-to-promote-themselves/&#34;&gt;goodereader.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Немного неожиданно, но, помня практику Коэльо, логично.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Пиратство — это хорошо</title>
-      <link>/posts/2011-05-12-c/</link>
+      <link>//localhost:1313/posts/2011-05-12-c/</link>
       <pubDate>Thu, 12 May 2011 10:35:30 +0000</pubDate>
-      
-      <guid>/posts/2011-05-12-c/</guid>
-      <description>Once you are able to see piracy not only as a threat, you can start to see the positive effects. Positive? Yes. Think about why people pirate your books. Why would they do that? Think negative and you might say: they don’t want to pay for it. Could be (see the text under the next heading how to tackle that). But the main reason is: they want your book! And that is a good thing, right?</description>
+      <guid>//localhost:1313/posts/2011-05-12-c/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Once you are able to see piracy not only as a threat, you can start to see the positive effects. Positive? Yes. Think about why people pirate your books. Why would they do that? Think negative and you might say: they don’t want to pay for it. Could be (see the text under the next heading how to tackle that). But the main reason is: they want your book! And that is a good thing, right?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>О лицемерии. Писатели-пираты</title>
-      <link>/posts/2011-03-28-1/</link>
+      <link>//localhost:1313/posts/2011-03-28-1/</link>
       <pubDate>Mon, 28 Mar 2011 11:08:47 +0000</pubDate>
-      
-      <guid>/posts/2011-03-28-1/</guid>
-      <description>Недавно некоторые писатели поставили на паузу любимый сериал, скаченный с торрентов, открыли пиратский Word, и настрочили &amp;ldquo;Открытое письмо русских и русскоязычных писателей Президенту России Д.А. Медведеву&amp;rdquo;. Коротко, в изложении Экслера, который справедливо назвал их идиотами, в письме написано примерно следующее:
- Дядь Дмитрий Натольич! Очень кушать хоцца! Закрой, пожалуйста, все электронные библиотеки, расстреляй тех, кто их содержит, и после этого наступит ЩАСТЕ: все те уроды, которые непонятно за каким бесом скачивают наши книжки в Инете, тут же побегут в магазин и тут же скупят все наши мизерные тиражи.</description>
+      <guid>//localhost:1313/posts/2011-03-28-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Недавно некоторые писатели поставили на паузу любимый сериал, скаченный с торрентов, открыли пиратский Word, и настрочили &lt;a href=&#34;http://daiyan-19.livejournal.com/129456.html&#34;&gt;&amp;ldquo;Открытое письмо русских и русскоязычных писателей Президенту России Д.А. Медведеву&amp;rdquo;&lt;/a&gt;. Коротко, в изложении &lt;a href=&#34;http://exler.ru/blog/item/9556/&#34;&gt;Экслера&lt;/a&gt;, который справедливо назвал их идиотами, в письме написано примерно следующее:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Дядь Дмитрий Натольич! Очень кушать хоцца! Закрой, пожалуйста, все электронные библиотеки, расстреляй тех, кто их содержит, и после этого наступит ЩАСТЕ: все те уроды, которые непонятно за каким бесом скачивают наши книжки в Инете, тут же побегут в магазин и тут же скупят все наши мизерные тиражи. И мы тут же станем богатыми и напишем еще лучше и еще больше про нашу любимую родину.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Удавиться за копейку</title>
-      <link>/posts/2011-03-05-b/</link>
+      <link>//localhost:1313/posts/2011-03-05-b/</link>
       <pubDate>Fri, 25 Mar 2011 10:20:45 +0000</pubDate>
-      
-      <guid>/posts/2011-03-05-b/</guid>
-      <description>Открытое письмо русских и русскоязычных писателей Президенту России Д.А. Медведеву
- via dr-piliulkin.livejournal.com
-Писатели послушали Бартенева и ну считать. ОК, посчитаем. Предположим, что оценки Бартенева соответствуют действительности, и электронных книг продается на 600 тыс долларов в год (оценки Анурьева - 2 млн, Нестерова - 6 млн), а весь рынок — 8 млн. Отлично. Тогда получается, что сейчас авторы получают меньше 60 тыс роялти (из них 7800 пойдет на НДФЛ). Меньше, потому что цифровые ритейлеры вовсе не отдают 100% заработанного издателям, чтобы они могли выплатить им обычные 10% роялти.</description>
+      <guid>//localhost:1313/posts/2011-03-05-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Открытое письмо русских и русскоязычных писателей Президенту России Д.А. Медведеву&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://dr-piliulkin.livejournal.com/268598.html&#34;&gt;dr-piliulkin.livejournal.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Писатели послушали Бартенева и ну считать. ОК, посчитаем. Предположим, что оценки Бартенева соответствуют действительности, и электронных книг продается на 600 тыс долларов в год (оценки Анурьева - 2 млн, Нестерова - 6 млн), а весь рынок — 8 млн. Отлично. Тогда получается, что сейчас авторы получают меньше 60 тыс роялти (из них 7800 пойдет на НДФЛ). Меньше, потому что цифровые ритейлеры вовсе не отдают 100% заработанного издателям, чтобы они могли выплатить им обычные 10% роялти. В реальности эта цифра будет походить скорее на 18 тыс долларов.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>В США, оказывается, та же фигня вокруг книжного &#34;пиратства&#34;, что и в России</title>
-      <link>/posts/2011-02-26-b/</link>
+      <link>//localhost:1313/posts/2011-02-26-b/</link>
       <pubDate>Sat, 26 Feb 2011 20:45:52 +0000</pubDate>
-      
-      <guid>/posts/2011-02-26-b/</guid>
-      <description>If copyright is violated, it’s not theft (depriving someone of their work); it’s infringement. When infringement occurs, publishers and authors can seek relief, generally payment for unauthorized use. Changing the law, however (which is what the Authors Guild hopes will happen), should depend on an assessment of adverse impact.
-Books uploaded to file-sharing sites are an infringing use. They represent (in my world) an “instance of piracy”. Someone did something with book content they should not have done.</description>
+      <guid>//localhost:1313/posts/2011-02-26-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;If copyright is violated, it’s not theft (depriving someone of their work); it’s infringement.  When infringement occurs, publishers and authors can seek relief, generally payment for unauthorized use.  Changing the law, however (which is what the Authors Guild hopes will happen), should depend on an assessment of adverse impact.&lt;/p&gt;&#xA;&lt;p&gt;Books uploaded to file-sharing sites are an infringing use.  They represent (in my world) an “instance of piracy”.  Someone did something with book content they should not have done.  Copyright owners can seek remedies.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>&#34;Итоги&#34; об электронных книгах. Смех и грех</title>
-      <link>/posts/2011-02-21-b/</link>
+      <link>//localhost:1313/posts/2011-02-21-b/</link>
       <pubDate>Mon, 21 Feb 2011 10:08:59 +0000</pubDate>
-      
-      <guid>/posts/2011-02-21-b/</guid>
-      <description>для неохраняемых литературных произведений уровень пиратства доходит до 99 процентов
- via itogi.ru
-Как можно говорить о &amp;ldquo;пиратстве&amp;rdquo; по отношению к неохраняемым текстам?
-Там ещё много смешных мифов, штампов и даже откровенного вранья.
-(В скобочках замечу, что в декабре &amp;ldquo;Итоги&amp;rdquo; предложили написать колонку обо всех этих делах. Написал. Колонку, впрочем, не напечатали. Как с печалью объяснил мне мой добрый друг, &amp;ldquo;не совпадает с политикой издания&amp;rdquo;.)</description>
+      <guid>//localhost:1313/posts/2011-02-21-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;для неохраняемых литературных произведений уровень пиратства доходит до 99 процентов&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.itogi.ru/hitech-business/2011/8/162189.html&#34;&gt;itogi.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Как можно говорить о &amp;ldquo;пиратстве&amp;rdquo; по отношению к неохраняемым текстам?&lt;/p&gt;&#xA;&lt;p&gt;Там ещё много смешных мифов, штампов и даже откровенного вранья.&lt;/p&gt;&#xA;&lt;p&gt;(В скобочках замечу, что в декабре &amp;ldquo;Итоги&amp;rdquo; предложили написать колонку обо всех этих делах. Написал. Колонку, впрочем, не напечатали. Как с печалью объяснил мне мой добрый друг, &amp;ldquo;не совпадает с политикой издания&amp;rdquo;.)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>imobilco всё ж таки наглецы ;)</title>
-      <link>/posts/2011-02-03-a/</link>
+      <link>//localhost:1313/posts/2011-02-03-a/</link>
       <pubDate>Thu, 03 Feb 2011 22:55:19 +0000</pubDate>
-      
-      <guid>/posts/2011-02-03-a/</guid>
-      <description>В тени молчаливого большинства, или Конец социального
- via imobilco.ru
-Продают книжку, которую я сам с друзьями издавал. Вот нахалы! ;)</description>
+      <guid>//localhost:1313/posts/2011-02-03-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;В тени молчаливого большинства, или Конец социального&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.imobilco.ru/books/-/610181/&#34;&gt;imobilco.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Продают книжку, которую я сам с друзьями издавал. Вот нахалы! ;)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Говоря о пиратстве, подумайте и об этом</title>
-      <link>/posts/2011-01-20-b/</link>
+      <link>//localhost:1313/posts/2011-01-20-b/</link>
       <pubDate>Thu, 20 Jan 2011 09:05:14 +0000</pubDate>
-      
-      <guid>/posts/2011-01-20-b/</guid>
-      <description>But if you want to talk about eBook piracy, let’s talk about it.
- via charles-tan.blogspot.com
-Примечательная статья о книжном пиратстве на Филиппинах. Кое-что общее с Россией есть.</description>
+      <guid>//localhost:1313/posts/2011-01-20-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;But if you want to talk about eBook piracy, let’s talk about it.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://charles-tan.blogspot.com/2011/01/essay-ebook-piracy-and-copyright-in.html&#34;&gt;charles-tan.blogspot.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Примечательная статья о книжном пиратстве на Филиппинах. Кое-что общее с Россией есть.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>И ещё раз о пиратстве - Брайан О&#39;Лири</title>
-      <link>/posts/2011-01-10-b/</link>
+      <link>//localhost:1313/posts/2011-01-10-b/</link>
       <pubDate>Mon, 10 Jan 2011 23:13:15 +0000</pubDate>
-      
-      <guid>/posts/2011-01-10-b/</guid>
-      <description>What&amp;rsquo;s the current impact of piracy on the book publishing industry?
-Brian O&amp;rsquo;Leary: We don&amp;rsquo;t know. Some people will tell you that it&amp;rsquo;s the biggest problem facing publishing or that ebook piracy will kill publishing. None of those perspectives are informed by solid data.
- via radar.oreilly.com
-Текст, в сущности, всё о том же: почти никто не изучал, как в реальности пиратство влияет на продажи. Тот факт, что книгу скачали бесплатно столько-то раз, ещё не означает, что продавец потерял столько-то денег.</description>
+      <guid>//localhost:1313/posts/2011-01-10-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;What&amp;rsquo;s the current impact of piracy on the book publishing industry?&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.toccon.com/toc2011/public/schedule/speaker/5146?cmp=il-radar-tc11-oleary-piracy&#34;&gt;&lt;img src=&#34;http://assets.en.oreilly.com/1/eventprovider/1/_@user_5146.jpg&#34; alt=&#34;Brian O&amp;rsquo;Leary&#34;&gt;&lt;/a&gt;&lt;strong&gt;Brian O&amp;rsquo;Leary:&lt;/strong&gt; We don&amp;rsquo;t know. Some people will tell you that it&amp;rsquo;s the biggest problem facing publishing or that ebook piracy will kill publishing. None of those perspectives are informed by solid data.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://radar.oreilly.com/2011/01/book-piracy-drm-data.html&#34;&gt;radar.oreilly.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Текст, в сущности, всё о том же: почти никто не изучал, как в реальности пиратство влияет на продажи. Тот факт, что книгу скачали бесплатно столько-то раз, ещё не означает, что продавец потерял столько-то денег. Борцам с пиратами стоило бы организовать настоящее исследование. А то сколько уж можно морочить всем голову.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>К вопросу о влиянии пиратства на продажи книг</title>
-      <link>/posts/2010-10-23-85/</link>
+      <link>//localhost:1313/posts/2010-10-23-85/</link>
       <pubDate>Sat, 23 Oct 2010 21:36:25 +0000</pubDate>
-      
-      <guid>/posts/2010-10-23-85/</guid>
-      <description>via torrentfreak.com</description>
+      <guid>//localhost:1313/posts/2010-10-23-85/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://torrentfreak.com/book-piracy-can-boost-book-sales-tremendously101023/&#34;&gt;torrentfreak.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Пират у пирата украл контрафакт</title>
-      <link>/posts/2010-08-31-147/</link>
+      <link>//localhost:1313/posts/2010-08-31-147/</link>
       <pubDate>Tue, 31 Aug 2010 13:01:08 +0000</pubDate>
-      
-      <guid>/posts/2010-08-31-147/</guid>
-      <description>Новость № 1: Облава на пиратов на Горбушке и Горбушкином дворе.
-Новость № 2. Депутат Московской городской думы от ЕдРа Александр Милявский призвал штрафовать за скачивание контента и даже за заход на «запрещённые» сайты.
-Вроде бы айяяй, опять зажимают. Если бы не одно «но». Семейство Милявского, если верить Коммерсанту-Ъ, Горбушкиным двором, собственно, и владеет. И тога картинка становится другой. Кто страшнее для продавца контрафактных говнодисков, чем распространители интернет-контрафакта? Никто (новость № 2).</description>
+      <guid>//localhost:1313/posts/2010-08-31-147/</guid>
+      <description>&lt;p&gt;Новость № 1: &lt;a href=&#34;http://www.gazeta.ru/business/2010/08/26/3411493.shtml&#34;&gt;Облава на пиратов на Горбушке и Горбушкином дворе&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Новость № 2. Депутат Московской городской думы от ЕдРа Александр Милявский &lt;a href=&#34;http://www.computerra.ru/vision/558489&#34;&gt;призвал&lt;/a&gt; штрафовать за скачивание контента и даже за заход на «запрещённые» сайты.&lt;/p&gt;&#xA;&lt;p&gt;Вроде бы айяяй, опять зажимают. Если бы не одно «но». Семейство Милявского, если верить Коммерсанту-Ъ, Горбушкиным двором, собственно, и &lt;a href=&#34;http://www.kommersant.ru/doc.aspx?DocsID=774583&#34;&gt;владеет&lt;/a&gt;. И тога картинка становится другой. Кто страшнее для продавца контрафактных говнодисков, чем распространители интернет-контрафакта? Никто (новость № 2). Тем более — не правоохранители, которые иногда делают вид, что с чем=-то там сражаются (новость № 1).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Коалиция против электронных библиотек</title>
-      <link>/posts/2010-04-18-97/</link>
+      <link>//localhost:1313/posts/2010-04-18-97/</link>
       <pubDate>Sun, 18 Apr 2010 15:47:14 +0000</pubDate>
-      
-      <guid>/posts/2010-04-18-97/</guid>
-      <description>Алексей Кузьмин, совладелец электронной библиотеки «ЛитРес»
-Необходимо создать центр регистрации электронных книг. Ведь все, что попадает в Интернет, быстро рассасывается по пиратским сайтам. Что, естественно, нарушает права авторов, многие из которых рассчитывают реализовывать книги именно через Сеть.
- via pro-books.ru
-Особенно слышать такие слова от организатора сайта litportal.ru, на котором без всяких договоров с правообладателями выложены книги. Вместе с рекламой, естественно. Будет ли такой &amp;ldquo;центр регистрации электронных книг&amp;rdquo; отслеживать litportal.</description>
+      <guid>//localhost:1313/posts/2010-04-18-97/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Алексей Кузьмин, совладелец электронной библиотеки «ЛитРес»&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Необходимо создать центр регистрации электронных книг. Ведь все, что попадает в Интернет, быстро рассасывается по пиратским сайтам. Что, естественно, нарушает права авторов, многие из которых рассчитывают реализовывать книги именно через Сеть.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://pro-books.ru/node/4180&#34;&gt;pro-books.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Особенно слышать такие слова от организатора сайта litportal.ru, на котором без всяких договоров с правообладателями выложены книги. Вместе с рекламой, естественно. Будет ли такой &amp;ldquo;центр регистрации электронных книг&amp;rdquo; отслеживать litportal.ru? Или, как у Жванецкого, &amp;ldquo;кто охраняет, тот и имеет&amp;rdquo;?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Правительство США признало, что &#34;пиратство&#34; - это страшилка</title>
-      <link>/posts/2010-04-16-159/</link>
+      <link>//localhost:1313/posts/2010-04-16-159/</link>
       <pubDate>Fri, 16 Apr 2010 19:56:29 +0000</pubDate>
-      
-      <guid>/posts/2010-04-16-159/</guid>
-      <description>None of this is to say that piracy and counterfeiting aren&amp;rsquo;t real problems. The GAO accepts that the problem is &amp;ldquo;sizeable,&amp;rdquo; but it also points out just how much bad data is used to produce these studies. Actual dollar figures and job loss numbers should be handled with extreme care and a good bit of skepticism; the GAO also noted that numerous experts told it that &amp;ldquo;there were positive effects [from piracy on the economy] and they should be assessed as well.</description>
+      <guid>//localhost:1313/posts/2010-04-16-159/</guid>
+      <description>&lt;p&gt;None of this is to say that piracy and counterfeiting aren&amp;rsquo;t real problems. The GAO accepts that the problem is &amp;ldquo;sizeable,&amp;rdquo; but it also points out just how much bad data is used to produce these studies. Actual dollar figures and job loss numbers should be handled with extreme care and a good bit of skepticism; the GAO also noted that numerous experts told it that &amp;ldquo;there were positive effects [from piracy on the economy] and they should be assessed as well.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Александр Генис об электронной книге</title>
-      <link>/posts/2010-04-16-11/</link>
+      <link>//localhost:1313/posts/2010-04-16-11/</link>
       <pubDate>Fri, 16 Apr 2010 19:55:01 +0000</pubDate>
-      
-      <guid>/posts/2010-04-16-11/</guid>
-      <description>Хотя я и сам страдаю от пиратских перепечаток, все-таки не могу не сказать: высшая награда автору состоит в том, что его интеллектуальная собственность подлежит экспроприации, обобществлению. И мне представляется справедливым, что все высшие наслаждения: любовь, семья, творчество, природа, интеллектуальные радости — бесплатны…
- via instapaper.com
-Он знает, что пишет об уходе бумажной книги.
-Потому что уже однажды пережил смерть своей профессии — метранпажа.</description>
+      <guid>//localhost:1313/posts/2010-04-16-11/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Хотя я и сам страдаю от пиратских перепечаток, все-таки не могу не сказать: высшая награда автору состоит в том, что его интеллектуальная собственность подлежит экспроприации, обобществлению. И мне представляется справедливым, что все высшие наслаждения: любовь, семья, творчество, природа, интеллектуальные радости — бесплатны…&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.instapaper.com/text?u=http%3A%2F%2Fwww.netslova.ru%2Fteoriya%2Fgenis.html&#34;&gt;instapaper.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Он знает, что пишет об уходе бумажной книги.&lt;br&gt;&#xA;Потому что уже однажды пережил смерть своей профессии — метранпажа.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Краткосрочное влияние &#34;пиратства&#34; на продажи</title>
-      <link>/posts/2010-03-05-104/</link>
+      <link>//localhost:1313/posts/2010-03-05-104/</link>
       <pubDate>Fri, 05 Mar 2010 08:32:02 +0000</pubDate>
-      
-      <guid>/posts/2010-03-05-104/</guid>
-      <description>Increasingly, authors and publishers are freely distributing their books electronically to increase the visibility of their work. A vital question for those with a commercial stake in selling books is, “What happens to book sales if digital versions are given away?” We used BookScan sales data for four categories of books (a total of 41 books) for which we could identify the date when the free digital versions of the books were made available to determine whether the free version affected print sales.</description>
+      <guid>//localhost:1313/posts/2010-03-05-104/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Increasingly, authors and publishers are freely distributing their books electronically to increase the visibility of their work. A vital question for those with a commercial stake in selling books is, “What happens to book sales if digital versions are given away?” We used BookScan sales data for four categories of books (a total of 41 books) for which we could identify the date when the free digital versions of the books were made available to determine whether the free version affected print sales. We analyzed the data on book sales for the eight weeks before and after the free versions were available. Three of the four categories of books had increased sales after the free books were distributed. We discuss the implications and limitations of these results.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>&#34;Деньги&#34; об электронных книгах с гнутыми двумя копейками</title>
-      <link>/posts/2009-12-22-39/</link>
+      <link>//localhost:1313/posts/2009-12-22-39/</link>
       <pubDate>Tue, 22 Dec 2009 00:02:32 +0000</pubDate>
-      
-      <guid>/posts/2009-12-22-39/</guid>
-      <description>Запас пиратов в шесть раз больше, чем предложение крупнейшего электронного магазина,— говорит Владимир Харитонов.— Мне кажется, что эти цифры указывают не столько на то, что &amp;ldquo;а, все спиратили!&amp;rdquo;, а на то, что издатели сами лишают себя возможности заработать. Издателям вместе с авторами, в общем, никто не мешает продавать все то, что скачивается у пиратов. По большом счету морального права бороться с пиратами у издателей нет, пока они не предложили купить те книги, которые пираты распространяют бесплатно&amp;quot;.</description>
+      <guid>//localhost:1313/posts/2009-12-22-39/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Запас пиратов в шесть раз больше, чем предложение крупнейшего электронного магазина,— говорит Владимир Харитонов.— Мне кажется, что эти цифры указывают не столько на то, что &amp;ldquo;а, все спиратили!&amp;rdquo;, а на то, что издатели сами лишают себя возможности заработать. Издателям вместе с авторами, в общем, никто не мешает продавать все то, что скачивается у пиратов. По большом счету морального права бороться с пиратами у издателей нет, пока они не предложили купить те книги, которые пираты распространяют бесплатно&amp;quot;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Отличный текст Кори Доктороу о настоящих пиратах</title>
-      <link>/posts/2009-12-18-113/</link>
+      <link>//localhost:1313/posts/2009-12-18-113/</link>
       <pubDate>Fri, 18 Dec 2009 00:05:50 +0000</pubDate>
-      
-      <guid>/posts/2009-12-18-113/</guid>
-      <description>These pirates would destroy copyright, and they have no respect for our property. They dress up their thievery in high-minded rhetoric about how they are the true defenders and inheritors of creativity, and they have sold this claim around the world to regulators and lawmakers alike. There are members of Parliament and Congress-people who are unduly influenced by them. They say they’re only trying to preserve the way it’s always been.</description>
+      <guid>//localhost:1313/posts/2009-12-18-113/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;These pirates would destroy copyright, and they have no respect for our property. They dress up their thievery in high-minded rhetoric about how they are the true defenders and inheritors of creativity, and they have sold this claim around the world to regulators and lawmakers alike. There are members of Parliament and Congress-people who are unduly influenced by them. They say they’re only trying to preserve the way it’s always been. They claim that their radical agenda is somehow conservative. But what they really see is a future in which the electronic culture market grows by leaps and bounds and they get to be at the centre of it. They claim that this is about ethics, but anyone who thinks about it for a minute can see that it’s about profit.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Иногда надо доказывать и очевидное</title>
-      <link>/posts/2009-10-24-70/</link>
+      <link>//localhost:1313/posts/2009-10-24-70/</link>
       <pubDate>Sat, 24 Oct 2009 14:04:07 +0000</pubDate>
-      
-      <guid>/posts/2009-10-24-70/</guid>
-      <description>French survey: 95 percent of pirated e-books are NOT online in legal editions | TeleRead: Bring the E-Books Home
- Ninety-five percent of the pirated e-books discovered—perhaps 6,000 or so—are not online in authorized editions. Granted, this isn’t proven cause-effect; the above percentage could simply reflect the slowness of French publishers in getting their wares online. Just eight percent of the top 50 bestsellers in France are legally buyable in E.</description>
+      <guid>//localhost:1313/posts/2009-10-24-70/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.teleread.org/2009/10/21/french-survey-95-percent-of-pirated-e-books-are-not-online-legally/&#34;&gt;French survey: 95 percent of pirated e-books are NOT online in legal editions | TeleRead: Bring the E-Books Home&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Ninety-five percent of the pirated e-books discovered—perhaps 6,000 or so—are not online in authorized editions. Granted, this isn’t proven cause-effect; the above percentage could simply reflect the slowness of French publishers in getting their wares online. Just eight percent of the top 50 bestsellers in France are legally buyable in E. Cause-effect or not, I hope that French houses will still consider the wisdom of using attractive legal editions to preempt the pirated ones. Same for American publishers who fantasize that they can delay e-book editions in hopes of spiking up p-book sales. Readers will seek out the material when they want it and in the formats they want. Harry Potter books, not legally available in E, are among the favorite illegal titles in P2P. While the numbers are small compared to French publishers’ total output, you can bet the number will grow, as the price of e-book readers declines and the technology improves.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Новость, однако</title>
-      <link>/posts/2009-09-09-90/</link>
+      <link>//localhost:1313/posts/2009-09-09-90/</link>
       <pubDate>Wed, 09 Sep 2009 10:23:51 +0000</pubDate>
-      
-      <guid>/posts/2009-09-09-90/</guid>
-      <description>ru_iphone: Несколько приложений на моём iPhone
- Сначала на lib.rus.ec находите интересующую Вас книгу. Например, &amp;ldquo;Священная книга оборотня&amp;rdquo; Пелевина доступна здесь http://lib.rus.ec/b/42092/. Потом в программе на iPhone указываете, что скачать ее нужно с адреса http://lib.rus.ec/b/42092/epub (к линку на книгу добавляется epub).
- Оказывается, Либрусек тишком сделал конвертацию в epub. Попробовал для других книг - то же самое. Фантастика. Пользователям Sony Reader теперь не нужно мучиться с конвертацией из fb2. Странно, что Либрусек просто линк не даёт.</description>
+      <guid>//localhost:1313/posts/2009-09-09-90/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://community.livejournal.com/ru_iphone/1973802.html&#34;&gt;ru_iphone: Несколько приложений на моём iPhone&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Сначала на lib.rus.ec находите интересующую Вас книгу. Например, &amp;ldquo;Священная книга оборотня&amp;rdquo; Пелевина доступна здесь &lt;a href=&#34;http://lib.rus.ec/b/42092/&#34;&gt;http://lib.rus.ec/b/42092/&lt;/a&gt;. Потом в программе на iPhone указываете, что скачать ее нужно с адреса &lt;a href=&#34;http://lib.rus.ec/b/42092/epub&#34;&gt;http://lib.rus.ec/b/42092/epub&lt;/a&gt; (к линку на книгу добавляется epub).&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Оказывается, Либрусек тишком сделал конвертацию в epub. Попробовал для других книг - то же самое. Фантастика. Пользователям Sony Reader теперь не нужно мучиться с конвертацией из fb2. Странно, что Либрусек просто линк не даёт.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Что-то, видимо, я не понял</title>
-      <link>/posts/2009-08-30-91/</link>
+      <link>//localhost:1313/posts/2009-08-30-91/</link>
       <pubDate>Sun, 30 Aug 2009 19:31:31 +0000</pubDate>
-      
-      <guid>/posts/2009-08-30-91/</guid>
-      <description>lit.rus.ec</description>
+      <guid>//localhost:1313/posts/2009-08-30-91/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://lit.rus.ec/&#34;&gt;lit.rus.ec&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Письмо издателей президенту</title>
-      <link>/posts/2008-09-10-36/</link>
+      <link>//localhost:1313/posts/2008-09-10-36/</link>
       <pubDate>Wed, 10 Sep 2008 07:20:27 +0000</pubDate>
-      
-      <guid>/posts/2008-09-10-36/</guid>
-      <description>za_lib_ru: &amp;ldquo;Донос на гетмана злодея Царю Петру от Кочубея&amp;rdquo; ©&amp;quot;&amp;hellip;превращение электронных библиотек по сути в пиратские файлообменные сети&amp;quot;. Дичь какая. Текст явно писали заранее запаниковавшие издатели, обдурившие голову писателям и палец о палец не ударившие, чтобы наладить поиск по изданным ими книжкам и организовать нормальную электронную книготорговлю.</description>
+      <guid>//localhost:1313/posts/2008-09-10-36/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://community.livejournal.com/za_lib_ru/171623.html&#34;&gt;za_lib_ru: &amp;ldquo;Донос на гетмана злодея Царю Петру от Кочубея&amp;rdquo; ©&lt;/a&gt;&amp;quot;&amp;hellip;превращение электронных библиотек по сути в пиратские файлообменные сети&amp;quot;. Дичь какая. Текст явно писали заранее запаниковавшие издатели, обдурившие голову писателям и палец о палец не ударившие, чтобы наладить поиск по изданным ими книжкам и организовать нормальную электронную книготорговлю.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Как быстро растут книгохранилища</title>
-      <link>/posts/2008-07-20-a/</link>
+      <link>//localhost:1313/posts/2008-07-20-a/</link>
       <pubDate>Sun, 20 Jul 2008 16:47:56 +0000</pubDate>
-      
-      <guid>/posts/2008-07-20-a/</guid>
-      <description>Пора подвести итоги небольшого полевого исследования. Имеем: Google Reader с RSS-лентами трех достаточно популярных и активно наполняемых книгохранилищ (lib.rus.ec, litres.ru, infanata.org).
-Посмотрим, с какой скоростью будет на ограниченном (скромными средствами rss-агрегатора, которые не может отражать точные цифры записей, более 1000) временном интервале происходит наполнение этих сайтов электронными книгами.  За период с 8–го по 19-е июля 2008 года количество книг на сайте lib.rus.ec увеличилось на 994 книги (примерно по 72 книги в день), в магазине litres.</description>
+      <guid>//localhost:1313/posts/2008-07-20-a/</guid>
+      <description>&lt;p&gt;Пора подвести итоги небольшого полевого исследования. Имеем: Google Reader с RSS-лентами трех достаточно популярных и активно наполняемых книгохранилищ (&lt;a href=&#34;http://lib.rus.ec&#34;&gt;lib.rus.ec&lt;/a&gt;, &lt;a href=&#34;http://litres.ru&#34;&gt;litres.ru&lt;/a&gt;, &lt;a href=&#34;http://infanata.org&#34;&gt;infanata.org&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;p&gt;Посмотрим, с какой скоростью будет на ограниченном (скромными средствами rss-агрегатора, которые не может отражать точные цифры записей, более 1000) временном интервале происходит наполнение этих сайтов электронными книгами. &lt;a href=&#34;http://www.digital-books.ru/wp-content/uploads/chart.png&#34;&gt;&lt;img src=&#34;http://www.digital-books.ru/wp-content/uploads/chart.png&#34; alt=&#34;&#34; title=&#34;chart&#34;&gt;&lt;/a&gt; За период с 8–го по 19-е июля 2008 года количество книг на сайте lib.rus.ec увеличилось на 994 книги (примерно по 72 книги в день), в магазине litres.ru — на 572 книги (ежедневно примерно на 42 книги), на форуме infanata.org — на 337 книг (примерно на 24 книги в день). &lt;a href=&#34;http://sethgodin.typepad.com/seths_blog/2008/07/the-long-tail-t.html&#34;&gt;&lt;img src=&#34;http://www.kk.org/thetechnium/profitpockets583_2.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

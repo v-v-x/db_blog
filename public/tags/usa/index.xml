@@ -2,806 +2,550 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>USA on Новости электронного книгоиздания</title>
-    <link>/tags/usa/</link>
+    <link>//localhost:1313/tags/usa/</link>
     <description>Recent content in USA on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 10 Jan 2020 11:59:33 +0300</lastBuildDate><atom:link href="/tags/usa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jan 2020 11:59:33 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/usa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Прогнозы на десятилетие</title>
-      <link>/posts/2020-01-10-1/</link>
+      <link>//localhost:1313/posts/2020-01-10-1/</link>
       <pubDate>Fri, 10 Jan 2020 11:59:33 +0300</pubDate>
-      
-      <guid>/posts/2020-01-10-1/</guid>
-      <description>Самые интересные тексты с итогами и прогнозами по книжной индустрии, в отличие от желания СМИ, появляются не до, а после наступления нового года.
-Вот, например, статья в Forbes о том, почему и как в грядущем десятилетии модель подписки на цифровые книги победит розничную. (Спойлер—потому что владельцы издательств сдадутся из-за невысокого или вообще нулевого роста продаж в расчёте на дополнительную прибыль. А также может придти какой-нибудь крупный игрок.)
-Или статья мудрейшего Майка Шацкина, в которой он довольно внятно описывает нынешнюю ситуацию на рынке США с его гиперразвитым принт-он-демандом и потенциально неограниченным доступом к ассортименту, многократно превышающему актуальное производство книг (примерно 18 млн против 300 тыс.</description>
+      <guid>//localhost:1313/posts/2020-01-10-1/</guid>
+      <description>&lt;p&gt;Самые интересные тексты с итогами и прогнозами по книжной индустрии, в отличие от желания СМИ, появляются не до, а после наступления нового года.&lt;/p&gt;&#xA;&lt;p&gt;Вот, например, &lt;a href=&#34;https://www.forbes.com/sites/billrosenblatt/2020/01/03/why-ebook-subscription-services-will-finally-succeed-in-the-coming-decade/#69596f1b5dba&#34;&gt;статья в Forbes&lt;/a&gt; о том, почему и как в грядущем десятилетии модель подписки на цифровые книги победит розничную. (Спойлер—потому что владельцы издательств сдадутся из-за невысокого или вообще нулевого роста продаж в расчёте на дополнительную прибыль. А также может придти какой-нибудь крупный игрок.)&lt;/p&gt;&#xA;&lt;p&gt;Или &lt;a href=&#34;https://www.idealog.com/blog/2020-zero-year-thoughts-about-the-changes-in-book-publishing/&#34;&gt;статья мудрейшего Майка Шацкина&lt;/a&gt;, в которой он довольно внятно описывает нынешнюю ситуацию на рынке США с его гиперразвитым принт-он-демандом и потенциально неограниченным доступом к ассортименту, многократно превышающему актуальное производство книг (примерно 18 млн против 300 тыс.). С одной стороны, это снижает издержки издателей и позволяет зарабатывать даже на малых тиражах, но, с другой стороны, приводит к сокращению ассортимента у крупных издателей, концентрации на бестселлерах и скупке бэклистов, которые уже дают почти бесплатный доход (аудиокниги).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Типографский дисбаланс</title>
-      <link>/posts/2018-12-24-b/</link>
+      <link>//localhost:1313/posts/2018-12-24-b/</link>
       <pubDate>Mon, 24 Dec 2018 17:08:32 +0000</pubDate>
-      
-      <guid>/posts/2018-12-24-b/</guid>
-      <description>Жаль, не попалась мне эта история до написания всяких обзор книжных индустриальных событий этого года. История крайне примечательная: в США типографии, сократившие свои мощности, закупки бумагу и рабочую силу, не справляются с печатью нескольких последних бестселлеров этого года. В частности, книгу Мишель Обамы продали уже 3 800 000 экз. В результате сдвигаются допечатки и тиражи других книг. В выигрыше, конечно, останутся независимые книжные, у которых и так рост продаж в этом году на 5%.</description>
+      <guid>//localhost:1313/posts/2018-12-24-b/</guid>
+      <description>&lt;p&gt;Жаль, не попалась мне &lt;a href=&#34;https://www.nytimes.com/2018/12/23/books/paper-printers-holiday-sales-books-publishers.html&#34;&gt;эта история&lt;/a&gt; до написания всяких обзор книжных индустриальных событий этого года. История крайне примечательная: &lt;strong&gt;в США типографии&lt;/strong&gt;, сократившие свои мощности, закупки бумагу и рабочую силу, &lt;strong&gt;не справляются с печатью нескольких последних бестселлеров этого года&lt;/strong&gt;. В частности, книгу Мишель Обамы продали уже 3 800 000 экз. В результате сдвигаются допечатки и тиражи других книг. В выигрыше, конечно, останутся независимые книжные, у которых и так рост продаж в этом году на 5%. Вроде бы надо радоваться за американских издателей и читателей. Но что-то тут не так. Не бывает такого эффекта без существенного внутреннего перекоса. Это ведь те самые долгожданные бестселлеры, которых так ждали большие издатели ещё в прошлом году, и которые тогда не пришли. И вот бестселлеры тут, спрос есть, но типографии не могут. Как же так, собственно? А кто нам рассказывал несколько лет, что у них «ренессанс бумаги»? Какой может быть «ренессанс бумаги», если одни крупные типографии закрываются, а другие сливаются, чтобы не разориться? Не исключено, конечно, что опять подгадил интернет, и типографии тяжко страдают не от спада книжного производства, а от постепенно исчезающей печати газет и журналов, и такая история с книгами — просто коллатеральный ущерб. Может быть. Но, в таком случае, получается, что на одних книгах типографиям не прожить и такая ерунда с тиражами будет продолжаться. Очень интересно. Вон он какой, «ренессанс бумаги».&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cengage — подписка на учебники</title>
-      <link>/posts/2017-12-08-a/</link>
+      <link>//localhost:1313/posts/2017-12-08-a/</link>
       <pubDate>Fri, 08 Dec 2017 09:42:32 +0000</pubDate>
-      
-      <guid>/posts/2017-12-08-a/</guid>
-      <description>Интересные дела. Американско-канадское издательство Cengage завело подписной сервис Sengage Unlimited со всем своим каталогом учебников для колледжей и вузов по 70 дисциплинам и для 675 учебных. Абонентская плата — за $120 за семестр, $180 за год и $240 за два года. Учитывая, что средняя цена учебника в США 100–150 долларов, предложение для пользователей интересное. Доступ к учебникам явно актуальнее для учащихся, чем их покупка. Другое дело, что в самом процессе обучения учебные материалы всё больше и больше смещаются от статичного знания к обновляющемуся, а что касается учебников, то на рынок начинает оказывать воздействие появление открытых и бесплатных учебников.</description>
+      <guid>//localhost:1313/posts/2017-12-08-a/</guid>
+      <description>&lt;p&gt;Интересные дела. Американско-канадское издательство Cengage завело подписной сервис &lt;a href=&#34;https://www.cengage.com/unlimited&#34;&gt;Sengage Unlimited&lt;/a&gt; со всем своим каталогом учебников для колледжей и вузов по 70 дисциплинам и для 675 учебных. Абонентская плата — за $120 за семестр, $180 за год и $240 за два года. Учитывая, что средняя цена учебника в США 100–150 долларов, предложение для пользователей интересное. Доступ к учебникам явно актуальнее для учащихся, чем их покупка. Другое дело, что в самом процессе обучения учебные материалы всё больше и больше смещаются от статичного знания к обновляющемуся, а что касается учебников, то на рынок начинает оказывать воздействие появление открытых и бесплатных учебников. Cengage — гигант североамериканского рынка учебников. 14 место в мировом рейтинге издательств, годовой оборот примерно в $1,7 млрд. Как минимум, 2 тысячи колледжей и вузов в преподавании используют учебники этого издательства.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Американские издатели тоже отчитались за 2016 год</title>
-      <link>/posts/2017-06-16-a/</link>
+      <link>//localhost:1313/posts/2017-06-16-a/</link>
       <pubDate>Fri, 16 Jun 2017 10:11:12 +0000</pubDate>
-      
-      <guid>/posts/2017-06-16-a/</guid>
-      <description>Всё не слишком хорошо у самых больших американских издателей (Ассоциация американских издателей приводит данные продаж 1200 издателей, а их в США несколько тысяч). Ну, как, не очень: розничные продажи –0,2% к 2015 году, что терпимо, а общие продажи –6,6% по сравнению с 2015-м. Особенно плохо чувствует себя учебная и профессиональная литература (–9% для школьников, –13,4% для ВУЗов, –20,8% вся профессиональная литература, и –2,5% у университетов, что даже неплохо). В рознице снижаются продажи взрослой литературы (–2,3%).</description>
+      <guid>//localhost:1313/posts/2017-06-16-a/</guid>
+      <description>&lt;p&gt;Всё не слишком хорошо у самых больших американских издателей (Ассоциация американских издателей приводит данные продаж 1200 издателей, а их в США несколько тысяч). Ну, как, не очень: розничные продажи –0,2% к 2015 году, что терпимо, а общие продажи –6,6% по сравнению с 2015-м. Особенно плохо чувствует себя учебная и профессиональная литература (–9% для школьников, –13,4% для ВУЗов, –20,8% вся профессиональная литература, и –2,5% у университетов, что даже неплохо). В рознице снижаются продажи взрослой литературы (–2,3%). А это, на минутку, 2/3 всей розницы. И снижаются продажи электронных книг (–15,6%). А вот аудиокниги продолжают расти (+25,8%).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Никакой «усталости от цифры»</title>
-      <link>/posts/2017-01-23-a/</link>
+      <link>//localhost:1313/posts/2017-01-23-a/</link>
       <pubDate>Mon, 23 Jan 2017 15:02:09 +0000</pubDate>
-      
-      <guid>/posts/2017-01-23-a/</guid>
-      <description>В Нью-Йорке на конференции Digital Books World, как и в прошлом году, выступил эксперт под псевдонимом Data Guy, который никак не хочет раскрывать своего имени и делает отчеты для authorearnings.com, смело оценивая неучитываемые обычными инструментами продажи книг на Amazon (Amazon никому ничего не рассказывает, только показывает относительные рейтинги книг).
-Выступая на конференции в этом году, Data Guy сформулировал своё объяснение того, откуда взялся рост продаж книг в США на 3,3% в прошлом году.</description>
+      <guid>//localhost:1313/posts/2017-01-23-a/</guid>
+      <description>&lt;p&gt;В Нью-Йорке на конференции Digital Books World, как и в прошлом году, выступил эксперт под псевдонимом Data Guy, который никак не хочет раскрывать своего имени и делает отчеты для &lt;a href=&#34;http://authorearnings.com&#34;&gt;authorearnings.com&lt;/a&gt;, смело оценивая неучитываемые обычными инструментами продажи книг на Amazon (Amazon никому ничего не рассказывает, только показывает относительные рейтинги книг).&lt;/p&gt;&#xA;&lt;p&gt;Выступая на конференции в этом году, Data Guy сформулировал своё объяснение того, откуда взялся рост продаж книг в США на 3,3% в прошлом году. Дело, говорит, не от «разочарования в цифре», а просто в том, что Amazon, перестав дисконтировать цены на электронные книги (по требованию издателей), стал играть с ценами на бумажные. Цены летом снизил — люди стали покупать больше, осень повысил — стали покупать меньше. 2/3 обычной художки в США продаётся онлайн, так что Amazon управляет рынком. Себе на пользу. Случайно получилось — и бумажным книгам на благо. Ну, и читателям.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Никакого спада чтения в Америке нет (Gallup)</title>
-      <link>/posts/2017-01-12-a/</link>
+      <link>//localhost:1313/posts/2017-01-12-a/</link>
       <pubDate>Thu, 12 Jan 2017 14:03:25 +0000</pubDate>
-      
-      <guid>/posts/2017-01-12-a/</guid>
-      <description>Старый добрый Gallup проснулся и впервые за 14 лет спросил у американцев о том, сколько книг они читают. И внезапно выяснил, что слухи о снижении чтения сильно преувеличены. Более того, пенсионеры стали читать даже существенно больше. Во всяком случае, данные лонгитюдного мониторинга Gallup отличаются от ежегодных опросов Pew Research. Что, конечно, напрягает, но вселяет надежду.
-Возможно, это объясняется разными методиками проведения опросов. У Gallup и выборка меньше. Gallup, кстати, спросил и о том, книги в какой форме американцы предпочитают читать.</description>
+      <guid>//localhost:1313/posts/2017-01-12-a/</guid>
+      <description>&lt;p&gt;Старый добрый Gallup проснулся и впервые за 14 лет спросил у американцев о том, сколько книг они читают. И внезапно &lt;a href=&#34;http://www.gallup.com/poll/201644/rumors-demise-books-greatly-exaggerated.aspx&#34;&gt;выяснил&lt;/a&gt;, что слухи о снижении чтения сильно преувеличены. Более того, пенсионеры стали читать даже существенно больше. Во всяком случае, данные лонгитюдного мониторинга Gallup отличаются от ежегодных опросов Pew Research. Что, конечно, напрягает, но вселяет надежду.&lt;/p&gt;&#xA;&lt;p&gt;Возможно, это объясняется разными методиками проведения опросов. У Gallup и выборка меньше. Gallup, кстати, спросил и о том, книги в какой форме американцы предпочитают читать. 73% ответили, что бумажные книги, 16% — электронные, 6% — аудиокниги.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Электронные книги в американских научных библиотеках</title>
-      <link>/posts/2016-09-30-a/</link>
+      <link>//localhost:1313/posts/2016-09-30-a/</link>
       <pubDate>Fri, 30 Sep 2016 14:40:11 +0000</pubDate>
-      
-      <guid>/posts/2016-09-30-a/</guid>
-      <description>Вышел отчет Library Journal по материалам исследования использования электронных книг в американских научных и университетских библиотеках в 2015 году (в ср. с данными 2012 года).
-Результаты тем более примечательные, что на похожее исследование 2014-го года ссылается автор хорошей статьи в «Секрете фирмы» о том, что бумага жива. В ней, частности, речь идёт о том, что бумага жива за счет детской и учебной литературы. Год прошёл, а результаты уже другие.
-По результатам опроса HP в 2014 году 57% учащихся хотели бумагу, и только 21% — электронные учебники.</description>
+      <guid>//localhost:1313/posts/2016-09-30-a/</guid>
+      <description>&lt;p&gt;Вышел &lt;a href=&#34;https://s3.amazonaws.com/WebVault/research/LJ_2016_EbookUsage_AcademicLibraries.pdf&#34;&gt;отчет Library Journal&lt;/a&gt; по материалам исследования использования электронных книг в американских научных и университетских библиотеках в 2015 году (в ср. с данными 2012 года).&lt;/p&gt;&#xA;&lt;p&gt;Результаты тем более примечательные, что на &lt;a href=&#34;http://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/63225-college-students-prefer-a-mix-of-print-and-digital-textbooks.html&#34;&gt;похожее исследование 2014-го года&lt;/a&gt; ссылается автор хорошей &lt;a href=&#34;http://secretmag.ru/longread/2016/09/26/books/&#34;&gt;статьи&lt;/a&gt; в «Секрете фирмы» о том, что бумага жива. В ней, частности, речь идёт о том, что бумага жива за счет детской и учебной литературы. Год прошёл, а результаты уже другие.&lt;/p&gt;&#xA;&lt;p&gt;По результатам опроса HP в 2014 году 57% учащихся хотели бумагу, и только 21% — электронные учебники. В 2015 году библиотекари говорят, что за бумажные учебники 42% студентов, а электронные учебники предпочитают 31% учащихся—посетителей библиотек. При этом монографии в бумажном виде хотят читать 47%, в электронном — 19%. А со справочниками примерно то же, что и в мире за стенами библиотек: 16% vs. 56% в пользу электронных справочников. И много чего ещё любопытного. Если лень читать 100-страничный отчёт — есть &lt;a href=&#34;http://lj.libraryjournal.com/2016/09/technology/ebooks/academic-ebook-sales-flat-preference-for-e-reference-up/&#34;&gt;краткое резюме&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Американка в библиотеке</title>
-      <link>/posts/2016-09-13-a/</link>
+      <link>//localhost:1313/posts/2016-09-13-a/</link>
       <pubDate>Tue, 13 Sep 2016 20:03:27 +0000</pubDate>
-      
-      <guid>/posts/2016-09-13-a/</guid>
-      <description>По данным PewResearch, 48% опрошенных институтом американцев страше 16 лет были в библиотеке хотя бы раз за прошедший год. Среди американок — 57%. Интересно, как в России?</description>
+      <guid>//localhost:1313/posts/2016-09-13-a/</guid>
+      <description>&lt;p&gt;По &lt;a href=&#34;http://www.pewinternet.org/2016/09/09/libraries-2016/&#34;&gt;данным&lt;/a&gt; PewResearch, 48% опрошенных институтом американцев страше 16 лет были в библиотеке хотя бы раз за прошедший год. Среди американок — 57%. Интересно, как в России?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Американский самиздат в цифрах, 2010–2015</title>
-      <link>/posts/2016-09-13-b/</link>
+      <link>//localhost:1313/posts/2016-09-13-b/</link>
       <pubDate>Tue, 13 Sep 2016 08:56:52 +0000</pubDate>
-      
-      <guid>/posts/2016-09-13-b/</guid>
-      <description>Агентство Bowker, занимающееся в США выдачей ISBN, опубликовало отчет с данными о количестве присвоенных в 2010–2015 гг. книжных номеров самиздатовским книгам. Если коротко:
- количество самиздатовских ISBN выросло с 2010 по 2015 гг. на 375% (с 153 тыс. до 727 тыс. ISBN); рост в 2014–2015 гг. составил 21%, но при этом рост для печатных книг составил 34%, а вот количество выданных ISBN для электронных книг сократилась на 19%; подавляющее количество ISBN для самиздата было продано через компании–посредники, на совсем маленьких издателей и самих авторов приходится только 7%; главные монстры в 2015 г.</description>
+      <guid>//localhost:1313/posts/2016-09-13-b/</guid>
+      <description>&lt;p&gt;Агентство Bowker, занимающееся в США выдачей ISBN, опубликовало &lt;a href=&#34;http://media.bowker.com/documents/bowker-selfpublishing-report2015.pdf&#34;&gt;отчет&lt;/a&gt; с данными о количестве присвоенных в 2010–2015 гг. книжных номеров самиздатовским книгам. Если коротко:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;количество самиздатовских ISBN выросло с 2010 по 2015 гг. на 375% (с 153 тыс. до 727 тыс. ISBN);&lt;/li&gt;&#xA;&lt;li&gt;рост в 2014–2015 гг. составил 21%, но при этом рост для печатных книг составил 34%, а вот количество выданных ISBN для электронных книг сократилась на 19%;&lt;/li&gt;&#xA;&lt;li&gt;подавляющее количество ISBN для самиздата было продано через компании–посредники, на совсем маленьких издателей и самих авторов приходится только 7%;&lt;/li&gt;&#xA;&lt;li&gt;главные монстры в 2015 г. (печатные и электронные книги) — CreateSpace (58%, печатные книги), Smashwords (13%, электронные книги), Lulu (12%, печатные и электронные книги) и Blurb (4,5%, электроные книги).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Сравнительно малое количество выданных ISBN самим авторам весьма примечательно. Авторам или нужны помощники, или не нужны ISBN (при публикации через основные платформы, типа Amazon KDP, номера не нужны).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Слухи о смерти электронных книг изрядно преувеличены</title>
-      <link>/posts/2016-09-06-a/</link>
+      <link>//localhost:1313/posts/2016-09-06-a/</link>
       <pubDate>Tue, 06 Sep 2016 21:13:57 +0000</pubDate>
-      
-      <guid>/posts/2016-09-06-a/</guid>
-      <description>Хорошее резюме последнего исследования PewInternet о чтении в США на Bloomberg:
- The survey didn&amp;rsquo;t show any real sign of a print resurgence either, though. Overall, the percentage of Americans consuming books in any form appears to be trending modestly downward. By holding steady, e-books are thus gaining a bit of ground over print.
- В общем, и правда: 28% американцев читают электронные книги. Хуже того — 35% молодежи (18—29 лет).</description>
+      <guid>//localhost:1313/posts/2016-09-06-a/</guid>
+      <description>&lt;p&gt;Хорошее резюме &lt;a href=&#34;http://www.pewinternet.org/2016/09/01/book-reading-2016/&#34;&gt;последнего исследования PewInternet о чтении в США&lt;/a&gt; на Bloomberg:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The survey didn&amp;rsquo;t show any real sign of a print resurgence either, though. Overall, the percentage of Americans consuming books in any form appears to be trending modestly downward. By holding steady, e-books are thus gaining a bit of ground over print.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;В общем, и правда: 28% американцев читают электронные книги. Хуже того — 35% молодежи (18—29 лет). А плачут только крупные издатели, попавшиеся в ловушку Amazon, которая предоставила им возможность задрать цены на свои книги, а сама стала продавать больше своих книг и книг независимых авторов. О чём, кстати, сегодня &lt;a href=&#34;http://www.idealog.com/blog/ebook-pricing-resembles-three-dimensional-chess/&#34;&gt;написал и Майк Шацкин&lt;/a&gt;. Задирая цены, издатели получают меньше продаж. Опустить все цены они тоже не могут, потому что получат ещё большее снижение оборота. Шацкин, правда, предлагает рецепт — промоцены на определенный период и более внимательное отслеживание спроса и более гибкое ценообразование.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>«Большая пятерка» снижает цены</title>
-      <link>/posts/2016-01-02-a/</link>
+      <link>//localhost:1313/posts/2016-01-02-a/</link>
       <pubDate>Thu, 02 Jun 2016 14:35:44 +0000</pubDate>
-      
-      <guid>/posts/2016-01-02-a/</guid>
-      <description>Если верить аналитике Author Earnings, издательства «большой пятёрки» с начала года так-таки снизили цены на электронные книги примерно на $1. Потому что повысили в прошлом году и получили падение спроса.</description>
+      <guid>//localhost:1313/posts/2016-01-02-a/</guid>
+      <description>&lt;p&gt;Если верить &lt;a href=&#34;http://authorearnings.com/big-five-may-2016-ebook-pricing/&#34;&gt;аналитике&lt;/a&gt; Author Earnings, издательства «большой пятёрки» с начала года так-таки снизили цены на электронные книги примерно на $1. Потому что повысили в прошлом году и получили падение спроса.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Армия США переходит на EPUB</title>
-      <link>/posts/2015-06-16-a/</link>
+      <link>//localhost:1313/posts/2015-06-16-a/</link>
       <pubDate>Tue, 16 Jun 2015 12:36:25 +0000</pubDate>
-      
-      <guid>/posts/2015-06-16-a/</guid>
-      <description>The Army is pushing knowledge to the point of need by making e-Publications available for download to Soldiers’ mobile devices.
- Source: DVIDS - News - Army e-publishing brings doctrine to Soldiers
-Теперь, учитывая дно, у «Литрес» есть дополнительный аргумент не отказываться от FB2.</description>
+      <guid>//localhost:1313/posts/2015-06-16-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The Army is pushing knowledge to the point of need by making e-Publications available for download to Soldiers’ mobile devices.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;https://www.dvidshub.net/news/166673/army-e-publishing-brings-doctrine-soldiers#.VYAXgaeqqko&#34;&gt;DVIDS - News - Army e-publishing brings doctrine to Soldiers&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Теперь, учитывая дно, у «Литрес» есть дополнительный аргумент не отказываться от FB2.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Что именно упало? Дешевый бумажный паблишинг</title>
-      <link>/posts/2014-08-06-a/</link>
+      <link>//localhost:1313/posts/2014-08-06-a/</link>
       <pubDate>Wed, 06 Aug 2014 12:16:11 +0000</pubDate>
-      
-      <guid>/posts/2014-08-06-a/</guid>
-      <description>Уже везде прошла новость о том, что книжная индустрия в США сократила выпуск книг. В 2013 году традиционные издатели выпустили 304 912 книг против 309 957 в 2012-м. Интереснее, однако, разобраться в том, что именно упало.
-Электронные книги не упали. Наоборот, выросли до 27% ритейла. Чуть-чуть вырос выпуск обычной художественное литературы и литературы по гуманитарным наукам. А вот чуть-чуть снизился выпуск детских, религиозных и естественно-научных книг. Чуть-чуть. Самый большой же грохот — как раз на рынке нетрадиционного книгоиздания, на котором стоял бум еще пару лет назад.</description>
+      <guid>//localhost:1313/posts/2014-08-06-a/</guid>
+      <description>&lt;p&gt;Уже везде прошла новость о том, что книжная индустрия в США сократила выпуск книг. В 2013 году традиционные издатели выпустили 304 912 книг против 309 957 в 2012-м. Интереснее, однако, разобраться в том, &lt;a href=&#34;http://goodereader.com/blog/e-book-news/print-holding-steady-in-2013-vs-digital-ebooks&#34;&gt;что именно упало&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Электронные книги не упали. Наоборот, выросли до 27% ритейла. Чуть-чуть вырос выпуск обычной художественное литературы и литературы по гуманитарным наукам. А вот чуть-чуть снизился выпуск детских, религиозных и естественно-научных книг. Чуть-чуть. Самый большой же грохот — как раз на рынке нетрадиционного книгоиздания, на котором стоял бум еще пару лет назад. В 2012 году в США всего было выпущено чуть более 2 млн книг, а в 2013-м — 1 млн 108 тыс. Всплеск селфпаблишинга, издания книг в общественном достоянии и мусорной неавторской литературы, вызванный резким удешевлением и упрощением технологии и производства, прошёл, не поддержанный экономическими результатами, — и наступил логичный спад. И переход на электронные книги, которые ещё дешевле в производстве. Тщательнéе надо делать книги, тщательнéе.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Онлайн &gt; оффлайн. США, 2013</title>
-      <link>/posts/2014-06-30-a/</link>
+      <link>//localhost:1313/posts/2014-06-30-a/</link>
       <pubDate>Mon, 30 Jun 2014 22:41:00 +0000</pubDate>
-      
-      <guid>/posts/2014-06-30-a/</guid>
-      <description>BookStats estimates that US publishers made more money from online orders and e-books in 2013 ($7.54 billion) than they did from old-fashioned physical retail ($7.12 billion). While the difference isn&amp;rsquo;t huge, it suggests that a large chunk of the American population is content with buying books that it hasn&amp;rsquo;t seen in person.
-Источник</description>
+      <guid>//localhost:1313/posts/2014-06-30-a/</guid>
+      <description>&lt;p&gt;BookStats estimates that US publishers made more money from online orders and e-books in 2013 ($7.54 billion) than they did from old-fashioned physical retail ($7.12 billion). While the difference isn&amp;rsquo;t huge, it suggests that a large chunk of the American population is content with buying books that it hasn&amp;rsquo;t seen in person.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.engadget.com/2014/06/30/publishers-make-more-from-online-sales/&#34;&gt;Источник&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>На IDPF в 2014 году выступит Дуглас Рашкофф</title>
-      <link>/posts/2014-03-12-a/</link>
+      <link>//localhost:1313/posts/2014-03-12-a/</link>
       <pubDate>Wed, 12 Mar 2014 17:49:16 +0000</pubDate>
-      
-      <guid>/posts/2014-03-12-a/</guid>
-      <description>На конференции IDPF Digital Book 2014, которая пройдёт 28–29 мая в Нью-Йорке, среди прочих специалистов по электронному книгоизданию, издателей и писателей, выступит и автор знаменитого «Медиа-вируса» Дуглас Рашкофф.
-P. S. Чем раньше зарегистрируетесь, тем меньше заплáтите.</description>
+      <guid>//localhost:1313/posts/2014-03-12-a/</guid>
+      <description>&lt;p&gt;На конференции &lt;a href=&#34;http://idpf.org/digital-book-2014&#34;&gt;IDPF Digital Book 2014&lt;/a&gt;, которая пройдёт 28–29 мая в Нью-Йорке, среди прочих специалистов по электронному книгоизданию, издателей и писателей, &lt;a href=&#34;http://idpf.createsend1.com/t/ViewEmail/y/549F368BEA96786C/33AA815D2A7F4ECD1C65CA3F48968C2E&#34;&gt;выступит&lt;/a&gt; и автор знаменитого «Медиа-вируса» Дуглас Рашкофф.&lt;/p&gt;&#xA;&lt;p&gt;P. S. Чем раньше зарегистрируетесь, тем меньше заплáтите.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Сколько на самом деле (не) зарабатывают писатели в США</title>
-      <link>/posts/2014-01-20-a/</link>
+      <link>//localhost:1313/posts/2014-01-20-a/</link>
       <pubDate>Mon, 20 Jan 2014 23:52:47 +0000</pubDate>
-      
-      <guid>/posts/2014-01-20-a/</guid>
-      <description>В большинстве своём — почти нисколько. Во всяком случае, почти все начинающие авторы, 77% самостоятельно публикующихся авторов и 54% авторов, книги которых выпускают традиционные издатели, зарабатывают менее $1000 в год.
-Получше живут писатели, которых авторы исследования 2014 Digital Book World and Writer’s Digest Author Survey назвали hybrid, то есть удачно практикующими взаимодействие с традиционными издателями, и преуспевающими в качестве издателей самих себя. Среди них только 44% зарабатывают менее заветной 1000 долларов.</description>
+      <guid>//localhost:1313/posts/2014-01-20-a/</guid>
+      <description>&lt;p&gt;В большинстве своём — почти нисколько. Во всяком случае, почти все начинающие авторы, 77% самостоятельно публикующихся авторов и 54% авторов, книги которых &lt;a href=&#34;http://publishingperspectives.com/2014/01/how-much-do-writers-earn-less-than-you-think/&#34;&gt;выпускают&lt;/a&gt; традиционные издатели, зарабатывают менее $1000 в год.&lt;/p&gt;&#xA;&lt;p&gt;Получше живут писатели, которых авторы исследования  &lt;a href=&#34;http://store.digitalbookworld.com/advantages-traditional-publishers-offer-authors-t3591&#34;&gt;2014 Digital Book World and Writer’s Digest Author Survey&lt;/a&gt; назвали hybrid, то есть удачно практикующими взаимодействие с традиционными издателями, и преуспевающими в качестве издателей самих себя. Среди них только 44% зарабатывают менее заветной 1000 долларов. То есть выше прожиточного минимума получают только 5% писателей, работающих с обычными издателями, и 13% «смешанных» писаталей. Действительно же высокий доход — более $100 000  в год получают только 0,7% самостоятельно публикующих свои книги авторов, 1,3% «обычных» авторов и 5,7% «смешанных». Как это ни прискорбно, но получается, что правы критики традиционной модели копирайта: подавляющее большинство писателей пишут книги не для того, чтобы заработать, а потому что не могут не писать. И, конечно, потому, что хотят, чтобы их книги читали. А уж остальное — как сложится.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Гаджетизация в США: не только по Марксу</title>
-      <link>/posts/2013-10-21-a/</link>
+      <link>//localhost:1313/posts/2013-10-21-a/</link>
       <pubDate>Mon, 21 Oct 2013 10:22:37 +0000</pubDate>
-      
-      <guid>/posts/2013-10-21-a/</guid>
-      <description>Tablet and e-reader ownership | Pew Internet &amp;amp; American Life Project. В очередном отчете проекта The Pew Research Center’s Internet Project примечательно не только продолжающийся прост числа владельцев букридеров и планшетов.
-Нынче 43% американцев в возрасте старше 16 лет могут читать книги с букридеров и/или планшетов (за год их число выросло на 1/3), причём число владельцев планшетов (35%) продолжает обгонять число владельцев букридеров (24%). Примечательны другие результаты. Во-первых, прямая зависимость вероятности владения устройством от уровня образования и/или уровня доходов семьи.</description>
+      <guid>//localhost:1313/posts/2013-10-21-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pewinternet.org/Reports/2013/Tablets-and-ereaders/Findings.aspx&#34;&gt;Tablet and e-reader ownership | Pew Internet &amp;amp; American Life Project&lt;/a&gt;. В очередном отчете проекта The Pew Research Center’s Internet Project примечательно не только продолжающийся прост числа владельцев букридеров и планшетов.&lt;/p&gt;&#xA;&lt;p&gt;Нынче 43% американцев в возрасте старше 16 лет могут читать книги с букридеров и/или планшетов (за год их число выросло на 1/3), причём число владельцев планшетов (35%) продолжает обгонять число владельцев букридеров (24%). Примечательны другие результаты. Во-первых, прямая зависимость вероятности владения устройством от уровня образования и/или уровня доходов семьи. Но есть и несколько других: 1) планшетами владеет почти половина тинейджеров и азиатоамериканцев, 2) вероятность владеть букридером несколько выше у 30–40-летних, 3) доля владельцев обычных телефонов и смартфонов отчетливо выше у азиатоамериканцев (особенно смартфонов) и несколько выше у 20-летних.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Треть студентов — страшные пираты. В США</title>
-      <link>/posts/2013-07-17-a/</link>
+      <link>//localhost:1313/posts/2013-07-17-a/</link>
       <pubDate>Wed, 17 Jul 2013 12:38:31 +0000</pubDate>
-      
-      <guid>/posts/2013-07-17-a/</guid>
-      <description>The percentage of students reporting they had downloaded course content from an unauthorized Web site has risen steadily to 34 percent from 20 percent when it was first measured in 2010. Over the same period, the percent of students saying they photocopied or scanned chapters of textbooks from other students rose from 21 percent to 31 percent.
- via BISG: Student Pirating on the Rise | Digital Book World.</description>
+      <guid>//localhost:1313/posts/2013-07-17-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The percentage of students reporting they had downloaded course content from an unauthorized Web site has risen steadily to 34 percent from 20 percent when it was first measured in 2010. Over the same period, the percent of students saying they photocopied or scanned chapters of textbooks from other students rose from 21 percent to 31 percent.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.digitalbookworld.com/2013/bisg-student-pirating-on-the-rise/?et_mid=628534&amp;amp;rid=233889817&#34;&gt;BISG: Student Pirating on the Rise | Digital Book World&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;А почему американские студенты такие страшные пираты (34% загружают пиратский учебный контент, 31% копируют его у друзей)? Да потому, что, несмотря на незначительное снижение цен, один бумажный учебник обходится им в $110, а электронный — в $58. Другой интересный вывод опроса: значительная часть студентов готова к MOOC (Massive Open Online Courses) типа Coursera, и даже готова платить за это деньги, если плата будет меньше, чем в их колледже/университете.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Продажи эл.книг из США выросли на 63%</title>
-      <link>/posts/2013-06-28-a/</link>
+      <link>//localhost:1313/posts/2013-06-28-a/</link>
       <pubDate>Fri, 28 Jun 2013 12:29:23 +0000</pubDate>
-      
-      <guid>/posts/2013-06-28-a/</guid>
-      <description>According to the latest data from the Association of American Publishers, revenues for American Publishers selling ebooks internationally rose 63% to $121.5 million. Meanwhile, international print revenue increased 1.3% to $711.8 million.
-via Ebook Revenues Rising Abroad For American Publishers | Digital Book World.
-Рост продаж электронных книг американских издателей за границей за год (63%) превысил рост их продаж внутри страны (ок. 40%). И теперь составляет почти 15% от всего экспорта американских книг (ср.</description>
+      <guid>//localhost:1313/posts/2013-06-28-a/</guid>
+      <description>&lt;p&gt;According to the latest data from the Association of American Publishers, revenues for American Publishers selling ebooks internationally rose 63% to $121.5 million. Meanwhile, international print revenue increased 1.3% to $711.8 million.&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.digitalbookworld.com/2013/ebook-revenues-rising-abroad-for-american-publishers/?et_mid=625887&amp;amp;rid=233889817&#34;&gt;Ebook Revenues Rising Abroad For American Publishers | Digital Book World&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Рост продаж электронных книг американских издателей за границей за год (63%) превысил рост их продаж внутри страны (ок. 40%). И теперь составляет почти 15% от всего экспорта американских книг (ср. с 20% доли эл.книг на внутреннем рынке).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Итоги 2012 года в США</title>
-      <link>/posts/2013-04-12-a/</link>
+      <link>//localhost:1313/posts/2013-04-12-a/</link>
       <pubDate>Fri, 12 Apr 2013 13:18:00 +0000</pubDate>
-      
-      <guid>/posts/2013-04-12-a/</guid>
-      <description>In 2002, those Trade publishers reporting eBooks to AAP noted the format represented 0.05% of their total share of net revenueBy 2006, eBooks were reported as 0.50% of participating Trade publishers’ net revenue; it reached 1.18% by 2008The following year, the digital transition was underway and percentages reported grew rapidly: from 3.17% 2009 to 16.98% 2011 and now, for 2012, 22.55%
- via The Association of American Publishers.
-Ну, вот, наконец, и данные за 2012 год: продажи электронных книг приносят в США $1,54 млрд, что составляет 22,5% рынка.</description>
+      <guid>//localhost:1313/posts/2013-04-12-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;In 2002, those Trade publishers reporting eBooks to AAP noted the format represented 0.05% of their total share of net revenueBy 2006, eBooks were reported as 0.50% of participating Trade publishers’ net revenue; it reached 1.18% by 2008The following year, the digital transition was underway and percentages reported grew rapidly: from 3.17% 2009 to 16.98% 2011 and now, for 2012, 22.55%&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.publishers.org/press/101/&#34;&gt;The Association of American Publishers&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Ну, вот, наконец, и данные за 2012 год: продажи электронных книг приносят в США $1,54 млрд, что составляет 22,5% рынка. Рост по сравнению с 2011 годом составляет 41%. Это уже не удвоение, как было в прошлые годы. Но вовсе не остановка роста.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Данные по 2012 году от Bowker</title>
-      <link>/posts/2013-03-18-a/</link>
+      <link>//localhost:1313/posts/2013-03-18-a/</link>
       <pubDate>Mon, 18 Mar 2013 12:50:08 +0000</pubDate>
-      
-      <guid>/posts/2013-03-18-a/</guid>
-      <description>2012 Ebook share of market and retailer market share shifts, US and UK В 2012 году на продажи через интернет приходится 44% продаж книг в США и 38% в Великобритании. При этом доля электронных книг от всех продаж составила в ноябре 2012 года 28% в США и 9% в Великобритании (в июле 2012 г. доля была выше, говорят, из-за «50 оттенков серого»).</description>
+      <guid>//localhost:1313/posts/2013-03-18-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.bookconsumer.com/store/images/products/Bowker%20Market%20Research%20press%20release%20data%20cover.jpg&#34;&gt;2012 Ebook share of market and retailer market share shifts, US and UK&lt;/a&gt; В 2012 году на продажи через интернет приходится 44% продаж книг в США и 38% в Великобритании. При этом доля электронных книг от всех продаж составила в ноябре 2012 года 28% в США и 9% в Великобритании (в июле 2012 г. доля была выше, говорят, из-за «50 оттенков серого»).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Назначены предварительные слушания по делу магазины vs. Amazon</title>
-      <link>/posts/2013-02-27-c/</link>
+      <link>//localhost:1313/posts/2013-02-27-c/</link>
       <pubDate>Wed, 27 Feb 2013 21:14:04 +0000</pubDate>
-      
-      <guid>/posts/2013-02-27-c/</guid>
-      <description>Judge Jed Rakoff, the Southern District judge named to preside over the suit filed by three independent booksellers against Amazon and the &amp;ldquo;big six&amp;rdquo; publishers, has stipulated a March 11 case management and scheduling conference among the parties. None of the parties have responded to the suit yet
- via Judge Sets March 11 Meeting Date on Booksellers’ Suit | Publishers Lunch.
-Ну, что ж, пора запасаться попкорном. Первая серия битвы независимых книжных магазинов против Amazon и «большой шестёрки» американских издательств, которых магазины обвиняет в «нечестном DRM», могут состояться 11 марта 2013 г.</description>
+      <guid>//localhost:1313/posts/2013-02-27-c/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Judge Jed Rakoff, the Southern District judge named to preside over the suit filed by three independent booksellers against Amazon and the &amp;ldquo;big six&amp;rdquo; publishers, has stipulated a March 11 case management and scheduling conference among the parties. None of the parties have responded to the suit yet&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://lunch.publishersmarketplace.com/2013/02/judge-sets-march-11-meeting-date-on-booksellers-suit/?et_mid=605089&amp;amp;rid=233889817&#34;&gt;Judge Sets March 11 Meeting Date on Booksellers’ Suit | Publishers Lunch&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Ну, что ж, пора запасаться попкорном. Первая серия битвы независимых книжных магазинов против Amazon и «большой шестёрки» американских издательств, которых магазины обвиняет в «нечестном DRM», могут состояться 11 марта 2013 г.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Barnes &amp; Noble выкупает владелец и отказывается от Nook</title>
-      <link>/posts/2013-02-25-a/</link>
+      <link>//localhost:1313/posts/2013-02-25-a/</link>
       <pubDate>Mon, 25 Feb 2013 19:47:27 +0000</pubDate>
-      
-      <guid>/posts/2013-02-25-a/</guid>
-      <description>Вот дела. Основатель Barnes &amp;amp; Noble и её крупнейший акционер Леоанрд Риджио намерен выкупить B&amp;amp;N обратно. Но без Nook Media, сосредоточившись на исправлении дел в книжной сети и лицензировании контента. Учитывая, что значительной долей Nook Media владеет Microsoft и (небольшой) Pearson, можно предположить, что Nook перейдет на Windows 8, а потом и вымрет. Хех. В выигрыше — все остальные — Amazon, Apple, Google, Kobo и пр.
-Barnes &amp;amp; Noble to &amp;lsquo;move away&amp;rsquo; from Nook hardware, reports NYT (update) | The Verge.</description>
+      <guid>//localhost:1313/posts/2013-02-25-a/</guid>
+      <description>&lt;p&gt;Вот дела. Основатель Barnes &amp;amp; Noble и её крупнейший акционер Леоанрд Риджио намерен выкупить B&amp;amp;N обратно. Но без Nook Media, сосредоточившись на исправлении дел в книжной сети и лицензировании контента. Учитывая, что значительной долей Nook Media владеет Microsoft и (небольшой) Pearson, можно предположить, что Nook перейдет на Windows 8, а потом и вымрет. Хех. В выигрыше — все остальные — Amazon, Apple, Google, Kobo и пр.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.theverge.com/2013/2/24/4026114/barnes-noble-shifting-focus-away-from-nook-hardware&#34;&gt;Barnes &amp;amp; Noble to &amp;lsquo;move away&amp;rsquo; from Nook hardware, reports NYT (update) | The Verge&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Продажи независимых книжных в США выросли. Даже электронных книг</title>
-      <link>/posts/2013-01-14-a/</link>
+      <link>//localhost:1313/posts/2013-01-14-a/</link>
       <pubDate>Mon, 14 Jan 2013 13:17:47 +0000</pubDate>
-      
-      <guid>/posts/2013-01-14-a/</guid>
-      <description>По данным Ассоциации американской книжной торговли, продажи независимых книжных магазинов в 2012 году выросли на 8% по бумажным книгам, и на 28% по электронным книгам.
-via Indie Sales up 8% in 2012; eBook Sales Growing As Well | Good E-Reader - ebook Reader and Digital Publishing News.
-Независимые. Книжные. Продают. Электронные книги. Куда смотрит «Фаланстер»?</description>
+      <guid>//localhost:1313/posts/2013-01-14-a/</guid>
+      <description>&lt;p&gt;По данным Ассоциации американской книжной торговли, продажи независимых книжных магазинов в 2012 году выросли на 8% по бумажным книгам, и на 28% по электронным книгам.&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://goodereader.com/blog/e-book-news/indie-sales-up-8-in-2012/?et_mid=598557&amp;amp;rid=233889817&#34;&gt;Indie Sales up 8% in 2012; eBook Sales Growing As Well | Good E-Reader - ebook Reader and Digital Publishing News&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Независимые. Книжные. Продают. Электронные книги. Куда смотрит «Фаланстер»?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>От «Большой шестёрки» останется «Большая тройка»</title>
-      <link>/posts/2012-11-20-a/</link>
+      <link>//localhost:1313/posts/2012-11-20-a/</link>
       <pubDate>Tue, 20 Nov 2012 22:44:09 +0000</pubDate>
-      
-      <guid>/posts/2012-11-20-a/</guid>
-      <description>News Corp, which owns book publisher HarperCollins, is reportedly in “preliminary” talks to buy CBS’s Simon &amp;amp; Schuster, according to a report in the News Corp-owned Wall Street Journal.
- via HarperCollins, Simon &amp;amp; Schuster reportedly in “preliminary” merger talks — paidContent
-Вслед за объявлением о возможном влиянии Penguin и Random House появилась информация о переговорах, которые ведёт мердоковская News Corp., владеющая издательством HarperCollins, с CBS, которой принадлежит издательство Simon &amp;amp; Schuster.</description>
+      <guid>//localhost:1313/posts/2012-11-20-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;News Corp, which owns book publisher HarperCollins, is reportedly in “preliminary” talks to buy CBS’s Simon &amp;amp; Schuster, according to a report in the News Corp-owned Wall Street Journal.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://paidcontent.org/2012/11/20/harpercollins-simon-schuster-reportedly-in-preliminary-merger-talks/&#34;&gt;HarperCollins, Simon &amp;amp; Schuster reportedly in “preliminary” merger talks — paidContent&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Вслед за объявлением о возможном влиянии Penguin и Random House появилась информация о переговорах, которые ведёт мердоковская News Corp., владеющая издательством HarperCollins, с CBS, которой принадлежит издательство Simon &amp;amp; Schuster. «Свободными» из бывшей «Большой шестёрки» американских издательств, выпускающих массовую неспециализированную литературу, останутся только Hachette, которое и так сама по себе большое, и Macmillan и пр. — американская группа издательств международной издательской компании Георга фон Хольцбринка.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Как читают эл.книги американцы</title>
-      <link>/posts/2012-11-15-a/</link>
+      <link>//localhost:1313/posts/2012-11-15-a/</link>
       <pubDate>Thu, 15 Nov 2012 08:58:08 +0000</pubDate>
-      
-      <guid>/posts/2012-11-15-a/</guid>
-      <description>По результатам Bowker Market Research, главное орудие американских читателей эл.книг — Kindle — 55%. При этом на обычный Kindle приходится 37% (48% год назад в 2Q2011), а на Kindle Fire — 18%. Потом идут устройства на iOS — 15% (12% iPad — рост с 8% год назад, и 3% iPhone, на который приходилось 5% год назад). На третьем месте Nook — 14% (15% год назад). 6% читателей эл.книг читают с компьютера.</description>
+      <guid>//localhost:1313/posts/2012-11-15-a/</guid>
+      <description>&lt;p&gt;По результатам Bowker Market Research, главное орудие американских читателей эл.книг — Kindle — 55%. При этом на обычный Kindle приходится 37% (48% год назад в 2Q2011), а на Kindle Fire — 18%. Потом идут устройства на iOS — 15% (12% iPad — рост с 8% год назад, и 3% iPhone, на который приходилось 5% год назад). На третьем месте Nook — 14% (15% год назад). 6% читателей эл.книг читают с компьютера. Sony Reader — в сааамом конце с 1%. Больше читают даже с прочих смартфонов (4%) или даже mp3-плейеров (2%). Sony, конечно, удивительная компания. Первая, которая начала делать ридеры с бумагоподобным экраном. Умение профукать инновацию дорогого стоит.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>25% американцев имеют планшеты</title>
-      <link>/posts/2012-10-02-b/</link>
+      <link>//localhost:1313/posts/2012-10-02-b/</link>
       <pubDate>Tue, 02 Oct 2012 14:00:36 +0000</pubDate>
-      
-      <guid>/posts/2012-10-02-b/</guid>
-      <description>В январе было еще 18%. И сильно сократилась доля iPad. Видимо, iOS в перспективе ждёт судьба «Макинтоша», хех.
-via journalism.org</description>
+      <guid>//localhost:1313/posts/2012-10-02-b/</guid>
+      <description>&lt;p&gt;В январе было еще 18%. И сильно сократилась доля iPad. Видимо, iOS в перспективе ждёт судьба «Макинтоша», хех.&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.journalism.org/analysis_report/device_ownership&#34;&gt;journalism.org&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>26% выручки Simon &amp; Schuster</title>
-      <link>/posts/2012-05-03-a/</link>
+      <link>//localhost:1313/posts/2012-05-03-a/</link>
       <pubDate>Thu, 03 May 2012 12:04:48 +0000</pubDate>
-      
-      <guid>/posts/2012-05-03-a/</guid>
-      <description>Digital revenues for Simon &amp;amp; Schuster US climbed 64% in the first quarter of the year, while print sales also rose.
-In S&amp;amp;S’ parent company CBS Corporation’s financial results for the first quarter to 31st March 2012, the company said publishing revenues increased 14% to $176m from $155m for the same period last year.
-S&amp;amp;S attributed the hike in sales to its digital publishing arm, which represented 26% of the company’s total revenues, its “highest to date” according to the publisher.</description>
+      <guid>//localhost:1313/posts/2012-05-03-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Digital revenues for Simon &amp;amp; Schuster US climbed 64% in the first quarter of the year, while print sales also rose.&lt;/p&gt;&#xA;&lt;p&gt;In S&amp;amp;S’ parent company CBS Corporation’s financial results for the first quarter to 31st March 2012, the company said publishing revenues increased 14% to $176m from $155m for the same period last year.&lt;/p&gt;&#xA;&lt;p&gt;S&amp;amp;S attributed the hike in sales to its digital publishing arm, which represented 26% of the company’s total revenues, its “highest to date” according to the publisher. S&amp;amp;S US also increased its sales of print books; the company said operating income before depreciation and amortization (OIBDA) increased 43% to $10m from $7m for the same period the year before.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Отличное исследование пиратства в США</title>
-      <link>/posts/2012-04-18-a/</link>
+      <link>//localhost:1313/posts/2012-04-18-a/</link>
       <pubDate>Wed, 18 Apr 2012 14:07:20 +0000</pubDate>
-      
-      <guid>/posts/2012-04-18-a/</guid>
-      <description>via piracy.ssrc.org
-Тот же Джо Караганис, который организовал исследование &amp;ldquo;Медиапиратство в развивающихся экономиках&amp;rdquo;.
-Очень показательно — для любителей публично побиться головой об стену с криками «Россия — самая пиратская страна». Нет, не самая. Обычная.
-46% всего (!) взрослого населения США качают музыку, фильмы и т. д. Среди молодёжи (18–29) — 70%.
-На сайте пока только одна глава, но обещают скоро целиком.</description>
+      <guid>//localhost:1313/posts/2012-04-18-a/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://piracy.ssrc.org/get-the-copy-culture-report/&#34;&gt;piracy.ssrc.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Тот же Джо Караганис, который организовал исследование &amp;ldquo;Медиапиратство в развивающихся экономиках&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Очень показательно — для любителей публично побиться головой об стену с криками «Россия — самая пиратская страна». Нет, не самая. Обычная.&lt;/p&gt;&#xA;&lt;p&gt;46% всего (!) взрослого населения США качают музыку, фильмы и т. д. Среди молодёжи (18–29) — 70%.&lt;/p&gt;&#xA;&lt;p&gt;На сайте пока только одна глава, но обещают скоро целиком.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Громадный отчет Pew Internet об электронном чтении в США</title>
-      <link>/posts/2012-04-05-a/</link>
+      <link>//localhost:1313/posts/2012-04-05-a/</link>
       <pubDate>Thu, 05 Apr 2012 20:50:58 +0000</pubDate>
-      
-      <guid>/posts/2012-04-05-a/</guid>
-      <description>via libraries.pewinternet.org
-Много разных интересных подробностей, о которых позже.</description>
+      <guid>//localhost:1313/posts/2012-04-05-a/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://libraries.pewinternet.org/2012/04/04/the-rise-of-e-reading/&#34;&gt;libraries.pewinternet.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Много разных интересных подробностей, о которых позже.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Долгожданные данные по продажам эл.книг в США в январе 2012 г.</title>
-      <link>/posts/2012-03-28-a/</link>
+      <link>//localhost:1313/posts/2012-03-28-a/</link>
       <pubDate>Wed, 28 Mar 2012 18:58:05 +0000</pubDate>
-      
-      <guid>/posts/2012-03-28-a/</guid>
-      <description>Total trade revenues were up to $503.5 million in January 2012 from $396 million in January 2011, a 27.1% increase, according to the latest figures from the Association of American Publishers. E-books led the way with $128.8 million in revenue in January 2012 versus $73.2 million in January 2011, a 76% increase.
- via digitalbookworld.com
-По данным Американской ассоциации издателей общая торговая выручка января 2012 г. составила $503,5 млн (на 27% больше, чем год назад).</description>
+      <guid>//localhost:1313/posts/2012-03-28-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Total trade revenues were up to $503.5 million in January 2012 from $396 million in January 2011, a 27.1% increase, according to the latest figures from the Association of American Publishers. E-books led the way with $128.8 million in revenue in January 2012 versus $73.2 million in January 2011, a 76% increase.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.digitalbookworld.com/2012/e-books-drive-revenue-growth-across-book-trade/&#34;&gt;digitalbookworld.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;По данным Американской ассоциации издателей общая торговая выручка января 2012 г. составила $503,5 млн (на 27% больше, чем год назад). При этом продажи книг составили $128,8 млн, что на 76% больше, чем в январе 2011 г. (и, замечу, на 51% больше, чем в декабре 2011 г.).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Новый пятилетний план Обамы: всем школам перейти на эл.учебники</title>
-      <link>/posts/2012-02-06-b/</link>
+      <link>//localhost:1313/posts/2012-02-06-b/</link>
       <pubDate>Mon, 06 Feb 2012 12:45:08 +0000</pubDate>
-      
-      <guid>/posts/2012-02-06-b/</guid>
-      <description>Education Secretary Arne Duncan and Federal Communications Commission chairman Julius Genachowski on Wednesday challenged schools and companies to get digital textbooks in students&#39; hands within five years.
- via huffingtonpost.com
-План неплохой. Ещё бы стандарты были. А то K8 в лес, а iBooks по дрова.</description>
+      <guid>//localhost:1313/posts/2012-02-06-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Education Secretary Arne Duncan and Federal Communications Commission chairman Julius Genachowski on Wednesday challenged schools and companies to get digital textbooks in students&amp;rsquo; hands within five years.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.huffingtonpost.com/2012/02/01/challenge-to-schools-embr_n_1248196.html&#34;&gt;huffingtonpost.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;План неплохой. Ещё бы стандарты были. А то K8 в лес, а iBooks по дрова.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>29% американцев имеют читалку или планшетник</title>
-      <link>/posts/2012-01-24-d/</link>
+      <link>//localhost:1313/posts/2012-01-24-d/</link>
       <pubDate>Tue, 24 Jan 2012 08:12:46 +0000</pubDate>
-      
-      <guid>/posts/2012-01-24-d/</guid>
-      <description>The share of adults in the United States who own tablet computers nearly doubled from 10% to 19% between mid-December and early January and the same surge in growth also applied to e-book readers, which also jumped from 10% to 19% over the same time period.
-The number of Americans owning at least one of these digital reading devices jumped from 18% in December to 29% in January.
- via pewinternet.</description>
+      <guid>//localhost:1313/posts/2012-01-24-d/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The share of adults in the United States who own tablet computers nearly doubled from 10% to 19% between mid-December and early January and the same surge in growth also applied to e-book readers, which also jumped from 10% to 19% over the same time period.&lt;/p&gt;&#xA;&lt;p&gt;The number of Americans owning at least one of these digital reading devices jumped from 18% in December to 29% in January.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.pewinternet.org/Reports/2012/E-readers-and-tablets/Findings.aspx&#34;&gt;pewinternet.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Праздники благотворно влияют на прирост электронных книг. После Рождества доля владельцев этих устройств среди взрослых американцев практически удвоилась — с 10 до 19%: каждый пятый американец владеет читалкой и каждый пятый — планшетником.&lt;br&gt;&#xA;При этом владеют хотя бы тем или другим 29% (в декабре 2011 их доля была 18%). Несложно посчитать, что 9% американцев владеют и тем, и другим.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Депрессия американских издателей</title>
-      <link>/posts/2012-01-12-c/</link>
+      <link>//localhost:1313/posts/2012-01-12-c/</link>
       <pubDate>Thu, 12 Jan 2012 20:02:44 +0000</pubDate>
-      
-      <guid>/posts/2012-01-12-c/</guid>
-      <description>Depressing new research by Forrester indicates that book publishers are becoming increasingly disheartened about the state of the industry: Only 28 percent of publishing executives think their company will be better off because of the transition to digital, down from 51 percent a year ago.
-The survey was conducted among book publishing executives at publishers across the U.S. that represent 74 percent of U.S. publishing revenues. Forrester will present the full results of the study at Digital Book World in NYC on January 24, but the initial findings are as follows:</description>
+      <guid>//localhost:1313/posts/2012-01-12-c/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Depressing new research by Forrester indicates that book publishers are becoming increasingly disheartened about the state of the industry: Only 28 percent of publishing executives think their company will be better off because of the transition to digital, down from 51 percent a year ago.&lt;/p&gt;&#xA;&lt;p&gt;The survey was conducted among book publishing executives at publishers across the U.S. that represent 74 percent of U.S. publishing revenues. Forrester will present the full results of the study at Digital Book World in NYC on January 24, but the initial findings are as follows:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Бесплатные электронные учебники от CK-12</title>
-      <link>/posts/2011-12-16-1/</link>
+      <link>//localhost:1313/posts/2011-12-16-1/</link>
       <pubDate>Fri, 16 Dec 2011 12:56:52 +0000</pubDate>
-      
-      <guid>/posts/2011-12-16-1/</guid>
-      <description>How it Works | Webinars
- via ck12.org
-«Жадные» американские авторы готовы делать бесплатные электронные учебники для школ и колледжей.</description>
+      <guid>//localhost:1313/posts/2011-12-16-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.ck12.org/media/images/logo_ck12_195.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.ck12.org/flexbook#&#34; title=&#34;Check out the video on how it works&#34;&gt;How it Works&lt;/a&gt;  |  &lt;a href=&#34;http://www.ck12.org/flexbook#&#34; title=&#34;Sign up to participate in one of our interactive webinars&#34;&gt;Webinars&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.ck12.org/flexbook/&#34;&gt;ck12.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;«Жадные» американские авторы готовы делать бесплатные электронные учебники для школ и колледжей.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Американские студенты начали переход на цифровые учебники</title>
-      <link>/posts/2011-11-24-1/</link>
+      <link>//localhost:1313/posts/2011-11-24-1/</link>
       <pubDate>Thu, 24 Nov 2011 19:22:17 +0000</pubDate>
-      
-      <guid>/posts/2011-11-24-1/</guid>
-      <description>According to the Student Monitor, a private student market research company based in New Jersey, about 5 percent of all textbooks acquired in the autumn in the United States were digital textbooks. That is more than double the 2.1 percent of the spring semester.
-Simba Information, a research company specializing in publishing, estimates that electronic textbooks will generate $267.3 million this year in sales in the United States. That is a rise of 44.</description>
+      <guid>//localhost:1313/posts/2011-11-24-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;According to the Student Monitor, a private student market research company based in New Jersey, about 5 percent of all textbooks acquired in the autumn in the United States were digital textbooks. That is more than double the 2.1 percent of the spring semester.&lt;/p&gt;&#xA;&lt;p&gt;Simba Information, a research company specializing in publishing, estimates that electronic textbooks will generate $267.3 million this year in sales in the United States. That is a rise of 44.3 percent over last year. The American Association of Publishers estimates that the college textbooks industry generated a total of $4.58 billion in sales last year.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Бумага того. Немного статистики</title>
-      <link>/posts/2011-11-11-a/</link>
+      <link>//localhost:1313/posts/2011-11-11-a/</link>
       <pubDate>Fri, 11 Nov 2011 06:30:09 +0000</pubDate>
-      
-      <guid>/posts/2011-11-11-a/</guid>
-      <description>A recent Pew Internet Project report said e-reader adoption doubled in the U.S. from 6 percent in November 2010 to 12 percent in May 2011.
- via venturebeat.com
-Количество взрослых американцев с букридерами удвоилось с 14 млн (6%) в ноябре 2010 до 28 млн (12%) в мае 2011-го.
-Продажи книг и цифровых книг в США (млн $):
-2008: 5158 и 61
-2009: 5127 и 169
-2010: 4864 и 441</description>
+      <guid>//localhost:1313/posts/2011-11-11-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;A recent Pew Internet Project report said e-reader adoption doubled in the U.S. from 6 percent in November 2010 to 12 percent in May 2011.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://venturebeat.com/2011/11/10/print-is-dying-e-readers-start-slaughtering-print-book-sales-infographic/&#34;&gt;venturebeat.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Количество взрослых американцев с букридерами удвоилось с 14 млн (6%) в ноябре 2010 до 28 млн (12%) в мае 2011-го.&lt;/p&gt;&#xA;&lt;p&gt;Продажи книг и цифровых книг в США (млн $):&lt;br&gt;&#xA;2008: 5158 и 61&lt;br&gt;&#xA;2009: 5127 и 169&lt;br&gt;&#xA;2010: 4864 и 441&lt;/p&gt;&#xA;&lt;p&gt;К 2015 году продажи цифровых книг составят $3 млрд (Forrester Research).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>От рождения до 8-ми лет: смартфон-поколение американцев</title>
-      <link>/posts/2011-10-28-3/</link>
+      <link>//localhost:1313/posts/2011-10-28-3/</link>
       <pubDate>Fri, 28 Oct 2011 11:52:56 +0000</pubDate>
-      
-      <guid>/posts/2011-10-28-3/</guid>
-      <description>TOTAL DIGITAL MEDIA USE. Today a substantial proportion of the time that young children spend with screen media is spent with digital media — including computers, handheld and console video game players, and other interactive mobile devices such as cell phones, video iPods, and iPad-style tablet devices. Among 0- to 8-year-olds as a whole, a quarter (27%) of all screen time is spent with these digital devices.
-MOBILE MEDIA. Half (52%) of all children now have access to one of the newer mobile devices at home: either a smartphone (41%), a video iPod (21%), or an iPad or other tablet device (8%).</description>
+      <guid>//localhost:1313/posts/2011-10-28-3/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;TOTAL DIGITAL MEDIA USE.&lt;/strong&gt; Today a substantial proportion of the time that young children spend with screen media is spent with digital media — including computers, handheld and console video game players, and other interactive mobile devices such as cell phones, video iPods, and iPad-style tablet devices. Among 0- to 8-year-olds as a whole, a quarter (27%) of all screen time is spent with these digital devices.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;MOBILE MEDIA.&lt;/strong&gt; Half (52%) of all children now have access to one of the newer mobile devices at home: either a smartphone (41%), a video iPod (21%), or an iPad or other tablet device (8%).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Данные AAP за июль 2011</title>
-      <link>/posts/2011-10-23-1/</link>
+      <link>//localhost:1313/posts/2011-10-23-1/</link>
       <pubDate>Sun, 23 Oct 2011 19:03:58 +0000</pubDate>
-      
-      <guid>/posts/2011-10-23-1/</guid>
-      <description>cumulative numbers for the first seven months of 2011 contrasted against the same period of 2010 (with the same provisos as above, and figures in millions of dollars):
-   FORMAT 2010 2011 CHANGE     Adult Hardcover 692.3 471.1 -17.8%   Adult Trade Paperback 819.5 651.4 -20.5%   Adult Mass Market PB 385.9 275.5 -28.6%   Ebooks 221.7 560.5 152.8%     AAP figures, courtesy of GalleyCat.</description>
+      <guid>//localhost:1313/posts/2011-10-23-1/</guid>
+      <description>&lt;p&gt;cumulative numbers for the first seven months of 2011 contrasted against the same period of 2010 (with the same provisos as above, and figures in millions of dollars):&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;FORMAT&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;2010&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;2011&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;CHANGE&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Adult Hardcover&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;692.3&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;471.1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;-17.8%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Adult Trade Paperback&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;819.5&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;651.4&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;-20.5%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Adult Mass Market PB&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;385.9&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;275.5&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;-28.6%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Ebooks&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;221.7&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;560.5&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;152.8%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;AAP figures, courtesy of &lt;a href=&#34;http://www.mediabistro.com/galleycat/adult-hardcover-sales-rose-33-in-july_b40116&#34;&gt;GalleyCat&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://davidgaughran.wordpress.com/2011/10/14/july-aap-figures-show-continuing-e-book-explosion/#more-1345&#34;&gt;davidgaughran.wordpress.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;И это при том, что продажи книг в переплёте в июле 2011-го по ср. с июлем 2010-го сильно выросли.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Статистика использования букридеров в США</title>
-      <link>/posts/2011-09-21-2/</link>
+      <link>//localhost:1313/posts/2011-09-21-2/</link>
       <pubDate>Wed, 21 Sep 2011 11:19:31 +0000</pubDate>
-      
-      <guid>/posts/2011-09-21-2/</guid>
-      <description>The Harris Poll also revealed one in six Americans who do not have an e-reader intend to buy one during the next six months. This may be welcomed by publishers as e-reader owners are reading more books, according to the survey. Overall, 16% of Americans read between 11 and 20 books per year with 20% reading more than 21. However, a third of those who own a Kindle, Nook or other device read 11-20 books a year with 27% reading more than 21.</description>
+      <guid>//localhost:1313/posts/2011-09-21-2/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The Harris Poll also revealed one in six Americans who do not have an e-reader intend to buy one during the next six months. This may be welcomed by publishers as e-reader owners are reading more books, according to the survey. Overall, 16% of Americans read between 11 and 20 books per year with 20% reading more than 21. However, a third of those who own a Kindle, Nook or other device read 11-20 books a year with 27% reading more than 21. E-reader owners are also more likely to buy books, with 17% purchasing between 11 and 20 and 17% buying more than 21 over 12 months.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Продажи е-книг в США выросли на 161,3% по итогам полугодия | Pro-Books.ru</title>
-      <link>/posts/2011-09-19-1/</link>
+      <link>//localhost:1313/posts/2011-09-19-1/</link>
       <pubDate>Mon, 19 Sep 2011 10:57:02 +0000</pubDate>
-      
-      <guid>/posts/2011-09-19-1/</guid>
-      <description>В сегменте цифровой книжной продукции зафиксирован рост на 161,3% до 473,8 миллиона долларов. Таким образом, сегмент е-книг по продажам превзошел сегмент изданий в мягкой обложке для массового рынка более чем вдвое по итогам полугода.
- via pro-books.ru
-473,8 млн против 232,5 млн долларов. Ещё немного, и продажи электронных книг превысят продажи всех книг в мягкой обложке. ОК</description>
+      <guid>//localhost:1313/posts/2011-09-19-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;В сегменте цифровой книжной продукции зафиксирован рост на 161,3% до 473,8 миллиона долларов. Таким образом, сегмент е-книг по продажам превзошел сегмент изданий в мягкой обложке для массового рынка более чем вдвое по итогам полугода.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://pro-books.ru/sitearticles/7873#.Tncd7XXTZKk.twitter&#34;&gt;pro-books.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;473,8 млн против 232,5 млн долларов. Ещё немного, и продажи электронных книг превысят продажи всех книг в мягкой обложке. ОК&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Пользователи читалок — пожилые женщины (Nielsen, USA)</title>
-      <link>/posts/2011-08-25-2/</link>
+      <link>//localhost:1313/posts/2011-08-25-2/</link>
       <pubDate>Thu, 25 Aug 2011 13:29:45 +0000</pubDate>
-      
-      <guid>/posts/2011-08-25-2/</guid>
-      <description>Любопытное развитие рынка: менее, чем за год пользователи читалок в США сильно повзрослели - 51% старше 45 лет (30% старше 55), причём 9 месяцев назад старше 45-ти лет было 40% (25% старше 55). Та же тенденция с пользователями планшетников: 37% старше 45 (19% старше 55), а три квартала назад — 23% старше 45-ти (10% ещё старше).
-Половая структура тоже поменялась — в III кв 2010 букридеры были по преимуществу у мужчин (54%), теперь — у женщин (61%).</description>
+      <guid>//localhost:1313/posts/2011-08-25-2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://blog.nielsen.com/nielsenwire/wp-content/uploads/2011/08/graph1v2.png&#34; alt=&#34;ereader and tablet demographics&#34; title=&#34;ereader and tablet demographics&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://blog.nielsen.com/nielsenwire/wp-content/uploads/2011/08/graph2v2.png&#34; alt=&#34;women-connected-devices&#34; title=&#34;women-connected-devices&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Любопытное развитие рынка: менее, чем за год пользователи читалок в США сильно повзрослели - 51% старше 45 лет (30% старше 55), причём 9 месяцев назад старше 45-ти лет было 40% (25% старше 55).  Та же тенденция с пользователями планшетников: 37% старше 45 (19% старше 55), а три квартала назад — 23% старше 45-ти (10% ещё старше).&lt;/p&gt;&#xA;&lt;p&gt;Половая структура тоже поменялась — в III кв 2010 букридеры были по преимуществу у мужчин (54%), теперь — у женщин (61%). Планшетники пока остаются за мужчинами (57%), но они потеряли 4%.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>И ещё об электронных учебниках, но онлайновых: Chegg</title>
-      <link>/posts/2011-08-18-a/</link>
+      <link>//localhost:1313/posts/2011-08-18-a/</link>
       <pubDate>Thu, 18 Aug 2011 20:42:06 +0000</pubDate>
-      
-      <guid>/posts/2011-08-18-a/</guid>
-      <description>Chegg is finally going digital, and is going to be steadily rolling e-textbooks on its platform with goal of offering millions of e-textbooks to students by the end of the year. Second, Chegg has partnered with a number of publishers (including four of the top five educational publishers) to offer e-textbooks to its students, such as Cengage Learning, Elsevier, F.A. Davis, Macmillan, McFarland, McGraw-Hill, Oxford University Press, Pearson Higher Education, Rowman &amp;amp; Littlefield, Taylor and Francis, and Wiley.</description>
+      <guid>//localhost:1313/posts/2011-08-18-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://techcrunch.com/2011/08/18/textbook-rental-giant-chegg-goes-digital-now-offers-html5-books/&#34;&gt;Chegg is finally going digital&lt;/a&gt;, and is going to be steadily rolling e-textbooks on its platform with goal of offering millions of e-textbooks to students by the end of the year. Second, Chegg has partnered with a number of publishers (including four of the top five educational publishers) to offer e-textbooks to its students, such as Cengage Learning, Elsevier, F.A. Davis, Macmillan, McFarland, McGraw-Hill, Oxford University Press, Pearson Higher Education, Rowman &amp;amp; Littlefield, Taylor and Francis, and Wiley. For background, Chegg was founded in 2007 and has become the largest textbook rental giant for college students. In fact, millions of students across 7,000 campuses are using Chegg for rentals. But in a space with a number of other competitors, such as BookRenter, CampusBookRentals, and eCampus, and others; the company has expanded its strategy beyond just rentals to compete in the space.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Отличная история: музыкальная индустрия США два года будет в ауте</title>
-      <link>/posts/2011-08-15-1/</link>
+      <link>//localhost:1313/posts/2011-08-15-1/</link>
       <pubDate>Mon, 15 Aug 2011 20:45:35 +0000</pubDate>
-      
-      <guid>/posts/2011-08-15-1/</guid>
-      <description>thanks to a little-noted provision in United States copyright law, those artists — and thousands more — now have the right to reclaim ownership of their recordings, potentially leaving the labels out in the cold.
- via nytimes.com
-Потому что заканчиваются 35 лет контрактов с музыкантами. И они могут потребовать свои права назад.</description>
+      <guid>//localhost:1313/posts/2011-08-15-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;thanks to a little-noted provision in United States copyright law, those artists — and thousands more — now have the right to reclaim ownership of their recordings, potentially leaving the labels out in the cold.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.nytimes.com/2011/08/16/arts/music/springsteen-and-others-soon-eligible-to-recover-song-rights.html&#34;&gt;nytimes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Потому что заканчиваются 35 лет контрактов с музыкантами. И они могут потребовать свои права назад.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>5 книжных мейджоров и Apple подали в суд против Amazon</title>
-      <link>/posts/2011-08-10-b/</link>
+      <link>//localhost:1313/posts/2011-08-10-b/</link>
       <pubDate>Wed, 10 Aug 2011 15:19:11 +0000</pubDate>
-      
-      <guid>/posts/2011-08-10-b/</guid>
-      <description>&amp;ldquo;Terrified&amp;rdquo; by Amazon&amp;rsquo;s Kindle e-reader and discounted e-book pricing, five major publishers allegedly acted together to increase e-book prices and compel Amazon to abandon its discount sales strategy. That&amp;rsquo;s the gist of a new class action antitrust lawsuit filed in the US District Court for the Northern District of California by the Hagens Berman litigation group.
-The five book sellers named in the suit are HarperCollins, Hachette Book Group, Macmillan, Penguin Group Inc.</description>
+      <guid>//localhost:1313/posts/2011-08-10-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Terrified&amp;rdquo; by Amazon&amp;rsquo;s Kindle e-reader and discounted e-book pricing, five major publishers allegedly acted together to increase e-book prices and compel Amazon to abandon its discount sales strategy. That&amp;rsquo;s the gist of a new class action antitrust lawsuit &lt;a href=&#34;http://www.hbsslaw.com/file.php?id=761&amp;amp;key=ecdb5cfd51c029dd03eab73f6ccdd096&#34;&gt;filed&lt;/a&gt; in the US District Court for the Northern District of California by the &lt;a href=&#34;http://www.hbsslaw.com/cases-and-investigations/ebooks&#34;&gt;Hagens Berman litigation group&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The five book sellers named in the suit are HarperCollins, Hachette Book Group, Macmillan, Penguin Group Inc., and Simon &amp;amp; Schuster Inc, plus one more defendant: Apple.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Статистика рынка книг США за 2008-2010 год от BookStat и AAP</title>
-      <link>/posts/2011-08-10-2/</link>
+      <link>//localhost:1313/posts/2011-08-10-2/</link>
       <pubDate>Wed, 10 Aug 2011 14:26:05 +0000</pubDate>
-      
-      <guid>/posts/2011-08-10-2/</guid>
-      <description>Ассоциация американских издателей вместе с Book Industry Study Group, обработав данные от 1963 издателей, подготовили отчёт о книжном рынке США за 2008-2010 год.
-Общие выводы: налицо рост чистой выручки за три года на 5,6% (с $26,5 млрд до $27,9 млрд) в деньгах и на 4,1% (с 2,474 млрд до 2,57 млрд) в экземплярах.
-Электронные книги отнесены в исследовании к категории trade books (другие четыре: учебники для школ, учебники для университетов, монографии для профессионалов и для высшей школы).</description>
+      <guid>//localhost:1313/posts/2011-08-10-2/</guid>
+      <description>&lt;p&gt;Ассоциация американских издателей вместе с Book Industry Study Group, обработав данные от 1963 издателей, подготовили &lt;a href=&#34;http://www.publishers.org/press/44/&#34;&gt;отчёт о книжном рынке США за 2008-2010 год&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Общие выводы: налицо рост чистой выручки за три года на 5,6% (с $26,5 млрд до $27,9 млрд) в деньгах и на 4,1% (с 2,474 млрд до 2,57 млрд) в экземплярах.&lt;/p&gt;&#xA;&lt;p&gt;Электронные книги отнесены в исследовании к категории trade books (другие четыре: учебники для школ, учебники для университетов, монографии для профессионалов и для высшей школы). Вся категория trade составляет $13,944 млрд, то есть 50% рынка (или 2,26 млрд книг — 88% рынка). Так вот электронные книги составили в 2010 году 6,4% trade-рынка (ср. 0,6% в 2008 году). В деньгах электронный книги дали $878 млн (рост за три года 1274%) при продажах на уровне 114 млн экземпляров (рост на 1039%). В некоторых подкатегориях, типа trade для взрослых, доля электронных книг выше — 13,6% чистой выручки.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Началась охота за электронными правами на старые книги. В США и Великобритании</title>
-      <link>/posts/2011-06-17-d/</link>
+      <link>//localhost:1313/posts/2011-06-17-d/</link>
       <pubDate>Fri, 17 Jun 2011 21:44:39 +0000</pubDate>
-      
-      <guid>/posts/2011-06-17-d/</guid>
-      <description>Klebanoff, who founded New York-based digital publisher Rosetta Books in 2001, met UK-based agents last week and addressed a meeting of about 65 agents organised by the Association of Authors Agents on Monday.
-Klebanoff is looking for backlist titles where digital rights are unassigned, with a view to acquiring both world rights or US rights alone. He said Rosetta was offering a royalty more than double that on offer from large print publishers—a 50% net royalty payment for up to 2,500 copies sold and then 60% after.</description>
+      <guid>//localhost:1313/posts/2011-06-17-d/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Klebanoff, who founded New York-based digital publisher Rosetta Books in 2001, met UK-based agents last week and addressed a meeting of about 65 agents organised by the Association of Authors Agents on Monday.&lt;/p&gt;&#xA;&lt;p&gt;Klebanoff is looking for backlist titles where digital rights are unassigned, with a view to acquiring both world rights or US rights alone. He said Rosetta was offering a royalty more than double that on offer from large print publishers—a 50% net royalty payment for up to 2,500 copies sold and then 60% after.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bowker: американская книжная индустрия растёт за счёт полезных книг</title>
-      <link>/posts/2011-05-19-a/</link>
+      <link>//localhost:1313/posts/2011-05-19-a/</link>
       <pubDate>Thu, 19 May 2011 10:00:12 +0000</pubDate>
-      
-      <guid>/posts/2011-05-19-a/</guid>
-      <description>Bowker [has] released their annual report on U.S. print book publishing, compiled from its Books In Print database. Based on preliminary figures from U.S. publishers,Bowker is projecting that despite the popularity of e-books, traditional U.S. print title output in 2010 increased 5%. Output of new titles and editions increased from 302,410 in 2009 to a projected 316,480 in 2010. The 5% increase comes on the heels of a 4% increase the previous year based on the final 2008-2009 figures.</description>
+      <guid>//localhost:1313/posts/2011-05-19-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Bowker [has] released their annual report on U.S. print book publishing, compiled from its Books In Print database.  Based on preliminary figures from U.S. publishers,&lt;strong&gt;Bowker is projecting that despite the popularity of e-books, traditional U.S. print title output in 2010 increased 5%.&lt;/strong&gt; Output of new titles and editions increased from 302,410 in 2009 to a projected 316,480 in 2010. The 5% increase comes on the heels of a 4% increase the previous year based on the final 2008-2009 figures.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>А вот и данные по книжным продажам в США за февраль подоспели</title>
-      <link>/posts/2011-04-14-a/</link>
+      <link>//localhost:1313/posts/2011-04-14-a/</link>
       <pubDate>Thu, 14 Apr 2011 21:36:00 +0000</pubDate>
-      
-      <guid>/posts/2011-04-14-a/</guid>
-      <description>For February 2011, e-Books ranked as the #1 format among all categories of Trade publishing (Adult Hardcover, Adult Paperback, Adult Mass Market, Children’s/Young Adult Hardcover, Children’s/Young Adult Paperback).
-This one-month surge is primarily attributed to a high level of strong post-holiday e-Book buying, or “loading,” by consumers who received e-Reader devices as gifts. Experts note that the expanded selection of e-Readers introduced for the holidays and the broader availability of titles are factors.</description>
+      <guid>//localhost:1313/posts/2011-04-14-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;For February 2011, e-Books ranked as the #1 format among all categories of Trade publishing (Adult Hardcover, Adult Paperback, Adult Mass Market, Children’s/Young Adult Hardcover, Children’s/Young Adult Paperback).&lt;/p&gt;&#xA;&lt;p&gt;This one-month surge is primarily attributed to a high level of strong post-holiday e-Book buying, or “loading,” by consumers who received e-Reader devices as gifts. Experts note that the expanded selection of e-Readers introduced for the holidays and the broader availability of titles are factors.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Звериный оскал американских агрегаторов контента</title>
-      <link>/posts/2011-04-13-a/</link>
+      <link>//localhost:1313/posts/2011-04-13-a/</link>
       <pubDate>Wed, 13 Apr 2011 11:36:06 +0000</pubDate>
-      
-      <guid>/posts/2011-04-13-a/</guid>
-      <description>The Kansas State Library&amp;rsquo;s contract with OverDrive expires this December. In September 2010, the library&amp;rsquo;s director, Jo Budler, received an initial renewal proposal from OverDrive that would have raised the annual administrative fee from its current $10,800 to $25,000 in 2012, $50,000 in 2013, and $75,000 in 2014 and 2015, a 694 percent increase in just three years.
-&amp;ldquo;My own budget has been cut 26 percent and to expect that kind of increase is unreasonable.</description>
+      <guid>//localhost:1313/posts/2011-04-13-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The Kansas State Library&amp;rsquo;s contract with OverDrive expires this December. In September 2010, the library&amp;rsquo;s director, Jo Budler, received an initial renewal proposal from OverDrive that would have raised the annual administrative fee from its current $10,800 to $25,000 in 2012, $50,000 in 2013, and $75,000 in 2014 and 2015, a 694 percent increase in just three years.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;My own budget has been cut 26 percent and to expect that kind of increase is unreasonable. This is unsustainable pricing,&amp;rdquo; Budler told &lt;em&gt;LJ&lt;/em&gt;, saying she refused to accept the proposal, which she called &amp;ldquo;astronomical.&amp;rdquo;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O&#39;Reilly вместе с Ingram сделали еще один шаг в будущее книгоиздания</title>
-      <link>/posts/2011-04-07-a/</link>
+      <link>//localhost:1313/posts/2011-04-07-a/</link>
       <pubDate>Thu, 07 Apr 2011 16:20:04 +0000</pubDate>
-      
-      <guid>/posts/2011-04-07-a/</guid>
-      <description>The program enables O’Reilly to boldly shift from a traditional inventory and capital intensive business model to an on-demand program that selects the most timely and cost effective method to print and distribute books, allowing consumers full and immediate access to all of O’Reilly’s titles. O’Reilly is now able to increase their title and channel availability, substantially reduce inventory, free up resources to invest in content development and increase revision speed, keeping the most relevant content available in the market.</description>
+      <guid>//localhost:1313/posts/2011-04-07-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The program enables O’Reilly to boldly shift from a traditional inventory and capital intensive business model to an on-demand program that selects the most timely and cost effective method to print and distribute books, allowing consumers full and immediate access to all of O’Reilly’s titles. O’Reilly is now able to increase their title and channel availability, substantially reduce inventory, free up resources to invest in content development and increase revision speed, keeping the most relevant content available in the market.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Продажи электронных книг в США выросли в январе на 116% по сравнению с прошлым годом</title>
-      <link>/posts/2011-03-17-a/</link>
+      <link>//localhost:1313/posts/2011-03-17-a/</link>
       <pubDate>Thu, 17 Mar 2011 22:08:12 +0000</pubDate>
-      
-      <guid>/posts/2011-03-17-a/</guid>
-      <description>According to Association of American Publishers (AAP) sales figures, eBook net sales increased by 115.8 percent, up from $32.4 million to $69.9 million.
-At the same time both adult mass market paperbacks and hardcovers lost sales.
- via mediabistro.com
-То есть теперь в Америке каждый день продаётся электронных книг больше, чем в России за весь прошлый год (70 млн против 2 млн долларов).
-А вот весь книжный рынок в США упал на 2%.</description>
+      <guid>//localhost:1313/posts/2011-03-17-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;According to &lt;a href=&#34;http://www.publishers.org/&#34;&gt;Association of American Publishers&lt;/a&gt; (AAP) sales figures, eBook net sales increased by 115.8 percent, up from $32.4 million to $69.9 million.&lt;/p&gt;&#xA;&lt;p&gt;At the same time both adult mass market paperbacks and hardcovers lost sales.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.mediabistro.com/ebooknewser/ebook-net-sales-increased-nearly-116-in-january_b7670&#34;&gt;mediabistro.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;То есть теперь в Америке каждый день продаётся электронных книг больше, чем в России за весь прошлый год (70 млн против 2 млн долларов).&lt;/p&gt;&#xA;&lt;p&gt;А вот весь книжный рынок в США упал на 2%. Причём сильнее всего — фикшн, и в переплёте (на 11%), и в обложке (на 20%), и &amp;ldquo;масс маркет&amp;rdquo; (аж на 31%).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>В США, оказывается, та же фигня вокруг книжного &#34;пиратства&#34;, что и в России</title>
-      <link>/posts/2011-02-26-b/</link>
+      <link>//localhost:1313/posts/2011-02-26-b/</link>
       <pubDate>Sat, 26 Feb 2011 20:45:52 +0000</pubDate>
-      
-      <guid>/posts/2011-02-26-b/</guid>
-      <description>If copyright is violated, it’s not theft (depriving someone of their work); it’s infringement. When infringement occurs, publishers and authors can seek relief, generally payment for unauthorized use. Changing the law, however (which is what the Authors Guild hopes will happen), should depend on an assessment of adverse impact.
-Books uploaded to file-sharing sites are an infringing use. They represent (in my world) an “instance of piracy”. Someone did something with book content they should not have done.</description>
+      <guid>//localhost:1313/posts/2011-02-26-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;If copyright is violated, it’s not theft (depriving someone of their work); it’s infringement.  When infringement occurs, publishers and authors can seek relief, generally payment for unauthorized use.  Changing the law, however (which is what the Authors Guild hopes will happen), should depend on an assessment of adverse impact.&lt;/p&gt;&#xA;&lt;p&gt;Books uploaded to file-sharing sites are an infringing use.  They represent (in my world) an “instance of piracy”.  Someone did something with book content they should not have done.  Copyright owners can seek remedies.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O&#39;Reilly подвёл итоги 2010 года</title>
-      <link>/posts/2011-02-24-d/</link>
+      <link>//localhost:1313/posts/2011-02-24-d/</link>
       <pubDate>Thu, 24 Feb 2011 07:15:16 +0000</pubDate>
-      
-      <guid>/posts/2011-02-24-d/</guid>
-      <description>ebooks represent about 88% of our unit sales, and 79% of our dollar sales on oreilly.com. What is really impressive is that the growth of our digital products is moving faster than the decline of our print products. This suggests to me that we are not seeing one product type cannibalizing another — rather they are supplementing each other.
- via radar.oreilly.com
-«Электронные книги — 88% продаж в штуках, 79% — в деньгах.</description>
+      <guid>//localhost:1313/posts/2011-02-24-d/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;ebooks represent about 88% of our unit sales, and 79% of our dollar sales on oreilly.com. What is really impressive is that the growth of our digital products is moving faster than the decline of our print products. This suggests to me that we are not seeing one product type cannibalizing another — rather they are supplementing each other.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://radar.oreilly.com/2011/02/2010-book-market-5.html&#34;&gt;radar.oreilly.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;«Электронные книги — 88% продаж в штуках, 79% — в деньгах. И рост цифровых продаж растёт быстрее, чем падают продажи бумажных книг».&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Borders подал на банкротство</title>
-      <link>/posts/2011-02-16-a/</link>
+      <link>//localhost:1313/posts/2011-02-16-a/</link>
       <pubDate>Wed, 16 Feb 2011 14:31:08 +0000</pubDate>
-      
-      <guid>/posts/2011-02-16-a/</guid>
-      <description>Brick-and-mortar booksellers like Borders, second in size only to Barnes &amp;amp; Noble Inc., have battled competition from Internet-only retailers such as Amazon.com Inc. and the advent of digital books and e-readers.
- via online.wsj.com
-644 магазина. Вторая по величине книготорговая сеть США.</description>
+      <guid>//localhost:1313/posts/2011-02-16-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Brick-and-mortar booksellers like Borders, second in size only to &lt;a href=&#34;http://online.wsj.com/public/quotes/main.html?type=djn&amp;amp;symbol=BKS&#34;&gt;Barnes &amp;amp; Noble&lt;/a&gt; Inc., have battled competition from Internet-only retailers such as &lt;a href=&#34;http://online.wsj.com/public/quotes/main.html?type=djn&amp;amp;symbol=AMZN&#34;&gt;Amazon.com&lt;/a&gt; Inc. and the advent of digital books and e-readers.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://online.wsj.com/article/SB10001424052748703373404576147922340434998.html?mod=WSJ_hp_LEFTTopStories&#34;&gt;online.wsj.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;644 магазина. Вторая по величине книготорговая сеть США.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Собственно - к предыдущему пассажу Альперовича</title>
-      <link>/posts/2011-02-09-a/</link>
+      <link>//localhost:1313/posts/2011-02-09-a/</link>
       <pubDate>Wed, 09 Feb 2011 17:23:41 +0000</pubDate>
-      
-      <guid>/posts/2011-02-09-a/</guid>
-      <description>At HarperCollins, for example, e-books made up 25 percent of all young-adult sales in January, up from about 6 percent a year before — a boom in sales that quickly got the attention of publishers there.
-“Adult fiction is hot, hot, hot, in e-books,” said Susan Katz, the president and publisher of HarperCollins Children’s Books. “And now it seems that teen fiction is getting to be hot, hot, hot.”</description>
+      <guid>//localhost:1313/posts/2011-02-09-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;At HarperCollins, for example, e-books made up 25 percent of all young-adult sales in January, up from about 6 percent a year before — a boom in sales that quickly got the attention of publishers there.&lt;/p&gt;&#xA;&lt;p&gt;“Adult fiction is hot, hot, hot, in e-books,” said Susan Katz, the president and publisher of HarperCollins Children’s Books. “And now it seems that teen fiction is getting to be hot, hot, hot.”&lt;/p&gt;&#xA;&lt;p&gt;In their infancy e-readers were adopted by an older generation that valued the devices for their convenience, portability and, in many cases, simply for their ability to enlarge text to a more legible size. Appetite for e-book editions of best sellers and adult genre fiction — romance, mysteries, thrillers — has seemed almost bottomless.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Электронные книги в США - 9% рынка продаж</title>
-      <link>/posts/2010-12-08-62/</link>
+      <link>//localhost:1313/posts/2010-12-08-62/</link>
       <pubDate>Wed, 08 Dec 2010 16:20:05 +0000</pubDate>
-      
-      <guid>/posts/2010-12-08-62/</guid>
-      <description>E Book Sales Hold Steady At Nearly 9% of Trade Book Sales
-E-book sales from participating reporting publishers continue to grow, with a 112.4 percent increase over October 2009 ($40.7 million) compared to $19.2 million in October 2009. January-October 2010 year-to-date E-book sales are up 171.3 percent reaching $345.3 million compared to 127.3 million from January-October 2009.
- via publishers.org
-Не хило.</description>
+      <guid>//localhost:1313/posts/2010-12-08-62/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;E Book Sales Hold Steady At Nearly 9% of Trade Book Sales&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&#xA;E-book sales from participating reporting publishers continue to grow, with a 112.4 percent increase over October 2009 ($40.7 million) compared to $19.2 million in October 2009. January-October 2010 year-to-date E-book sales are up 171.3 percent reaching $345.3 million compared to 127.3 million from January-October 2009.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.publishers.org/main/PressCenter/Archicves/2010_Dec/AAPReportsOctoberBookSales.htm/images/Octoberstatsreleasegraph.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.publishers.org/main/PressCenter/Archicves/2010_Dec/AAPReportsOctoberBookSales.htm&#34;&gt;publishers.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Не хило.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Данные продаж электронных книг в США от IDPF</title>
-      <link>/posts/2010-11-11-48/</link>
+      <link>//localhost:1313/posts/2010-11-11-48/</link>
       <pubDate>Thu, 11 Nov 2010 16:34:59 +0000</pubDate>
-      
-      <guid>/posts/2010-11-11-48/</guid>
-      <description>Q3 2010 = $119.7 Million
- via idpf.org
-То есть с начала года — $304,6 млн. То есть Forrester и правда осторожничает.</description>
+      <guid>//localhost:1313/posts/2010-11-11-48/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Q3 2010 = $119.7 Million&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.idpf.org/doc_library/industrystats.htm&#34;&gt;idpf.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;То есть с начала года — $304,6 млн. То есть Forrester и правда осторожничает.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Индустриальный обзор электронного книгоиздания (в США и мире)</title>
-      <link>/posts/2010-11-04-77/</link>
+      <link>//localhost:1313/posts/2010-11-04-77/</link>
       <pubDate>Thu, 04 Nov 2010 12:48:49 +0000</pubDate>
-      
-      <guid>/posts/2010-11-04-77/</guid>
-      <description>от Gilbane Group раздаёт Aptara. Отчёт отчасти рекламный, отчасти — просветительский. Но местами любопытный - с оценками объёма рынков по темам и регионам.</description>
+      <guid>//localhost:1313/posts/2010-11-04-77/</guid>
+      <description>&lt;p&gt;от Gilbane Group &lt;a href=&#34;http://www.aptaracorp.com/gilbane-2010-study/&#34;&gt;раздаёт&lt;/a&gt; Aptara. Отчёт отчасти рекламный, отчасти — просветительский. Но местами любопытный - с оценками объёма рынков по темам и регионам.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Продажи е-книг в США в июле признаны рекордными</title>
-      <link>/posts/2010-09-23-169/</link>
+      <link>//localhost:1313/posts/2010-09-23-169/</link>
       <pubDate>Thu, 23 Sep 2010 15:03:57 +0000</pubDate>
-      
-      <guid>/posts/2010-09-23-169/</guid>
-      <description>Согласно представленным результатам, которые приводит журнал The Bookseller, продажи е-книг на территории США в минувшем июле принесли 40,8 миллиона долларов по сравнению с 16,3 миллиона долларов в июле 2009 года. Предыдущий рекорд продаж за месяц составлял 31,9 миллиона.
- pro-books.ru
-40 млн долларов — это примерный объём продаж всех бумажных книг за неделю в России.</description>
+      <guid>//localhost:1313/posts/2010-09-23-169/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Согласно представленным результатам, которые приводит журнал The Bookseller, продажи е-книг на территории США в минувшем июле принесли 40,8 миллиона долларов по сравнению с 16,3 миллиона долларов в июле 2009 года. Предыдущий рекорд продаж за месяц составлял 31,9 миллиона.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://pro-books.ru/sitearticles/5233&#34;&gt;pro-books.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;40 млн долларов — это примерный объём продаж всех бумажных книг за неделю в России.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New Thriller Sells More E-Books Than Hardcovers - WSJ</title>
-      <link>/posts/2010-08-27-120/</link>
+      <link>//localhost:1313/posts/2010-08-27-120/</link>
       <pubDate>Fri, 27 Aug 2010 10:03:13 +0000</pubDate>
-      
-      <guid>/posts/2010-08-27-120/</guid>
-      <description>Laura Lippman’s thriller, “I’d Know You Anywhere,” went on sale Aug. 17, and in its first five days sold 4,739 e-books and 4,000 physical hardcovers, said News Corp.’s HarperCollins Publishers.
-“This is the first book of ours of any consequence that has sold more e-books than hardcovers in the first week,” said Frank Albanese, a senior vice president at HarperCollins. “What we’re seeing now is that if a book gets a good review, it gets a faster lift on the digital side than it does on the physical side because people who have e-readers can buy and read it immediately.</description>
+      <guid>//localhost:1313/posts/2010-08-27-120/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Laura Lippman’s thriller, “I’d Know You Anywhere,” went on sale Aug. 17, and in its first five days sold 4,739 e-books and 4,000 physical hardcovers, said News Corp.’s HarperCollins Publishers.&lt;/p&gt;&#xA;&lt;p&gt;“This is the first book of ours of any consequence that has sold more e-books than hardcovers in the first week,” said Frank Albanese, a senior vice president at HarperCollins. “What we’re seeing now is that if a book gets a good review, it gets a faster lift on the digital side than it does on the physical side because people who have e-readers can buy and read it immediately.”&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>E-Book Sales Jumped 252% in First Quarter, AAP Reports</title>
-      <link>/posts/2010-05-24-57/</link>
+      <link>//localhost:1313/posts/2010-05-24-57/</link>
       <pubDate>Mon, 24 May 2010 21:31:45 +0000</pubDate>
-      
-      <guid>/posts/2010-05-24-57/</guid>
-      <description>E-book sales from the 13 publishers that report results to the Association of American Publishers’ monthly sales program rose nearly 252% in the first quarter of 2010, to $91 million, the association reported this morning. Growth actually slowed somewhat in March from the earlier two months, but sales still increased 184.8% to $28.5 million.
- via publishersweekly.com</description>
+      <guid>//localhost:1313/posts/2010-05-24-57/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;E-book sales from the 13 publishers that report results to the Association of American Publishers’ monthly sales program rose nearly 252% in the first quarter of 2010, to $91 million, the association reported this morning. Growth actually slowed somewhat in March from the earlier two months, but sales still increased 184.8% to $28.5 million.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/43294-e-book-sales-jumped-252-in-first-quarter-aap-reports.html&#34;&gt;publishersweekly.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Структура книжных продаж в США (2009)</title>
-      <link>/posts/2010-02-28-201/</link>
+      <link>//localhost:1313/posts/2010-02-28-201/</link>
       <pubDate>Sun, 28 Feb 2010 23:35:44 +0000</pubDate>
-      
-      <guid>/posts/2010-02-28-201/</guid>
-      <description>The publishing industry’s alarm over the electronic book isn’t based on current use. Last year, less than 2 percent of all books sold were e-books, according to Bowker, which tracks the industry.
-Skip to next paragraph
-By contrast, trade paperbacks and hardcovers made up approximately 35 percent each of unit sales, Bowker says. Mass market paperbacks came in at 21 percent.
-But we all know how fast technology can take hold.</description>
+      <guid>//localhost:1313/posts/2010-02-28-201/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The publishing industry’s alarm over the electronic book isn’t based on current use. Last year, less than 2 percent of all books sold were e-books, according to Bowker, which tracks the industry.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2010/02/28/business/economy/28count.html?partner=rss&amp;amp;emc=rss#secondParagraph&#34;&gt;Skip to next paragraph&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://graphics8.nytimes.com/images/2010/02/28/business/28count_graphic/28count_graphic-articleInline.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;By contrast, trade paperbacks and hardcovers made up approximately 35 percent each of unit sales, Bowker says. Mass market paperbacks came in at 21 percent.&lt;/p&gt;&#xA;&lt;p&gt;But we all know how fast technology can take hold. Not long ago, e-commerce sites like &lt;a href=&#34;http://topics.nytimes.com/top/news/business/companies/amazon_inc/index.html?inline=nyt-org&#34; title=&#34;More information about Amazon.com Inc&#34;&gt;Amazon.com&lt;/a&gt; were just a blip on the bookselling scene, and now they are major players.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Добраться до каждого, кто покупает хотя бы 2 книги в год</title>
-      <link>/posts/2009-12-17-40/</link>
+      <link>//localhost:1313/posts/2009-12-17-40/</link>
       <pubDate>Thu, 17 Dec 2009 23:52:33 +0000</pubDate>
-      
-      <guid>/posts/2009-12-17-40/</guid>
-      <description>Borders Group, told me that the company wants to reach “readers who buy a couple of books a year and we hope to offer a product for that market.
- via bits.blogs.nytimes.com
-Благородно.</description>
+      <guid>//localhost:1313/posts/2009-12-17-40/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Borders Group, told me that the company wants to reach “readers who buy a couple of books a year and we hope to offer a product for that market.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://bits.blogs.nytimes.com/2009/12/15/borders-and-kobo-will-develop-new-e-reader/&#34;&gt;bits.blogs.nytimes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Благородно.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Электронные книги - 5% рынка в деньгах. 10% в экземплярах?</title>
-      <link>/posts/2009-11-28-159/</link>
+      <link>//localhost:1313/posts/2009-11-28-159/</link>
       <pubDate>Sat, 28 Nov 2009 15:41:39 +0000</pubDate>
-      
-      <guid>/posts/2009-11-28-159/</guid>
-      <description>Professional and Scholarly Publishing Leads the Market for Ebooks by a Wide Margin « The Scholarly Kitchen
- Al Greco, Professor of Marketing at Fordham University’s Graduate School of Business Administration, presented data he has complied on the ebook market in the US to seminar attendees. These data are drawn from a variety of sources, including the US Department of Commerce, the US Department of Education, the Bureau of Labor Statistics, the US Department of Treasury, the Federal Reserve Bank, the Congressional Budget Office, and the National Bureau of Economic Research.</description>
+      <guid>//localhost:1313/posts/2009-11-28-159/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://scholarlykitchen.sspnet.org/2009/11/24/professional-and-scholarly-publishing-leads-the-market-for-e-books-by-a-wide-margin/#&#34;&gt;Professional and Scholarly Publishing Leads the Market for Ebooks by a Wide Margin « The Scholarly Kitchen&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Al Greco, Professor of Marketing at Fordham University’s Graduate School of Business Administration, presented data he has complied on the ebook market in the US to seminar attendees. These data are drawn from a variety of sources, including the US Department of Commerce, the US Department of Education, the Bureau of Labor Statistics, the US Department of Treasury, the Federal Reserve Bank, the Congressional Budget Office, and the National Bureau of Economic Research. Professor Greco’s data are must-read information for anyone interested in the ebook market, and are the only data I have seen that breaks out the US market by industry segment. According to Greco, book publishing (print and electronic) in the US is a $35 billion dollar industry. This year, he forecasts that ebooks will account for 5% of that revenue, or $1.76 billion. Of that $1.76 billion, trade books account for 8.6%, or $151 million; K-12 accounts for 8.1% ($143 million); higher education accounts for 6.9% ($122 million); and university presses account for 0.4% ($7.7 million). Professional and scholarly publishing titles represent 75.9% of the US ebook market, or $1.33 billion. In other words, professional and scholarly ebooks account for more than three times the rest of the US ebook market combined.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Писатели против издателей</title>
-      <link>/posts/2009-11-19-168/</link>
+      <link>//localhost:1313/posts/2009-11-19-168/</link>
       <pubDate>Thu, 19 Nov 2009 13:43:21 +0000</pubDate>
-      
-      <guid>/posts/2009-11-19-168/</guid>
-      <description>Американские авторы объединились для создания е-книг | Pro-Books.ru
- Писатели создали организацию, дабы выпускать свои книги в электронном виде без помощи издателей. Как сообщает журнал Bookseller, группа американских писателей, включая Урсулу Ле Гуин, решила миновать стадию традиционного издательского процесса и самостоятельно подготовила электронные версии своих новых произведений. Они предназначены непосредственно для чтения на ридерах Kindle and Sony. Организация Book View Press была основана в начале этого года членами сообщества Book View Cafe, в котором состояли 27 авторов, на чьем счету числилось немало бестселлеров и наград.</description>
+      <guid>//localhost:1313/posts/2009-11-19-168/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pro-books.ru/sitearticles/2565&#34;&gt;Американские авторы объединились для создания е-книг | Pro-Books.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Писатели создали организацию, дабы выпускать свои книги в электронном виде без помощи издателей. Как сообщает журнал Bookseller, группа американских писателей, включая Урсулу Ле Гуин, решила миновать стадию традиционного издательского процесса и самостоятельно подготовила электронные версии своих новых произведений. Они предназначены непосредственно для чтения на ридерах Kindle and Sony. Организация Book View Press была основана в начале этого года членами сообщества Book View Cafe, в котором состояли 27 авторов, на чьем счету числилось немало бестселлеров и наград.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Итоги книжных продаж в США (июл, 2009)</title>
-      <link>/posts/2009-09-23-160/</link>
+      <link>//localhost:1313/posts/2009-09-23-160/</link>
       <pubDate>Wed, 23 Sep 2009 20:25:07 +0000</pubDate>
-      
-      <guid>/posts/2009-09-23-160/</guid>
-      <description>Publishing Sales July 09
- E-books sales reached $16.2 million, reflecting a 213.5 percent increase for July, and a 173.9 percent year to-date. Sales of University Press Hardcover books reflected a 15.1 percent decrease in July with sales of $5.2 million; sales decreased by 8.6 percent for the year. University Press Paperback sales posted a decrease of 3.2 percent for the month with sales totaling $8.8 million; sales were down 5.</description>
+      <guid>//localhost:1313/posts/2009-09-23-160/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.publishers.org/main/PressCenter/Archicves/2009_September/PublishingSalesJuly09.htm&#34;&gt;Publishing Sales July 09&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;E-books sales reached $16.2 million, reflecting a 213.5 percent increase for July, and a 173.9 percent year to-date. Sales of University Press Hardcover books reflected a 15.1 percent decrease in July with sales of $5.2 million; sales decreased by 8.6 percent for the year. University Press Paperback sales posted a decrease of 3.2 percent for the month with sales totaling $8.8 million; sales were down 5.5 percent for the year.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Структура электронного книгоиздания в США</title>
-      <link>/posts/2009-09-19-53/</link>
+      <link>//localhost:1313/posts/2009-09-19-53/</link>
       <pubDate>Sat, 19 Sep 2009 08:54:42 +0000</pubDate>
-      
-      <guid>/posts/2009-09-19-53/</guid>
-      <description>Graphic: A Big Boom in the Universe of Electronic Books</description>
+      <guid>//localhost:1313/posts/2009-09-19-53/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.techflash.com/seattle/2009/09/the_expanding_universe_of_electronic_books.html&#34;&gt;Graphic: A Big Boom in the Universe of Electronic Books&lt;/a&gt;&lt;br&gt;&#xA;&lt;img src=&#34;http://assets.bizjournals.com/cms_media/images/ebookuniversel.png?site=techflash.com&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>1% американцев читает книги на iPhone</title>
-      <link>/posts/2009-09-01-1/</link>
+      <link>//localhost:1313/posts/2009-09-01-1/</link>
       <pubDate>Tue, 01 Sep 2009 20:53:45 +0000</pubDate>
-      
-      <guid>/posts/2009-09-01-1/</guid>
-      <description>Perhaps 1% of the US population using iPhone ebook apps | TeleRead: Bring the E-Books Home
-   … Examining active user sessions tracked by Flurry within the eBooks category, the chart above shows steep growth, over 300% from April to July. In July, Flurry tracked nearly three million active users in the eBooks category, or 1% of the US population.
- Кажется, это по меньшей мере в 3 раза больше, чем пользователей Kindle.</description>
+      <guid>//localhost:1313/posts/2009-09-01-1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.teleread.org/2009/09/01/perhaps-1-of-the-us-population-using-iphone-ebook-apps/&#34;&gt;Perhaps 1% of the US population using iPhone ebook apps | TeleRead: Bring the E-Books Home&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.teleread.org/wp-content/uploads/2009/09/flurry-julypulse-ebookactiveusers-resized-600.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;… Examining active user sessions tracked by Flurry within the eBooks category, the chart above shows steep growth, over 300% from April to July. In July, Flurry tracked nearly three million active users in the eBooks category, or 1% of the US population.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Кажется, это по меньшей мере в 3 раза больше, чем пользователей Kindle.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Продажи электронных книг в США - итоги мая 2009</title>
-      <link>/posts/2009-08-09-148/</link>
+      <link>//localhost:1313/posts/2009-08-09-148/</link>
       <pubDate>Sun, 09 Aug 2009 09:12:41 +0000</pubDate>
-      
-      <guid>/posts/2009-08-09-148/</guid>
-      <description>Wholesale eBook Sales Statistics
-  Если ничего не случится, то по итогам года продажи электронных книг в США будут больше $110-120 млн.</description>
+      <guid>//localhost:1313/posts/2009-08-09-148/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.idpf.org/doc_library/industrystats.htm&#34;&gt;Wholesale eBook Sales Statistics&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.teleread.org/wp-content/uploads/2009/08/picture-11.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Если ничего не случится, то по итогам года продажи электронных книг в США будут больше $110-120 млн.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Опубликованы итоги продаж электронных книг в США за 1 квартал 2009 года</title>
-      <link>/posts/2009-05-20-109/</link>
+      <link>//localhost:1313/posts/2009-05-20-109/</link>
       <pubDate>Wed, 20 May 2009 20:13:31 +0000</pubDate>
-      
-      <guid>/posts/2009-05-20-109/</guid>
-      <description>IDPF опубликовал итоги продаж электронных книг в США за 1 квартал 2009 года. $25,8 млн. Это в 2,3 раза больше, чем в 1 квартале 2008 года. Это в 1,5 раза больше, чем за последний квартал 2008 года. Это почти столько же, сколько за второе полугодие 2008 года. Кажется, электронное книгоиздание — одна из немногих отраслей, в которой нет никакого кризиса. Напротив, только бурный рост.</description>
+      <guid>//localhost:1313/posts/2009-05-20-109/</guid>
+      <description>&lt;p&gt;IDPF опубликовал итоги продаж электронных книг в США за 1 квартал 2009 года. $25,8 млн. Это в 2,3 раза больше, чем в 1 квартале 2008 года. Это в 1,5 раза больше, чем за последний квартал 2008 года. Это почти столько же, сколько за второе полугодие 2008 года. Кажется, электронное книгоиздание — одна из немногих отраслей, в которой нет никакого кризиса. Напротив, только бурный рост.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>On Demand vs. обычного книгоиздания</title>
-      <link>/posts/2009-05-19-108/</link>
+      <link>//localhost:1313/posts/2009-05-19-108/</link>
       <pubDate>Tue, 19 May 2009 16:20:06 +0000</pubDate>
-      
-      <guid>/posts/2009-05-19-108/</guid>
-      <description>Bowker Reports U.S. Book Production Declines 3% in 2008, but &amp;ldquo;On Demand&amp;rdquo; Publishing More than Doubles
- Bowker, the global leader in bibliographic information management solutions, today released statistics on U.S. book publishing for 2008, compiled from its Books In Print® database. Based on preliminary figures from U.S. publishers, Bowker is projecting that U.S. title output in 2008 decreased by 3.2%, with 275,232 new titles and editions, down from the 284,370 that were published in 2007.</description>
+      <guid>//localhost:1313/posts/2009-05-19-108/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://bowker.com/index.php/press-releases/563-bowker-reports-us-book-production-declines-3-in-2008-but-qon-demandq-publishing-more-than-doubles&#34;&gt;Bowker Reports U.S. Book Production Declines 3% in 2008, but &amp;ldquo;On Demand&amp;rdquo; Publishing More than Doubles&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Bowker, the global leader in bibliographic information management solutions, today released statistics on U.S. book publishing for 2008, compiled from its Books In Print® database. Based on preliminary figures from U.S. publishers, Bowker is projecting that U.S. title output in 2008 decreased by 3.2%, with 275,232 new titles and editions, down from the 284,370 that were published in 2007. Despite this decline in traditional book publishing, there was another extraordinary year of growth in the reported number of “On Demand” and short-run books produced in 2008. Bowker projects that 285, 394 On Demand books were produced last year, a staggering 132% increase over last year’s final total of 123,276 titles. This is the second consecutive year of triple-digit growth in the On Demand segment, which in 2008 was 462% above levels seen as recently as 2006.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Данные продаж бумажных книг в США</title>
-      <link>/posts/2008-11-10-11/</link>
+      <link>//localhost:1313/posts/2008-11-10-11/</link>
       <pubDate>Mon, 10 Nov 2008 10:59:08 +0000</pubDate>
-      
-      <guid>/posts/2008-11-10-11/</guid>
-      <description>Google Signs a Deal to e-Publish Out-of-Print Books - NYTimes.com:
- in the first nine months of this year, book sales in the United States fell 1.5 percent, according to the Association of American Publishers
- То есть продажи бумажных книг упали на 1,5%. Ага.</description>
+      <guid>//localhost:1313/posts/2008-11-10-11/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2008/11/10/business/worldbusiness/10kindle.html&#34;&gt;Google Signs a Deal to e-Publish Out-of-Print Books - NYTimes.com&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;in the first nine months of this year, book sales in the United States fell 1.5 percent, according to the Association of American Publishers&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;То есть продажи бумажных книг упали на 1,5%. Ага.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>За год продажи электронных книг в США выросли три четверти</title>
-      <link>/posts/2008-11-07-58/</link>
+      <link>//localhost:1313/posts/2008-11-07-58/</link>
       <pubDate>Fri, 07 Nov 2008 11:46:43 +0000</pubDate>
-      
-      <guid>/posts/2008-11-07-58/</guid>
-      <description>Wholesale eBook Sales Statistics На сайт IDPF обновлена информация по продажам электронных книг в США (данные оценочные, поскольку в формировании статистики участвуют только 12-15 крупнейших издательств). Продажи в III квартале 2008 года составили $13.9 млн против $8 млн за тот же период 2007 года. Такой кризис.</description>
+      <guid>//localhost:1313/posts/2008-11-07-58/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://idpf.org/doc_library/industrystats.htm#&#34;&gt;Wholesale eBook Sales Statistics&lt;/a&gt; На сайт IDPF обновлена информация по продажам электронных книг в США (данные оценочные, поскольку в формировании статистики участвуют только 12-15 крупнейших издательств). Продажи в III квартале 2008 года составили $13.9 млн против $8 млн за тот же период 2007 года. Такой кризис.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Любопытная статистика книжного рынка США</title>
-      <link>/posts/2008-07-11-25/</link>
+      <link>//localhost:1313/posts/2008-07-11-25/</link>
       <pubDate>Fri, 11 Jul 2008 08:08:00 +0000</pubDate>
-      
-      <guid>/posts/2008-07-11-25/</guid>
-      <description>bestsellers: Книжный рынок США
- По данным агентства Bowker, ежегодно в США выпускаются 120 тыс. наименований книг. По данным газеты Publishers Weekly, 57 % новых книг не дочитываются до конца, а 70 % публикуемых в США книг не приносят прибыли. По оценкам Гильдии Писателей, «успехом» можно считать, когда продаются 5 тыс. экземпляров книги, содержащей новое литературное произведение (роман, рассказы, стихи и пр.) и 7,5 тыс. экземпляров книги нелитературного содержания (научно-популярные издания, энциклопедии и пр.</description>
+      <guid>//localhost:1313/posts/2008-07-11-25/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://community.livejournal.com/bestsellers/62447.html?style=mine#cutid1&#34;&gt;bestsellers: Книжный рынок США&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;По данным агентства Bowker, ежегодно в США выпускаются 120 тыс. наименований книг. По данным газеты Publishers Weekly, 57 % новых книг не дочитываются до конца, а 70 % публикуемых в США книг не приносят прибыли. По оценкам Гильдии Писателей, «успехом» можно считать, когда продаются 5 тыс. экземпляров книги, содержащей новое литературное произведение (роман, рассказы, стихи и пр.) и 7,5 тыс. экземпляров книги нелитературного содержания (научно-популярные издания, энциклопедии и пр.).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Обзор ситуации с электронными книгами в США (от «Эксперт Казахстан»)</title>
-      <link>/posts/2008-06-30-30/</link>
+      <link>//localhost:1313/posts/2008-06-30-30/</link>
       <pubDate>Mon, 30 Jun 2008 08:11:24 +0000</pubDate>
-      
-      <guid>/posts/2008-06-30-30/</guid>
-      <description>Несокрушимый бастион — Эксперт Online 2.0
- Электронные книги не только не стали серьезным конкурентом бумажным, но, напротив, поддерживают традиционное книгопечатание, подогревая интерес читателей к литературе.
- Via http://community.livejournal.com/bestsellers/57544.htm</description>
+      <guid>//localhost:1313/posts/2008-06-30-30/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.expert.ru/printissues/kazakhstan/2008/26/knigotorgovlya/&#34;&gt;Несокрушимый бастион — Эксперт Online 2.0&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Электронные книги не только не стали серьезным конкурентом бумажным, но, напротив, поддерживают традиционное книгопечатание, подогревая интерес читателей к литературе.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Via &lt;a href=&#34;http://community.livejournal.com/bestsellers/57544.htm&#34;&gt;http://community.livejournal.com/bestsellers/57544.htm&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Электронные книги на BookExpo&#39;08</title>
-      <link>/posts/2008-06-03-a/</link>
+      <link>//localhost:1313/posts/2008-06-03-a/</link>
       <pubDate>Tue, 03 Jun 2008 08:45:45 +0000</pubDate>
-      
-      <guid>/posts/2008-06-03-a/</guid>
-      <description>Electronic Device Stirs Unease at BookExpo - NYTimes.com
- That too makes bookstore owners nervous about the future of electronic books.
- Автор статьи в New York Times акцентирует внимание на том, что в электронном книгоиздании, кажется, произошел перелом: его присутствие на книжной ярмарке в Лос-Анджелесе было более, чем заметным, равно как тревоги книгопродавцев и активность издателей, спешащих вскочить на подножку уходящего поезда.</description>
+      <guid>//localhost:1313/posts/2008-06-03-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2008/06/02/books/02bea.html&#34;&gt;Electronic Device Stirs Unease at BookExpo - NYTimes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;That too makes bookstore owners nervous about the future of electronic books.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Автор статьи в New York Times акцентирует внимание на том, что в электронном книгоиздании, кажется, произошел перелом: его присутствие на книжной ярмарке в Лос-Анджелесе было более, чем заметным, равно как тревоги книгопродавцев и активность издателей, спешащих вскочить на подножку уходящего поезда.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

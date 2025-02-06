@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>internet archive on Новости электронного книгоиздания</title>
-    <link>/tags/internet-archive/</link>
-    <description>Recent content in internet archive on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Internet Archive on Новости электронного книгоиздания</title>
+    <link>//localhost:1313/tags/internet-archive/</link>
+    <description>Recent content in Internet Archive on Новости электронного книгоиздания</description>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 12 Feb 2019 11:04:07 +0000</lastBuildDate><atom:link href="/tags/internet-archive/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Feb 2019 11:04:07 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/internet-archive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Электронные книги и смерть ссылок</title>
-      <link>/posts/2019-02-12-a/</link>
+      <link>//localhost:1313/posts/2019-02-12-a/</link>
       <pubDate>Tue, 12 Feb 2019 11:04:07 +0000</pubDate>
-      
-      <guid>/posts/2019-02-12-a/</guid>
-      <description>Вот ответственные издатели относятся к электронным книгам как к книгам. И, в частности, проверяют работоспособность гиперссылок на внешние интернет-ресурсы. Потому что там та же болезнь, что и у веба в целом — link rot, постепенная смерть ссылок. Кликаешь на ссылку, а там Error 404, нет уже ресурса, сменился адрес или вообще удален. Полезная для издателей статья о том, как лечить. Спойлер: по преимуществу с помощью Wayback Machine Брюстера Кале и его Архива интернета.</description>
+      <guid>//localhost:1313/posts/2019-02-12-a/</guid>
+      <description>&lt;p&gt;Вот ответственные издатели относятся к электронным книгам как к книгам. И, в частности, проверяют работоспособность гиперссылок на внешние интернет-ресурсы. Потому что там та же болезнь, что и у веба в целом — link rot, постепенная смерть ссылок. Кликаешь на ссылку, а там Error 404, нет уже ресурса, сменился адрес или вообще удален. Полезная для издателей &lt;a href=&#34;https://www.booknetcanada.ca/blog/2019/2/11/link-rot-in-backlist-ebooks&#34;&gt;статья&lt;/a&gt; о том, как лечить. Спойлер: по преимуществу с помощью Wayback Machine Брюстера Кале и его Архива интернета.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

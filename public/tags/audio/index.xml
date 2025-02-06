@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>audio on Новости электронного книгоиздания</title>
-    <link>/tags/audio/</link>
-    <description>Recent content in audio on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Audio on Новости электронного книгоиздания</title>
+    <link>//localhost:1313/tags/audio/</link>
+    <description>Recent content in Audio on Новости электронного книгоиздания</description>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 20 Jan 2020 22:43:02 +0300</lastBuildDate><atom:link href="/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jan 2020 22:43:02 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/audio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Penguin Random House отозвал книги у безлимитных сервисов</title>
-      <link>/posts/2020-01-20-1/</link>
+      <link>//localhost:1313/posts/2020-01-20-1/</link>
       <pubDate>Mon, 20 Jan 2020 22:43:02 +0300</pubDate>
-      
-      <guid>/posts/2020-01-20-1/</guid>
-      <description>Пишут, что Penguin Random House со знакомыми повадками самого крутого парня на деревне отозвал свои аудиокниги на английском из подписочных сервисов Storytel, Bookbeat и Nextory, ссылаясь на &amp;ldquo;каннибализацию&amp;rdquo;. Это особенно забавно, поскольку практически все эти сервисы работают в странах, где не английский язык — основной.
-По слухам, впрочем, причина в другом: PRH готовит свой собственный аудиосервис. Готовить-то он, конечно, может — каталога хватит. Вот только предыдущие попытки сделать собственный конкурентоспособный магазин заканчивались пфуком.</description>
+      <guid>//localhost:1313/posts/2020-01-20-1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://thenewpublishingstandard.com/penguin-random-house-pulls-english-language-titles-from-storytel-bookbeat-and-nextory-unhappy-with-terms-or-is-a-prh-streaming-service-launch-imminent/&#34;&gt;Пишут&lt;/a&gt;, что &lt;strong&gt;Penguin Random House&lt;/strong&gt; со знакомыми повадками самого крутого парня на деревне отозвал свои аудиокниги на английском из подписочных сервисов Storytel, Bookbeat и Nextory, ссылаясь на &amp;ldquo;каннибализацию&amp;rdquo;. Это особенно забавно, поскольку практически все эти сервисы работают в странах, где не английский язык — основной.&lt;/p&gt;&#xA;&lt;p&gt;По слухам, впрочем, причина в другом: PRH готовит свой собственный аудиосервис. Готовить-то он, конечно, может — каталога хватит. Вот только предыдущие попытки сделать собственный конкурентоспособный магазин заканчивались пфуком.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>AudioFile — сайт с рецензиями только на аудиокниги</title>
-      <link>/posts/2016-01-11-a/</link>
+      <link>//localhost:1313/posts/2016-01-11-a/</link>
       <pubDate>Mon, 11 Jan 2016 11:18:04 +0000</pubDate>
-      
-      <guid>/posts/2016-01-11-a/</guid>
-      <description>Explore great audio book listening with AudioFile recommendations and reviews. We help you find your next great audiobook. Independent reviews help you discover the best narrators, great listening, and spoken word programs worth your listening time. We talk all audiobooks, all the time.
- Source: AudioFile Magazine
-До чего дошёл прогресс )</description>
+      <guid>//localhost:1313/posts/2016-01-11-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Explore great audio book listening with AudioFile recommendations and reviews. We help you find your next great audiobook. Independent reviews help you discover the best narrators, great listening, and spoken word programs worth your listening time. We talk all audiobooks, all the time.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.audiofilemagazine.com/&#34;&gt;AudioFile Magazine&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;До чего дошёл прогресс )&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

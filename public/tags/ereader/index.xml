@@ -1,68 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ereader on Новости электронного книгоиздания</title>
-    <link>/tags/ereader/</link>
-    <description>Recent content in ereader on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Ereader on Новости электронного книгоиздания</title>
+    <link>//localhost:1313/tags/ereader/</link>
+    <description>Recent content in Ereader on Новости электронного книгоиздания</description>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 09 Oct 2012 19:44:04 +0000</lastBuildDate><atom:link href="/tags/ereader/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Oct 2012 19:44:04 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/ereader/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Читалка за 13 долларов от txtr</title>
-      <link>/posts/2012-10-09-a/</link>
+      <link>//localhost:1313/posts/2012-10-09-a/</link>
       <pubDate>Tue, 09 Oct 2012 19:44:04 +0000</pubDate>
-      
-      <guid>/posts/2012-10-09-a/</guid>
-      <description>txtr beagle
-В читалке на e-ink txtr beagle толщиной 5 мм (в узкой части и 14 мм там, где вставляются батарейки ААА), 5-дюймовым экраном и весом 128 г не будет ни разъёмов, ни WiFi, а закачивать книги можно будет только через программу txtr для Android или планшетник (обещают и iOS). Вся эта радость будет стоить €9,90 (около $13). Если начнёт продаваться: у txtr с этим есть проблемы, когда-то компания уже объявляла продажи читалки побольше, но&amp;hellip;</description>
+      <guid>//localhost:1313/posts/2012-10-09-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://de.txtr.com/beagle/&#34;&gt;txtr beagle&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;В читалке на e-ink txtr beagle толщиной 5 мм (в узкой части и 14 мм там, где вставляются батарейки ААА), 5-дюймовым экраном и весом 128 г не будет ни разъёмов, ни WiFi, а закачивать книги можно будет только через программу txtr для Android или планшетник (обещают и iOS). Вся эта радость будет стоить €9,90 (около $13). Если начнёт продаваться: у txtr с этим есть проблемы, когда-то компания уже объявляла продажи читалки побольше, но&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Буридеру от Роснано и Plastic Logic каюк?</title>
-      <link>/posts/2012-05-21-a/</link>
+      <link>//localhost:1313/posts/2012-05-21-a/</link>
       <pubDate>Mon, 21 May 2012 20:15:40 +0000</pubDate>
-      
-      <guid>/posts/2012-05-21-a/</guid>
-      <description>Georgiy Kolpachev, managing director of investments at Rusnano, says that it is disappointing that the market and margins weren&amp;rsquo;t right for Plastic Logic&amp;rsquo;s e-reader, but that “it’s a reality of life”. Plastic Logic still has a competitive advantage, says Kolpachev, because the company has shown that organic electronic devices can be made on an industrial scale — in this case in a facility in Dresden, Germany. Rusnano’s investment in Plastic Logic was never just about making an e-reader for Russia, he adds, saying that his company remains committed to the firm.</description>
+      <guid>//localhost:1313/posts/2012-05-21-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Georgiy Kolpachev, managing director of investments at Rusnano, says that it is disappointing that the market and margins weren&amp;rsquo;t right for Plastic Logic&amp;rsquo;s e-reader, but that “it’s a reality of life”. Plastic Logic still has a competitive advantage, says Kolpachev, because the company has shown that organic electronic devices can be made on an industrial scale — in this case in a facility in Dresden, Germany. Rusnano’s investment in Plastic Logic was never just about making an e-reader for Russia, he adds, saying that his company remains committed to the firm.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>i-Ведъ от Буквоед</title>
-      <link>/posts/2012-01-24-b/</link>
+      <link>//localhost:1313/posts/2012-01-24-b/</link>
       <pubDate>Tue, 24 Jan 2012 10:00:56 +0000</pubDate>
-      
-      <guid>/posts/2012-01-24-b/</guid>
-      <description>via ived.bookvoed.ru
-Кажется, это первая читалка от сети книжных магазинов. Какие отчаянные ребята.</description>
+      <guid>//localhost:1313/posts/2012-01-24-b/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://ived.bookvoed.ru/&#34;&gt;ived.bookvoed.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Кажется, это первая читалка от сети книжных магазинов. Какие отчаянные ребята.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>«ЛитРес» выпускает собственный букридер. Без 3G. По 6499 рублей</title>
-      <link>/posts/2011-12-21-1/</link>
+      <link>//localhost:1313/posts/2011-12-21-1/</link>
       <pubDate>Wed, 21 Dec 2011 09:08:56 +0000</pubDate>
-      
-      <guid>/posts/2011-12-21-1/</guid>
-      <description>via pro-books.ru
-Открытые. Без 3G. По 6,5 тыс. рублей. Хочется пожелать удачи, но ей ведь не на что опереться: даже в прошлом году это было дороговато. Откуда такое страстное желание наступить на грабли «Озона»? Попкорна ведь не напасёшься.</description>
+      <guid>//localhost:1313/posts/2011-12-21-1/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://pro-books.ru/news/3/8421#.TvGdZu4Yz5A.twitter&#34;&gt;pro-books.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Открытые. Без 3G. По 6,5 тыс. рублей. Хочется пожелать удачи, но ей ведь не на что опереться: даже в прошлом году это было дороговато. Откуда такое страстное желание наступить на грабли «Озона»? Попкорна ведь не напасёшься.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Самая обукридерная профессия? 41.5% американских сиделок имеют читалки</title>
-      <link>/posts/2011-11-02-3/</link>
+      <link>//localhost:1313/posts/2011-11-02-3/</link>
       <pubDate>Wed, 02 Nov 2011 09:50:33 +0000</pubDate>
-      
-      <guid>/posts/2011-11-02-3/</guid>
-      <description>Forty-one and a half percent of nurses own eReaders, and 31.4% of nurses have purchased medical related digital texts. This is according to a new survey from Springer Publishing Company. The study — which interviewed nurses, the majority of whom are nurse educators holding advanced nursing degrees — found that the Kindle is more common among this group that the Nook, as 61.4% of nurses have a Kindle versus 16.</description>
+      <guid>//localhost:1313/posts/2011-11-02-3/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Forty-one and a half percent of nurses own eReaders, and 31.4% of nurses have purchased medical related digital texts. This is according to a new survey from Springer Publishing Company. The study — which interviewed nurses, the majority of whom are nurse educators holding advanced nursing degrees — found that the Kindle is more common among this group that the Nook, as 61.4% of nurses have a Kindle versus 16.8% of them who own a Nook.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Букридер PL за 25 тыс?</title>
-      <link>/posts/2011-09-06-2/</link>
+      <link>//localhost:1313/posts/2011-09-06-2/</link>
       <pubDate>Tue, 06 Sep 2011 04:58:46 +0000</pubDate>
-      
-      <guid>/posts/2011-09-06-2/</guid>
-      <description>Как стало известно РБК daily, планшетные компьютеры британской Plastic Logic в ноябре поступят в продажу в России. Эти планшетники знамениты тем, что в конце лета глава «Роснано» Анатолий Чубайс представил премьеру Владимиру Путину опытный образец такого устройства как разработку госкорпорации, предназначенную для обучения школьников. Устройства будут продаваться в крупнейших сетях электроники, их стоимость составит 20—25 тыс. руб. в зависимости от комплектации, г-н Чубайс же указывал ориентировочную стоимость «таблетки» в пределах 12 тыс.</description>
+      <guid>//localhost:1313/posts/2011-09-06-2/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Как стало известно РБК daily, планшетные компьютеры британской Plastic Logic в ноябре поступят в продажу в России. Эти планшетники знамениты тем, что в конце лета глава «Роснано» Анатолий Чубайс представил премьеру Владимиру Путину опытный образец такого устройства как разработку госкорпорации, предназначенную для обучения школьников. Устройства будут продаваться в крупнейших сетях электроники, их стоимость составит 20—25 тыс. руб. в зависимости от комплектации, г-н Чубайс же указывал ориентировочную стоимость «таблетки» в пределах 12 тыс. руб.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

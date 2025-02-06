@@ -2,60 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uncategorized on Новости электронного книгоиздания</title>
-    <link>/tags/uncategorized/</link>
+    <link>//localhost:1313/tags/uncategorized/</link>
     <description>Recent content in Uncategorized on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 07 Mar 2016 22:59:46 +0000</lastBuildDate><atom:link href="/tags/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Mar 2016 22:59:46 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/uncategorized/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BREAKING NEWS! В Google Docs теперь есть экспорт в EPUB</title>
-      <link>/posts/2016-03-07-a/</link>
+      <link>//localhost:1313/posts/2016-03-07-a/</link>
       <pubDate>Mon, 07 Mar 2016 22:59:46 +0000</pubDate>
-      
-      <guid>/posts/2016-03-07-a/</guid>
-      <description>Только очень огранченный — без разрезки на файлы, с несемантической CSS, как в Apple Pages.</description>
+      <guid>//localhost:1313/posts/2016-03-07-a/</guid>
+      <description>&lt;p&gt;Только очень огранченный — без разрезки на файлы, с несемантической CSS, как в Apple Pages.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Англоязычный рынок эл. книг 2012-2014</title>
-      <link>/posts/2012-08-10-a/</link>
+      <link>//localhost:1313/posts/2012-08-10-a/</link>
       <pubDate>Fri, 10 Aug 2012 11:55:13 +0000</pubDate>
-      
-      <guid>/posts/2012-08-10-a/</guid>
-      <description>Отсюда: http://www.the-digital-reader.com/2012/08/09/infographic</description>
+      <guid>//localhost:1313/posts/2012-08-10-a/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Infographic-1column21.jpg&#34; alt=&#34;&#34; title=&#34;Infographic-1column21&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Отсюда: &lt;a href=&#34;http://www.the-digital-reader.com/2012/08/09/infographic&#34;&gt;http://www.the-digital-reader.com/2012/08/09/infographic&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Единственный минус газет на iPad</title>
-      <link>/posts/2010-09-11-59/</link>
+      <link>//localhost:1313/posts/2010-09-11-59/</link>
       <pubDate>Sat, 11 Sep 2010 12:43:42 +0000</pubDate>
-      
-      <guid>/posts/2010-09-11-59/</guid>
-      <description>via youtube.com
-Реклама с юмором — компенсация отсутствия анекдотов.
-Posted via email from v_x</description>
+      <guid>//localhost:1313/posts/2010-09-11-59/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.youtube.com/watch?v=YfFfqMR6uK0&amp;amp;feature=player_embedded&#34;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Реклама с юмором — компенсация отсутствия анекдотов.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://posterous.com&#34;&gt;Posted via email&lt;/a&gt; from &lt;a href=&#34;http://v-x.posterous.com/ipad&#34;&gt;v_x&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Для связи с Buzz</title>
-      <link>/posts/2010-02-10-1/</link>
+      <link>//localhost:1313/posts/2010-02-10-1/</link>
       <pubDate>Wed, 10 Feb 2010 20:54:02 +0000</pubDate>
-      
-      <guid>/posts/2010-02-10-1/</guid>
-      <description>Linky!
-P.S. Из будущего: и где?</description>
+      <guid>//localhost:1313/posts/2010-02-10-1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.google.com/profiles/vharitonov&#34;&gt;Linky!&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;P.S. Из будущего: и где?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>PocketBook и Netronix образуют совместное предприятие</title>
-      <link>/posts/2010-01-08-1/</link>
+      <link>//localhost:1313/posts/2010-01-08-1/</link>
       <pubDate>Fri, 08 Jan 2010 23:07:57 +0000</pubDate>
-      
-      <guid>/posts/2010-01-08-1/</guid>
-      <description>http://www.mobileread.com/forums/showthread.php?t=68781
-Очень сильный ход. Для российского рынка, в частности.
-Posted via email from v_x Comments:  ekniga - Jan 6, 2010http://blog.rgub.ru/ekniga/2010/01/08/pocketbook-v-karman-uzhe-ne-lezet-uzh-bolno-on-global/</description>
+      <guid>//localhost:1313/posts/2010-01-08-1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.mobileread.com/forums/showthread.php?t=68781&#34;&gt;http://www.mobileread.com/forums/showthread.php?t=68781&lt;/a&gt;&lt;br&gt;&#xA;Очень сильный ход. Для российского рынка, в частности.&lt;/p&gt;&#xA;&lt;h2 id=&#34;posted-via-emailhttpposterouscom-from-v_xhttpv-xposterouscompocketbook-netronix&#34;&gt;&lt;a href=&#34;http://posterous.com&#34;&gt;Posted via email&lt;/a&gt; from &lt;a href=&#34;http://v-x.posterous.com/pocketbook-netronix&#34;&gt;v_x&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;comments&#34;&gt;Comments:&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading&#34;&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://ekniga.livejournal.com&#34; title=&#34;alexpuru@gmail.com&#34;&gt;ekniga&lt;/a&gt; - &lt;!-- raw HTML omitted --&gt;Jan 6, 2010&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://blog.rgub.ru/ekniga/2010/01/08/pocketbook-v-karman-uzhe-ne-lezet-uzh-bolno-on-global/&#34;&gt;http://blog.rgub.ru/ekniga/2010/01/08/pocketbook-v-karman-uzhe-ne-lezet-uzh-bolno-on-global/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
-    
   </channel>
 </rss>

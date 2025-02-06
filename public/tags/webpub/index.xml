@@ -1,228 +1,166 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>webpub on Новости электронного книгоиздания</title>
-    <link>/tags/webpub/</link>
-    <description>Recent content in webpub on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Webpub on Новости электронного книгоиздания</title>
+    <link>//localhost:1313/tags/webpub/</link>
+    <description>Recent content in Webpub on Новости электронного книгоиздания</description>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 04 Jan 2018 09:42:44 +0000</lastBuildDate><atom:link href="/tags/webpub/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jan 2018 09:42:44 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/webpub/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>С Новым годом!</title>
-      <link>/posts/2018-01-04-a/</link>
+      <link>//localhost:1313/posts/2018-01-04-a/</link>
       <pubDate>Thu, 04 Jan 2018 09:42:44 +0000</pubDate>
-      
-      <guid>/posts/2018-01-04-a/</guid>
-      <description>Новый год и правда наступил: опубликованы первые публичные черновики трёх новых стандартов WWW Consortium — Web Publication, Packaged Web Publication и Web Annotation Extension для Web Publication. До стадии рекомендаций черновики дойдут нескоро, через год в лучшем случае. Но уже можно представить, какими будут книги в браузерах.</description>
+      <guid>//localhost:1313/posts/2018-01-04-a/</guid>
+      <description>&lt;p&gt;Новый год и правда наступил: &lt;a href=&#34;https://www.w3.org/blog/news/archives/6756&#34;&gt;опубликованы&lt;/a&gt; первые публичные черновики трёх новых стандартов WWW Consortium — Web Publication, Packaged Web Publication и Web Annotation Extension для Web Publication. До стадии рекомендаций черновики дойдут нескоро, через год в лучшем случае. Но уже можно представить, какими будут книги в браузерах.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Стивен Вольфрам: Писать книги по-новому</title>
-      <link>/posts/2017-11-15-a/</link>
+      <link>//localhost:1313/posts/2017-11-15-a/</link>
       <pubDate>Wed, 15 Nov 2017 13:11:52 +0000</pubDate>
-      
-      <guid>/posts/2017-11-15-a/</guid>
-      <description>В связи с появлением электронных книг больше всего обсуждают, как их читают (в сравнении с печатными, конечно). Меньше — как, наряду с обычными или текстовыми репликами печатных книг (собственно, то, что принято называть электронными книгами), появляются книги нового типа. Меняется не только чтение книг, но и их написание.
-Стивен Вольфрам — весьма колоритный персонаж. Был талантливым и многообещающим физиком — его работы по физике элементарных частиц. Написал толстенный, отчасти натурфилософский, труд по клеточным автоматам «Новый тип науки», которую за 15 лет так никто и не удосужился перевести на русский язык (не перевели, впрочем и сборник его эссе «Idea Makers», а это уже совсем напрасно, Альпине бы не помешало — передайте Паше).</description>
+      <guid>//localhost:1313/posts/2017-11-15-a/</guid>
+      <description>&lt;p&gt;В связи с появлением электронных книг больше всего обсуждают, как их читают (в сравнении с печатными, конечно). Меньше — как, наряду с обычными или текстовыми репликами печатных книг (собственно, то, что принято называть электронными книгами), появляются книги нового типа. Меняется не только чтение книг, но и их написание.&lt;/p&gt;&#xA;&lt;p&gt;Стивен Вольфрам — весьма колоритный персонаж. Был талантливым и многообещающим физиком — его работы по физике элементарных частиц. Написал толстенный, отчасти натурфилософский, труд по клеточным автоматам «&lt;a href=&#34;https://www.wolframscience.com/nks/&#34;&gt;Новый тип науки&lt;/a&gt;», которую за 15 лет так никто и не удосужился перевести на русский язык (не перевели, впрочем и сборник его эссе «Idea Makers», а это уже совсем напрасно, Альпине бы не помешало — передайте Паше). А потом ушёл из науки в околонаучный бизнес, разработал программу Mathematica, ставшую основной для всей вычислительной науки, и компанию вокруг неё. Несколько лет назад запустил сервис Wolfram|Alpha (да, скромности ему не занимать), наполовину поисковый (по базам данных, а не по вебу), наполовину вычислительный, реагирующий на запросы на естественном (английском) языке. То есть у него можно узнать &amp;ldquo;&lt;a href=&#34;https://www.wolframalpha.com/input/?i=weather+in+Boston+1945&#34;&gt;weather in Boston 1945&lt;/a&gt;&amp;rdquo;, &amp;ldquo;&lt;a href=&#34;https://www.wolframalpha.com/input/?i=the+largest+country+of+the+world&#34;&gt;the largest country of the world&lt;/a&gt;&amp;rdquo; и &amp;ldquo;&lt;a href=&#34;https://www.wolframalpha.com/input/?i=integrate+sin(cos+x)+from+x%3D0+to+1&amp;amp;lk=3&#34;&gt;integrate sin(cos x) from x=0 to 1&lt;/a&gt;&amp;rdquo;. И ещё его компания разработала Wolfram Language — «вычислительный язык программирования», который, в отличие от обычных языков, тут же лезет в базы данных и обрабатывает информацию оттуда.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Feedbooks экспериментирует с вебкнигами</title>
-      <link>/posts/2016-10-03-a/</link>
+      <link>//localhost:1313/posts/2016-10-03-a/</link>
       <pubDate>Mon, 03 Oct 2016 10:00:54 +0000</pubDate>
-      
-      <guid>/posts/2016-10-03-a/</guid>
-      <description>А вот ещё одна экспериментальная вебкнига — несколько глав «Моби Дика» (смотреть лучше на смартфоне). Этот эксперимент посерьезнее, поскольку развлекается Адриан Гардёр, основатель одного из самых старых магазинов электронных книг Feedbooks, до последнего времени дистрибутировавшего электронные книги только файлами. Выглядит симпатично.</description>
+      <guid>//localhost:1313/posts/2016-10-03-a/</guid>
+      <description>&lt;p&gt;А вот ещё одна экспериментальная вебкнига — несколько глав «&lt;a href=&#34;https://dauwhe.github.io/epub31-bff/examples/MobyDick/&#34;&gt;Моби Дика&lt;/a&gt;» (смотреть лучше на смартфоне). Этот эксперимент посерьезнее, поскольку развлекается Адриан Гардёр, основатель одного из самых старых магазинов электронных книг &lt;a href=&#34;http://www.feedbooks.com&#34;&gt;Feedbooks&lt;/a&gt;, до последнего времени дистрибутировавшего электронные книги только файлами. Выглядит симпатично.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Книги-в-вебе. Эксперименты</title>
-      <link>/posts/2016-10-02-a/</link>
+      <link>//localhost:1313/posts/2016-10-02-a/</link>
       <pubDate>Sun, 02 Oct 2016 22:04:18 +0000</pubDate>
-      
-      <guid>/posts/2016-10-02-a/</guid>
-      <description>Пока «большие дяди» из Web Consortium и IDPF решают стандарты для книг в вебе, программисты придумывают, как это может быть. Например, вот так. Немного наивно, с точки зрения типографики не слишком правильно. Но пытаясь решать реальные проблемы: ввода текста, работы с читателем, фиксации динамики чтения. Автор кода написал небольшую статью об этом.</description>
+      <guid>//localhost:1313/posts/2016-10-02-a/</guid>
+      <description>&lt;p&gt;Пока «большие дяди» из &lt;a href=&#34;https://medium.com/digital-publishing-news/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B2-%D0%B2%D0%B5%D0%B1%D0%B5-%D0%B4%D0%B0%D0%BB%D0%B5%D0%B5-%D0%B2%D0%B5%D0%B7%D0%B4%D0%B5-928be2e62fb9#.4039h7wiw&#34;&gt;Web Consortium и IDPF решают стандарты для книг в вебе&lt;/a&gt;, программисты придумывают, как это может быть. Например, вот &lt;a href=&#34;http://the-downpour.com&#34;&gt;так&lt;/a&gt;. Немного наивно, с точки зрения типографики не слишком правильно. Но пытаясь решать реальные проблемы: ввода текста, работы с читателем, фиксации динамики чтения. Автор кода написал небольшую &lt;a href=&#34;https://habrahabr.ru/post/311452/&#34;&gt;статью&lt;/a&gt; об этом.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Совсем новое будущее для электронных книг</title>
-      <link>/posts/2016-09-13-c/</link>
+      <link>//localhost:1313/posts/2016-09-13-c/</link>
       <pubDate>Tue, 13 Sep 2016 15:49:06 +0000</pubDate>
-      
-      <guid>/posts/2016-09-13-c/</guid>
-      <description>https://www.w3.org/TR/pwp-ucr/ Опубликован драфт W3C для обсуждения параметров portable web publications. А мы ещё и epub не освоили ;)</description>
+      <guid>//localhost:1313/posts/2016-09-13-c/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.w3.org/TR/pwp-ucr/&#34;&gt;https://www.w3.org/TR/pwp-ucr/&lt;/a&gt; Опубликован драфт W3C для обсуждения параметров portable web publications. А мы ещё и epub не освоили ;)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Избретатель WWW выступит на IDPF</title>
-      <link>/posts/2016-04-21-a/</link>
+      <link>//localhost:1313/posts/2016-04-21-a/</link>
       <pubDate>Thu, 21 Apr 2016 05:42:48 +0000</pubDate>
-      
-      <guid>/posts/2016-04-21-a/</guid>
-      <description>Сэр Тим Бернерс-Ли, изобретатель WWW, выступит на конференции в Чикаго, посвященной электронному книгоизданию. Это может быть очень интересно. Тренд на конвергенцию электронного книгоиздания и онлайновой публикации ведь явный.</description>
+      <guid>//localhost:1313/posts/2016-04-21-a/</guid>
+      <description>&lt;p&gt;Сэр Тим Бернерс-Ли, изобретатель WWW, &lt;a href=&#34;https://www.w3.org/blog/news/archives/5350&#34;&gt;выступит&lt;/a&gt; на конференции в Чикаго, посвященной электронному книгоизданию. Это может быть очень интересно. Тренд на конвергенцию электронного книгоиздания и онлайновой публикации ведь явный.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Pressbooks развивается</title>
-      <link>/posts/2015-09-23-a/</link>
+      <link>//localhost:1313/posts/2015-09-23-a/</link>
       <pubDate>Wed, 23 Sep 2015 18:41:43 +0000</pubDate>
-      
-      <guid>/posts/2015-09-23-a/</guid>
-      <description>Pressbooks, сервис производства электронных книг из блога на WordPress, продолжает развиваться, и теперь предлагает услуги по печати, а также научился более/менее контролировать висячие строки. Всё бы хорошо, но экспорт стоит денег — 20 баксов за EPUB и MOBI, 100 баксов — за три формата (+PDF). За печать — отдельно. Судя по всему, впрочем, зарабатывает сервис на бизнес-клиентах, среди которых — университетские издательства и СМИ.</description>
+      <guid>//localhost:1313/posts/2015-09-23-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pressbooks.com/&#34;&gt;Pressbooks&lt;/a&gt;, сервис производства электронных книг из блога на WordPress, продолжает развиваться, и теперь предлагает &lt;a href=&#34;http://pressbooks.com/book-printing-services/&#34;&gt;услуги по печати&lt;/a&gt;, а также научился более/менее &lt;a href=&#34;http://guide.pressbooks.com/chapter/widows-orphans-and-bottom-balancing/&#34;&gt;контролировать висячие строки&lt;/a&gt;. Всё бы хорошо, но экспорт стоит денег — 20 баксов за EPUB и MOBI, 100 баксов — за три формата (+PDF). За печать — отдельно. Судя по всему, впрочем, зарабатывает сервис на бизнес-клиентах, среди которых — университетские издательства и СМИ.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Больше веб-книжек. Хороших и разных</title>
-      <link>/posts/2015-09-14-b/</link>
+      <link>//localhost:1313/posts/2015-09-14-b/</link>
       <pubDate>Mon, 14 Sep 2015 18:46:53 +0000</pubDate>
-      
-      <guid>/posts/2015-09-14-b/</guid>
-      <description>HELLO IT IS ZURKAS BOOK
-Вот ещё такой вариант. Из материальных видов книг — бумажных, электронных, аудио, программных и «браузерных» — последние, думаю, могут быть самыми интересными. Ну, не сейчас. Но могут.</description>
+      <guid>//localhost:1313/posts/2015-09-14-b/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://zurkastepla.com/bankrobber&#34;&gt;HELLO IT IS ZURKAS BOOK&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Вот ещё такой вариант. Из материальных видов книг — бумажных, электронных, аудио, программных и «браузерных» — последние, думаю, могут быть самыми интересными. Ну, не сейчас. Но могут.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>На Medium уже и книжки публикуют (для продвижения)</title>
-      <link>/posts/2015-03-10-d/</link>
+      <link>//localhost:1313/posts/2015-03-10-d/</link>
       <pubDate>Tue, 10 Mar 2015 07:13:00 +0000</pubDate>
-      
-      <guid>/posts/2015-03-10-d/</guid>
-      <description>Филип Дингра опубликовал «Письма к Ханне: Самосовершенствование гика» по частям, целиком — на Amazon, и написал об этом опыте, понятно, на Medium. Всё-таки все там будем.</description>
+      <guid>//localhost:1313/posts/2015-03-10-d/</guid>
+      <description>&lt;p&gt;Филип Дингра опубликовал «Письма к Ханне: Самосовершенствование гика» &lt;a href=&#34;https://medium.com/dear-hannah-a-geeks-life-in-self-improvement&#34;&gt;по частям&lt;/a&gt;, целиком — на &lt;a href=&#34;http://www.amazon.com/gp/product/1500392243/?tag=dhbmedpand-20&#34;&gt;Amazon&lt;/a&gt;, и написал об этом опыте, понятно, на &lt;a href=&#34;https://medium.com/@philipkd/how-i-published-my-book-on-medium-397b007dda85&#34;&gt;Medium&lt;/a&gt;. Всё-таки все &lt;a href=&#34;http://w3c.github.io/epubweb/&#34;&gt;там&lt;/a&gt; будем.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Твит-лента конференции Books in Browsers 2014</title>
-      <link>/posts/2014-10-23-b/</link>
+      <link>//localhost:1313/posts/2014-10-23-b/</link>
       <pubDate>Thu, 23 Oct 2014 19:07:05 +0000</pubDate>
-      
-      <guid>/posts/2014-10-23-b/</guid>
-      <description>#bib14 Tweets</description>
+      <guid>//localhost:1313/posts/2014-10-23-b/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/hashtag/bib14&#34;&gt;#bib14 Tweets&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Конференция Books in Browsers 2012 на YouTube</title>
-      <link>/posts/2012-11-09-b/</link>
+      <link>//localhost:1313/posts/2012-11-09-b/</link>
       <pubDate>Fri, 09 Nov 2012 21:36:51 +0000</pubDate>
-      
-      <guid>/posts/2012-11-09-b/</guid>
-      <description>32 ролика</description>
+      <guid>//localhost:1313/posts/2012-11-09-b/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL055Epbe6d5btdO6C6ibIyS_6_oJB3C5S&#34;&gt;32 ролика&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Readium, лучшая браузерная читалка epub, в Chrome Web Store</title>
-      <link>/posts/2012-10-02-a/</link>
+      <link>//localhost:1313/posts/2012-10-02-a/</link>
       <pubDate>Tue, 02 Oct 2012 12:47:13 +0000</pubDate>
-      
-      <guid>/posts/2012-10-02-a/</guid>
-      <description>The Readium open source project to develop an EPUB 3 reference implementation, sponsored by IDPF and other supporters, continues to rapidly evolve. The Chrome web app configuration of Readium was recently launched on the Chrome Web Store, and can be installed via https://chrome.google.com/webstore/detail/fepbnnnkkadjhjahcafoaglimekefifl.
- via idpf.org
-Собственно, это проект IDPF, которая EPUB и разрабатывает. Хоть в чём-то можно более-менее адекватно посмотреть epub3. Внедрена поддержка Canonical Fragment Identifier (CFI) — абсолютной ссылки на растекающийся текст, контроль проигрывания в Media Overlays и какая-то поддержка JavaScript (не тестировал).</description>
+      <guid>//localhost:1313/posts/2012-10-02-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;http://readium.org&#34;&gt;Readium&lt;/a&gt; open source project to develop an EPUB 3 reference implementation, sponsored by IDPF and other &lt;a href=&#34;http://readium.org/supporters&#34;&gt;supporters&lt;/a&gt;, continues to rapidly evolve. The Chrome web app configuration of Readium was recently launched on the Chrome Web Store, and can be installed via &lt;a href=&#34;https://chrome.google.com/webstore/detail/fepbnnnkkadjhjahcafoaglimekefifl&#34;&gt;https://chrome.google.com/webstore/detail/fepbnnnkkadjhjahcafoaglimekefifl&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://idpf.org/news/readium-launched-on-chrome-web-store&#34;&gt;idpf.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Собственно, это проект IDPF, которая EPUB и разрабатывает. Хоть в чём-то можно более-менее адекватно посмотреть epub3. Внедрена поддержка Canonical Fragment Identifier (CFI) — абсолютной ссылки на растекающийся текст, контроль проигрывания в Media Overlays и какая-то поддержка JavaScript (не тестировал). Рекомендуется и разработчикам, и просто читателям.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Book is webpages</title>
-      <link>/posts/2011-10-30-1/</link>
+      <link>//localhost:1313/posts/2011-10-30-1/</link>
       <pubDate>Sun, 30 Oct 2011 14:35:45 +0000</pubDate>
-      
-      <guid>/posts/2011-10-30-1/</guid>
-      <description>The Beauty of Web-First Workflows (for Books)  from Hugh McGuire 
-View more [presentations](http://www.slideshare.net/) from [Hugh McGuire](http://www.slideshare.net/mackinaw) Доклад Хью Макгвайра на конференции Book in Browser&#39;2011.</description>
+      <guid>//localhost:1313/posts/2011-10-30-1/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/h1vNuYLQO7uEP1&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/mackinaw/the-beauty-of-webfirst-workflows-for-books&#34; title=&#34;The Beauty of Web-First Workflows (for Books)&#34; target=&#34;_blank&#34;&gt;The Beauty of Web-First Workflows (for Books)&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/mackinaw&#34; target=&#34;_blank&#34;&gt;Hugh McGuire&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;&#xA;&#xA;View more [presentations](http://www.slideshare.net/) from [Hugh McGuire](http://www.slideshare.net/mackinaw)&#xA;&#xA;Доклад Хью Макгвайра на конференции Book in Browser&#39;2011.</description>
     </item>
-    
     <item>
       <title>Полку неавторизованной дистрибуции прибыло</title>
-      <link>/posts/2011-10-25-1/</link>
+      <link>//localhost:1313/posts/2011-10-25-1/</link>
       <pubDate>Tue, 25 Oct 2011 09:12:31 +0000</pubDate>
-      
-      <guid>/posts/2011-10-25-1/</guid>
-      <description>via lithub.ru
-Между прочим, lithub довольно нахально перепёр стиль вьюера у Bookmate. Да и сама идея текстового стриминга уже не нова ))
-Ребята бодрые, но с доменом в зоне .ru — это они, конечно, ошиблись.</description>
+      <guid>//localhost:1313/posts/2011-10-25-1/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://lithub.ru/&#34;&gt;lithub.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Между прочим, lithub довольно нахально перепёр стиль вьюера у Bookmate. Да и сама идея текстового стриминга уже не нова ))&lt;br&gt;&#xA;Ребята бодрые, но с доменом в зоне .ru — это они, конечно, ошиблись.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Amazon издаст &#34;Mongoliad&#34; под своим новым импринтом 47North</title>
-      <link>/posts/2011-10-11-1/</link>
+      <link>//localhost:1313/posts/2011-10-11-1/</link>
       <pubDate>Tue, 11 Oct 2011 13:38:58 +0000</pubDate>
-      
-      <guid>/posts/2011-10-11-1/</guid>
-      <description>The Mongoliad: Book One (The Foreworld Series) [Kindle Edition]
- via amazon.com
-И сам-то Mongoliad проект любопытный — книга онлайн, для читателей-абонентов.</description>
+      <guid>//localhost:1313/posts/2011-10-11-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The Mongoliad: Book One (The Foreworld Series) [Kindle Edition]&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.amazon.com/Mongoliad-Book-One-Foreworld-ebook/dp/B005ML3B6W/ref=sr_1_2?ie=UTF8&amp;amp;qid=1318340142&amp;amp;sr=8-2&#34;&gt;amazon.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;И сам-то &lt;a href=&#34;http://mongoliad.com/&#34;&gt;Mongoliad&lt;/a&gt; проект любопытный — книга онлайн, для читателей-абонентов.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>PressBooks теперь понимает кириллицу</title>
-      <link>/posts/2011-09-11-1/</link>
+      <link>//localhost:1313/posts/2011-09-11-1/</link>
       <pubDate>Sun, 11 Sep 2011 19:20:56 +0000</pubDate>
-      
-      <guid>/posts/2011-09-11-1/</guid>
-      <description>PressBooks is an online book publishing platform (built on WordPress), that makes it easy for you and your team to author books, and to generate clean, well-formatted books in multiple outputs: .epub, print-ready PDF, InDesign-ready XML, and of course HTML. PressBooks is brought to you by the people behind Book Oven. Scroll down to get on our mailing list.
- via pressbooks.com
-Проект PressBooks, который предлагает делать книги на своем движке WordPress, стал работоспособнее.</description>
+      <guid>//localhost:1313/posts/2011-09-11-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;PressBooks is an online book publishing platform (built on WordPress), that makes it easy for you and your team to author books, and to generate clean, well-formatted books in multiple outputs: .epub, print-ready PDF, InDesign-ready XML, and of course HTML. PressBooks is brought to you by the people behind &lt;a href=&#34;http://bookoven.com/&#34;&gt;Book Oven&lt;/a&gt;. Scroll down to get on our mailing list.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://pressbooks.com/about&#34;&gt;pressbooks.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Проект PressBooks, который предлагает делать книги на своем движке WordPress, стал работоспособнее. Во всяком случае — в использовании кириллицы. Теперь EPUB получается корректным, если не забыть изменить на латиницу название самого файла в движке.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Конрад Вольфрам придумал новый формат документов — калькулирующий</title>
-      <link>/posts/2011-07-21-3/</link>
+      <link>//localhost:1313/posts/2011-07-21-3/</link>
       <pubDate>Thu, 21 Jul 2011 21:08:21 +0000</pubDate>
-      
-      <guid>/posts/2011-07-21-3/</guid>
-      <description>via blog.wolfram.com
-Computable Document Format (CDF) предназначен для демонстрации каких-то закономерностей в заданных диапазонах. Своего рода «компьютер в документе». Подходит для обучения или демонстрации любой естественно-научной или инженерной тематики. Правда, требует для «проигрывания» CDF Player, который при распаковке весит, на минуточку, 0,5 Гб.</description>
+      <guid>//localhost:1313/posts/2011-07-21-3/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://blog.wolfram.com/2011/07/21/launching-the-computable-document-format-cdf-dont-compress-the-idea-expand-the-medium/&#34;&gt;blog.wolfram.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Computable Document Format (CDF) предназначен для демонстрации каких-то закономерностей в заданных диапазонах. Своего рода «компьютер в документе». Подходит для обучения или демонстрации любой естественно-научной или инженерной тематики. Правда, требует для «проигрывания» CDF Player, который при распаковке весит, на минуточку, 0,5 Гб.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>PressBooks - блин комом</title>
-      <link>/posts/2011-02-16-b/</link>
+      <link>//localhost:1313/posts/2011-02-16-b/</link>
       <pubDate>Wed, 16 Feb 2011 21:33:28 +0000</pubDate>
-      
-      <guid>/posts/2011-02-16-b/</guid>
-      <description>PressBooks lets you and your team easily author and output books in multiple formats including: epub, Kindle, print-on-demand-ready PDF, HTML, and inDesign-ready XML.
- via pressbooks.com
-Хорошая идея — сделать верстку электронной книги на базе WordPress. Заливаешь текст, тасуешь содержание, заполняешь издательскую карточку, и экспортируешь в электронную книгу (пока есть EPUB и какой-то странный PDF). Возможно, это даже работающий вариант для стран, где Latin-1. Для кириллицы вариант нерабочий — названия глав обрабатываются неправильно, хотя текст и выживает.</description>
+      <guid>//localhost:1313/posts/2011-02-16-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;PressBooks lets you and your team easily author and output books in multiple formats including: epub, Kindle, print-on-demand-ready PDF, HTML, and inDesign-ready XML.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://pressbooks.com/wp-signup.php&#34;&gt;pressbooks.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Хорошая идея — сделать верстку электронной книги на базе WordPress. Заливаешь текст, тасуешь содержание, заполняешь издательскую карточку, и экспортируешь в электронную книгу (пока есть EPUB и какой-то странный PDF). Возможно, это даже работающий вариант для стран, где Latin-1. Для кириллицы вариант нерабочий — названия глав обрабатываются неправильно, хотя текст и выживает. Может, доделают.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>PadPressed - плагин для WP: и твой блог прктически программа</title>
-      <link>/posts/2010-10-22-141/</link>
+      <link>//localhost:1313/posts/2010-10-22-141/</link>
       <pubDate>Fri, 22 Oct 2010 22:59:41 +0000</pubDate>
-      
-      <guid>/posts/2010-10-22-141/</guid>
-      <description>Make Your WordPress Blog Feel Like A Native iPad App
- via padpressed.com
-Делает ровно одно — делает страницу похожей на приложение, заодно облегчает ссылки как webapp. Мимикрия. Но дешевле, чем делать приложение, однако.</description>
+      <guid>//localhost:1313/posts/2010-10-22-141/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Make Your WordPress Blog Feel Like A Native iPad App&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.padpressed.com/&#34;&gt;padpressed.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Делает ровно одно — делает страницу похожей на приложение, заодно облегчает ссылки как webapp. Мимикрия. Но дешевле, чем делать приложение, однако.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>10 HTML5 примеров, чтобы вы забыли о Flash</title>
-      <link>/posts/2010-01-25-1/</link>
+      <link>//localhost:1313/posts/2010-01-25-1/</link>
       <pubDate>Fri, 25 Jun 2010 12:52:30 +0000</pubDate>
-      
-      <guid>/posts/2010-01-25-1/</guid>
-      <description>via habrahabr.ru
-Очень впечатляет</description>
+      <guid>//localhost:1313/posts/2010-01-25-1/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://habrahabr.ru/blogs/webdev/97443/&#34;&gt;habrahabr.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Очень впечатляет&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Trillion-Dollar Web Question « Mike Cane&#39;s iPad Test</title>
-      <link>/posts/2010-05-21-214/</link>
+      <link>//localhost:1313/posts/2010-05-21-214/</link>
       <pubDate>Fri, 21 May 2010 07:24:18 +0000</pubDate>
-      
-      <guid>/posts/2010-05-21-214/</guid>
-      <description>via ipadtest.wordpress.com
-Журнал в формате HTML5. Выглядит примерно так, как во Flash.
-Проблема только в том, что это web.</description>
+      <guid>//localhost:1313/posts/2010-05-21-214/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://ipadtest.wordpress.com/2010/05/20/the-trillion-dollar-web-question/&#34;&gt;ipadtest.wordpress.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Журнал в формате HTML5. Выглядит примерно так, как во Flash.&lt;br&gt;&#xA;Проблема только в том, что это web.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Wolfram Alpha  для электронных книг</title>
-      <link>/posts/2010-04-01-230/</link>
+      <link>//localhost:1313/posts/2010-04-01-230/</link>
       <pubDate>Thu, 01 Apr 2010 20:33:09 +0000</pubDate>
-      
-      <guid>/posts/2010-04-01-230/</guid>
-      <description>The first application to make use of Wolfram Alpha for e-books is the visually stunning iPad version of Theodore Gray&amp;rsquo;s best-selling The Elements: A Visual Exploration of Every Known Atom in the Universe. The e-book application integrates Wolfram&amp;rsquo;s computational knowledge engine closely into the e-book experience. It&amp;rsquo;s easy to imagine calculus, engineering or geography textbooks that will also make use of Wolfram Alpha&amp;rsquo;s vast data repository and its ability to manipulate this data.</description>
+      <guid>//localhost:1313/posts/2010-04-01-230/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;http://www.touchpress.com/&#34;&gt;first application&lt;/a&gt; to make use of Wolfram Alpha for e-books is the visually stunning iPad version of &lt;a href=&#34;http://theodoregray.com/&#34;&gt;Theodore Gray&lt;/a&gt;&amp;rsquo;s best-selling &lt;em&gt;The Elements: A Visual Exploration of Every Known Atom in the Universe&lt;/em&gt;. The e-book application integrates Wolfram&amp;rsquo;s computational knowledge engine closely into the e-book experience. It&amp;rsquo;s easy to imagine calculus, engineering or geography textbooks that will also make use of Wolfram Alpha&amp;rsquo;s vast data repository and its ability to manipulate this data. For now, the company is remaining relatively quiet about the exact details of the program, however. The full launch is scheduled to happen later in Q2 2010.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

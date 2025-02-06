@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jokers on Новости электронного книгоиздания</title>
-    <link>/tags/jokers/</link>
-    <description>Recent content in jokers on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Jokers on Новости электронного книгоиздания</title>
+    <link>//localhost:1313/tags/jokers/</link>
+    <description>Recent content in Jokers on Новости электронного книгоиздания</description>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 13 Jul 2015 12:35:10 +0000</lastBuildDate><atom:link href="/tags/jokers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jul 2015 12:35:10 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/jokers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>«Тебе не нужно такой большой библиотеки…»</title>
-      <link>/posts/2015-07-13-a/</link>
+      <link>//localhost:1313/posts/2015-07-13-a/</link>
       <pubDate>Mon, 13 Jul 2015 12:35:10 +0000</pubDate>
-      
-      <guid>/posts/2015-07-13-a/</guid>
-      <description>Cartoon by Teddy Tietz.
- Source: You don’t need a big library (cartoon)</description>
+      <guid>//localhost:1313/posts/2015-07-13-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://ebookfriendly.com/big-library-cartoon/&#34;&gt;Cartoon by Teddy Tietz&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://ebookfriendly.com/big-library-cartoon/&#34;&gt;You don’t need a big library (cartoon)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

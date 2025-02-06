@@ -2,121 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Japan on Новости электронного книгоиздания</title>
-    <link>/tags/japan/</link>
+    <link>//localhost:1313/tags/japan/</link>
     <description>Recent content in Japan on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 19 Mar 2015 08:44:14 +0000</lastBuildDate><atom:link href="/tags/japan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Mar 2015 08:44:14 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/japan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Вот это новость. Rakuten покупает OverDrive</title>
-      <link>/posts/2015-03-19-a/</link>
+      <link>//localhost:1313/posts/2015-03-19-a/</link>
       <pubDate>Thu, 19 Mar 2015 08:44:14 +0000</pubDate>
-      
-      <guid>/posts/2015-03-19-a/</guid>
-      <description>Rakuten, японский «магазин магазинов» и владелец книжной платформы Kobo, покупает компанию OverDrive, крупнейшего дистрибьютора книжного контента (прежде всего, для библиотек) за 410 млн USD. Если учесть, что Rakuten контролирует российский «Озон», а «Озон»—«Литрес», то конкуренция на вялом рынке электронных книг в библиотеках может стать интереснее.</description>
+      <guid>//localhost:1313/posts/2015-03-19-a/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Rakuten&lt;/strong&gt;, японский «магазин магазинов» и владелец книжной платформы &lt;strong&gt;Kobo&lt;/strong&gt;, &lt;a href=&#34;http://techcrunch.com/2015/03/19/rakuten-ovedrive/&#34;&gt;покупает&lt;/a&gt; компанию &lt;strong&gt;OverDrive&lt;/strong&gt;, крупнейшего дистрибьютора книжного контента (прежде всего, для библиотек) за 410 млн USD. Если учесть, что Rakuten контролирует российский «Озон», а «Озон»—«Литрес», то конкуренция на вялом рынке электронных книг в библиотеках может стать интереснее.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Apple запускает магазин электронных книг в Японии</title>
-      <link>/posts/2013-01-03-b/</link>
+      <link>//localhost:1313/posts/2013-01-03-b/</link>
       <pubDate>Thu, 03 Jan 2013 05:02:28 +0000</pubDate>
-      
-      <guid>/posts/2013-01-03-b/</guid>
-      <description>Apple Partners With Local Publishers To Launch eBook Service In Japan http://techcrunch.com/2012/12/31/apple-partners-with-local-publishers-to-launch-ebook-service-in-japan/
-Sent from Zite personalized magazine app. Available for free in the App Store. www.zite.com</description>
+      <guid>//localhost:1313/posts/2013-01-03-b/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Apple Partners With Local Publishers To Launch eBook Service In Japan&lt;/strong&gt; &lt;a href=&#34;http://techcrunch.com/2012/12/31/apple-partners-with-local-publishers-to-launch-ebook-service-in-japan/&#34;&gt;http://techcrunch.com/2012/12/31/apple-partners-with-local-publishers-to-launch-ebook-service-in-japan/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sent from &lt;a href=&#34;http://www.zite.com/?ref=email&#34;&gt;Zite&lt;/a&gt; personalized magazine app. Available for free in the &lt;a href=&#34;http://itunes.apple.com/us/app/zite/id419752338&#34;&gt;App Store&lt;/a&gt;. &lt;a href=&#34;http://www.zite.com/?ref=email&#34;&gt;www.zite.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kobo приходит в Японию с EPUB3-читалкой</title>
-      <link>/posts/2012-07-02-a/</link>
+      <link>//localhost:1313/posts/2012-07-02-a/</link>
       <pubDate>Mon, 02 Jul 2012 13:28:37 +0000</pubDate>
-      
-      <guid>/posts/2012-07-02-a/</guid>
-      <description>Kobo Inc., a global leader in eReading, today announced that it will launch its full eReading service in Japan on July 19. The company’s award-winning Kobo Touch™ eReader will be offered to Japanese consumers for ¥7,980 including tax (or $100 USD).
- via virtual-strategy.com
-EPUB3 выбрали для поддержки всех радостей японского языка. Базироваться читалка будет на NetFront BookReader от ACCESS. Если я правильно понимаю, то потому Kobo перенесёт движок и на другие платформы.</description>
+      <guid>//localhost:1313/posts/2012-07-02-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Kobo Inc., a global leader in eReading, today announced that it will launch its full eReading service in Japan on July 19. The company’s award-winning Kobo Touch™ eReader will be offered to Japanese consumers for ¥7,980 including tax (or $100 USD).&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.virtual-strategy.com/2012/07/02/kobo-launches-japan-world-class-full-service-ereading-platform&#34;&gt;virtual-strategy.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;EPUB3 выбрали для поддержки всех радостей японского языка. Базироваться читалка &lt;a href=&#34;http://www.marketwatch.com/story/kobo-selects-access-netfronttm-bookreader-v10-epub-edition-as-epub-3-standard-viewer-engine-for-its-ebook-services-2012-07-02&#34;&gt;будет&lt;/a&gt; на NetFront BookReader от ACCESS. Если я правильно понимаю, то потому Kobo перенесёт движок и на другие платформы. Может, вслед за Японией, и в другие страны? Например, в Россию ;) Ну, чтобы просто обогнать Amazon и Barnes &amp;amp; Noble…&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>EPUB 3 для японских реалий</title>
-      <link>/posts/2012-05-17-b/</link>
+      <link>//localhost:1313/posts/2012-05-17-b/</link>
       <pubDate>Thu, 17 May 2012 12:37:55 +0000</pubDate>
-      
-      <guid>/posts/2012-05-17-b/</guid>
-      <description>EPUB 3 Viewers for Japanese, EPUB 3 adoption cases including Manga
-Mr. Hiraku Inoue, Vice President Software Engineering, Digital Reading Business Division（DRBD） Sony Corporation Director and Senior Executive Officer Rakuten, Inc.
-Mr. Yutaka Tashiro, Digital Business Division - Deputy General Manager SHUEISHA Inc.
-Mr. Masashi Okamoto, Digital Business Division - Manager SHUEISHA Inc.
- via contact.reedexpo.co.jp
-На конференции в Токио IDPF обсудит в том числе и EPUB 3 для манги.</description>
+      <guid>//localhost:1313/posts/2012-05-17-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;EPUB 3 Viewers for Japanese, EPUB 3 adoption cases including Manga&lt;/p&gt;&#xA;&lt;p&gt;Mr. Hiraku Inoue, Vice President Software Engineering, Digital Reading Business Division（DRBD） Sony Corporation Director and Senior Executive Officer Rakuten, Inc.&lt;br&gt;&#xA;Mr. Yutaka Tashiro, Digital Business Division - Deputy General Manager SHUEISHA Inc.&lt;br&gt;&#xA;Mr. Masashi Okamoto, Digital Business Division - Manager SHUEISHA Inc.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;https://contact.reedexpo.co.jp/expo/BOOK/?lg=en&amp;amp;tp=con&amp;amp;ec=APP&#34;&gt;contact.reedexpo.co.jp&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;На конференции в Токио IDPF обсудит в том числе и EPUB 3 для манги. Логично.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>На японском рынке электронных книг неразбериха</title>
-      <link>/posts/2011-08-23-1/</link>
+      <link>//localhost:1313/posts/2011-08-23-1/</link>
       <pubDate>Tue, 23 Aug 2011 13:15:27 +0000</pubDate>
-      
-      <guid>/posts/2011-08-23-1/</guid>
-      <description>A confusing maze of e-book stores, a difficulty in rendering text and high costs of purchase are dissuading Japanese customers from buying into e-books.
- via thebookseller.com
-Чем-то похоже на Россию: кто в лес, кто по дрова. И хорошо бы просто разные каналы, а так — сумятица.</description>
+      <guid>//localhost:1313/posts/2011-08-23-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;A confusing maze of e-book stores, a difficulty in rendering text and high costs of purchase are dissuading Japanese customers from buying into e-books.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.thebookseller.com/news/chaos-hinders-japanese-e-book-market.html&#34;&gt;thebookseller.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Чем-то похоже на Россию: кто в лес, кто по дрова. И хорошо бы просто разные каналы, а так — сумятица.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Обстоятельный обзор японского рынка электронных книг</title>
-      <link>/posts/2011-06-17-e/</link>
+      <link>//localhost:1313/posts/2011-06-17-e/</link>
       <pubDate>Fri, 17 Jun 2011 21:21:58 +0000</pubDate>
-      
-      <guid>/posts/2011-06-17-e/</guid>
-      <description>The Japanese eBook industry is crowded and awash with activity but is making no progress. In a recent edition of the eBook Journal, Yashio Uemura of Tokyo Denki University laments that the current eBook boom in Japan is in reality a boom in eBook seminars.
-This sense of frustration within the industry may seem at odds with annual revenues, as reported by Impress R&amp;amp;D, of $600 million and growth in excess of 20% per year.</description>
+      <guid>//localhost:1313/posts/2011-06-17-e/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The Japanese eBook industry is crowded and awash with activity but is making no progress. In a recent edition of the eBook Journal, Yashio Uemura of Tokyo Denki University laments that the current eBook boom in Japan is in reality a boom in eBook seminars.&lt;/p&gt;&#xA;&lt;p&gt;This sense of frustration within the industry may seem at odds with annual revenues, as reported by Impress R&amp;amp;D, of $600 million and growth in excess of 20% per year. These impressive numbers belie the fact that comics make up 75% of the revenue and apart from comics and magazines there seems little significant advance in broadening the eBook customer base within Japan.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Японские производители читалок готовятся к обороне</title>
-      <link>/posts/2011-06-15-b/</link>
+      <link>//localhost:1313/posts/2011-06-15-b/</link>
       <pubDate>Wed, 15 Jun 2011 20:48:58 +0000</pubDate>
-      
-      <guid>/posts/2011-06-15-b/</guid>
-      <description>Четыре японских производителя Sony, Panasonic, Rakuten и Kinokuniya, занимающихся продажей электронных книг, объединили свои усилия в этой области. На днях четвёрка сообщила о том, что ею ведутся работы над универсальной системой, которая позволит приобретать и читать контент на ридерах любой из четырёх компаний.
-В рамках новой службы потребители получат централизованную возможность управления своими закачками и просмотра магазина электронных книг, независимо от того, устройство какой из четырёх японских компаний они предпочитают.</description>
+      <guid>//localhost:1313/posts/2011-06-15-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Четыре японских производителя Sony, Panasonic, Rakuten и Kinokuniya, занимающихся продажей электронных книг, объединили свои усилия в этой области. На днях четвёрка сообщила о том, что ею ведутся работы над универсальной системой, которая позволит приобретать и читать контент на ридерах любой из четырёх компаний.&lt;/p&gt;&#xA;&lt;p&gt;В рамках новой службы потребители получат централизованную возможность управления своими закачками и просмотра магазина электронных книг, независимо от того, устройство какой из четырёх японских компаний они предпочитают.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>15 e-Book Expo Tokyo</title>
-      <link>/posts/2011-06-06-a/</link>
+      <link>//localhost:1313/posts/2011-06-06-a/</link>
       <pubDate>Mon, 06 Jun 2011 05:09:18 +0000</pubDate>
-      
-      <guid>/posts/2011-06-06-a/</guid>
-      <description>In 2009, the Japanese e-Book business market size reached 57.4 billion JPY, the largest in the world, and the size is estimated to grow to approx. 130 billion JPY in 2014. Being part of this huge energetic market, e-Book Expo Tokyo 2011 will be your perfect venue to develop your e-Book business across the world.
- via ebooks-expo.jp
-C 7 по 9 июля в Токио пройдёт e-Book Expo.
-Если верить статистике, то японский электронный рынок книг составлял $714 млн ещё в 2009 году.</description>
+      <guid>//localhost:1313/posts/2011-06-06-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;In 2009, the Japanese e-Book business market size reached 57.4 billion JPY, the largest in the world, and the size is estimated to grow to approx. 130 billion JPY in 2014. Being part of this huge energetic market, e-Book Expo Tokyo 2011 will be your perfect venue to develop your e-Book business across the world.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.ebooks-expo.jp/en/For-Exhibitors/e-Book_Expo_Tokyo/&#34;&gt;ebooks-expo.jp&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;C 7 по 9 июля в Токио пройдёт e-Book Expo.&lt;/p&gt;&#xA;&lt;p&gt;Если верить статистике, то японский электронный рынок книг составлял $714 млн ещё в 2009 году. Прогноз на 2014 год — $1,614 млрд.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sony показала 13-дюймовый гибкий цветной комбинированный дисплей</title>
-      <link>/posts/2011-05-20-c/</link>
+      <link>//localhost:1313/posts/2011-05-20-c/</link>
       <pubDate>Fri, 20 May 2011 10:02:22 +0000</pubDate>
-      
-      <guid>/posts/2011-05-20-c/</guid>
-      <description>via techon.nikkeibp.co.jp
-Слой чернил + слой специально приготовленных ЖК.
-Разрешение, правда, 150 ppi.
-P. S. Archive</description>
+      <guid>//localhost:1313/posts/2011-05-20-c/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://techon.nikkeibp.co.jp/english/NEWS_EN/20110519/191909/?SS=imgview_e&amp;amp;FD=46728356&amp;amp;ad_q&#34;&gt;techon.nikkeibp.co.jp&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Слой чернил + слой специально приготовленных ЖК.&lt;br&gt;&#xA;Разрешение, правда, 150 ppi.&lt;/p&gt;&#xA;&lt;p&gt;P. S. &lt;a href=&#34;http://web.archive.org/web/20130218090345/http://techon.nikkeibp.co.jp/english/NEWS_EN/20110519/191909/?SS=imgview_e&amp;amp;FD=46728356&amp;amp;ad_q&#34;&gt;Archive&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Quakebook - оч. правильный проект</title>
-      <link>/posts/2011-04-21-b/</link>
+      <link>//localhost:1313/posts/2011-04-21-b/</link>
       <pubDate>Thu, 21 Apr 2011 13:00:08 +0000</pubDate>
-      
-      <guid>/posts/2011-04-21-b/</guid>
-      <description>Quakebook
-ON SALE NOW!!
-In just four weeks, the 2:46 Quakebook project turned an idea first voiced in a single tweet, into a rich collection of essays, artwork and photographs submitted by indivdiuals around the world, including people who endured the disaster and journalists who covered it.
-2:46: Aftershocks: Stories from the Japan Earthquake contains a piece by Yoko Ono, and work created specifically for the book by authors William Gibson, Barry Eisler and Jake Adelstein.</description>
+      <guid>//localhost:1313/posts/2011-04-21-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.quakebook.org&#34;&gt;Quakebook&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;ON SALE NOW!!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;In just four weeks, the &lt;strong&gt;2:46 Quakebook project&lt;/strong&gt; turned an idea first voiced in a single tweet, into a rich collection of essays, artwork and photographs submitted by indivdiuals around the world, including people who endured the disaster and journalists who covered it.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2:46: Aftershocks: Stories from the Japan Earthquake&lt;/strong&gt; contains a piece by &lt;strong&gt;Yoko Ono&lt;/strong&gt;, and work created specifically for the book by authors &lt;strong&gt;William Gibson&lt;/strong&gt;, &lt;strong&gt;Barry Eisler&lt;/strong&gt; and &lt;strong&gt;Jake Adelstein&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

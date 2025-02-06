@@ -2,71 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spain on Новости электронного книгоиздания</title>
-    <link>/tags/spain/</link>
+    <link>//localhost:1313/tags/spain/</link>
     <description>Recent content in Spain on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Nov 2011 11:14:41 +0000</lastBuildDate><atom:link href="/tags/spain/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Nov 2011 11:14:41 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/spain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Суд постановил: Пиратство не только не вредно, но и полезно</title>
-      <link>/posts/2011-11-03-2/</link>
+      <link>//localhost:1313/posts/2011-11-03-2/</link>
       <pubDate>Thu, 03 Nov 2011 11:14:41 +0000</pubDate>
-      
-      <guid>/posts/2011-11-03-2/</guid>
-      <description>it is not possible to determine the damage and corresponding compensation due to loss of benefits to the rightsholder, for the simple reason that customers of pirated copies of music and movies, when making the purchase of pirated copies, externalize their decision not to be customers of music and movies as originals, so there is no profit that could have been gained. In other words, those customers either buy a pirated copy at a low price or they don&amp;rsquo;t buy an original at a price between 15 and 20 Euros.</description>
+      <guid>//localhost:1313/posts/2011-11-03-2/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;it is not possible to determine the damage and corresponding compensation due to loss of benefits to the rightsholder, for the simple reason that customers of pirated copies of music and movies, when making the purchase of pirated copies, externalize their decision not to be customers of music and movies as originals, so there is no profit that could have been gained. In other words, those customers either buy a pirated copy at a low price or they don&amp;rsquo;t buy an original at a price between 15 and 20 Euros.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Amazon Kindle для Испании, Франции и Нидерландов</title>
-      <link>/posts/2011-09-15-1/</link>
+      <link>//localhost:1313/posts/2011-09-15-1/</link>
       <pubDate>Thu, 15 Sep 2011 14:25:40 +0000</pubDate>
-      
-      <guid>/posts/2011-09-15-1/</guid>
-      <description>Amazon открылся в Испании, правда, без электронных книг, но, говорят, скоро.
-По слухам, скоро будут и магазинчики Kindle-книг на нидерландском. А ещё и на французском.
-А там, глядишь&amp;hellip;</description>
+      <guid>//localhost:1313/posts/2011-09-15-1/</guid>
+      <description>&lt;p&gt;Amazon открылся в Испании, правда, без электронных книг, но, говорят, скоро.&lt;/p&gt;&#xA;&lt;p&gt;По &lt;a href=&#34;http://goo.gl/lWTFH&#34;&gt;слухам&lt;/a&gt;, скоро будут и магазинчики Kindle-книг на нидерландском. А ещё и &lt;a href=&#34;http://www.the-digital-reader.com/2011/09/12/confirmed-kindle-coming-to-france-next-month&#34;&gt;на французском&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;А там, глядишь&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Amazon приходит в Испанию 15 сентября</title>
-      <link>/posts/2011-09-06-1/</link>
+      <link>//localhost:1313/posts/2011-09-06-1/</link>
       <pubDate>Tue, 06 Sep 2011 20:07:46 +0000</pubDate>
-      
-      <guid>/posts/2011-09-06-1/</guid>
-      <description> Se ha hecho esperar, exactamente 16 años, pero al fin llega. El miércoles día 14, Greg Greeley, vicepresidente de la división europea presentará el lanzamiento de Amazon.es. Y al día siguiente ya estará en funcionamiento la web española, según diversas fuentas del sector.
- </description>
+      <guid>//localhost:1313/posts/2011-09-06-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.elpais.com/articulo/tecnologia/Amazon/llega/Espana/septiembre/elpeputec/20110906elpeputec_4/Tes&#34;&gt;Se ha hecho esperar, exactamente 16 años, pero al fin llega. El miércoles día 14, Greg Greeley, vicepresidente de la división europea presentará el lanzamiento de Amazon.es. Y al día siguiente ya estará en funcionamiento la web española, según diversas fuentas del sector.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
-    
     <item>
       <title>Испанский книжный стриминг 24symbols выпустил прогу для iPad</title>
-      <link>/posts/2011-07-27-1/</link>
+      <link>//localhost:1313/posts/2011-07-27-1/</link>
       <pubDate>Wed, 27 Jul 2011 14:53:08 +0000</pubDate>
-      
-      <guid>/posts/2011-07-27-1/</guid>
-      <description>via itunes.apple.com
-«Приключения Гекльберри Финна» выглядят забавно среди New Releases, но все с чего-то начинают.</description>
+      <guid>//localhost:1313/posts/2011-07-27-1/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://itunes.apple.com/en/app/24symbols-para-ipad/id448330677?mt=8&#34;&gt;itunes.apple.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;«Приключения Гекльберри Финна» выглядят забавно среди New Releases, но все с чего-то начинают.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Стриминг 24symbols начал работу</title>
-      <link>/posts/2011-07-18-4/</link>
+      <link>//localhost:1313/posts/2011-07-18-4/</link>
       <pubDate>Mon, 18 Jul 2011 09:37:07 +0000</pubDate>
-      
-      <guid>/posts/2011-07-18-4/</guid>
-      <description>Now after a closed beta period, the Spanish company 24symbols has officially launched to the public with ad-supported and premium subscription memberships. At launch, the service has about 1000 titles, and although it’s browser based the company says an iOS app is undergoing approval right now.
- via teleread.com
-Диккенс, Остин, Дарвин и пр. Но с рекламой Леди Гага.</description>
+      <guid>//localhost:1313/posts/2011-07-18-4/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Now after a closed beta period, the Spanish company &lt;a href=&#34;http://www.24symbols.com&#34;&gt;24symbols&lt;/a&gt; has officially launched to the public with ad-supported and premium subscription memberships. At launch, the service has about 1000 titles, and although it’s browser based the company says an iOS app is undergoing approval right now.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.teleread.com/drm/24symbols-ebook-subscription-service-is-now-live/&#34;&gt;teleread.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Диккенс, Остин, Дарвин и пр. Но с рекламой Леди Гага.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>24symbols: а вот и европейский конкурент Bookmate</title>
-      <link>/posts/2011-04-11-a/</link>
+      <link>//localhost:1313/posts/2011-04-11-a/</link>
       <pubDate>Mon, 11 Apr 2011 10:42:30 +0000</pubDate>
-      
-      <guid>/posts/2011-04-11-a/</guid>
-      <description>via 24symbols.com
-Модель немного другая. Бесплатно - с рекламой, без рекламы - подписка (правда, дорогая).</description>
+      <guid>//localhost:1313/posts/2011-04-11-a/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.24symbols.com/&#34;&gt;24symbols.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Модель немного другая. Бесплатно - с рекламой, без рекламы - подписка (правда, дорогая).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

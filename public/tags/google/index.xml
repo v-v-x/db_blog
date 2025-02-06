@@ -2,409 +2,277 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google on Новости электронного книгоиздания</title>
-    <link>/tags/google/</link>
+    <link>//localhost:1313/tags/google/</link>
     <description>Recent content in Google on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 10 Jan 2017 13:02:24 +0000</lastBuildDate><atom:link href="/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2017 13:02:24 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/google/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Docs для Android → EPUB</title>
-      <link>/posts/2017-01-10-b/</link>
+      <link>//localhost:1313/posts/2017-01-10-b/</link>
       <pubDate>Tue, 10 Jan 2017 13:02:24 +0000</pubDate>
-      
-      <guid>/posts/2017-01-10-b/</guid>
-      <description>Года два назад в Pages для iOS появилась сохранять документы в формате EPUB. А теперь — и в Google Docs для Android. С некоторой задержкой до Google дошло, что EPUB — такой же нужный в цифровом мире формат, как PDF и DOCX. Ну, лучше поздно. При экспорте, правда, нет ни обложки, ни оглавления, так что на полноценный конвертор не тянет, но для личных нужд вполне подойдёт: длинный документ удобнее читать в читалке, чем в Google Docs.</description>
+      <guid>//localhost:1313/posts/2017-01-10-b/</guid>
+      <description>&lt;p&gt;Года два назад в Pages для iOS появилась сохранять документы в формате EPUB. А теперь — и в Google Docs для Android. С некоторой задержкой до Google дошло, что EPUB — такой же нужный в цифровом мире формат, как PDF и DOCX. Ну, лучше поздно. При экспорте, правда, нет ни обложки, ни оглавления, так что на полноценный конвертор не тянет, но для личных нужд вполне подойдёт: длинный документ удобнее читать в читалке, чем в Google Docs.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google Allo и поэзия</title>
-      <link>/posts/2016-09-23-a/</link>
+      <link>//localhost:1313/posts/2016-09-23-a/</link>
       <pubDate>Fri, 23 Sep 2016 10:45:47 +0000</pubDate>
-      
-      <guid>/posts/2016-09-23-a/</guid>
-      <description>Вот некоторые, например, Эдвард Сноуден, не любят Google, а тем временем в новом гугловском мессенджере Allo работает бот-помощник, которые, помимо прочего, предлагает почитать стихи. Стихи. В мессенджере. Мне кажется, это хорошо.</description>
+      <guid>//localhost:1313/posts/2016-09-23-a/</guid>
+      <description>&lt;p&gt;Вот некоторые, например, Эдвард Сноуден, не любят Google, а тем временем в новом гугловском мессенджере &lt;a href=&#34;https://allo.google.com&#34;&gt;Allo&lt;/a&gt; работает бот-помощник, которые, помимо прочего, предлагает почитать стихи. Стихи. В мессенджере. Мне кажется, это хорошо.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Oyster всё</title>
-      <link>/posts/2015-09-21-a/</link>
+      <link>//localhost:1313/posts/2015-09-21-a/</link>
       <pubDate>Mon, 21 Sep 2015 22:16:45 +0000</pubDate>
-      
-      <guid>/posts/2015-09-21-a/</guid>
-      <description>The e-book subscription service announced on its blog that it is shutting down its operations over the next few months.
- Source: Oyster Is Shutting Down Operations
-Видимо, не справился с тем, что деньги получал за подписку, а платил как за розницу.
-P. S. (Голос из будущего) Сервис был куплен Google ради нескольких программистов.</description>
+      <guid>//localhost:1313/posts/2015-09-21-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The e-book subscription service announced on its blog that it is shutting down its operations over the next few months.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/68130-oyster-is-shutting-down-operations.html&#34;&gt;Oyster Is Shutting Down Operations&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Видимо, не справился с тем, что деньги получал за подписку, а платил как за розницу.&lt;/p&gt;&#xA;&lt;p&gt;P. S. (&lt;em&gt;Голос из будущего&lt;/em&gt;) Сервис был куплен Google ради нескольких программистов.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google временно (?) закрыл Play Books Publisher Portal</title>
-      <link>/posts/2015-05-26-a/</link>
+      <link>//localhost:1313/posts/2015-05-26-a/</link>
       <pubDate>Tue, 26 May 2015 13:29:50 +0000</pubDate>
-      
-      <guid>/posts/2015-05-26-a/</guid>
-      <description>Do you know how I&amp;rsquo;ve been harping on the rampant commercial piracy in Google Play Books (four posts in the past month)? I think Google finally got the message. I&amp;rsquo;ve just read on Twitter, and confirmed from a second source, that Google has closed the Google Play Books Partner Center to new users. The Partner Center is&amp;hellip; Read More »
- Source: Google Shutters Its Play Books Publisher Portal in Order to &amp;ldquo;Improve Its Content Management Capabilities&amp;rdquo; | Ink, Bits, &amp;amp; Pixels</description>
+      <guid>//localhost:1313/posts/2015-05-26-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Do you know how I&amp;rsquo;ve been harping on the rampant commercial piracy in Google Play Books (four posts in the past month)? I think Google finally got the message. I&amp;rsquo;ve just read on Twitter, and confirmed from a second source, that Google has closed the Google Play Books Partner Center to new users. The Partner Center is&amp;hellip; Read More »&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://the-digital-reader.com/2015/05/25/google-shutters-its-play-books-publisher-portal-in-order-to-improve-its-content-management-capabilities/&#34;&gt;Google Shutters Its Play Books Publisher Portal in Order to &amp;ldquo;Improve Its Content Management Capabilities&amp;rdquo; | Ink, Bits, &amp;amp; Pixels&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Пиратство в Google Play Books — проблема не Google, а Бернской конвенции</title>
-      <link>/posts/2015-05-19-a/</link>
+      <link>//localhost:1313/posts/2015-05-19-a/</link>
       <pubDate>Tue, 19 May 2015 09:25:59 +0000</pubDate>
-      
-      <guid>/posts/2015-05-19-a/</guid>
-      <description>Google has a serious problem with piracy in Google Play Books. It lets just about anyone set up ebook shops in Google Play Books, and stock them with pirated ebooks. The pirates are allowed to upload copy after copy after copy of a pirated ebook, secure in the knowledge that Google won&amp;rsquo;t do anything more than&amp;hellip; Read More »
- Source: Google Play Books Rep Throws Up Hands, Tells Dutch Publisher That Nothing Can be Done About Obvious eBook Pirate | Ink, Bits, &amp;amp; Pixels</description>
+      <guid>//localhost:1313/posts/2015-05-19-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Google has a serious problem with piracy in Google Play Books. It lets just about anyone set up ebook shops in Google Play Books, and stock them with pirated ebooks. The pirates are allowed to upload copy after copy after copy of a pirated ebook, secure in the knowledge that Google won&amp;rsquo;t do anything more than&amp;hellip; Read More »&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://the-digital-reader.com/2015/05/18/google-play-books-rep-throws-up-hands-tells-dutch-publisher-that-nothing-can-be-done-about-obvious-ebook-pirate/&#34;&gt;Google Play Books Rep Throws Up Hands, Tells Dutch Publisher That Nothing Can be Done About Obvious eBook Pirate | Ink, Bits, &amp;amp; Pixels&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Явление Книг Google Play российскому народу</title>
-      <link>/posts/2012-12-10-a/</link>
+      <link>//localhost:1313/posts/2012-12-10-a/</link>
       <pubDate>Mon, 10 Dec 2012 22:41:21 +0000</pubDate>
-      
-      <guid>/posts/2012-12-10-a/</guid>
-      <description>Только вчера вышла колонка на theRunet о том, кто и когда из больших игроков придёт на российский рынок электронных книг, и вот те на: Книги на Google Play. Магазин устроен как новогодний стол (ну, или винегрет, если кому-то больше нравится). Что самое забавное — немало книг, с конвертацией которых Google вообще не стал заморачиваться. И честно пишет — «отсканированные страницы». И это текстовые книги. Бррр. Ну, лиха беда начало.</description>
+      <guid>//localhost:1313/posts/2012-12-10-a/</guid>
+      <description>&lt;p&gt;Только вчера вышла &lt;a href=&#34;http://therunet.com/experts/150-amazonka-u-rossiyskih-beregov&#34;&gt;колонка на theRunet&lt;/a&gt; о том, кто и когда из больших игроков придёт на российский рынок электронных книг, и вот те на: &lt;a href=&#34;https://play.google.com/store/books&#34;&gt;Книги на Google Play&lt;/a&gt;. Магазин устроен как новогодний стол (ну, или винегрет, если кому-то больше нравится). Что самое забавное — немало книг, с конвертацией которых Google вообще не стал заморачиваться. И честно пишет — «отсканированные страницы». И это текстовые книги. Бррр. Ну, лиха беда начало.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google будет продавать книги ЛитРес?</title>
-      <link>/posts/2012-02-29-a/</link>
+      <link>//localhost:1313/posts/2012-02-29-a/</link>
       <pubDate>Wed, 29 Feb 2012 18:50:59 +0000</pubDate>
-      
-      <guid>/posts/2012-02-29-a/</guid>
-      <description>В ходе своего выступления Анурьев, приглашённый Google в качестве эксперта, заявил, что розничный рынок продаж электронных книг в России удваивается каждый год, но на 2011 года обороты его составили около 5 млн долларов.
- via blogs.computerra.ru
-Ну, может, хоть у Google это будет удобнее&amp;hellip;</description>
+      <guid>//localhost:1313/posts/2012-02-29-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;В ходе своего выступления Анурьев, приглашённый Google в качестве эксперта, заявил, что розничный рынок продаж электронных книг в России удваивается каждый год, но на 2011 года обороты его составили около 5 млн долларов.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://blogs.computerra.ru/25634&#34;&gt;blogs.computerra.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ну, может, хоть у Google это будет удобнее&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Новости электронного книгоиздания в Google Currents. Подписывайтесь ;)</title>
-      <link>/posts/2012-01-25-a/</link>
+      <link>//localhost:1313/posts/2012-01-25-a/</link>
       <pubDate>Wed, 25 Jan 2012 20:34:41 +0000</pubDate>
-      
-      <guid>/posts/2012-01-25-a/</guid>
-      <description>Currents users can find your edition by visiting this link on their device&amp;rsquo;s browser:
-http://www.google.com/producer/editions/CAowhN1X/новости_электронного_книгоиздания
- via google.com
-Или короткий урл: http://goo.gl/AvhR6</description>
+      <guid>//localhost:1313/posts/2012-01-25-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Currents users can find your edition by visiting this link on their device&amp;rsquo;s browser:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.google.com/producer/editions/CAowhN1X/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BD%D0%B8%D0%B3%D0%BE%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F&#34;&gt;http://www.google.com/producer/editions/CAowhN1X/новости_электронного_книгоиздания&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;https://www.google.com/producer/home?sig=ALjLGbP64M0t9AzoguKK_2YZXbIxCTkRiA#!/root:CAAqBggKMITdVzCTrQc/distribute&#34;&gt;google.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Или короткий урл: &lt;a href=&#34;http://goo.gl/AvhR6&#34;&gt;http://goo.gl/AvhR6&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google может покинуть Торговую палату США из-за SOPA</title>
-      <link>/posts/2011-11-08-1/</link>
+      <link>//localhost:1313/posts/2011-11-08-1/</link>
       <pubDate>Tue, 08 Nov 2011 05:18:17 +0000</pubDate>
-      
-      <guid>/posts/2011-11-08-1/</guid>
-      <description>Yahoo recently refused to renew its membership out of disgust over the Chamber&amp;rsquo;s position on PROTECT IP/SOPA. And now there are reports saying that both Google and the Consumer Electronics Association are considering dropping out of the Chamber over its support of PROTECT IP/SOPA.
- via techdirt.com
-Yahoo уже заявила, что не будет возобновлять своё членство. Причина — поддержка палатой законопроекта SOPA, направленного на абсурдное ужесточение копирайтного регулирования интернета, угрожающее его функционированию.</description>
+      <guid>//localhost:1313/posts/2011-11-08-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Yahoo recently &lt;a href=&#34;http://www.techdirt.com/articles/20111013/11270216337/yahoo-dumps-us-chamber-commerce-over-its-extremist-position-protect-ip.shtml&#34;&gt;refused to renew its membership&lt;/a&gt; out of disgust over the Chamber&amp;rsquo;s position on PROTECT IP/SOPA. And now there are reports saying that &lt;a href=&#34;http://www.politico.com/news/stories/1111/67603.html&#34;&gt;both Google and the Consumer Electronics Association are considering dropping out of the Chamber&lt;/a&gt; over its support of PROTECT IP/SOPA.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.techdirt.com/articles/20111106/23002616649/us-chamber-commerce-quickly-showing-that-its-out-touch-as-google-cea-consider-dropping-out.shtml&#34;&gt;techdirt.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Yahoo уже заявила, что не будет возобновлять своё членство. Причина — поддержка палатой законопроекта SOPA, направленного на абсурдное ужесточение копирайтного регулирования интернета, угрожающее его функционированию.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Кто лукавит? Маркер или Волож?</title>
-      <link>/posts/2011-10-28-2/</link>
+      <link>//localhost:1313/posts/2011-10-28-2/</link>
       <pubDate>Fri, 28 Oct 2011 12:18:50 +0000</pubDate>
-      
-      <guid>/posts/2011-10-28-2/</guid>
-      <description>Google отключила возможность установки поиска «Яндекса» по умолчанию в своем браузере Google Chrome
- via marker.ru
-Или у меня какой-то неправильный Google Chrome, в котором поиск Яндекса очень даже устанавливается по умолчанию (15.0.874.106 for Mac)?</description>
+      <guid>//localhost:1313/posts/2011-10-28-2/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Google отключила возможность установки поиска «Яндекса» по умолчанию в своем браузере Google Chrome&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://marker.ru/news/505183&#34;&gt;marker.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Или у меня какой-то неправильный Google Chrome, в котором поиск Яндекса очень даже устанавливается по умолчанию (15.0.874.106 for Mac)?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google eBooks на крутящейся полке</title>
-      <link>/posts/2011-10-19-1/</link>
+      <link>//localhost:1313/posts/2011-10-19-1/</link>
       <pubDate>Wed, 19 Oct 2011 11:49:42 +0000</pubDate>
-      
-      <guid>/posts/2011-10-19-1/</guid>
-      <description>«Эксперимент» для браузера Chrome. Симпатично, можно покрутить шкаф с книжками.</description>
+      <guid>//localhost:1313/posts/2011-10-19-1/</guid>
+      <description>&lt;p&gt;«Эксперимент» для браузера Chrome. Симпатично, можно покрутить шкаф с книжками.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Издателей, манипулирующих территориальными правами, ждёт вот такой ад</title>
-      <link>/posts/2011-10-06-1/</link>
+      <link>//localhost:1313/posts/2011-10-06-1/</link>
       <pubDate>Thu, 06 Oct 2011 18:58:34 +0000</pubDate>
-      
-      <guid>/posts/2011-10-06-1/</guid>
-      <description>Так выглядит только что открывшийся английский Google eBookStore из России.</description>
+      <guid>//localhost:1313/posts/2011-10-06-1/</guid>
+      <description>&lt;p&gt;Так выглядит только что открывшийся &lt;a href=&#34;http://books.google.co.uk/ebooks#&#34;&gt;английский Google eBookStore&lt;/a&gt; из России.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Французские издатели решили не судиться с Google, а договариваться</title>
-      <link>/posts/2011-05-15-a/</link>
+      <link>//localhost:1313/posts/2011-05-15-a/</link>
       <pubDate>Thu, 15 Sep 2011 10:09:17 +0000</pubDate>
-      
-      <guid>/posts/2011-05-15-a/</guid>
-      <description>French publishers Albin Michel, Flammarion and Gallimard have confirmed they have dropped charges against Google for digitising copyrighted books from their catalogues without prior permission.
-The three said they had decided to abandon the summons against Google France and Google Inc that they had filed on 6th May and 3rd June in order to &amp;ldquo;facilitate the resumption of talks between the French publishers association (Syndicat National de l&amp;rsquo;Edition, SNE) and Google over the digitation of copyrighted books and the search for an amicable solution to the litigation&amp;rdquo;.</description>
+      <guid>//localhost:1313/posts/2011-05-15-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;French publishers Albin Michel, Flammarion and Gallimard have confirmed they have dropped charges against Google for digitising copyrighted books from their catalogues without prior permission.&lt;/p&gt;&#xA;&lt;p&gt;The three said they had decided to abandon the summons against Google France and Google Inc that they had filed on 6th May and 3rd June in order to &amp;ldquo;facilitate the resumption of talks between the French publishers association (Syndicat National de l&amp;rsquo;Edition, SNE) and Google over the digitation of copyrighted books and the search for an amicable solution to the litigation&amp;rdquo;. However, they added they reserved the right to revive the case if the talks fell through.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>А Google-то и не знает, или Ирония интернет-истории</title>
-      <link>/posts/2011-08-17-1/</link>
+      <link>//localhost:1313/posts/2011-08-17-1/</link>
       <pubDate>Wed, 17 Aug 2011 11:50:55 +0000</pubDate>
-      
-      <guid>/posts/2011-08-17-1/</guid>
-      <description>Есть такой отличный писатель, Нил Стивенсон. И есть у него (как бы) исторический роман &amp;ldquo;Ртуть&amp;rdquo;. И был такой сайт, где читатели романа совокупно писали комментарии. И я даже этот сайт когда-то видел, и думал - вот крутизна какая - только индекс из нескольких сот вхождений.
-Но в 2005 году, оказывается, если верить archive.org, сайт романа c красивым названием metaweb.com перешёл к компании, профилем которой стал Semantic Web. А потом компанию купил Google.</description>
+      <guid>//localhost:1313/posts/2011-08-17-1/</guid>
+      <description>&lt;p&gt;Есть такой отличный писатель, Нил Стивенсон. И есть у него (как бы) исторический роман &amp;ldquo;Ртуть&amp;rdquo;. И был такой сайт, где читатели романа совокупно писали комментарии. И я даже этот сайт когда-то видел, и думал - вот крутизна какая - только индекс из нескольких сот вхождений.&lt;/p&gt;&#xA;&lt;p&gt;Но в 2005 году, оказывается, если верить archive.org, сайт романа c красивым названием metaweb.com перешёл к компании, профилем которой стал Semantic Web. А потом компанию купил Google. А проект вокруг романа канул в Архиве. Жаль. На месте Google я бы его восстановил. Если уж Semantic Web откуда-то и пошёл, так именно из таких проектов, как этот.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google Books добавил шэринг в G&#43;</title>
-      <link>/posts/2011-08-11-3/</link>
+      <link>//localhost:1313/posts/2011-08-11-3/</link>
       <pubDate>Thu, 11 Aug 2011 20:15:25 +0000</pubDate>
-      
-      <guid>/posts/2011-08-11-3/</guid>
-      <description>via booksearch.blogspot.com
-Не цитата - просто ссылка на превьюшную страницу с обложкой и аннотацией.</description>
+      <guid>//localhost:1313/posts/2011-08-11-3/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://booksearch.blogspot.com/2011/08/share-your-favorite-books-with-literary.html&#34;&gt;booksearch.blogspot.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Не цитата - просто ссылка на превьюшную страницу с обложкой и аннотацией.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google так-таки договорилась с Hachette сканировать книги</title>
-      <link>/posts/2011-08-04-1/</link>
+      <link>//localhost:1313/posts/2011-08-04-1/</link>
       <pubDate>Thu, 04 Aug 2011 13:25:52 +0000</pubDate>
-      
-      <guid>/posts/2011-08-04-1/</guid>
-      <description>The agreement for Google to scan out-of-print French language books for Hachette Livre has been signed, two months later than scheduled.
-The five-year agreement should have been finalised six months after the memorandum of understanding was signed last November, but it was delayed until last week by technical hitches.
-The pact confirms Hachette Livre will decide which titles should be scanned and which should be made available as e-books through Google and booksellers or for other commercial purposes, such as print-on-demand, the two companies said in a joint statement.</description>
+      <guid>//localhost:1313/posts/2011-08-04-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The agreement for Google to scan out-of-print French language books for Hachette Livre has been signed, two months later than scheduled.&lt;/p&gt;&#xA;&lt;p&gt;The five-year agreement should have been finalised six months after the memorandum of understanding was signed last November, but it was delayed until last week by technical hitches.&lt;/p&gt;&#xA;&lt;p&gt;The pact confirms Hachette Livre will decide which titles should be scanned and which should be made available as e-books through Google and booksellers or for other commercial purposes, such as print-on-demand, the two companies said in a joint statement.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ларри Поттер и Гарри Брин</title>
-      <link>/posts/2011-07-21-4/</link>
+      <link>//localhost:1313/posts/2011-07-21-4/</link>
       <pubDate>Thu, 21 Jul 2011 11:28:14 +0000</pubDate>
-      
-      <guid>/posts/2011-07-21-4/</guid>
-      <description>When JK Rowling’s new website Pottermore opens its doors this Fall, we’ll provide services to help fans make the most of their ebook purchasing experience.
- via booksearch.blogspot.com
-Google договорился с Джоан Роулинг о том, что, когда в начале октября будет запущен сайт Pottermore, то книжки Поттерианы в цифровом виде будут доступны пользователям посредством платформы Google Books. То есть в замкнутной экосистеме Google.
-Интересно, насколько состояние Роулинг, и без того немаленькое, обогатится от этой сделки?</description>
+      <guid>//localhost:1313/posts/2011-07-21-4/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;When JK Rowling’s new website Pottermore opens its doors this Fall, we’ll provide services to help fans make the most of their ebook purchasing experience.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://booksearch.blogspot.com/2011/07/pottermore-and-google-team-up-to-enable.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+blogspot%2FCjSP+%28Book+Search%3A+Inside+Google+Book+Search%29&#34;&gt;booksearch.blogspot.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Google договорился с Джоан Роулинг о том, что, когда в начале октября будет запущен сайт &lt;a href=&#34;http://www.pottermore.com/&#34;&gt;Pottermore&lt;/a&gt;, то книжки Поттерианы в цифровом виде будут доступны пользователям посредством платформы Google Books. То есть в замкнутной экосистеме Google.&lt;/p&gt;&#xA;&lt;p&gt;Интересно, насколько состояние Роулинг, и без того немаленькое, обогатится от этой сделки? И ведь всё мимо издательских ртов :) Self-publishing, практически.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Тааак, Android Market стал iTunes, но без музыки</title>
-      <link>/posts/2011-07-12-5/</link>
+      <link>//localhost:1313/posts/2011-07-12-5/</link>
       <pubDate>Tue, 12 Jul 2011 21:03:42 +0000</pubDate>
-      
-      <guid>/posts/2011-07-12-5/</guid>
-      <description>Тут тебе и книжки, и видеопрокат, и, понятно, программы. Только музыки не хватает. Книжки, пишут, можно читать прямо тут же. Все радости — пока только для США.
-Непонятно, как же Google eBooks?</description>
+      <guid>//localhost:1313/posts/2011-07-12-5/</guid>
+      <description>&lt;p&gt;Тут тебе и книжки, и видеопрокат, и, понятно, программы. Только музыки не хватает. Книжки, пишут, можно читать прямо тут же. Все радости — пока только для США.&lt;/p&gt;&#xA;&lt;p&gt;Непонятно, как же Google eBooks?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Breaking, тассазать, news: интегрированный с Google eBooks букридер</title>
-      <link>/posts/2011-07-11-a/</link>
+      <link>//localhost:1313/posts/2011-07-11-a/</link>
       <pubDate>Mon, 11 Jul 2011 14:20:20 +0000</pubDate>
-      
-      <guid>/posts/2011-07-11-a/</guid>
-      <description>via googleblog.blogspot.com
-В буридер iriver Story HD ($140 в США) будет устанавливаться программа для доступа к Google eBooks (подключение к сети через WiFi). Это, конечно, не альтернатива Kindle. Но решение Google не сбрасывать со счетов букридеры оч. правильное.
-Для России, конечно, не акутально, поскольку Google eBooks здесь работает весьма ограничено, но интересная тенденция.</description>
+      <guid>//localhost:1313/posts/2011-07-11-a/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://googleblog.blogspot.com/2011/07/first-google-ebooks-integrated-e-reader.html&#34;&gt;googleblog.blogspot.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;В буридер iriver Story HD ($140 в США) будет устанавливаться программа для доступа к Google eBooks (подключение к сети через WiFi). Это, конечно, не альтернатива Kindle. Но решение Google не сбрасывать со счетов букридеры оч. правильное.&lt;/p&gt;&#xA;&lt;p&gt;Для России, конечно, не акутально, поскольку Google eBooks здесь работает весьма ограничено, но интересная тенденция.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google Books завёл партнёрку</title>
-      <link>/posts/2011-06-16-c/</link>
+      <link>//localhost:1313/posts/2011-06-16-c/</link>
       <pubDate>Thu, 16 Jun 2011 19:42:30 +0000</pubDate>
-      
-      <guid>/posts/2011-06-16-c/</guid>
-      <description>via booksearch.blogspot.com
-Резонно.</description>
+      <guid>//localhost:1313/posts/2011-06-16-c/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://booksearch.blogspot.com/2011/06/google-ebooks-affiliate-program-open.html&#34;&gt;booksearch.blogspot.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Резонно.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Разработчик Sigil, программы для вёрстки EPUB, будет работать в Google</title>
-      <link>/posts/2011-06-10-c/</link>
+      <link>//localhost:1313/posts/2011-06-10-c/</link>
       <pubDate>Fri, 10 Jun 2011 12:20:43 +0000</pubDate>
-      
-      <guid>/posts/2011-06-10-c/</guid>
-      <description>The second important event is that after months of job offers, interview prep, flying around the planet so the interviews could be conducted etc., I have finally accepted an offer. From Google, no less. I’ll be moving to Mountain View in the San Francisco Bay Area some time in September or October of this year.
-I’d like to thank all the companies I’ve interviewed with/received offers from for their time and consideration.</description>
+      <guid>//localhost:1313/posts/2011-06-10-c/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The second important event is that after months of job offers, interview prep, flying around the planet so the interviews could be conducted etc., I have finally accepted an offer. From Google, no less. I’ll be moving to Mountain View in the San Francisco Bay Area some time in September or October of this year.&lt;/p&gt;&#xA;&lt;p&gt;I’d like to thank all the companies I’ve interviewed with/received offers from for their time and consideration.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Электронная книжка Google о бразуерах и интернете теперь и на русском</title>
-      <link>/posts/2011-06-06-d/</link>
+      <link>//localhost:1313/posts/2011-06-06-d/</link>
       <pubDate>Mon, 06 Jun 2011 10:29:51 +0000</pubDate>
-      
-      <guid>/posts/2011-06-06-d/</guid>
-      <description>via 20thingsilearned.com
-Гуд. Молодцы.
-P. S. из 2020-го года: ссылка не работает. Только так.</description>
+      <guid>//localhost:1313/posts/2011-06-06-d/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.20thingsilearned.com/ru-RU&#34;&gt;20thingsilearned.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Гуд. Молодцы.&lt;/p&gt;&#xA;&lt;p&gt;P. S. из 2020-го года: ссылка не работает. Только &lt;a href=&#34;https://web.archive.org/web/20101129235045/http://www.20thingsilearned.com/&#34;&gt;так&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>В Google eBooks появился контекстный перевод и поиск</title>
-      <link>/posts/2011-05-19-g/</link>
+      <link>//localhost:1313/posts/2011-05-19-g/</link>
       <pubDate>Thu, 19 May 2011 18:48:09 +0000</pubDate>
-      
-      <guid>/posts/2011-05-19-g/</guid>
-      <description>via googleblog.blogspot.com
-Прогрессируют.</description>
+      <guid>//localhost:1313/posts/2011-05-19-g/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://googleblog.blogspot.com/2011/05/define-translate-and-search-for-words.html&#34;&gt;googleblog.blogspot.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Прогрессируют.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google против блокировки веб-сайтов</title>
-      <link>/posts/2011-05-19-c/</link>
+      <link>//localhost:1313/posts/2011-05-19-c/</link>
       <pubDate>Thu, 19 May 2011 13:11:20 +0000</pubDate>
-      
-      <guid>/posts/2011-05-19-c/</guid>
-      <description>Google&amp;rsquo;s executive chairman, Eric Schmidt, warned on Wednesday that government plans to block access to illicit filesharing websites could set a &amp;ldquo;disastrous precedent&amp;rdquo; for freedom of speech.
-Speaking to journalists after his keynote speech at Google&amp;rsquo;s Big Tent conference in London, Schmidt said the online search giant would challenge attempts to restrict access to the Pirate Bay and other so-called &amp;ldquo;cyberlocker&amp;rdquo; sites that encourage illegal downloading – part of government plans to fight online piracy through controversial measures included in the Digital Economy Act.</description>
+      <guid>//localhost:1313/posts/2011-05-19-c/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Google&amp;rsquo;s executive chairman, Eric Schmidt, warned on Wednesday that government plans to block access to illicit &lt;a href=&#34;http://www.guardian.co.uk/technology/file-sharing&#34; title=&#34;More from guardian.co.uk on Filesharing&#34;&gt;filesharing&lt;/a&gt; websites could set a &amp;ldquo;disastrous precedent&amp;rdquo; for freedom of speech.&lt;/p&gt;&#xA;&lt;p&gt;Speaking to journalists after his keynote speech at Google&amp;rsquo;s Big Tent conference in London, Schmidt said the online search giant would challenge &lt;a href=&#34;http://www.guardian.co.uk/technology/2011/mar/22/isps-urged-to-block-filesharing-sites&#34; title=&#34;attempts to restrict access to the Pirate Bay and other so-called cyberlocker sites&#34;&gt;attempts to restrict access to the Pirate Bay and other so-called &amp;ldquo;cyberlocker&amp;rdquo; sites&lt;/a&gt; that encourage illegal downloading – part of government plans to fight online &lt;a href=&#34;http://www.guardian.co.uk/technology/piracy&#34; title=&#34;More from guardian.co.uk on Piracy&#34;&gt;piracy&lt;/a&gt; through controversial measures included in the Digital Economy Act.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Вот оно и случилось - Google завел СМИ. Куда смотрит &#34;Яндекс&#34;?</title>
-      <link>/posts/2011-03-24-a/</link>
+      <link>//localhost:1313/posts/2011-03-24-a/</link>
       <pubDate>Thu, 24 Mar 2011 14:31:00 +0000</pubDate>
-      
-      <guid>/posts/2011-03-24-a/</guid>
-      <description>Like most companies, Google regularly communicates with our business customers via email newsletters, updates on our official blogs, and printed materials. On this occasion, we&amp;rsquo;ve sent a short book about data, called Think Quarterly, to a small number of our UK partners and advertisers. You&amp;rsquo;re now on the companion website, thinkquarterly.co.uk (also available at m.thinkquarterly.co.uk, if you&amp;rsquo;re on the move).
-We&amp;rsquo;re flattered by the positive reaction but have no plans to start selling copies!</description>
+      <guid>//localhost:1313/posts/2011-03-24-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Like most companies, Google regularly communicates with our business customers via email newsletters, updates on our official blogs, and printed materials. On this occasion, we&amp;rsquo;ve sent a short book about data, called &lt;strong&gt;Think Quarterly&lt;/strong&gt;, to a small number of our UK partners and advertisers. You&amp;rsquo;re now on the companion website, &lt;a href=&#34;http://www.thinkquarterly.co.uk&#34;&gt;thinkquarterly.co.uk&lt;/a&gt; (also available at &lt;a href=&#34;http://m.thinkquarterly.co.uk&#34;&gt;m.thinkquarterly.co.uk&lt;/a&gt;, if you&amp;rsquo;re on the move).&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;re flattered by the positive reaction but have no plans to start selling copies! Although Think Quarterly remains firmly aimed at Google&amp;rsquo;s partners and advertisers, if you&amp;rsquo;re interested in the subject of data then please feel free to read on&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Нью-Йоркский суд отменил соглашение Google с Гильдией авторов и Ассоциацией издателей</title>
-      <link>/posts/2011-03-22-2/</link>
+      <link>//localhost:1313/posts/2011-03-22-2/</link>
       <pubDate>Tue, 22 Mar 2011 20:39:48 +0000</pubDate>
-      
-      <guid>/posts/2011-03-22-2/</guid>
-      <description>Judge Denny Chin said the agreement &amp;ldquo;would simply go too far&amp;rdquo; and would give Google a significant advantage over its competitors.
- via reuters.com
-И пусть теперь они сидят со своими книгами, а сиротские книжки так и вообще пусть тухнут. Отличное решение. Нафиг вообще книги? Фтопку их.
-Плохой знак для любых начинаний, которые могли бы преодолеть вязкое status quo и сократить паразитные издержки.</description>
+      <guid>//localhost:1313/posts/2011-03-22-2/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Judge Denny Chin said the agreement &amp;ldquo;would simply go too far&amp;rdquo; and would give Google a significant advantage over its competitors.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.reuters.com/article/2011/03/22/us-google-books-antitrust-idUSTRE72L6D920110322&#34;&gt;reuters.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;И пусть теперь они сидят со своими книгами, а сиротские книжки так и вообще пусть тухнут. Отличное решение. Нафиг вообще книги? Фтопку их.&lt;/p&gt;&#xA;&lt;p&gt;Плохой знак для любых начинаний, которые могли бы преодолеть вязкое status quo и сократить паразитные издержки.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google Editions запускается в 2010 году в США</title>
-      <link>/posts/2010-12-05-a/</link>
+      <link>//localhost:1313/posts/2010-12-05-a/</link>
       <pubDate>Tue, 05 Oct 2010 09:44:51 +0000</pubDate>
-      
-      <guid>/posts/2010-12-05-a/</guid>
-      <description>Google Editions will launch in the US this year, with international launches to follow soon after, delegates at Tools of Change Frankfurt have heard. But the Google Editions will not be available on the Kindle at launch.
-Google&amp;rsquo;s Abraham Murray said at launch there would be over 400,000 paid-for titles available from publisher partners, along with 2m public domain titles, but that more titles would be made available once the service opened internationally.</description>
+      <guid>//localhost:1313/posts/2010-12-05-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Google Editions will launch in the US this year, with international launches to follow soon after, delegates at Tools of Change Frankfurt have heard. But the Google Editions will not be available on the Kindle at launch.&lt;/p&gt;&#xA;&lt;p&gt;Google&amp;rsquo;s Abraham Murray said at launch there would be over 400,000 paid-for titles available from publisher partners, along with 2m public domain titles, but that more titles would be made available once the service opened internationally. Once bought, Google Editions will be available for reading on multiple devices, and anywhere in the world. &amp;ldquo;Territorial rights will govern the sale, but not the access,&amp;rdquo; he said. But not at launch on the dominant e-book device, Amazon&amp;rsquo;s Kindle, though Murray said Google Editions was an open platform and open to collaboration with any hardware manufacturers and partners.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google посчитал все книги в мире</title>
-      <link>/posts/2010-08-05-73/</link>
+      <link>//localhost:1313/posts/2010-08-05-73/</link>
       <pubDate>Thu, 05 Aug 2010 21:26:45 +0000</pubDate>
-      
-      <guid>/posts/2010-08-05-73/</guid>
-      <description>we can finally count all the books in the world. There are 129,864,880 of them. At least until Sunday.
- via booksearch.blogspot.com
-Методика вполне корректная.
-Судя по всему, это первый залп маркетинговой кампании Google Editions.</description>
+      <guid>//localhost:1313/posts/2010-08-05-73/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;we can finally count all the books in the world. There are 129,864,880 of them. At least until Sunday.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://booksearch.blogspot.com/2010/08/books-of-world-stand-up-and-be-counted.html&#34;&gt;booksearch.blogspot.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Методика вполне корректная.&lt;/p&gt;&#xA;&lt;p&gt;Судя по всему, это первый залп маркетинговой кампании Google Editions.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google Tablet: по слухам Google и HTC готовят конкурента iSlate от Apple</title>
-      <link>/posts/2010-01-02-2/</link>
+      <link>//localhost:1313/posts/2010-01-02-2/</link>
       <pubDate>Sat, 02 Jan 2010 20:39:44 +0000</pubDate>
-      
-      <guid>/posts/2010-01-02-2/</guid>
-      <description>Check out this website I found at mashable.com</description>
+      <guid>//localhost:1313/posts/2010-01-02-2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://mashable.com/wp-content/uploads/2010/01/googletablet.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Check out this website I found at &lt;a href=&#34;http://mashable.com/2010/01/02/google-tablet/&#34;&gt;mashable.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Первый FAQ по Google Editions</title>
-      <link>/posts/2009-12-19-a/</link>
+      <link>//localhost:1313/posts/2009-12-19-a/</link>
       <pubDate>Sat, 19 Dec 2009 11:08:38 +0000</pubDate>
-      
-      <guid>/posts/2009-12-19-a/</guid>
-      <description>Google Editions is an upcoming paid access product that will allow consumers to easily purchase and read digital editions of books. Consumers will be able to preview a book, as they do today in Google Books, and will also have the option to purchase its Google Edition. After purchase, the book will live in the consumer&amp;rsquo;s online bookshelf, available to be accessed and read on most devices with internet access and a web browser; as well as on supported partner devices (to be announced during our public launch).</description>
+      <guid>//localhost:1313/posts/2009-12-19-a/</guid>
+      <description>&lt;p&gt;Google Editions is an upcoming paid access product that will allow consumers to easily purchase and read digital editions of books. Consumers will be able to preview a book, as they do today in Google Books, and will also have the option to purchase its Google Edition. After purchase, the book will live in the consumer&amp;rsquo;s online bookshelf, available to be accessed and read on most devices with internet access and a web browser; as well as on supported partner devices (to be announced during our public launch). Today it is possible for users to view a limited percentage of each book submitted to Google Books by you. With the launch of Google Editions in 2010, you as the rightsholder will be able to choose to sell full access to your books directly to consumers. We&amp;rsquo;re planning to sell these Google Editions in the near future through the Google Books site, as well as through retailer partners.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google стал поддерживать поиск epub</title>
-      <link>/posts/2009-11-04-61/</link>
+      <link>//localhost:1313/posts/2009-11-04-61/</link>
       <pubDate>Wed, 04 Nov 2009 13:06:21 +0000</pubDate>
-      
-      <guid>/posts/2009-11-04-61/</guid>
-      <description>Google supporting filetype:epub « JURN blog
- Google is now supporting the filetype:epub search modifier, for finding ebooks in the popular epub format. Google has fairly limited coverage of such files so far, at a reported 54,000 hits. Searches for Iliad and Wonderland only show a few epub editions of each.
- </description>
+      <guid>//localhost:1313/posts/2009-11-04-61/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://jurnsearch.wordpress.com/2009/11/03/google-supporting-filetypeepub/&#34;&gt;Google supporting filetype:epub « JURN blog&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Google is now supporting the filetype:epub search modifier, for finding ebooks in the popular epub format. Google has fairly limited coverage of such files so far, at a reported 54,000 hits. Searches for Iliad and Wonderland only show a few epub editions of each.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
-    
     <item>
       <title>Вивьен Рединг о Google Books</title>
-      <link>/posts/2009-10-20-130/</link>
+      <link>//localhost:1313/posts/2009-10-20-130/</link>
       <pubDate>Tue, 20 Oct 2009 20:03:35 +0000</pubDate>
-      
-      <guid>/posts/2009-10-20-130/</guid>
-      <description>EC Media Commissioner: Our Digital Library Plan Can Beat Google’s | paidContent:UK
- 40 percent of the British Library’s catalogue has no identified copyright owner.
- </description>
+      <guid>//localhost:1313/posts/2009-10-20-130/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://paidcontent.co.uk/article/419-ec-media-commissioner-our-digital-library-plan-can-beat-googles/&#34;&gt;EC Media Commissioner: Our Digital Library Plan Can Beat Google’s | paidContent:UK&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;40 percent of the British Library’s catalogue has no identified copyright owner.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
-    
     <item>
       <title>Сергей Брин: «История о 10 миллионах книг»</title>
-      <link>/posts/2009-10-15-31/</link>
+      <link>//localhost:1313/posts/2009-10-15-31/</link>
       <pubDate>Thu, 15 Oct 2009 20:28:54 +0000</pubDate>
-      
-      <guid>/posts/2009-10-15-31/</guid>
-      <description>четверг, 15 октября 2009 года, 08.27
-Сергей Брин История о 10 миллионах книг
-Большинство когда-либо написанных книг доступны разве что самым упрямым исследователям
-Статья Сергея Брина, одного из основателей и президента компании Google, впервые была опубликована в New York Times, а затем в официальном блоге Google. «Частный корреспондент» счёл необходимым познакомить российского читателя с тем, как представляет будущее цифрового книжного архива руководитель крупнейшей IT-компании мира. Подробнее</description>
+      <guid>//localhost:1313/posts/2009-10-15-31/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.chaskor.ru&#34;&gt;&lt;img src=&#34;http://www.chaskor.ru/images/logo5.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;четверг, 15 октября 2009 года, 08.27&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.chaskor.ru/posts_images_200910/392_300_11322_librbig.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Сергей Брин&lt;/strong&gt; История о 10 миллионах книг&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Большинство когда-либо написанных книг доступны разве что самым упрямым исследователям&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Статья Сергея Брина, одного из основателей и президента компании Google, впервые была опубликована в New York Times, а затем в официальном блоге Google. «Частный корреспондент» счёл необходимым познакомить российского читателя с тем, как представляет будущее цифрового книжного архива руководитель крупнейшей IT-компании мира. &lt;a href=&#34;http://www.chaskor.ru/p.php?id=11322&#34;&gt;Подробнее&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google Editions</title>
-      <link>/posts/2009-10-15-a/</link>
+      <link>//localhost:1313/posts/2009-10-15-a/</link>
       <pubDate>Thu, 15 Oct 2009 20:04:59 +0000</pubDate>
-      
-      <guid>/posts/2009-10-15-a/</guid>
-      <description>More Details Emerge on &amp;ldquo;Google Editions,&amp;rdquo; Google&amp;rsquo;s eBook Store
- the new digital books program will launch in the first half of 2010 and will offer 400,000 to 600,000 ebooks at that time.
- Про бизнес-модели - самое интересное:
- As noted on The Bookseller, a site covering the Tools of Change conference, Google Editions will offer three business models. The first will allow a consumer to purchase the ebook from Google Books, Google&amp;rsquo;s online collection of digitized books.</description>
+      <guid>//localhost:1313/posts/2009-10-15-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.readwriteweb.com/archives/more_details_emerge_on_google_editions_googles_ebook_store.php&#34;&gt;More Details Emerge on &amp;ldquo;Google Editions,&amp;rdquo; Google&amp;rsquo;s eBook Store&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;the new digital books program will launch in the first half of 2010 and will offer 400,000 to 600,000 ebooks at that time.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Про бизнес-модели - самое интересное:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;As noted on The Bookseller, a site covering the Tools of Change conference, Google Editions will offer three business models. The first will allow a consumer to purchase the ebook from Google Books, Google&amp;rsquo;s online collection of digitized books. The second will allow consumers to purchase from a partner retailer and the third would direct consumers to a publisher&amp;rsquo;s website. In the first route, payments are split 63/37 in the publisher&amp;rsquo;s favor. If purchasing from a retailer, that split would be 45/55 with the 45% going to the publisher and the retailer splitting the remaining 55% with Google. No decision has been made on the split for the third option, purchases made via a publisher&amp;rsquo;s own website. Edmonds also noted that these splits are not set in stone just yet - discussions were &amp;ldquo;just beginning.&amp;rdquo;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Продажи книг от Google начнутся в июне 2010. Возможно, и для &#34;гуглридера&#34;?</title>
-      <link>/posts/2009-10-14-58/</link>
+      <link>//localhost:1313/posts/2009-10-14-58/</link>
       <pubDate>Wed, 14 Oct 2009 14:52:31 +0000</pubDate>
-      
-      <guid>/posts/2009-10-14-58/</guid>
-      <description>Google book sales to begin by June of next year | TeleRead: Bring the E-Books Home
- At the Tools of Change conference in Frankfurt Google announced that it will be running out its own book sales offering by June of next year.
- А вот этот слух еще интереснее: Google plans &amp;lsquo;buy anywhere, read anywhere&amp;rsquo; offer - MobileRead Forums
- it was &amp;ldquo;definitely&amp;rdquo; Google&amp;rsquo;s intention to partner with device manufacturers, but declined to give names.</description>
+      <guid>//localhost:1313/posts/2009-10-14-58/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.teleread.org/2009/10/14/google-book-sales-to-begin-by-june-of-next-year/&#34;&gt;Google book sales to begin by June of next year | TeleRead: Bring the E-Books Home&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;At the Tools of Change conference in Frankfurt Google announced that it will be running out its own book sales offering by June of next year.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;А вот этот слух еще интереснее: &lt;a href=&#34;http://www.mobileread.com/forums/showthread.php?t=59307&#34;&gt;Google plans &amp;lsquo;buy anywhere, read anywhere&amp;rsquo; offer - MobileRead Forums&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;it was &amp;ldquo;definitely&amp;rdquo; Google&amp;rsquo;s intention to partner with device manufacturers, but declined to give names. She added she &amp;ldquo;doubted&amp;rdquo; Kindle would be on board.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>1000000 книг в формате epub</title>
-      <link>/posts/2009-08-26-3/</link>
+      <link>//localhost:1313/posts/2009-08-26-3/</link>
       <pubDate>Wed, 26 Aug 2009 20:20:09 +0000</pubDate>
-      
-      <guid>/posts/2009-08-26-3/</guid>
-      <description>Inside Google Books: Download Over a Million Public Domain Books from Google Books in the Open EPUB Format
- Google Books will offer free downloads of these and more than one million more public domain books in an additional format, EPUB.
- Google сделал доступным около 1 млн оцифрованных ею книг в формате epub (и в pdf). Радоваться смогут не только пользователи Sony Reader. Кажется, пока это самая большая «библиотека» книг в этом формате.</description>
+      <guid>//localhost:1313/posts/2009-08-26-3/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://booksearch.blogspot.com/2009/08/download-over-million-public-domain.html&#34;&gt;Inside Google Books: Download Over a Million Public Domain Books from Google Books in the Open EPUB Format&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Google Books will offer free downloads of these and more than one million more public domain books in an additional format, EPUB.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Google сделал доступным около 1 млн оцифрованных ею книг в формате epub (и в pdf). Радоваться смогут не только пользователи Sony Reader. Кажется, пока это самая большая «библиотека» книг в этом формате. Одно «но» — Google, кажется, ввела принудительную фильтрацию по IP-адресам: рылся я, правда, недолго, но найти хотя бы одну книгу, чтобы ее можно было скачать в epub, мне не удалось.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google поддержит Sony</title>
-      <link>/posts/2009-03-19-60/</link>
+      <link>//localhost:1313/posts/2009-03-19-60/</link>
       <pubDate>Thu, 19 Mar 2009 14:28:18 +0000</pubDate>
-      
-      <guid>/posts/2009-03-19-60/</guid>
-      <description>Google передаст пользователям ридера Sony 500 тысяч электронных книг - Культура - Литература - Электронные книги - Компьюлента
- Корпорация Google передаст полмиллиона книг, не защищенных авторскими правами, пользователям устройства для чтения электронных книг Sony Reader.
- </description>
+      <guid>//localhost:1313/posts/2009-03-19-60/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://culture.compulenta.ru/411497/&#34;&gt;Google передаст пользователям ридера Sony 500 тысяч электронных книг - Культура - Литература - Электронные книги - Компьюлента&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Корпорация Google передаст полмиллиона книг, не защищенных авторскими правами, пользователям устройства для чтения электронных книг Sony Reader.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
-    
     <item>
       <title>Бывший CEO Random House об Amazon и Google</title>
-      <link>/posts/2009-02-24-35/</link>
+      <link>//localhost:1313/posts/2009-02-24-35/</link>
       <pubDate>Tue, 24 Feb 2009 21:04:22 +0000</pubDate>
-      
-      <guid>/posts/2009-02-24-35/</guid>
-      <description>Рынок электронных книг ожидает дуополия Amazon и Google - Культура - Литература - Электронные книги - Компьюлента
- Корпорация согласилась платить по 60 долларов за каждую отсканированную книгу, защищенную авторским правом. Кроме того, правообладатели смогут решать, стоит ли размещать рекламу рядом со страницами книги на соответствующем сайте. Если реклама будет разрешена, правообладатели получат комиссионные. Наконец, Google поможет правообладателям с выплатой налогов. Соглашение создало еще один источник доходов для издателей и авторов — библиотеки.</description>
+      <guid>//localhost:1313/posts/2009-02-24-35/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://culture.compulenta.ru/404479/&#34;&gt;Рынок электронных книг ожидает дуополия Amazon и Google - Культура - Литература - Электронные книги - Компьюлента&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Корпорация согласилась платить по 60 долларов за каждую отсканированную книгу, защищенную авторским правом. Кроме того, правообладатели смогут решать, стоит ли размещать рекламу рядом со страницами книги на соответствующем сайте. Если реклама будет разрешена, правообладатели получат комиссионные. Наконец, Google поможет правообладателям с выплатой налогов. Соглашение создало еще один источник доходов для издателей и авторов — библиотеки. Они должны платить Google за доступ к полному цифровому каталогу. Основная часть этих средств будет перечисляться правообладателям. Посетители библиотек получат доступ к электронным книгам, что превращает Google в поставщика электронных книг и конкурента Amazon с его устройством Kindle. В дальнейшем планируется создание книжного интернет-магазина под эгидой Google. Купленные в такой торговой точке книги можно будет только читать, не сохраняя на компьютере пользователя.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

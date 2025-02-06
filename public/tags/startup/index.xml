@@ -1,70 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>startup on Новости электронного книгоиздания</title>
-    <link>/tags/startup/</link>
-    <description>Recent content in startup on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Startup on Новости электронного книгоиздания</title>
+    <link>//localhost:1313/tags/startup/</link>
+    <description>Recent content in Startup on Новости электронного книгоиздания</description>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 07 Nov 2017 07:00:45 +0000</lastBuildDate><atom:link href="/tags/startup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Nov 2017 07:00:45 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/startup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pronoun всё ;(</title>
-      <link>/posts/2017-11-07-a/</link>
+      <link>//localhost:1313/posts/2017-11-07-a/</link>
       <pubDate>Tue, 07 Nov 2017 07:00:45 +0000</pubDate>
-      
-      <guid>/posts/2017-11-07-a/</guid>
-      <description>Оу, Pronoun, один из самых симпатичных (по дизайну и подходу) сервисов самиздата и независимой дистрибуции, 15 января 2018 года — всё. В прошлом году Pronoun купило издательство Macmillan Publishers, и обещало, что всё будет ОК, но то ли не смогли монетизировать, то ли — приспособить к себе. Жаль. Смертность издательских стартапов высока.</description>
+      <guid>//localhost:1313/posts/2017-11-07-a/</guid>
+      <description>&lt;p&gt;Оу, &lt;a href=&#34;https://pronoun.com/&#34;&gt;Pronoun&lt;/a&gt;, один из самых симпатичных (по дизайну и подходу) сервисов самиздата и независимой дистрибуции, 15 января 2018 года — всё. В прошлом году Pronoun купило издательство Macmillan Publishers, и обещало, что всё будет ОК, но то ли не смогли монетизировать, то ли — приспособить к себе. Жаль. Смертность издательских стартапов высока.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>889 книжных стартапов</title>
-      <link>/posts/2017-01-11-a/</link>
+      <link>//localhost:1313/posts/2017-01-11-a/</link>
       <pubDate>Wed, 11 Jan 2017 09:26:31 +0000</pubDate>
-      
-      <guid>/posts/2017-01-11-a/</guid>
-      <description>За 5 лет было 889 книжных стартапов, связанных с американской книжной индустрией. 30% из них уже не существует, только 15% декларировали вложения. На круг подняли 925 млн долларов. Совсем крохи на фоне венчурных инвестиций в другие индустрии. Но, чёрт, это же почти миллиард долларов, потраченные на поиск будущего.
-P.S. Вот тут и обзор, и полный список: http://thefutureofpublishing.com/2017/01/an-authoritative-look-at-book-publishing-startups/
-P.P.S. Интересно, хотя бы больше дюжины книжных стартапов в России наберётся?</description>
+      <guid>//localhost:1313/posts/2017-01-11-a/</guid>
+      <description>&lt;p&gt;За 5 лет было 889 книжных стартапов, связанных с американской книжной индустрией. 30% из них уже не существует, только 15% декларировали вложения. На круг подняли 925 млн долларов. Совсем крохи на фоне венчурных инвестиций в другие индустрии. Но, чёрт, это же почти миллиард долларов, потраченные на поиск будущего.&lt;/p&gt;&#xA;&lt;p&gt;P.S. Вот тут и обзор, и полный список: &lt;a href=&#34;http://thefutureofpublishing.com/2017/01/an-authoritative-look-at-book-publishing-startups/&#34;&gt;http://thefutureofpublishing.com/2017/01/an-authoritative-look-at-book-publishing-startups/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;P.P.S. Интересно, хотя бы больше дюжины книжных стартапов в России наберётся?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Текст мелкой нарезкой</title>
-      <link>/posts/2016-09-14-a/</link>
+      <link>//localhost:1313/posts/2016-09-14-a/</link>
       <pubDate>Wed, 14 Sep 2016 10:56:34 +0000</pubDate>
-      
-      <guid>/posts/2016-09-14-a/</guid>
-      <description>Южноафриканский стартап Bookboon договорился с сетью железных дорог предоставлять доступ на станциях к 2 тысячам электронных учебников и учебных пособий. Сама по себе новость из разряда проходных — таких сервисов по миру уже много. Но, значит, опыт общения с текстом в электронном виде в «мелкой нарезке», выжимках и т. п. (и правда, что можно прочитать за несколько минут ожидания электрички?) как-то приживается.</description>
+      <guid>//localhost:1313/posts/2016-09-14-a/</guid>
+      <description>&lt;p&gt;Южноафриканский стартап Bookboon &lt;a href=&#34;http://the-digital-reader.com/2016/09/13/bookboon-brings-free-ebooks-south-african-commuters/&#34;&gt;договорился&lt;/a&gt; с сетью железных дорог предоставлять доступ на станциях к 2 тысячам электронных учебников и учебных пособий. Сама по себе новость из разряда проходных — таких сервисов по миру уже много. Но, значит, опыт общения с текстом в электронном виде в «мелкой нарезке», выжимках и т. п. (и правда, что можно прочитать за несколько минут ожидания электрички?) как-то приживается.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Иногда они возвращаются: Vook запускает самиздат Pronoun</title>
-      <link>/posts/2015-05-19-b/</link>
+      <link>//localhost:1313/posts/2015-05-19-b/</link>
       <pubDate>Tue, 19 May 2015 22:48:13 +0000</pubDate>
-      
-      <guid>/posts/2015-05-19-b/</guid>
-      <description>Pronoun
- Source: Vook Relaunches as Free Self-Publishing Platform Pronoun | Digital Book World
-На модном Medium — манифест.</description>
+      <guid>//localhost:1313/posts/2015-05-19-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Pronoun&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.digitalbookworld.com/2015/vook-to-relaunch-as-free-self-publishing-platform-pronoun/&#34;&gt;Vook Relaunches as Free Self-Publishing Platform Pronoun | Digital Book World&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;На модном Medium — &lt;a href=&#34;https://medium.com/@pronoun/how-to-fix-book-publishing-e40a04ffd804&#34;&gt;манифест&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Dropbox подбирается к Readmill</title>
-      <link>/posts/2014-03-27-b/</link>
+      <link>//localhost:1313/posts/2014-03-27-b/</link>
       <pubDate>Thu, 27 Mar 2014 21:14:54 +0000</pubDate>
-      
-      <guid>/posts/2014-03-27-b/</guid>
-      <description>По слухам, Dropbox ведёт переговоры по поглощению Readmill, симпатичной читалки электронных книг для iOS. Видимо, чтобы просто нанять хороших сотрудников. А жаль, если только для этого.</description>
+      <guid>//localhost:1313/posts/2014-03-27-b/</guid>
+      <description>&lt;p&gt;По &lt;a href=&#34;http://techcrunch.com/2014/03/27/readmill-acqui-hired/&#34;&gt;слухам&lt;/a&gt;, Dropbox ведёт переговоры по поглощению Readmill, симпатичной читалки электронных книг для iOS. Видимо, чтобы просто нанять хороших сотрудников. А жаль, если только для этого.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Под чернилами EPUB</title>
-      <link>/posts/2014-01-18-a/</link>
+      <link>//localhost:1313/posts/2014-01-18-a/</link>
       <pubDate>Sat, 18 Jan 2014 12:01:06 +0000</pubDate>
-      
-      <guid>/posts/2014-01-18-a/</guid>
-      <description>Примечательный сервис Beneath the Ink. Загружаете на него свой EPUB, дополняете его примечаниями. Слова со сносками выделяются цветом и тенями. Цветом менее насыщенным выделяются регулярно встречающиеся одинаковые слова (например, имена персонажей или реалии; сервис позволяет разметить их автоматически, как при подготовке указателя). При чтении в iBooks кликаешь на таком слове — и вуаля:
-Симпатичная замена обычных сносок-окошек в iBooks. $25/книгу. Жалко, что только в iBooks и работает. Но тренд на rich media правильный.</description>
+      <guid>//localhost:1313/posts/2014-01-18-a/</guid>
+      <description>&lt;p&gt;Примечательный сервис &lt;a href=&#34;http://beneaththeink.com/&#34;&gt;Beneath the Ink&lt;/a&gt;. Загружаете на него свой EPUB, дополняете его примечаниями. Слова со сносками выделяются цветом и тенями. Цветом менее насыщенным выделяются регулярно встречающиеся одинаковые слова (например, имена персонажей или реалии; сервис позволяет разметить их автоматически, как при подготовке указателя). При чтении в iBooks кликаешь на таком слове — и вуаля:&lt;/p&gt;&#xA;&lt;p&gt;Симпатичная замена обычных сносок-окошек в iBooks. $25/книгу. Жалко, что только в iBooks и работает. Но тренд на rich media правильный.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

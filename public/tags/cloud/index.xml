@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cloud on Новости электронного книгоиздания</title>
-    <link>/tags/cloud/</link>
-    <description>Recent content in cloud on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Cloud on Новости электронного книгоиздания</title>
+    <link>//localhost:1313/tags/cloud/</link>
+    <description>Recent content in Cloud on Новости электронного книгоиздания</description>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 06 Feb 2012 12:34:09 +0000</lastBuildDate><atom:link href="/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Feb 2012 12:34:09 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Widescript - облачная читалка в аренду</title>
-      <link>/posts/2012-02-06-a/</link>
+      <link>//localhost:1313/posts/2012-02-06-a/</link>
       <pubDate>Mon, 06 Feb 2012 12:34:09 +0000</pubDate>
-      
-      <guid>/posts/2012-02-06-a/</guid>
-      <description>We make a high-quality cloud-based e-book reader for publishers.
- via futurebook.net
-Вот ещё вариант: фирма предлагает издателям получить свою &amp;ldquo;собственную&amp;rdquo; облачную читалку, которая, естественно, будет работать во всех устройствах с современными браузерами.
-Попросил прислать демо-доступ, посмотреть — как же это оно изнутри. Заодно поинтересовался и ценами. Жду ответа.</description>
+      <guid>//localhost:1313/posts/2012-02-06-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;We make a high-quality cloud-based e-book reader for publishers.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://futurebook.net/content/startup-profile-widescript&#34;&gt;futurebook.net&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Вот ещё вариант: фирма предлагает издателям получить свою &amp;ldquo;собственную&amp;rdquo; облачную читалку, которая, естественно, будет работать во всех устройствах с современными браузерами.&lt;br&gt;&#xA;Попросил прислать демо-доступ, посмотреть — как же это оно изнутри. Заодно поинтересовался и ценами. Жду ответа.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kindle Cloud Reader: читай всегда, читай везде</title>
-      <link>/posts/2011-08-10-a/</link>
+      <link>//localhost:1313/posts/2011-08-10-a/</link>
       <pubDate>Wed, 10 Aug 2011 14:31:38 +0000</pubDate>
-      
-      <guid>/posts/2011-08-10-a/</guid>
-      <description>Kindle Cloud Reader
-Дотянулся кровавый Amazon: читаем Kindle-книжки в браузере (пока только Chrome, Safari и Safari for iOS). И даже храним их оффлайн (непонятно, правда, сколько). И покупаем, ясное дело. На любом компе и в iPad&amp;rsquo;e. Кажется, Amazon достроила свою экосистему до конца. Осталось всё нормально интегрировать и допилить. Или ей и так сойдёт? PS По слухам, пришествие Amazon в Россию запланировано уже на 2012 года. Пока, вроде бы, без Kindle.</description>
+      <guid>//localhost:1313/posts/2011-08-10-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://read.amazon.com&#34;&gt;Kindle Cloud Reader&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Дотянулся кровавый Amazon: читаем Kindle-книжки в браузере (пока только Chrome, Safari и Safari for iOS). И даже храним их оффлайн (непонятно, правда, сколько). И покупаем, ясное дело. На любом компе и в iPad&amp;rsquo;e. Кажется, Amazon достроила свою экосистему до конца. Осталось всё нормально интегрировать и допилить. Или ей и так сойдёт? PS По слухам, пришествие Amazon в Россию запланировано уже на 2012 года. Пока, вроде бы, без Kindle. «Озону» приготовиться с вещами. Кто следующий?&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

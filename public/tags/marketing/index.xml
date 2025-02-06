@@ -1,667 +1,460 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>marketing on Новости электронного книгоиздания</title>
-    <link>/tags/marketing/</link>
-    <description>Recent content in marketing on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Marketing on Новости электронного книгоиздания</title>
+    <link>//localhost:1313/tags/marketing/</link>
+    <description>Recent content in Marketing on Новости электронного книгоиздания</description>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 14 Oct 2016 12:55:17 +0000</lastBuildDate><atom:link href="/tags/marketing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Oct 2016 12:55:17 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/marketing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NetGalley купил Bookish.com</title>
-      <link>/posts/2016-10-14-a/</link>
+      <link>//localhost:1313/posts/2016-10-14-a/</link>
       <pubDate>Fri, 14 Oct 2016 12:55:17 +0000</pubDate>
-      
-      <guid>/posts/2016-10-14-a/</guid>
-      <description>У Bookish была судьба печальная и примечательная. Пять лет назад его организовали три больших издательства — Hachette, Penguin и Simon &amp;amp; Schuster — пересилив свою конкуренцию, чтобы сделать «альтернативу» Amazon. Но продажи то ли не пошли, то ли не устроили учредителей, и сайт сделали рекомендательным «книжным обозрением». И в таком виде его пару лет назад продали Zola Books, которое зачем-то скупает всё, что не летает.
-И вот теперь сайт у NetGalley.</description>
+      <guid>//localhost:1313/posts/2016-10-14-a/</guid>
+      <description>&lt;p&gt;У &lt;a href=&#34;http://bookish.com&#34;&gt;Bookish&lt;/a&gt; была судьба печальная и примечательная. Пять лет назад его организовали три больших издательства — Hachette, Penguin и Simon &amp;amp; Schuster — пересилив свою конкуренцию, чтобы сделать «альтернативу» Amazon. Но продажи то ли не пошли, то ли не устроили учредителей, и сайт сделали рекомендательным «книжным обозрением». И в таком виде его пару лет назад продали Zola Books, которое зачем-то скупает всё, что не летает.&lt;/p&gt;&#xA;&lt;p&gt;И вот &lt;a href=&#34;http://www.publishersweekly.com/pw/by-topic/industry-news/industry-deals/article/71732-netgalley-buys-bookish.html&#34;&gt;теперь сайт у NetGalley&lt;/a&gt;. Если вы ещё не пользовались &lt;a href=&#34;http://netgalley.com&#34;&gt;NetGalley&lt;/a&gt;, то рекомендую. Бизнес у NetGalley очень простой — через этот сервис издательства продвигают ещё неопубликованные книги в надежде на шум, рецензии и пиар от критиков, блогеров и пр. Среди всякого трэша есть и вполне себе интересные книжки. Регистрируют читателями, правда, не всех желающих, но тех, кто может указать хотя бы свой блог. После регистрации смотрите каталог и оставляете заявку на интересующую вас книгу. C DRM, правда, там всё строго, так что читать придётся или через Kindle, или через iOS-устройство. Но всё бесплатно — для читателей. А вот издатели за такую дистрибуцию платят NetGalley. И этот бизнес настолько жив, что компания в начале этого года открыла представительство в Германии. Что же до Bookish, то, наверное, и дополнительный контент на сайте NetGalley не помешает. И два вида продвижения поддержат друг друга.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>«Большая пятерка» снижает цены</title>
-      <link>/posts/2016-01-02-a/</link>
+      <link>//localhost:1313/posts/2016-01-02-a/</link>
       <pubDate>Thu, 02 Jun 2016 14:35:44 +0000</pubDate>
-      
-      <guid>/posts/2016-01-02-a/</guid>
-      <description>Если верить аналитике Author Earnings, издательства «большой пятёрки» с начала года так-таки снизили цены на электронные книги примерно на $1. Потому что повысили в прошлом году и получили падение спроса.</description>
+      <guid>//localhost:1313/posts/2016-01-02-a/</guid>
+      <description>&lt;p&gt;Если верить &lt;a href=&#34;http://authorearnings.com/big-five-may-2016-ebook-pricing/&#34;&gt;аналитике&lt;/a&gt; Author Earnings, издательства «большой пятёрки» с начала года так-таки снизили цены на электронные книги примерно на $1. Потому что повысили в прошлом году и получили падение спроса.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ричард Нэш: «Нам нужна карта, а не фильтр»</title>
-      <link>/posts/2015-12-26-a/</link>
+      <link>//localhost:1313/posts/2015-12-26-a/</link>
       <pubDate>Fri, 25 Dec 2015 06:27:18 +0000</pubDate>
-      
-      <guid>/posts/2015-12-26-a/</guid>
-      <description>We’re too focused on filter, and not enough on map. That’s my pet framework for talking about the ways in which we need to organize all our cultural information. We’re blessed (yes, blessed, despite what the panicked patricians say) with an ever growing abundance of cultural production, but we’re not developing tools for engaging with that production with anything like the necessary sophistication. Largely we’re using filter—reduce the number of objects for us to consider either through algorithmic filtering, or curation.</description>
+      <guid>//localhost:1313/posts/2015-12-26-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;We’re too focused on filter, and not enough on map. That’s my pet framework for talking about the ways in which we need to organize all our cultural information. We’re blessed (yes, blessed, despite what the panicked patricians say) with an ever growing abundance of cultural production, but we’re not developing tools for engaging with that production with anything like the necessary sophistication. Largely we’re using filter—reduce the number of objects for us to consider either through algorithmic filtering, or curation. The hassle is that it isn’t really “discovery.” Yes, that abused term, abused like curation. Discovery should elicit joy, wonder, ecstasy. Not some damn list of five books from which you can pick one. It’s supposed to be “On First Looking into Chapman’s Homer,” seeing the Pacific, looking through a telescope, or a microscope. The “Holy Shit” of actual discovery. Filtering hides too much, both in terms of process, as it’s a black box, and in terms of outcome—if you can’t be lambently aware of how you get somewhere, you can’t spontaneously choose a sudden diversion. So, it kills serendipity.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Как издателю собрать читателей?</title>
-      <link>/posts/2015-12-23-b/</link>
+      <link>//localhost:1313/posts/2015-12-23-b/</link>
       <pubDate>Wed, 23 Dec 2015 11:09:35 +0000</pubDate>
-      
-      <guid>/posts/2015-12-23-b/</guid>
-      <description>Например, так: Using ebooks to connect with indirect customers.</description>
+      <guid>//localhost:1313/posts/2015-12-23-b/</guid>
+      <description>&lt;p&gt;Например, так: &lt;em&gt;&lt;a href=&#34;http://jwikert.typepad.com/the_average_joe/2015/12/using-ebooks-to-connect-with-indirect-customers.html&#34;&gt;Using ebooks to connect with indirect customers&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Подарочные карточки Enthrill к Рождеству</title>
-      <link>/posts/2015-12-22-a/</link>
+      <link>//localhost:1313/posts/2015-12-22-a/</link>
       <pubDate>Tue, 22 Dec 2015 23:15:19 +0000</pubDate>
-      
-      <guid>/posts/2015-12-22-a/</guid>
-      <description>&amp;ldquo;Enthrill kicked off 2015,&amp;rdquo; Franco says, &amp;ldquo;in about 280 Walmart stores and a handful of others, and worked with retailers across Canada to expand into over 3200 locations for this Christmas.&amp;rdquo;
- Source: Enthrill&amp;rsquo;s pivotal Christmas: Gifting ebooks in stores | The Bookseller</description>
+      <guid>//localhost:1313/posts/2015-12-22-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Enthrill kicked off 2015,&amp;rdquo; Franco says, &amp;ldquo;in about 280 Walmart stores and a handful of others, and worked with retailers across Canada to expand into over 3200 locations for this Christmas.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.thebookseller.com/futurebook/pivoting-presents-enthrills-big-christmas-318806&#34;&gt;Enthrill&amp;rsquo;s pivotal Christmas: Gifting ebooks in stores | The Bookseller&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ищешь книги онлайн? Всё равно можешь помочь книжному. В Англии</title>
-      <link>/posts/2015-07-13-b/</link>
+      <link>//localhost:1313/posts/2015-07-13-b/</link>
       <pubDate>Mon, 13 Jul 2015 13:34:01 +0000</pubDate>
-      
-      <guid>/posts/2015-07-13-b/</guid>
-      <description>Technology is giving UK booksellers hope in their battle against Amazon, including a new web extension, Bookindy, that finds a local book price for you. By Edward Nawotka, Editor-in-Chief Independent bookstores have been thriving in…
- Source: Bookindy Offers Hope to UK Indie Bookstores
-Конкурентная альтернатива большому онлайновому книжному и поддержка любимого независимого книжного? Примерно так это делается в Англии: расширение, который каждый может поставить в Chrome, показывает цену в ближайшем книжном (и расстояние до него) при вашем заходе на Amazon.</description>
+      <guid>//localhost:1313/posts/2015-07-13-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Technology is giving UK booksellers hope in their battle against Amazon, including a new web extension, Bookindy, that finds a local book price for you. By Edward Nawotka, Editor-in-Chief Independent bookstores have been thriving in…&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://publishingperspectives.com/2015/07/innovation-offers-hope-to-uk-indie-bookstores/&#34;&gt;Bookindy Offers Hope to UK Indie Bookstores&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Конкурентная альтернатива большому онлайновому книжному и поддержка любимого независимого книжного? Примерно так это делается в Англии: расширение, который каждый может поставить в Chrome, показывает цену в ближайшем книжном (и расстояние до него) при вашем заходе на Amazon.co.uk. И это только надстройка на очень грамотным &lt;a href=&#34;http://hive.co.uk&#34;&gt;Hive.co.uk&lt;/a&gt;, помогающим и читателям, и независимым книжным.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Отличный GIF для книжной рекламы</title>
-      <link>/posts/2015-03-05-a/</link>
+      <link>//localhost:1313/posts/2015-03-05-a/</link>
       <pubDate>Thu, 05 Mar 2015 18:09:44 +0000</pubDate>
-      
-      <guid>/posts/2015-03-05-a/</guid>
-      <description>По моему — хороший пример остроумной рекламы книги от издательства OR Books. «Хамелеон: Странная, но правдивая история невидимых шпионов, героиновой зависимости и внутренней безопасности»</description>
+      <guid>//localhost:1313/posts/2015-03-05-a/</guid>
+      <description>&lt;p&gt;По моему — хороший пример остроумной рекламы книги от издательства OR Books. «&lt;a href=&#34;http://www.orbooks.com/catalog/chameleo/&#34;&gt;Хамелеон: Странная, но правдивая история невидимых шпионов, героиновой зависимости и внутренней безопасности&lt;/a&gt;»&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Начал работать проект Bookincard / «Книги в открытках»</title>
-      <link>/posts/2014-11-25-a/</link>
+      <link>//localhost:1313/posts/2014-11-25-a/</link>
       <pubDate>Tue, 25 Nov 2014 23:53:13 +0000</pubDate>
-      
-      <guid>/posts/2014-11-25-a/</guid>
-      <description>Проект «Книги в открытках» начал работу в нескольких книжных магазинах Москвы. На стойках со слоганом «Электронная книга в открытке» ждут покупателей открытки. Приобретая открытку, посетитель магазина может подарить её друзьям, или самостоятельно активировать код на сайте bookincard.ru и скачать книгу.
-В ассортименте проекта уже несколько десятков книг самой разной тематики: детские, художественные, нон-фикшн. Некоторых из этих книг ещё нет в продаже в бумажном виде, тираж других уже закончился. Несколько книг станут хорошим подарком для детей.</description>
+      <guid>//localhost:1313/posts/2014-11-25-a/</guid>
+      <description>&lt;p&gt;Проект «Книги в открытках» начал работу в нескольких книжных магазинах Москвы. На стойках со слоганом «Электронная книга в открытке» ждут покупателей открытки. Приобретая открытку, посетитель магазина может подарить её друзьям, или самостоятельно активировать код на сайте &lt;a href=&#34;http://bookincard.ru&#34;&gt;bookincard.ru&lt;/a&gt; и скачать книгу.&lt;/p&gt;&#xA;&lt;p&gt;В ассортименте проекта уже несколько десятков книг самой разной тематики: детские, художественные, нон-фикшн. Некоторых из этих книг ещё нет в продаже в бумажном виде, тираж других уже закончился. Несколько книг станут хорошим подарком для детей. Это энциклопедии издательства «Пешком в историю», а также мультимедиа-издания для детей с видеофрагментами и звуковыми вставками, где артистка Дина Корзун читает детские стихи («Волшебный мир» Аллы Башенко) или Олег Нестеров и музыканты группы «Чайф» исполняют песни для детей (книги серии «Жужа» Александра Коротича). А в книге «Придумай свою подпись» Ники Дубровской ребёнок может даже порисовать.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Know Your Books</title>
-      <link>/posts/2014-06-09-a/</link>
+      <link>//localhost:1313/posts/2014-06-09-a/</link>
       <pubDate>Mon, 09 Jun 2014 09:38:10 +0000</pubDate>
-      
-      <guid>/posts/2014-06-09-a/</guid>
-      <description>Know Your Books. Мода на рекомендательные сервисы крепчает.</description>
+      <guid>//localhost:1313/posts/2014-06-09-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://yourbooks.me/start&#34;&gt;Know Your Books&lt;/a&gt;. Мода на рекомендательные сервисы крепчает.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Книжный магазин — источник знаний</title>
-      <link>/posts/2014-07-03-a/</link>
+      <link>//localhost:1313/posts/2014-07-03-a/</link>
       <pubDate>Tue, 03 Jun 2014 20:11:49 +0000</pubDate>
-      
-      <guid>/posts/2014-07-03-a/</guid>
-      <description>Эту старую метафору попытался воплотить в жизнь книжный магазин Mediander. Снаружи он совсем не похож на обычный книжный — ни тебе жанров, ни тебе списков бестселлеров. Где-то на задворках есть скромная страничка с Daily Deals, но это скорее исключение. Главное — поиск, но не книг, а информации. На выходе — более или менее структурированные подборки ссылок на Википедию, YouTube, прочие ресурсов и, конечно, книги. Плюс к этому рекомендательные подборки, которые на сайте называются CultureMaps, «культурными картами».</description>
+      <guid>//localhost:1313/posts/2014-07-03-a/</guid>
+      <description>&lt;p&gt;Эту старую метафору попытался воплотить в жизнь книжный магазин &lt;a href=&#34;http://mediander.com&#34;&gt;Mediander&lt;/a&gt;. Снаружи он совсем не похож на обычный книжный — ни тебе жанров, ни тебе списков бестселлеров. Где-то на задворках есть скромная страничка с Daily Deals, но это скорее исключение. Главное — поиск, но не книг, а информации. На выходе — более или менее структурированные подборки ссылок на Википедию, YouTube, прочие ресурсов и, конечно, книги. Плюс к этому рекомендательные подборки, которые на сайте называются CultureMaps, «культурными картами». Подборки явно сделаны вручную. И в очень большом количестве. Между «культурными картами», кроме того, высвечиваются Connects — связи. Так что если вы ищете cuberpunk, то вам выпадут и авторы, и книги, и дополнительные «культурные карты», про дистопию, например. Эстетически сайт выглядит не очень, но tastes differ. А вот результат — крайне любопытный.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Turkish Airlines предлагает библиотеку эл.книг</title>
-      <link>/posts/2014-03-18-a/</link>
+      <link>//localhost:1313/posts/2014-03-18-a/</link>
       <pubDate>Tue, 18 Mar 2014 06:00:43 +0000</pubDate>
-      
-      <guid>/posts/2014-03-18-a/</guid>
-      <description>Полёт в самолёте — удачное время почитать. Turkish Airlines (не сочтите за рекламу, но, и правда, хорошая компания) сообразили, что, помимо панакотты и кускуса с овощами, пассажирам можно предложить не только брендированный журнал, но и почитать книги. Электронные, через приложения для iOS и Android. История скорее маркетинговая, но симпатичная.</description>
+      <guid>//localhost:1313/posts/2014-03-18-a/</guid>
+      <description>&lt;p&gt;Полёт в самолёте — удачное время почитать. Turkish Airlines (не сочтите за рекламу, но, и правда, хорошая компания) сообразили, что, помимо панакотты и кускуса с овощами, пассажирам можно &lt;a href=&#34;http://www.skylibrary.com/#/sllibrary/all&#34;&gt;предложить&lt;/a&gt; не только брендированный журнал, но и почитать книги. Электронные, через приложения для iOS и Android. История скорее маркетинговая, но симпатичная.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Акунинбук. Читалка под брендом автора</title>
-      <link>/posts/2014-02-26-a/</link>
+      <link>//localhost:1313/posts/2014-02-26-a/</link>
       <pubDate>Wed, 26 Feb 2014 21:26:40 +0000</pubDate>
-      
-      <guid>/posts/2014-02-26-a/</guid>
-      <description>То ли букридеры так подешевели, то ли инвестиции серьёзные нашлись. Но — силь ву пле — чуть ли не первая в мире читалка на eInk и Android под брендом Бориса Акунина: Akunin Book. С фаршем из книг бренда и не только.
-Забавная история. Бренду нравится. Интересно, взлетит ли? Так уже видятся читалки «СтивенКингБук» и пр.</description>
+      <guid>//localhost:1313/posts/2014-02-26-a/</guid>
+      <description>&lt;p&gt;То ли букридеры так подешевели, то ли инвестиции серьёзные нашлись. Но — силь ву пле — чуть ли не первая в мире читалка на eInk и Android под брендом Бориса Акунина: &lt;a href=&#34;http://akuninbook.ru&#34;&gt;Akunin Book&lt;/a&gt;. С фаршем из книг бренда и не только.&lt;/p&gt;&#xA;&lt;p&gt;Забавная история. Бренду &lt;a href=&#34;http://borisakunin.livejournal.com/124112.html&#34;&gt;нравится&lt;/a&gt;. Интересно, взлетит ли? Так уже видятся читалки «СтивенКингБук» и пр.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Симпатичный шведский книжный Adilibris Mondo</title>
-      <link>/posts/2013-10-01-b/</link>
+      <link>//localhost:1313/posts/2013-10-01-b/</link>
       <pubDate>Tue, 01 Oct 2013 12:04:32 +0000</pubDate>
-      
-      <guid>/posts/2013-10-01-b/</guid>
-      <description>Сегодня вспомнил, что давненько — после обновления на iOS 7 — я не запускал Read! — читалку от Литрес для iOS. Вот уже пять минут приложение пытается запуститься…
-Но я не об этом, а о том, что быть хорошим книжным магазином электронных книг можно по-разному. Amazon — вовсе не единственный пример. Вот другой — Adlibris Mondo, запущенный крупнейшим в Швеции издателем и книготорговцем Bonnier. И сразу видно, что неплохой магазин. И дизайн сайта, и дизайн приложений, и интеграция с соцсетями (это ведь не только кнопочки тесным рядком поставить…) книжек и полок с книжками, купленных в этом магазине.</description>
+      <guid>//localhost:1313/posts/2013-10-01-b/</guid>
+      <description>&lt;p&gt;Сегодня вспомнил, что давненько — после обновления на iOS 7 — я не запускал Read! — читалку от Литрес для iOS. Вот уже пять минут приложение пытается запуститься…&lt;/p&gt;&#xA;&lt;p&gt;Но я не об этом, а о том, что быть хорошим книжным магазином электронных книг можно по-разному. Amazon — вовсе не единственный пример. Вот другой —  &lt;a href=&#34;https://www.adlibris.com/mondo/&#34;&gt;Adlibris Mondo&lt;/a&gt;, запущенный крупнейшим в Швеции издателем и книготорговцем Bonnier. И сразу видно, что неплохой магазин. И дизайн сайта, и дизайн приложений, и интеграция с соцсетями (это ведь не только кнопочки тесным рядком поставить…) книжек и полок с книжками, купленных в этом магазине. Read!, кстати, так и не запустился. Снёс программу, поставил заново, перезагрузил телефон. И всё равно. Ну, почитаю как-нибудь по-другому ;( Не выбрасывать же телефон.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Возвращение книжного магазина</title>
-      <link>/posts/2013-01-07-a/</link>
+      <link>//localhost:1313/posts/2013-01-07-a/</link>
       <pubDate>Mon, 07 Jan 2013 11:30:14 +0000</pubDate>
-      
-      <guid>/posts/2013-01-07-a/</guid>
-      <description>Ричард Кертис, известный американский литагент, о возвращении (точнее, реинкарнации) книжного магазина: Borders умер и конкуренты получили остатки его покупателей + книжный магазин как шоурум, тусовка и книжки в любых форматах. К тому же, бумажные можно даже подержать в руках! И еще в них можно найти &amp;ldquo;human friendly assistant&amp;rdquo;. Всё это, правда, уже не очень похоже на старый книжный. Но направление понятное.
-Books Coming Back to Bricks? http://www.digitalbookworld.com/2013/books-coming-back-to-bricks/</description>
+      <guid>//localhost:1313/posts/2013-01-07-a/</guid>
+      <description>&lt;p&gt;Ричард Кертис, известный американский литагент, о возвращении (точнее, реинкарнации) книжного магазина: Borders умер и конкуренты получили остатки его покупателей + книжный магазин как шоурум, тусовка и книжки в любых форматах. К тому же, бумажные можно даже подержать в руках! И еще в них можно найти &amp;ldquo;human friendly assistant&amp;rdquo;. Всё это, правда, уже не очень похоже на старый книжный. Но направление понятное.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Books Coming Back to Bricks?&lt;/strong&gt; &lt;a href=&#34;http://www.digitalbookworld.com/2013/books-coming-back-to-bricks/&#34;&gt;http://www.digitalbookworld.com/2013/books-coming-back-to-bricks/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Amazon для издателя</title>
-      <link>/posts/2012-12-04-a/</link>
+      <link>//localhost:1313/posts/2012-12-04-a/</link>
       <pubDate>Tue, 04 Dec 2012 13:19:29 +0000</pubDate>
-      
-      <guid>/posts/2012-12-04-a/</guid>
-      <description>«Амазонка» решила, что автор, это всё-таки ещё не всё, и пошла навстречу с издателем (впрочем, как и с любым другим вендором) и завела Amazon Marketing Services — инструмент для продвижения бренда. Ну, хоть что-то.</description>
+      <guid>//localhost:1313/posts/2012-12-04-a/</guid>
+      <description>&lt;p&gt;«Амазонка» решила, что автор, это всё-таки ещё не всё, и пошла навстречу с издателем (впрочем, как и с любым другим вендором) и завела &lt;a href=&#34;https://ams.amazon.com/&#34;&gt;Amazon Marketing Services&lt;/a&gt; — инструмент для продвижения бренда. Ну, хоть что-то.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ярмарка non/fiction #14. Эл.книги для книжного магазина</title>
-      <link>/posts/2012-12-03-a/</link>
+      <link>//localhost:1313/posts/2012-12-03-a/</link>
       <pubDate>Mon, 03 Dec 2012 11:57:24 +0000</pubDate>
-      
-      <guid>/posts/2012-12-03-a/</guid>
-      <description>Интереснее всего было смотреть на издателей и книготорговцев, когда им показывал вот такую вот книжечку-открытку.
-Вы правильно поняли: на открытке — обложка книги. А внутри:
-Помимо аннотации, под слоём, — код для ввода и получения эл.книги. То есть открытку покупаешь в книжном магазине, а книгу скачиваешь через любое устройство, подключённое к интернету. Всем хорошо: магазинам хорошо (они продают и имеют с продаж), издателям хорошо (привычный канал дистрибуции и денег, никаких платёжных систем), покупателям хорошо (можно подержать в руках что-то, за что можно заплатить).</description>
+      <guid>//localhost:1313/posts/2012-12-03-a/</guid>
+      <description>&lt;p&gt;Интереснее всего было смотреть на издателей и книготорговцев, когда им показывал вот такую вот книжечку-открытку.&lt;/p&gt;&#xA;&lt;p&gt;Вы правильно поняли: на открытке — обложка книги. А внутри:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/photo-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Помимо аннотации, под слоём, — код для ввода и получения эл.книги. То есть открытку покупаешь в книжном магазине, а книгу скачиваешь через любое устройство, подключённое к интернету. Всем хорошо: магазинам хорошо (они продают и имеют с продаж), издателям хорошо (привычный канал дистрибуции и денег, никаких платёжных систем), покупателям хорошо (можно подержать в руках что-то, за что можно заплатить).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ещё одна всеобщая классификация книг</title>
-      <link>/posts/2012-10-10-a/</link>
+      <link>//localhost:1313/posts/2012-10-10-a/</link>
       <pubDate>Wed, 10 Oct 2012 12:49:56 +0000</pubDate>
-      
-      <guid>/posts/2012-10-10-a/</guid>
-      <description>На Франкфуртской ярмарке объявлено о создании новой глобальной системы классификации для книг PanThema. Потребность в общем классификаторе есть, поскольку книжный рынок, тем более электронный, и правда становится глобальным, а в разных странах — разные системы (да ещё и не одна), у кого BISAG, у кого ББК, у кого ещё что. На этот раз, однако, решили не выбирать какой-то один и делать его универсальным, а создавать заново, что, мне кажется, не ОК.</description>
+      <guid>//localhost:1313/posts/2012-10-10-a/</guid>
+      <description>&lt;p&gt;На Франкфуртской ярмарке объявлено о создании новой глобальной системы классификации для книг &lt;a href=&#34;http://www.panthema.org/&#34;&gt;PanThema&lt;/a&gt;. Потребность в общем классификаторе есть, поскольку книжный рынок, тем более электронный, и правда становится глобальным, а в разных странах — разные системы (да ещё и не одна), у кого BISAG, у кого ББК, у кого ещё что. На этот раз, однако, решили не выбирать какой-то один и делать его универсальным, а создавать заново, что, мне кажется, не ОК. Но пусть так. Какие страны присоединились? Австралия, Австрия, Великобритания, Германия, группа арабских стран, Испания, Италия, Канада, Нидерланды, Норвегия, США, Франция, Швейцария, Швеция, Южная Африка. Мне кажется, или правда кого-то не хватает? BRIC.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Продажа книги наборами. Практически бесплатно</title>
-      <link>/posts/2012-10-09-b/</link>
+      <link>//localhost:1313/posts/2012-10-09-b/</link>
       <pubDate>Tue, 09 Oct 2012 19:28:02 +0000</pubDate>
-      
-      <guid>/posts/2012-10-09-b/</guid>
-      <description>Завораживающее зрелище — следить за тем, как со скоростью несколько тысяч связок книжек в час расходятся цифровые книжки (в основных форматах) в проекте Humble eBook Bundle.
-Восемь фантастических книжек, не самым плохих, в том числе последняя книга Кори Доктороу «Pirate Cinema» и графический роман Геймана и Маккина «Cinema to Noise». Купить книги можно за любые деньги — хоть за 1 цент. При этом покупатель может сам установить, как распределить выплачиваемые деньги — авторам, на благотворительность и/или организаторам проекта.</description>
+      <guid>//localhost:1313/posts/2012-10-09-b/</guid>
+      <description>&lt;p&gt;Завораживающее зрелище — следить за тем, как со скоростью несколько тысяч связок книжек в час расходятся цифровые книжки (в основных форматах) в проекте &lt;a href=&#34;http://www.humblebundle.com/&#34;&gt;Humble eBook Bundle&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Восемь фантастических книжек, не самым плохих, в том числе последняя книга Кори Доктороу «Pirate Cinema» и графический роман Геймана и Маккина «Cinema to Noise». Купить книги можно за любые деньги — хоть за 1 цент. При этом покупатель может сам установить, как распределить выплачиваемые деньги — авторам, на благотворительность и/или организаторам проекта. В среднем (статистика представлена тут же в real time) платят 10–11 долларов. С начала запуска проекта прошло полтора часа, продано почти 8 тысяч связок. Заработано почти 90 тыс. долларов. Больше всех платят линуксоиды, на втором месте — пользователи Mac OS X, самые жадные — пользователи Windows. Успевайте — проект закроется через две недели.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Даже крохотное сумасбродное издательство занялось буктрейлерами: Ritual America - Feral House</title>
-      <link>/posts/2012-01-30-b/</link>
+      <link>//localhost:1313/posts/2012-01-30-b/</link>
       <pubDate>Mon, 30 Jan 2012 20:19:03 +0000</pubDate>
-      
-      <guid>/posts/2012-01-30-b/</guid>
-      <description>Реклама новой книжки Feral House о масонской Америке.</description>
+      <guid>//localhost:1313/posts/2012-01-30-b/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://player.vimeo.com/video/35590170&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Реклама новой книжки Feral House о масонской Америке.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Вниманию @falanster: продажи эл.книг независимыми книжными магазинами растёт. В США</title>
-      <link>/posts/2012-01-27-a/</link>
+      <link>//localhost:1313/posts/2012-01-27-a/</link>
       <pubDate>Fri, 27 Jan 2012 12:01:27 +0000</pubDate>
-      
-      <guid>/posts/2012-01-27-a/</guid>
-      <description>Matt reported that the percentage of ebook sales to total sales on ABA member web sites rose from 0.7% to 5.2% in 2011. That’s a 750% increase, which is impressive even though the Google eBook capability kicked in during that year. But it is also actually understated, because the total volume of business on these sites rose by 82%. So the share increase of 750% is in an environment where total sales nearly doubled.</description>
+      <guid>//localhost:1313/posts/2012-01-27-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Matt reported that the percentage of ebook sales to total sales on ABA member web sites rose from 0.7% to 5.2% in 2011. That’s a 750% increase, which is impressive even though the Google eBook capability kicked in during that year. But it is also actually understated, because the total volume of business on these sites rose by 82%. So the share increase of 750% is in an environment where total sales nearly doubled.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>5 идей для издателей электронных книг. Одна из идей — явно для Альянса независимых издателей и книготорговцев</title>
-      <link>/posts/2012-01-11-a/</link>
+      <link>//localhost:1313/posts/2012-01-11-a/</link>
       <pubDate>Wed, 11 Jan 2012 19:27:45 +0000</pubDate>
-      
-      <guid>/posts/2012-01-11-a/</guid>
-      <description>The book business is not changing fast enough, though. Most of the changes still involve readers paying a publisher for one book, written by an author. Digital formats can enable more creative and reader-friendly innovations.
- via chron.com
- «Подписка на автора». Быть в курсе выхода книг, а ещё — его статей, выступлений, интервью и т. д. (А что? Есть же фанаты Акунина, «Метро» и «Сталкера». И даже Жижека.) Подписка на «апдейты книг».</description>
+      <guid>//localhost:1313/posts/2012-01-11-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The book business is not changing fast enough, though. Most of the changes still involve readers paying a publisher for one book, written by an author. Digital formats can enable more creative and reader-friendly innovations.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.chron.com/business/silverman/article/5-ways-to-revolutionize-the-book-business-2452506.php&#34;&gt;chron.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;«Подписка на автора». Быть в курсе выхода книг, а ещё — его статей, выступлений, интервью и т. д. (А что? Есть же фанаты Акунина, «Метро» и «Сталкера». И даже Жижека.)&lt;/li&gt;&#xA;&lt;li&gt;Подписка на «апдейты книг».&lt;/li&gt;&#xA;&lt;li&gt;Покупка бумажной и электронной копии в одном флаконе. (Ну, эта идея уже носится в воздухе. См. статью про FutureBook 2011 в пилотном номере «Bookmate Publishers Review» — идея Шнитмана.)&lt;/li&gt;&#xA;&lt;li&gt;Дать больше денег авторам, коль скоро электронные книги стоят (ну, это касается Запада) почти столько же, сколько книжки в мягкой обложке.&lt;/li&gt;&#xA;&lt;li&gt;Независимым книжным магазинам стоит продавать электронные книги. Мы же всё равно туда ходим.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Последняя мне особенно нравится. заходя в «Фаланстер», например, хочется купить сразу пару-тройку дюжин томов. Но понимаю, что дело даже не в деньгах, а в том, что тогда надо бы купить ещё и полок. Но ставить-вешать их всё равно некуда. А вот в электронном виде купил бы с превеликим удовольствием. причём, в общем, хоть за ту же цену. Но пока никто не продаёт. Смешная история.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Как нельзя продавать электронные книги</title>
-      <link>/posts/2011-12-02-1/</link>
+      <link>//localhost:1313/posts/2011-12-02-1/</link>
       <pubDate>Fri, 02 Dec 2011 20:08:03 +0000</pubDate>
-      
-      <guid>/posts/2011-12-02-1/</guid>
-      <description>Вернувшись с ярмарки non/fiction, полез искать в сеть «Пражское кладбище» Умберто Эко. В электронном виде, естественно. И тут же нашёл. В самом логичном месте — в магазине самого издательства. Подивился и порадовался продвинутости правообладателей и российского издателя. И всего 150 рублей, что, в сравнении с бумажной ценой, почти даром. Для Умберто Эко, понятно, денег не жалко.
-На странице покупки книги выбрал опцию «В корзину», поскольку знаем мы эти «Быстро купить через смс»: цена сразу увеличивается в полтора-два раза.</description>
+      <guid>//localhost:1313/posts/2011-12-02-1/</guid>
+      <description>&lt;p&gt;Вернувшись с ярмарки non/fiction, полез искать в сеть «Пражское кладбище» Умберто Эко. В электронном виде, естественно. И тут же нашёл. В самом логичном месте — в магазине самого издательства. Подивился и порадовался продвинутости правообладателей и российского издателя. И всего 150 рублей, что, в сравнении с бумажной ценой, почти даром. Для Умберто Эко, понятно, денег не жалко.&lt;/p&gt;&#xA;&lt;p&gt;На странице покупки книги выбрал опцию «В корзину», поскольку знаем мы эти «Быстро купить через смс»: цена сразу увеличивается в полтора-два раза. Положить в корзину-то книгу я положил, но оплатить мне никто покупку не предложил, а предложили зарегистрироваться. Ну, ок. В обычном книжном ник не спрашивают, но тут же сеть… Придумал логин, пароль, ввёл email. Ошибка. В чём ошибка, магазин не объяснил, а просто опять потребовал зарегистрироваться. Ладно, плавали, предположил, что движку не понравился выбранный мною в логине знак подчёркивания. Придумал другой логин. Ура! Зарегистрировался. Движок пообещал, что на почту придёт код подтверждения регистрации. Минута — нет письма. Другая — нет письма. Письмо не пришло и через пять минут. Не пришло, впрочем оно и до сих пор.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Small Demons: Дьявол в деталях, или Убийца примечаний</title>
-      <link>/posts/2011-11-02-4/</link>
+      <link>//localhost:1313/posts/2011-11-02-4/</link>
       <pubDate>Wed, 02 Nov 2011 22:31:44 +0000</pubDate>
-      
-      <guid>/posts/2011-11-02-4/</guid>
-      <description>via smalldemons.com
-Отличная идея — вынуть из романа детали (исторических персонажей, места, события, вина, пистолеты, мелодии, фильмы etc.) и выложить перед читателем в своём собственном виде. Или хотя бы в виде карт, картинок, исторических справок и т. д. И художественная реальность произведения станет нагляднее и понятнее. Кто-то, типа Альберто Мангеля, скажет, что это убивает воображение. По мне так — это может напитать его.
-Технически сервис Small Demons вытаскивает из текстов реалии, ищет их в семантической копилке Freebase или в Википедии, и структурирует по типам.</description>
+      <guid>//localhost:1313/posts/2011-11-02-4/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://images.smalldemonscdn.com/77905.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.smalldemons.com/books/The_Girl_with_the_Dragon_Tattoo_Stieg_Larsson_(2005)&#34;&gt;smalldemons.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Отличная идея — вынуть из романа детали (исторических персонажей, места, события, вина, пистолеты, мелодии, фильмы etc.) и выложить перед читателем в своём собственном виде. Или хотя бы в виде карт, картинок, исторических справок и т. д. И художественная реальность произведения станет нагляднее и понятнее. Кто-то, типа Альберто Мангеля, скажет, что это убивает воображение. По мне так — это может напитать его.&lt;/p&gt;&#xA;&lt;p&gt;Технически сервис Small Demons вытаскивает из текстов реалии, ищет их в семантической копилке Freebase или в Википедии, и структурирует по типам. Даже так неплохо.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Маркетинг как извращение</title>
-      <link>/posts/2011-10-06-2/</link>
+      <link>//localhost:1313/posts/2011-10-06-2/</link>
       <pubDate>Thu, 06 Oct 2011 12:52:10 +0000</pubDate>
-      
-      <guid>/posts/2011-10-06-2/</guid>
-      <description>via litres.ru
-Продавать электронный вариант перевода «Оснований новой науки» Дж. Вико на английский за 3797 руб. 76 коп. и не продавать перевода на русский? Объясните, пожалуйста, в чём тут бизнес?
-Самое смешное, что эту же книгу для Kindle можно купить за 16 баксов, а не за 87 евро.</description>
+      <guid>//localhost:1313/posts/2011-10-06-2/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.litres.ru/pages/biblio_book/?art=1348155&#34;&gt;litres.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Продавать электронный вариант перевода «Оснований новой науки» Дж. Вико на английский за 3797 руб. 76 коп. и не продавать перевода на русский? Объясните, пожалуйста, в чём тут бизнес?&lt;/p&gt;&#xA;&lt;p&gt;Самое смешное, что эту же книгу для Kindle &lt;a href=&#34;http://www.amazon.com/Vico-Science-Cambridge-Political-ebook/dp/B001UE731E/&#34;&gt;можно купить&lt;/a&gt; за 16 баксов, а не за 87 евро.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Электронные книги от СМИ - NYTimes.com</title>
-      <link>/posts/2011-05-19-b/</link>
+      <link>//localhost:1313/posts/2011-05-19-b/</link>
       <pubDate>Mon, 19 Sep 2011 11:52:15 +0000</pubDate>
-      
-      <guid>/posts/2011-05-19-b/</guid>
-      <description>Swiftly and at little cost, newspapers, magazines and sites like The Huffington Post are hunting for revenue by publishing their own version of e-books, either using brand-new content or repurposing material that they may have given away free in the past.
- via nytimes.com
-Ну, вот. А я про это раньше написал, но ещё не напечатали ((</description>
+      <guid>//localhost:1313/posts/2011-05-19-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Swiftly and at little cost, newspapers, magazines and sites like The Huffington Post are hunting for revenue by publishing their own version of e-books, either using brand-new content or repurposing material that they may have given away free in the past.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.nytimes.com/2011/09/19/business/media/in-e-books-publishing-houses-have-a-rival-in-news-sites.html?_r=1&amp;amp;pagewanted=all&#34;&gt;nytimes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ну, вот. А я про это раньше написал, но ещё не напечатали ((&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Сет Годин о реальных ценностях</title>
-      <link>/posts/2011-08-28-1/</link>
+      <link>//localhost:1313/posts/2011-08-28-1/</link>
       <pubDate>Sun, 28 Aug 2011 19:39:13 +0000</pubDate>
-      
-      <guid>/posts/2011-08-28-1/</guid>
-      <description>I think we’ll always be willing to pay extra for the benefits we get from getting something first, getting it curated or getting it customized. But for most of what gets purchased in pop culture, none of those three are at work.
-Prepare for a continuous erosion of what you pay for digital content, at the same time we’ll see a sticky and upward trend for what you might be charged for the collectible stuff and the scarce or custom.</description>
+      <guid>//localhost:1313/posts/2011-08-28-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;I think we’ll always be willing to pay extra for the benefits we get from getting something first, getting it curated or getting it customized. But for most of what gets purchased in pop culture, none of those three are at work.&lt;/p&gt;&#xA;&lt;p&gt;Prepare for a continuous erosion of what you pay for digital content, at the same time we’ll see a sticky and upward trend for what you might be charged for the collectible stuff and the scarce or custom. I think producers are going to fight mightily for a second (higher) tier of pricing for amazing work, but while this might work for the frontlist new stuff, I have a hard time seeing it sustained for the backlist titles.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Пользователи читалок — пожилые женщины (Nielsen, USA)</title>
-      <link>/posts/2011-08-25-2/</link>
+      <link>//localhost:1313/posts/2011-08-25-2/</link>
       <pubDate>Thu, 25 Aug 2011 13:29:45 +0000</pubDate>
-      
-      <guid>/posts/2011-08-25-2/</guid>
-      <description>Любопытное развитие рынка: менее, чем за год пользователи читалок в США сильно повзрослели - 51% старше 45 лет (30% старше 55), причём 9 месяцев назад старше 45-ти лет было 40% (25% старше 55). Та же тенденция с пользователями планшетников: 37% старше 45 (19% старше 55), а три квартала назад — 23% старше 45-ти (10% ещё старше).
-Половая структура тоже поменялась — в III кв 2010 букридеры были по преимуществу у мужчин (54%), теперь — у женщин (61%).</description>
+      <guid>//localhost:1313/posts/2011-08-25-2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://blog.nielsen.com/nielsenwire/wp-content/uploads/2011/08/graph1v2.png&#34; alt=&#34;ereader and tablet demographics&#34; title=&#34;ereader and tablet demographics&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://blog.nielsen.com/nielsenwire/wp-content/uploads/2011/08/graph2v2.png&#34; alt=&#34;women-connected-devices&#34; title=&#34;women-connected-devices&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Любопытное развитие рынка: менее, чем за год пользователи читалок в США сильно повзрослели - 51% старше 45 лет (30% старше 55), причём 9 месяцев назад старше 45-ти лет было 40% (25% старше 55).  Та же тенденция с пользователями планшетников: 37% старше 45 (19% старше 55), а три квартала назад — 23% старше 45-ти (10% ещё старше).&lt;/p&gt;&#xA;&lt;p&gt;Половая структура тоже поменялась — в III кв 2010 букридеры были по преимуществу у мужчин (54%), теперь — у женщин (61%). Планшетники пока остаются за мужчинами (57%), но они потеряли 4%.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Возрождение винила как воспоминания о будущем</title>
-      <link>/posts/2011-08-24-7/</link>
+      <link>//localhost:1313/posts/2011-08-24-7/</link>
       <pubDate>Wed, 24 Aug 2011 11:06:46 +0000</pubDate>
-      
-      <guid>/posts/2011-08-24-7/</guid>
-      <description>via economist.com
-О будущем бумажных книг. Когда закончится эпоха тиражей, бумажная книга отчасти перекочует в раздел «дико прикольной штуки». За которую не жалко заплатить денег. Тем, более, что, в отличие от винила, её и вправду можно сделать руками.</description>
+      <guid>//localhost:1313/posts/2011-08-24-7/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.economist.com/node/21526296&#34;&gt;economist.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;О будущем бумажных книг. Когда закончится эпоха тиражей, бумажная книга отчасти перекочует в раздел «дико прикольной штуки». За которую не жалко заплатить денег. Тем, более, что, в отличие от винила, её и вправду можно сделать руками.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Инстапаблишинг на марше: Guardian Shorts. Коммерсант-Ъ? Ау!</title>
-      <link>/posts/2011-08-08-3/</link>
+      <link>//localhost:1313/posts/2011-08-08-3/</link>
       <pubDate>Mon, 08 Aug 2011 10:27:43 +0000</pubDate>
-      
-      <guid>/posts/2011-08-08-3/</guid>
-      <description>via guardian.co.uk
-Пока только одна книжка — про скандал вокруг Мердока.
-Интересно, почему Коммерсант-Ъ тормозит? Контента явно хватает. Столько забавных книжек можно из их публикаций сделать. Хотя бы в порядке эксперимента.</description>
+      <guid>//localhost:1313/posts/2011-08-08-3/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.guardian.co.uk/mobile/series/guardian-shorts&#34;&gt;guardian.co.uk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Пока только одна книжка — про скандал вокруг Мердока.&lt;br&gt;&#xA;Интересно, почему Коммерсант-Ъ тормозит? Контента явно хватает. Столько забавных книжек можно из их публикаций сделать. Хотя бы в порядке эксперимента.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Апокалипсис в АСТ</title>
-      <link>/posts/2011-07-29-2/</link>
+      <link>//localhost:1313/posts/2011-07-29-2/</link>
       <pubDate>Fri, 29 Jul 2011 11:42:33 +0000</pubDate>
-      
-      <guid>/posts/2011-07-29-2/</guid>
-      <description>«С 1 по 10 августа пройдет доселе невиданная по масштабам феерически дружественная покупательская акция под названием «Летняя ликвидация в «Букве».
-Любому посетителю магазина «Буква» предоставляется 50% скидка практически* на все книги от самых разных книжных издательств России!
-В акции участвуют: 250 из 380-ти магазинов «Буква» в 69 регионах России; более 50 тысяч книг всех жанров и направлений; более 3000 продавцов и помощников-волонтеров.
-Всего 10 дней дается гражданам России, чтобы приобрести по уникальным ценам самые интересные книги любимых авторов!</description>
+      <guid>//localhost:1313/posts/2011-07-29-2/</guid>
+      <description>&lt;p&gt;«С 1 по 10 августа пройдет доселе невиданная по масштабам феерически дружественная покупательская акция под названием «Летняя ликвидация в «Букве».&lt;/p&gt;&#xA;&lt;p&gt;Любому посетителю магазина «Буква» предоставляется 50% скидка практически* на все книги от самых разных книжных издательств России!&lt;/p&gt;&#xA;&lt;p&gt;В акции участвуют: 250 из 380-ти магазинов «Буква» в 69 регионах России; более 50 тысяч книг всех жанров и направлений; более 3000 продавцов и помощников-волонтеров.&lt;/p&gt;&#xA;&lt;p&gt;Всего 10 дней дается гражданам России, чтобы приобрести по уникальным ценам самые интересные книги любимых авторов! Только в эти 10 дней вы сможете позволить себе ВСЕ! Вы купите даже те книги, о которых и не мечтали!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Хороший пример instant publishing: Ars Technica OS X Lion review</title>
-      <link>/posts/2011-07-21-5/</link>
+      <link>//localhost:1313/posts/2011-07-21-5/</link>
       <pubDate>Thu, 21 Jul 2011 12:52:47 +0000</pubDate>
-      
-      <guid>/posts/2011-07-21-5/</guid>
-      <description>via arstechnica.com
-Прямо по выходу новой версии OS X сайт Ars Technica выпустил обзор операционной системы, который можно прочитать аж на 19 страницах. Или купить за 5 баксов в виде цифровой книжки. Или получить бесплатно, подписавшись на премиум-аккаунт Ars Technica.
-Весной, оказывается, сайт сделал ещё одну такую «быстрорастворимую книгу»: о скандале вокруг HBGary и Anonimous.</description>
+      <guid>//localhost:1313/posts/2011-07-21-5/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://arstechnica.com/apple/news/2011/07/lion-review-e-book-now-available.ars&#34;&gt;arstechnica.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Прямо по выходу новой версии OS X сайт Ars Technica выпустил обзор операционной системы, который можно прочитать аж на 19 страницах. Или купить за 5 баксов в виде цифровой книжки. Или получить бесплатно, подписавшись на премиум-аккаунт Ars Technica.&lt;br&gt;&#xA;Весной, оказывается, сайт сделал ещё одну такую «быстрорастворимую книгу»: о скандале вокруг HBGary и Anonimous.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Random House займётся instant publishing</title>
-      <link>/posts/2011-06-17-c/</link>
+      <link>//localhost:1313/posts/2011-06-17-c/</link>
       <pubDate>Fri, 17 Jun 2011 09:18:19 +0000</pubDate>
-      
-      <guid>/posts/2011-06-17-c/</guid>
-      <description>Speaking at the inaugural Futurebook Innovation Workshop, held in London Bridge, digital editor Dan Franklin announced that five 10,000 word e-books would be released on 28th July, priced £2.99, with Franklin saying the books, and the imprint, will be aiming to fill the space for long-form journalism left as traditional media contracts.
-The specially-commissioned titles, all written by journalists, will be: Kettled Youth by Dan Hancox; The Debt Delusion by Mehdi Hassan; The Revolution Road by Peter Beaumont; Digital Activism or Slack-tivism?</description>
+      <guid>//localhost:1313/posts/2011-06-17-c/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Speaking at the inaugural Futurebook Innovation Workshop, held in London Bridge, digital editor Dan Franklin announced that five 10,000 word e-books would be released on 28th July, priced £2.99, with Franklin saying the books, and the imprint, will be aiming to fill the space for long-form journalism left as traditional media contracts.&lt;/p&gt;&#xA;&lt;p&gt;The specially-commissioned titles, all written by journalists, will be: &lt;em&gt;Kettled Youth&lt;/em&gt; by Dan Hancox; &lt;em&gt;The Debt Delusion&lt;/em&gt; by Mehdi Hassan; &lt;em&gt;The Revolution Road&lt;/em&gt; by Peter Beaumont; &lt;em&gt;Digital Activism or Slack-tivism?&lt;/em&gt; by Tom Chatfield, and Nariman Youssef&amp;rsquo;s &lt;em&gt;Tahrir: 18 Days of Grace&lt;/em&gt;. Speaking to &lt;em&gt;The Bookseller&lt;/em&gt;, Franklin said: &amp;ldquo;The books all look at key themes behind revolution and unrest in genreal but all focus in on a specific area. All the authors have a strong online presence and a parent media organisation that they can market through, and we will be backing that too.&amp;rdquo;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Booklikes - ещё один рекомендательный сервис</title>
-      <link>/posts/2011-06-16-a/</link>
+      <link>//localhost:1313/posts/2011-06-16-a/</link>
       <pubDate>Thu, 16 Jun 2011 14:17:27 +0000</pubDate>
-      
-      <guid>/posts/2011-06-16-a/</guid>
-      <description>From the press release:
-Billed as “the missing link between Amazon and Facebook,” the site uses an innovative
-algorithm that helps people decide what book to read next. Users can also share and talk
-about their favorite books on BookLikes, making it one of the first sites to transform
-reading into a social experience. For more information, please visit booklikes.com
- via teleread.com</description>
+      <guid>//localhost:1313/posts/2011-06-16-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.teleread.com/wp-content/uploads/2011/06/Screen-shot-2011-06-16-at-8.51.36-AM.png&#34; alt=&#34;Screen shot 2011 06 16 at 8 51 36 AM&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;From the press release:&lt;/p&gt;&#xA;&lt;p&gt;Billed as “the missing link between Amazon and Facebook,” the site uses an innovative&lt;br&gt;&#xA;algorithm that helps people decide what book to read next. Users can also share and talk&lt;br&gt;&#xA;about their favorite books on BookLikes, making it one of the first sites to transform&lt;br&gt;&#xA;reading into a social experience. For more information, please visit &lt;a href=&#34;http://booklikes.com/&#34;&gt;booklikes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.teleread.com/paul-biba/booklikes-help-people-to-decide-what-to-read-next/&#34;&gt;teleread.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Embedded books. Bookmate становится платформой</title>
-      <link>/posts/2011-06-16-b/</link>
+      <link>//localhost:1313/posts/2011-06-16-b/</link>
       <pubDate>Thu, 16 Jun 2011 11:47:45 +0000</pubDate>
-      
-      <guid>/posts/2011-06-16-b/</guid>
-      <description>Голосование 
-Юрий Арабов 
-Орлеан В новом романе Юрия Арабова действие разворачивается в маленьком городке в Кулундинской степи. Его даже нет на карте, но и здесь неторопливо живут люди, ходят в парикма­херскую, иногда попадают в больницу&amp;hellip;&amp;hellip;
-Подробнее »
-
- Нажал на кнопку — и читай, где тебе удобнее.
-Правда, кроме букридеров. Но тут отдельная сложная история.</description>
+      <guid>//localhost:1313/posts/2011-06-16-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;h1 id=&#34;голосование&#34;&gt;Голосование&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://bigbook.imhonet.ru/author/24092/&#34;&gt;&lt;img src=&#34;http://s.imhonet.ru/person/small/4a/41/4a416ea4ad8852319881bdbe16c47822.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;юрий-арабовhttpbigbookimhonetruauthor24092&#34;&gt;&lt;a href=&#34;http://bigbook.imhonet.ru/author/24092/&#34;&gt;Юрий Арабов&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://bigbook.imhonet.ru/author/24092/&#34;&gt;&lt;img src=&#34;http://s.imhonet.ru/element/small/16/44/16445c67dbe6659ac7101e3361ff8398.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;орлеанhttpbigbookimhonetruauthor24092&#34;&gt;&lt;a href=&#34;http://bigbook.imhonet.ru/author/24092/&#34;&gt;Орлеан&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;В новом романе Юрия Арабова действие разворачивается в маленьком городке в Кулундинской степи. Его даже нет на карте, но и здесь неторопливо живут люди, ходят в парикма­херскую, иногда попадают в больницу&amp;hellip;&amp;hellip;&lt;br&gt;&#xA;&lt;a href=&#34;http://bigbook.imhonet.ru/author/24092/&#34;&gt;Подробнее »&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://bigbook.imhonet.ru/register/&#34;&gt;&lt;img src=&#34;http://s.imhonet.ru/img/bigbook/button-vote.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Нажал на кнопку — и читай, где тебе удобнее.&lt;br&gt;&#xA;Правда, кроме букридеров. Но тут отдельная сложная история.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Что происходит с книжной критикой : Демократизация, или Смерть</title>
-      <link>/posts/2011-05-19-i/</link>
+      <link>//localhost:1313/posts/2011-05-19-i/</link>
       <pubDate>Thu, 19 May 2011 10:41:59 +0000</pubDate>
-      
-      <guid>/posts/2011-05-19-i/</guid>
-      <description>Чем дальше, тем больше становится книг — и советчиков по их выбору; и с таким количеством механизм фильтрации перестает работать; это означает, что в какой-то момент вы никогда уже не сможете ничего себе выбрать.
- via afisha.ru
-Похожие книги — и в самом деле так себе совет. Универсальных рецептов нет. Но один из выходов — твоя личная социальная сеть. В общем, как в жизни. Мы же прислушиваемся к советам друзей?</description>
+      <guid>//localhost:1313/posts/2011-05-19-i/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Чем дальше, тем больше становится книг — и советчиков по их выбору; и с таким количеством механизм фильтрации перестает работать; это означает, что в какой-то момент вы никогда уже не сможете ничего себе выбрать.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.afisha.ru/article/ili-smert/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+afisha_books+%28Afisha%3A+Books%29&#34;&gt;afisha.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Похожие книги — и в самом деле так себе совет. Универсальных рецептов нет. Но один из выходов — твоя личная социальная сеть. В общем, как в жизни. Мы же прислушиваемся к советам друзей?&lt;br&gt;&#xA;Как бы ещё приспособить читателей читать рецензии вообще?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Авторы пиратят свои электронные книги ради рекламы?</title>
-      <link>/posts/2011-05-13-a/</link>
+      <link>//localhost:1313/posts/2011-05-13-a/</link>
       <pubDate>Fri, 13 May 2011 15:52:12 +0000</pubDate>
-      
-      <guid>/posts/2011-05-13-a/</guid>
-      <description>via goodereader.com
-Немного неожиданно, но, помня практику Коэльо, логично.</description>
+      <guid>//localhost:1313/posts/2011-05-13-a/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://thailandtimes.asia/files/spies1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://goodereader.com/blog/electronic-readers/goodereader-exclusive-are-authors-pirating-their-own-books-to-promote-themselves/&#34;&gt;goodereader.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Немного неожиданно, но, помня практику Коэльо, логично.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Пиратство — это хорошо</title>
-      <link>/posts/2011-05-12-c/</link>
+      <link>//localhost:1313/posts/2011-05-12-c/</link>
       <pubDate>Thu, 12 May 2011 10:35:30 +0000</pubDate>
-      
-      <guid>/posts/2011-05-12-c/</guid>
-      <description>Once you are able to see piracy not only as a threat, you can start to see the positive effects. Positive? Yes. Think about why people pirate your books. Why would they do that? Think negative and you might say: they don’t want to pay for it. Could be (see the text under the next heading how to tackle that). But the main reason is: they want your book! And that is a good thing, right?</description>
+      <guid>//localhost:1313/posts/2011-05-12-c/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Once you are able to see piracy not only as a threat, you can start to see the positive effects. Positive? Yes. Think about why people pirate your books. Why would they do that? Think negative and you might say: they don’t want to pay for it. Could be (see the text under the next heading how to tackle that). But the main reason is: they want your book! And that is a good thing, right?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>История про магазин для одной книги</title>
-      <link>/posts/2011-05-11-b/</link>
+      <link>//localhost:1313/posts/2011-05-11-b/</link>
       <pubDate>Wed, 11 May 2011 13:14:18 +0000</pubDate>
-      
-      <guid>/posts/2011-05-11-b/</guid>
-      <description>Магазин одной книги.
- via afisha.ru
-Смешная история. Но одноразовая. И серии &amp;ldquo;гениальные маркетинговые находки&amp;rdquo;.</description>
+      <guid>//localhost:1313/posts/2011-05-11-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Магазин одной книги.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.afisha.ru/article/monobukizm/&#34;&gt;afisha.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Смешная история. Но одноразовая. И серии &amp;ldquo;гениальные маркетинговые находки&amp;rdquo;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Отличные постеры к boo_fest</title>
-      <link>/posts/2011-02-28-a/</link>
+      <link>//localhost:1313/posts/2011-02-28-a/</link>
       <pubDate>Mon, 28 Feb 2011 16:34:57 +0000</pubDate>
-      
-      <guid>/posts/2011-02-28-a/</guid>
-      <description>и др.
-via community.livejournal.com</description>
+      <guid>//localhost:1313/posts/2011-02-28-a/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/das.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;и др.&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://community.livejournal.com/boo_fest/107870.html&#34;&gt;community.livejournal.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ЛитРес решил поощрить своих авторов</title>
-      <link>/posts/2010-11-29-108/</link>
+      <link>//localhost:1313/posts/2010-11-29-108/</link>
       <pubDate>Mon, 29 Nov 2010 19:57:12 +0000</pubDate>
-      
-      <guid>/posts/2010-11-29-108/</guid>
-      <description>Хороший вид promotion. Печалит только, что премия получается ЛитРесоцентричная ;) Особенно номинация &amp;ldquo;самый популярный автор Рунета&amp;rdquo;.
-Из пресс-релиза:
-В России учреждена новая литературная премия в области электронных книг. Учредителем премии выступила компания «ЛитРес» - агрегатор, дистрибьютор и продавец лицензионных электронных книг. Это первый опыт в истории российского рынка электронных книг присуждения наград в данной области.
-Компания «ЛитРес» выступила с инициативой создания первой литературной премии в области электронных книг. Премия будет ежегодно присуждаться лучшим произведениям, по мнению читателей и пользователей «ЛитРес».</description>
+      <guid>//localhost:1313/posts/2010-11-29-108/</guid>
+      <description>&lt;p&gt;Хороший вид promotion. Печалит только, что премия получается ЛитРесоцентричная ;) Особенно номинация &amp;ldquo;самый популярный автор Рунета&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Из пресс-релиза:&lt;/p&gt;&#xA;&lt;p&gt;В России учреждена новая литературная премия в области электронных книг. Учредителем премии выступила компания «ЛитРес» - агрегатор, дистрибьютор и продавец лицензионных электронных книг. Это первый опыт в истории российского рынка электронных книг присуждения наград в данной области.&lt;/p&gt;&#xA;&lt;p&gt;Компания «ЛитРес» выступила с инициативой создания первой литературной премии в области электронных книг. Премия будет ежегодно присуждаться лучшим произведениям, по мнению читателей и пользователей «ЛитРес».&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>К вопросу о влиянии пиратства на продажи книг</title>
-      <link>/posts/2010-10-23-85/</link>
+      <link>//localhost:1313/posts/2010-10-23-85/</link>
       <pubDate>Sat, 23 Oct 2010 21:36:25 +0000</pubDate>
-      
-      <guid>/posts/2010-10-23-85/</guid>
-      <description>via torrentfreak.com</description>
+      <guid>//localhost:1313/posts/2010-10-23-85/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://torrentfreak.com/book-piracy-can-boost-book-sales-tremendously101023/&#34;&gt;torrentfreak.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>В США проходит Неделя запрещённых книг</title>
-      <link>/posts/2010-10-29-218/</link>
+      <link>//localhost:1313/posts/2010-10-29-218/</link>
       <pubDate>Wed, 29 Sep 2010 21:15:04 +0000</pubDate>
-      
-      <guid>/posts/2010-10-29-218/</guid>
-      <description>via bannedbooksweek.org
-В России бы тоже такое замутить.</description>
+      <guid>//localhost:1313/posts/2010-10-29-218/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.bannedbooksweek.org/&#34;&gt;bannedbooksweek.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;В России бы тоже такое замутить.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Если за электронные книги берутся сисадмины…</title>
-      <link>/posts/2010-08-18-66/</link>
+      <link>//localhost:1313/posts/2010-08-18-66/</link>
       <pubDate>Wed, 18 Aug 2010 08:25:37 +0000</pubDate>
-      
-      <guid>/posts/2010-08-18-66/</guid>
-      <description>Это результат поиска &amp;ldquo;Былого и дум&amp;rdquo; на сайте bookee.ru - первая страница выдачи. А это — результаты поиска &amp;ldquo;Евгения Онегина&amp;rdquo;. Сам &amp;ldquo;Евгений Онегин&amp;rdquo; на первой странице тоже есть. Последним в выдаче на первой странице.
-Стыдобище.</description>
+      <guid>//localhost:1313/posts/2010-08-18-66/</guid>
+      <description>&lt;p&gt;Это &lt;a href=&#34;http://bookee.ru/search/?q=%D0%B1%D1%8B%D0%BB%D0%BE%D0%B5+%D0%B8+%D0%B4%D1%83%D0%BC%D1%8B&amp;amp;x=0&amp;amp;y=0#&#34;&gt;результат поиска&lt;/a&gt; &amp;ldquo;Былого и дум&amp;rdquo; на сайте bookee.ru - первая страница выдачи. &lt;/p&gt;&#xA;&lt;p&gt;А это — результаты поиска &amp;ldquo;Евгения Онегина&amp;rdquo;. Сам &amp;ldquo;Евгений Онегин&amp;rdquo; на первой странице тоже есть. Последним в выдаче на первой странице.&lt;/p&gt;&#xA;&lt;p&gt;Стыдобище.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Платный контент отменяется - Андрей Мирошниченко - Блоггеры - Slon.ru</title>
-      <link>/posts/2010-01-25-2/</link>
+      <link>//localhost:1313/posts/2010-01-25-2/</link>
       <pubDate>Fri, 25 Jun 2010 19:45:15 +0000</pubDate>
-      
-      <guid>/posts/2010-01-25-2/</guid>
-      <description>Недавно коллеги сбросили мне ролик – презентацию спортивного интернет-журнала будущего. Это, конечно, рывок, сравнимый с переходом от камеры-обскуры к синематографу. На планшете легко листаются красочные тексты с картинками, клик в нужном месте вызывает турнирную таблицу, историю матчей или биографию спортсмена. Какой-то эпизод статьи можно тут же отослать другу или обсудить в форуме. Ткнув пальцем в фотографию, можно посмотреть ролик с эпизодом матча. Мечта болельщика. Та самая газета Гарри Поттера с живыми картинками, о которой говорил Демьян Кудрявцев из «Коммерсанта».</description>
+      <guid>//localhost:1313/posts/2010-01-25-2/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Недавно коллеги сбросили мне ролик – презентацию спортивного интернет-журнала будущего. Это, конечно, рывок, сравнимый с переходом от камеры-обскуры к синематографу. На планшете легко листаются красочные тексты с картинками, клик в нужном месте вызывает турнирную таблицу, историю матчей или биографию спортсмена. Какой-то эпизод статьи можно тут же отослать другу или обсудить в форуме. Ткнув пальцем в фотографию, можно посмотреть ролик с эпизодом матча. Мечта болельщика. Та самая газета Гарри Поттера с живыми картинками, о которой &lt;a href=&#34;http://slon.ru/articles/309291/&#34;&gt;говорил Демьян Кудрявцев из «Коммерсанта»&lt;/a&gt;. Многие заверяют, что охотно и нескупо платили бы за такой медийный продукт.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Правительство США признало, что &#34;пиратство&#34; - это страшилка</title>
-      <link>/posts/2010-04-16-159/</link>
+      <link>//localhost:1313/posts/2010-04-16-159/</link>
       <pubDate>Fri, 16 Apr 2010 19:56:29 +0000</pubDate>
-      
-      <guid>/posts/2010-04-16-159/</guid>
-      <description>None of this is to say that piracy and counterfeiting aren&amp;rsquo;t real problems. The GAO accepts that the problem is &amp;ldquo;sizeable,&amp;rdquo; but it also points out just how much bad data is used to produce these studies. Actual dollar figures and job loss numbers should be handled with extreme care and a good bit of skepticism; the GAO also noted that numerous experts told it that &amp;ldquo;there were positive effects [from piracy on the economy] and they should be assessed as well.</description>
+      <guid>//localhost:1313/posts/2010-04-16-159/</guid>
+      <description>&lt;p&gt;None of this is to say that piracy and counterfeiting aren&amp;rsquo;t real problems. The GAO accepts that the problem is &amp;ldquo;sizeable,&amp;rdquo; but it also points out just how much bad data is used to produce these studies. Actual dollar figures and job loss numbers should be handled with extreme care and a good bit of skepticism; the GAO also noted that numerous experts told it that &amp;ldquo;there were positive effects [from piracy on the economy] and they should be assessed as well.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The iPad in Education: Colleges Give iPads to All Incoming Students</title>
-      <link>/posts/2010-03-30-209/</link>
+      <link>//localhost:1313/posts/2010-03-30-209/</link>
       <pubDate>Tue, 30 Mar 2010 19:02:35 +0000</pubDate>
-      
-      <guid>/posts/2010-03-30-209/</guid>
-      <description>Seton Hill University plans to give every first year undergraduate student a 13&amp;quot; MacBook and an iPad. Just last month, George Fox University in Oregon also announced that it plans to give its new students a choice between a MacBook or an iPad
- via readwriteweb.com
-iPad уже раздают в колледжах.</description>
+      <guid>//localhost:1313/posts/2010-03-30-209/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.readwriteweb.com/images/seton_hill_university_ipads_logo.jpg&#34; alt=&#34;seton_hill_university_ipads_logo.jpg&#34;&gt;&#xA;Seton Hill University &lt;a href=&#34;http://www.setonhill.edu/techadvantage/&#34;&gt;plans&lt;/a&gt; to give every first year undergraduate student a 13&amp;quot; MacBook and an iPad. Just last month, &lt;a href=&#34;http://www.georgefox.edu/featured_stories/iPad-MacBook.html&#34;&gt;George Fox University in Oregon&lt;/a&gt; also announced that it plans to give its new students a choice between a MacBook or an iPad&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.readwriteweb.com/archives/the_ipad_in_education_colleges_give_ipads_to_all_incoming_students.php&#34;&gt;readwriteweb.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;iPad уже раздают в колледжах.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>NYT Book Review будет и в виде отдельного издания для читалок</title>
-      <link>/posts/2010-03-14-130/</link>
+      <link>//localhost:1313/posts/2010-03-14-130/</link>
       <pubDate>Sun, 14 Mar 2010 11:16:22 +0000</pubDate>
-      
-      <guid>/posts/2010-03-14-130/</guid>
-      <description>The New York Times is planning to offer its Book Review as a separate digital e-reader product, disaggregated from the rest of the Times content on the mobile devices, according to
-James Dunn, director of marketing for The New York Times.
-Dunn alluded to the plan during an afternoon session at the
-Digital Publishing Alliance (DPA) and E-Reader Symposium at the University of Missouri&amp;rsquo;s Reynolds Journalism Institute. Following the session, Dunn spoke briefly with Poynter&amp;rsquo;s Bill Mitchell and provided additional details.</description>
+      <guid>//localhost:1313/posts/2010-03-14-130/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The New York Times is planning to offer its Book Review as a separate digital e-reader product, disaggregated from the rest of the Times content on the mobile devices, according to&lt;/p&gt;&#xA;&lt;p&gt;James Dunn, director of marketing for The New York Times.&lt;/p&gt;&#xA;&lt;p&gt;Dunn alluded to the plan during an afternoon session at the&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.rjionline.org/projects/digital-publishing/index.php&#34;&gt;Digital Publishing Alliance&lt;/a&gt; (DPA) and E-Reader Symposium at the University of Missouri&amp;rsquo;s Reynolds Journalism Institute. Following the session, Dunn spoke briefly with Poynter&amp;rsquo;s Bill Mitchell and provided additional details.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Краткосрочное влияние &#34;пиратства&#34; на продажи</title>
-      <link>/posts/2010-03-05-104/</link>
+      <link>//localhost:1313/posts/2010-03-05-104/</link>
       <pubDate>Fri, 05 Mar 2010 08:32:02 +0000</pubDate>
-      
-      <guid>/posts/2010-03-05-104/</guid>
-      <description>Increasingly, authors and publishers are freely distributing their books electronically to increase the visibility of their work. A vital question for those with a commercial stake in selling books is, “What happens to book sales if digital versions are given away?” We used BookScan sales data for four categories of books (a total of 41 books) for which we could identify the date when the free digital versions of the books were made available to determine whether the free version affected print sales.</description>
+      <guid>//localhost:1313/posts/2010-03-05-104/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Increasingly, authors and publishers are freely distributing their books electronically to increase the visibility of their work. A vital question for those with a commercial stake in selling books is, “What happens to book sales if digital versions are given away?” We used BookScan sales data for four categories of books (a total of 41 books) for which we could identify the date when the free digital versions of the books were made available to determine whether the free version affected print sales. We analyzed the data on book sales for the eight weeks before and after the free versions were available. Three of the four categories of books had increased sales after the free books were distributed. We discuss the implications and limitations of these results.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Компьютерра-Онлайн в формате fb2. Пора Часкор в формате epub</title>
-      <link>/posts/2010-01-26-1/</link>
+      <link>//localhost:1313/posts/2010-01-26-1/</link>
       <pubDate>Tue, 26 Jan 2010 22:41:17 +0000</pubDate>
-      
-      <guid>/posts/2010-01-26-1/</guid>
-      <description>О проекте | Реклама на сайте | Рассылки сайта | КПК–версия | Карта Computerra.ru | &amp;ndash;&amp;gt; 
-| 
- via computerra.ru
-Тут выкладывают дайджесты</description>
+      <guid>//localhost:1313/posts/2010-01-26-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.computerra.ru/about/&#34;&gt;О проекте&lt;/a&gt; | &lt;a href=&#34;http://www.computerra.ru/advert/&#34;&gt;Реклама на сайте&lt;/a&gt; | &lt;a href=&#34;http://www.computerra.ru/maillists/&#34;&gt;Рассылки сайта&lt;/a&gt; | &lt;a href=&#34;http://pda.computerra.ru/&#34;&gt;КПК–версия&lt;/a&gt; | Карта Computerra.ru | &amp;ndash;&amp;gt; &lt;a href=&#34;http://www.computerra.ru/rss.xml&#34;&gt;&lt;img src=&#34;http://www.computerra.ru/upload/rssico.gif&#34; alt=&#34;RSS-трансляция&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;http://www.twitter.com/computerra&#34;&gt;&lt;img src=&#34;http://www.computerra.ru/images/twitter.png&#34; alt=&#34;Компьютерра на Twitter&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.computerra.ru/fb2/&#34;&gt;computerra.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.computerra.ru/fb2/&#34;&gt;Тут выкладывают дайджесты&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>&#34;Компьютерра&#34; для букридеров</title>
-      <link>/posts/2010-01-20-3/</link>
+      <link>//localhost:1313/posts/2010-01-20-3/</link>
       <pubDate>Wed, 20 Jan 2010 11:40:08 +0000</pubDate>
-      
-      <guid>/posts/2010-01-20-3/</guid>
-      <description>Пробуйте, тестируйте, и если выловите ещё какие-то баги – непременно сообщайте в комментариях к данному посту, мы учтём на будущее. Если ни у кого нет возражений, архивы будут выкладываться еженедельно, по вторникам. На сайте у них будет своё место, о появлении которого известим дополнительно.
- via computerra.ru
-Правильный тренд.</description>
+      <guid>//localhost:1313/posts/2010-01-20-3/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Пробуйте, тестируйте, и если выловите ещё какие-то баги – непременно сообщайте в комментариях к данному посту, мы учтём на будущее. Если ни у кого нет возражений, архивы будут выкладываться еженедельно, по вторникам. На сайте у них будет своё место, о появлении которого известим дополнительно.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.computerra.ru/interactive/496422/&#34;&gt;computerra.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Правильный тренд.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Подписка на Wall Street Journal владельцам нового PRS-900 Sony Daily Edition</title>
-      <link>/posts/2009-12-17-119/</link>
+      <link>//localhost:1313/posts/2009-12-17-119/</link>
       <pubDate>Thu, 17 Dec 2009 22:11:46 +0000</pubDate>
-      
-      <guid>/posts/2009-12-17-119/</guid>
-      <description>Sony announced Thursday morning that it will sell subscriptions to the digital edition of the Journal as well as a daily summary of news events available only to owners of the Sony device. In addition, users will be able to subscribe to a daily summary of news stories and columns from MarketWatch.com, which like the Journal is owned by Dow Jones &amp;amp; Co.
-The Journal summary will cost $5 a month on top of the $14.</description>
+      <guid>//localhost:1313/posts/2009-12-17-119/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Sony announced Thursday morning that it will sell subscriptions to the digital edition of the Journal as well as a daily summary of news events available only to owners of the Sony device. In addition, users will be able to subscribe to a daily summary of news stories and columns from MarketWatch.com, which like the Journal is owned by Dow Jones &amp;amp; Co.&lt;/p&gt;&#xA;&lt;p&gt;The Journal summary will cost $5 a month on top of the $14.99 monthly charge for the digital edition of the paper, while a subscription to the MarketWatch product will cost $10.99 a month.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>К вопросу об отсрочке выпуска электронных книг</title>
-      <link>/posts/2009-12-15-78/</link>
+      <link>//localhost:1313/posts/2009-12-15-78/</link>
       <pubDate>Tue, 15 Dec 2009 21:43:30 +0000</pubDate>
-      
-      <guid>/posts/2009-12-15-78/</guid>
-      <description>When I’m looking for a new book on my Kindle and told I have to wait four months for the e-book version, I won’t be heading to the bookstore. Instead, I’ll click the back button and buy one of the 360,000 other e-books available now.
- via bits.blogs.nytimes.com</description>
+      <guid>//localhost:1313/posts/2009-12-15-78/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;When I’m looking for a new book on my Kindle and told I have to wait four months for the e-book version, I won’t be heading to the bookstore. Instead, I’ll click the back button and buy one of the 360,000 other e-books available now.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://bits.blogs.nytimes.com/2009/12/15/wary-book-publishers-are-fighting-the-future/?src=twt&amp;amp;twt=nytimesbits&#34;&gt;bits.blogs.nytimes.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>TimeOut готовит электронные путеводители</title>
-      <link>/posts/2009-12-07-a/</link>
+      <link>//localhost:1313/posts/2009-12-07-a/</link>
       <pubDate>Mon, 07 Dec 2009 21:41:25 +0000</pubDate>
-      
-      <guid>/posts/2009-12-07-a/</guid>
-      <description>Time Out creates eBooks for city guides, takes the Murdoch paid-for route | Tnooz
- Just days after Travellerspoint revealed its simplistic, on-demand email city and country guides, social and travel publishing giant Time Out unveils its own take on the on-the-go guides.
-The publisher’s popular city guides are in the process of being formatted for eReaders, Blackberry, PDA and web and will available for download from its own store and other online retailers this month.</description>
+      <guid>//localhost:1313/posts/2009-12-07-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.tnooz.com/2009/12/07/news/time-out-creates-ebooks-for-city-guides-takes-the-murdoch-paid-for-route/#&#34;&gt;Time Out creates eBooks for city guides, takes the Murdoch paid-for route | Tnooz&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Just days after Travellerspoint revealed its simplistic, on-demand email city and country guides, social and travel publishing giant Time Out unveils its own take on the on-the-go guides.&lt;/p&gt;&#xA;&lt;p&gt;The publisher’s popular city guides are in the process of being formatted for eReaders, Blackberry, PDA and web and will available for download from its own store and other online retailers this month.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>К вопросу о пользе бесплатных раздач электронных книг</title>
-      <link>/posts/2009-11-06-77/</link>
+      <link>//localhost:1313/posts/2009-11-06-77/</link>
       <pubDate>Fri, 06 Nov 2009 21:38:13 +0000</pubDate>
-      
-      <guid>/posts/2009-11-06-77/</guid>
-      <description>http://www.artofcommunityonline.org/2009/11/05/the-art-of-community-is-1-culture-book-on-amazon-com/</description>
+      <guid>//localhost:1313/posts/2009-11-06-77/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.artofcommunityonline.org/2009/11/05/the-art-of-community-is-1-culture-book-on-amazon-com/&#34;&gt;http://www.artofcommunityonline.org/2009/11/05/the-art-of-community-is-1-culture-book-on-amazon-com/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>AddALL Ebook price comparison</title>
-      <link>/posts/2009-11-05-4/</link>
+      <link>//localhost:1313/posts/2009-11-05-4/</link>
       <pubDate>Thu, 05 Nov 2009 23:10:05 +0000</pubDate>
-      
-      <guid>/posts/2009-11-05-4/</guid>
-      <description>Check out this website I found at ebooks.addall.com</description>
+      <guid>//localhost:1313/posts/2009-11-05-4/</guid>
+      <description>&lt;p&gt;Check out this website I found at &lt;a href=&#34;http://ebooks.addall.com/&#34;&gt;ebooks.addall.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Electronic Arts выходит на рынок э-книг через Nintendo DS</title>
-      <link>/posts/2009-10-11-45/</link>
+      <link>//localhost:1313/posts/2009-10-11-45/</link>
       <pubDate>Sun, 11 Oct 2009 19:46:57 +0000</pubDate>
-      
-      <guid>/posts/2009-10-11-45/</guid>
-      <description>EA Extranet: &amp;ldquo;EA ANNOUNCES FLIPS ON THE NINTENDO DS&amp;rdquo;
- Guildford, UK – 9th October 2009 – Electronic Arts (NASDAQ: ERTS) today announces the development of FLIPS™, an innovative new book range created for the Nintendo DS™. FLIPS has been designed to give children of all ages a fun new way to read their favorite books. EA has worked with some of the UK’s leading publishers of children&amp;rsquo;s books and magazines, including Egmont and Penguin Publishing, to bring modern classic titles from critically acclaimed authors such as Cathy Cassidy, Eoin Colfer, Enid Blyton, and the various writers from the popular boys series, ‘Too Ghoul for School’ to the DS.</description>
+      <guid>//localhost:1313/posts/2009-10-11-45/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://ea.gamespress.com/release.asp?i=1200&#34;&gt;EA Extranet: &amp;ldquo;EA ANNOUNCES FLIPS ON THE NINTENDO DS&amp;rdquo;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Guildford, UK – 9th October 2009 – Electronic Arts (NASDAQ: ERTS) today announces the development of FLIPS™, an innovative new book range created for the Nintendo DS™. FLIPS has been designed to give children of all ages a fun new way to read their favorite books. EA has worked with some of the UK’s leading publishers of children&amp;rsquo;s books and magazines, including Egmont and Penguin Publishing, to bring modern classic titles from critically acclaimed authors such as Cathy Cassidy, Eoin Colfer, Enid Blyton, and the various writers from the popular boys series, ‘Too Ghoul for School’ to the DS. Each FLIPS title features multiple books and the first four titles will be exclusively released on Nintendo DS in the UK on the 4th December 2009. Each FLIPS title featuring six to eight books will be sold separately with an RRP of £24.99.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Пример: использование social media для рекламы книги о social media</title>
-      <link>/posts/2009-09-20-123/</link>
+      <link>//localhost:1313/posts/2009-09-20-123/</link>
       <pubDate>Sun, 20 Sep 2009 21:04:19 +0000</pubDate>
-      
-      <guid>/posts/2009-09-20-123/</guid>
-      <description>Viral Loop: Using Facebook and the iPhone to promote something called a ‘book’
- Adam Penenberg, who’s a contributing writer over at Fast Company magazine (and an old professor of mine from back in my NYU days), has developed an iPhone and Facebook App called “Viral Loop” to help raise awareness of his latest book, Viral Loop: From Facebook to Twitter, How Today’s Smartest Businesses Grow Themselves. Let’s take a look.</description>
+      <guid>//localhost:1313/posts/2009-09-20-123/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.crunchgear.com/2009/09/18/viral-loop-using-facebook-and-the-iphone-to-promote-something-called-a-%E2%80%98book%E2%80%99/&#34;&gt;Viral Loop: Using Facebook and the iPhone to promote something called a ‘book’&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Adam Penenberg, who’s a contributing writer over at Fast Company magazine (and an old professor of mine from back in my NYU days), has developed an iPhone and Facebook App called “Viral Loop” to help raise awareness of his latest book, Viral Loop: From Facebook to Twitter, How Today’s Smartest Businesses Grow Themselves. Let’s take a look.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Собственно, не о книге, а том, как можно издавать электронные книги</title>
-      <link>/posts/2009-09-18-158/</link>
+      <link>//localhost:1313/posts/2009-09-18-158/</link>
       <pubDate>Fri, 18 Sep 2009 13:15:53 +0000</pubDate>
-      
-      <guid>/posts/2009-09-18-158/</guid>
-      <description>пятница, 18 сентября 2009 года, 09.35
-Владимир Харитонов Кроссплатформенное чириканье
-«Книгу про Twitter» можно купить и читать на чём угодно
-Tim O&amp;rsquo;Reilly and Sarah Milstein. The Twitter Book. O&amp;rsquo;Reilly, 2009. Подробнее</description>
+      <guid>//localhost:1313/posts/2009-09-18-158/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.chaskor.ru&#34;&gt;&lt;img src=&#34;http://www.chaskor.ru/images/logo5.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;пятница, 18 сентября 2009 года, 09.35&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.chaskor.ru/posts_images_200909/392_300_10390_twibig.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Владимир Харитонов&lt;/strong&gt; Кроссплатформенное чириканье&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;«Книгу про Twitter» можно купить и читать на чём угодно&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Tim O&amp;rsquo;Reilly and Sarah Milstein. The Twitter Book. O&amp;rsquo;Reilly, 2009. &lt;a href=&#34;http://www.chaskor.ru/p.php?id=10390&#34;&gt;Подробнее&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>8 марта - начало Недели электронной книги</title>
-      <link>/posts/2009-03-08-2/</link>
+      <link>//localhost:1313/posts/2009-03-08-2/</link>
       <pubDate>Sun, 08 Mar 2009 16:28:09 +0000</pubDate>
-      
-      <guid>/posts/2009-03-08-2/</guid>
-      <description>Read an E-Book Week - March 8 - 14, 2009</description>
+      <guid>//localhost:1313/posts/2009-03-08-2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.ebookweek.com/&#34;&gt;Read an E-Book Week - March 8 - 14, 2009&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Поиграл в «Марио» — почитай Шекспира</title>
-      <link>/posts/2008-12-12-37/</link>
+      <link>//localhost:1313/posts/2008-12-12-37/</link>
       <pubDate>Fri, 12 Dec 2008 10:49:40 +0000</pubDate>
-      
-      <guid>/posts/2008-12-12-37/</guid>
-      <description>Mario makes way for Shakespeare on Nintendo DS in HarperCollins deal - Times Online
- Nintendo, the Japanese video games company that brought us Donkey Kong and Mario the Plumber, is to announce a deal with the publisher HarperCollins today to make literary classics available to read on its DS portable games consoles.
-The 100 Classic Book Collection ranges from Shakespeare and Dickens to Jane Austen and the Brontë sisters. It will cost about £20 and will be available initially only in Britain.</description>
+      <guid>//localhost:1313/posts/2008-12-12-37/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://technology.timesonline.co.uk/tol/news/tech_and_web/gadgets_and_gaming/article5303730.ece&#34;&gt;Mario makes way for Shakespeare on Nintendo DS in HarperCollins deal - Times Online&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Nintendo, the Japanese video games company that brought us Donkey Kong and Mario the Plumber, is to announce a deal with the publisher HarperCollins today to make literary classics available to read on its DS portable games consoles.&lt;/p&gt;&#xA;&lt;p&gt;The 100 Classic Book Collection ranges from Shakespeare and Dickens to Jane Austen and the Brontë sisters. It will cost about £20 and will be available initially only in Britain.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Random House, Ballantine предложат бесплатные книги для пользователей Stanza</title>
-      <link>/posts/2008-12-09-42/</link>
+      <link>//localhost:1313/posts/2008-12-09-42/</link>
       <pubDate>Tue, 09 Dec 2008 21:48:31 +0000</pubDate>
-      
-      <guid>/posts/2008-12-09-42/</guid>
-      <description>Random House Publishing Group Makes Free Titles Available on Lexcycle&amp;rsquo;s Stanza Reader | Lexcycle
- New York, NY - December 8, 2008 &amp;ndash; The Random House Publishing Group and Lexcycle, Inc., jointly announced today that Random House and Ballantine will be the first major book publishers to make full-length books available for free on iPhone through Lexcycle Stanza, the most popular electronic book reader for the Apple iPhone and iPod Touch.</description>
+      <guid>//localhost:1313/posts/2008-12-09-42/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.lexcycle.com/press/random_house_free&#34;&gt;Random House Publishing Group Makes Free Titles Available on Lexcycle&amp;rsquo;s Stanza Reader | Lexcycle&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;New York, NY - December 8, 2008 &amp;ndash; The Random House Publishing Group and Lexcycle, Inc., jointly announced today that Random House and Ballantine will be the first major book publishers to make full-length books available for free on iPhone through Lexcycle Stanza, the most popular electronic book reader for the Apple iPhone and iPod Touch. This promotion will allow over 500,000 Stanza users to enjoy free eBooks from a varied list of authors including Alan Furst, Julie Garwood, Charlie Huston, David Liss, Laurie Notaro, Arthur Phillips and Simon Rich. The initial offerings will be drawn from each author&amp;rsquo;s backlist and will include excerpts for any new hardcovers coming in 2009. Random House is providing links to retailers like Amazon, Barnes and Noble.com, Borders.com, Powells.com and IndieBound.org to encourage readers to purchase more books by these authors. &amp;ldquo;A free eBook is a great way to sample a new writer, and help spread the word,&amp;rdquo; says Charlie Huston, whose novels &amp;lsquo;Caught Stealing&amp;rsquo;, &amp;lsquo;Six Bad Things&amp;rsquo;, and &amp;lsquo;A Dangerous Man&amp;rsquo; will all be available on Stanza. &amp;ldquo;Besides, it&amp;rsquo;s good to give things away. They&amp;rsquo;re books. We write them for people to read them.&amp;rdquo; Stanza users already have access to a public domain library which sees nearly 40,000 downloads a day. &amp;ldquo;Stanza has clearly tapped into an audience that&amp;rsquo;s hungry for content, and we&amp;rsquo;re happy to modify our traditional marketing methods to make use of the new technology available to readers today,&amp;rdquo; commented Avideh Bashirrad, Deputy Director of Marketing for Random House. Neelan Choksi, Chief Operating Officer of Lexcycle, added, &amp;ldquo;We are thrilled to bring Stanza readers a sampling of the wealth of titles published by the Random House Publishing Group imprints. But this is just the tip of the iceberg: we look forward to extending this promotion to make even more free titles available.&amp;rdquo;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Книги-финалисты премии &#34;Большой книги&#34; в электронном доступе</title>
-      <link>/posts/2008-07-14-21/</link>
+      <link>//localhost:1313/posts/2008-07-14-21/</link>
       <pubDate>Mon, 14 Jul 2008 10:12:12 +0000</pubDate>
-      
-      <guid>/posts/2008-07-14-21/</guid>
-      <description>Национальная литературная премия «Большая книга»: Новости премии / Большие книги доступны всем
- Впервые на сайте Национальной литературной премии «Большая книга» представлены тексты произведений всех финалистов нынешнего сезона. Теперь их книги может прочитать любой пользователь интернета, посетив страницу, где проводится читательское голосование http://bigbook.ru/vote.
- Заметный шаг вперед. Можно поздравить организаторов премии с этим решением, а также тем, что писательское и издательское сообщество оказалось готово к такому нетривиальному шагу. Хотелось бы только посоветовать еще один шаг — сделать электронные версии более «читабельными», воспользовавшись, например, сервисом Scribd, который готовит текст для удобного просмотра на экране (причем делает это бесплатно и позволяет вставлять код экранного просмотрщика на сайт).</description>
+      <guid>//localhost:1313/posts/2008-07-14-21/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.bigbook.ru/news/detail.php?ID=4775&#34;&gt;Национальная литературная премия «Большая книга»: Новости премии / Большие книги доступны всем&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Впервые на сайте Национальной литературной премии «Большая книга» представлены тексты произведений всех финалистов нынешнего сезона. Теперь их книги может прочитать любой пользователь интернета, посетив страницу, где проводится читательское голосование &lt;a href=&#34;http://bigbook.ru/vote&#34;&gt;http://bigbook.ru/vote&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Заметный шаг вперед. Можно поздравить организаторов премии с этим решением, а также тем, что писательское и издательское сообщество оказалось готово к такому нетривиальному шагу. Хотелось бы только посоветовать еще один шаг — сделать электронные версии более «читабельными», воспользовавшись, например, сервисом &lt;a href=&#34;http://scribd.com&#34;&gt;Scribd&lt;/a&gt;, который готовит текст для удобного просмотра на экране (причем делает это бесплатно и позволяет вставлять код экранного просмотрщика на сайт).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Бесплатное распространение электронных книг увеличивает продажи бумажных</title>
-      <link>/posts/2008-07-10-7/</link>
+      <link>//localhost:1313/posts/2008-07-10-7/</link>
       <pubDate>Thu, 10 Jul 2008 09:09:29 +0000</pubDate>
-      
-      <guid>/posts/2008-07-10-7/</guid>
-      <description>Весьма поучительная история: Tor, один из самых заметных американских издателей научной фантастики, запустил в конце зимы программу бесплатной рассылки электронных версий книг (как правило, не бестселлеров). И вот результат — подъем продаж (как на эти книги в бумажном виде, так и на другие книги этих же авторов) на 20–50%.
-Did Tor’s free e-books boost sales? | TeleRead: Bring the E-Books Home</description>
+      <guid>//localhost:1313/posts/2008-07-10-7/</guid>
+      <description>&lt;p&gt;Весьма поучительная история: &lt;a href=&#34;http://tor.com/&#34;&gt;Tor&lt;/a&gt;, один из самых заметных американских издателей научной фантастики, запустил в конце зимы программу бесплатной рассылки электронных версий книг (как правило, не бестселлеров). И вот результат — подъем продаж (как на эти книги в бумажном виде, так и на другие книги этих же авторов) на 20–50%.&lt;br&gt;&#xA;&lt;a href=&#34;http://www.teleread.org/blog/2008/07/10/did-tors-free-ebooks-affect-sales/&#34;&gt;Did Tor’s free e-books boost sales? | TeleRead: Bring the E-Books Home&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Онлайновый книжный магазин с виртуальными полками</title>
-      <link>/posts/2008-06-22-31/</link>
+      <link>//localhost:1313/posts/2008-06-22-31/</link>
       <pubDate>Sun, 22 Jun 2008 10:19:30 +0000</pubDate>
-      
-      <guid>/posts/2008-06-22-31/</guid>
-      <description>Любопытная надстройка над Amazon: Zoomii.com - The &amp;ldquo;Real&amp;rdquo; Online Bookstore
-Полезная для тех, кто хочет «что-нибудь» купить.
-P.S. из 2019 года: судя по Архиву интернета, сайт был мёртв уже в 2011-м году, а за более ранние даты снэпшотов не сохранилось. Прах к праху.</description>
+      <guid>//localhost:1313/posts/2008-06-22-31/</guid>
+      <description>&lt;p&gt;Любопытная надстройка над Amazon: &lt;a href=&#34;http://zoomii.com/#&#34;&gt;Zoomii.com - The &amp;ldquo;Real&amp;rdquo; Online Bookstore&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Полезная для тех, кто хочет «что-нибудь» купить.&lt;/p&gt;&#xA;&lt;p&gt;P.S. из 2019 года: судя по Архиву интернета, сайт был мёртв уже в 2011-м году, а за более ранние даты снэпшотов не сохранилось. Прах к праху.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

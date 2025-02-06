@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>букридеры on Новости электронного книгоиздания</title>
-    <link>/tags/%D0%B1%D1%83%D0%BA%D1%80%D0%B8%D0%B4%D0%B5%D1%80%D1%8B/</link>
-    <description>Recent content in букридеры on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Букридеры on Новости электронного книгоиздания</title>
+    <link>//localhost:1313/tags/%D0%B1%D1%83%D0%BA%D1%80%D0%B8%D0%B4%D0%B5%D1%80%D1%8B/</link>
+    <description>Recent content in Букридеры on Новости электронного книгоиздания</description>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 08 Jan 2010 23:07:57 +0000</lastBuildDate><atom:link href="/tags/%D0%B1%D1%83%D0%BA%D1%80%D0%B8%D0%B4%D0%B5%D1%80%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jan 2010 23:07:57 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%D0%B1%D1%83%D0%BA%D1%80%D0%B8%D0%B4%D0%B5%D1%80%D1%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PocketBook и Netronix образуют совместное предприятие</title>
-      <link>/posts/2010-01-08-1/</link>
+      <link>//localhost:1313/posts/2010-01-08-1/</link>
       <pubDate>Fri, 08 Jan 2010 23:07:57 +0000</pubDate>
-      
-      <guid>/posts/2010-01-08-1/</guid>
-      <description>http://www.mobileread.com/forums/showthread.php?t=68781
-Очень сильный ход. Для российского рынка, в частности.
-Posted via email from v_x Comments:  ekniga - Jan 6, 2010http://blog.rgub.ru/ekniga/2010/01/08/pocketbook-v-karman-uzhe-ne-lezet-uzh-bolno-on-global/</description>
+      <guid>//localhost:1313/posts/2010-01-08-1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.mobileread.com/forums/showthread.php?t=68781&#34;&gt;http://www.mobileread.com/forums/showthread.php?t=68781&lt;/a&gt;&lt;br&gt;&#xA;Очень сильный ход. Для российского рынка, в частности.&lt;/p&gt;&#xA;&lt;h2 id=&#34;posted-via-emailhttpposterouscom-from-v_xhttpv-xposterouscompocketbook-netronix&#34;&gt;&lt;a href=&#34;http://posterous.com&#34;&gt;Posted via email&lt;/a&gt; from &lt;a href=&#34;http://v-x.posterous.com/pocketbook-netronix&#34;&gt;v_x&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;comments&#34;&gt;Comments:&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading&#34;&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://ekniga.livejournal.com&#34; title=&#34;alexpuru@gmail.com&#34;&gt;ekniga&lt;/a&gt; - &lt;!-- raw HTML omitted --&gt;Jan 6, 2010&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://blog.rgub.ru/ekniga/2010/01/08/pocketbook-v-karman-uzhe-ne-lezet-uzh-bolno-on-global/&#34;&gt;http://blog.rgub.ru/ekniga/2010/01/08/pocketbook-v-karman-uzhe-ne-lezet-uzh-bolno-on-global/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
-    
   </channel>
 </rss>

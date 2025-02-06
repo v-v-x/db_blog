@@ -1,159 +1,117 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kids on Новости электронного книгоиздания</title>
-    <link>/tags/kids/</link>
-    <description>Recent content in kids on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Kids on Новости электронного книгоиздания</title>
+    <link>//localhost:1313/tags/kids/</link>
+    <description>Recent content in Kids on Новости электронного книгоиздания</description>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 04 Jun 2015 12:33:29 +0000</lastBuildDate><atom:link href="/tags/kids/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jun 2015 12:33:29 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/kids/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Подписка на книги для детей</title>
-      <link>/posts/2015-06-04-a/</link>
+      <link>//localhost:1313/posts/2015-06-04-a/</link>
       <pubDate>Thu, 04 Jun 2015 12:33:29 +0000</pubDate>
-      
-      <guid>/posts/2015-06-04-a/</guid>
-      <description>Epic&amp;rsquo;s 18-month-old ebook subscription service may have a kid-friendly focus and a catalog of 10,000 titles (including titles from HarperCollins, Macmillan, and Scholastic), but it&amp;rsquo;s been missing something: support for Android. That changed this week. I was too busy with BEA 2015 to report on it, but Epic released an Android app on Thursday. [&amp;hellip;]
- Source: Epic Brings Its Kids&#39; eBook Subscription Service to Android | Ink, Bits, &amp;amp; Pixels</description>
+      <guid>//localhost:1313/posts/2015-06-04-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Epic&amp;rsquo;s 18-month-old ebook subscription service may have a kid-friendly focus and a catalog of 10,000 titles (including titles from HarperCollins, Macmillan, and Scholastic), but it&amp;rsquo;s been missing something: support for Android. That changed this week. I was too busy with BEA 2015 to report on it, but Epic released an Android app on Thursday. [&amp;hellip;]&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://the-digital-reader.com/2015/05/30/epic-brings-its-kids-ebook-subscription-service-to-android/&#34;&gt;Epic Brings Its Kids&amp;rsquo; eBook Subscription Service to Android | Ink, Bits, &amp;amp; Pixels&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Селф-паблишинг для детей</title>
-      <link>/posts/2014-02-13-c/</link>
+      <link>//localhost:1313/posts/2014-02-13-c/</link>
       <pubDate>Thu, 13 Feb 2014 21:11:42 +0000</pubDate>
-      
-      <guid>/posts/2014-02-13-c/</guid>
-      <description>Платформа для независимой публикации книг Lulu.com начинает выпускать наборы для детей — коробки с бумагой, фломастерами и инструкциями по созданию книги. Нарисованную книгу можно отослать (на бумаге или в отсканированном виде) в Lulu, и получить отпечатанное цветное издание. Всё включено в цену наборов (40 баксов за большую книгу, 30 — за книгу форматом поменьше или комикс).
-Подробности на отдельном сайте lulujr.com.</description>
+      <guid>//localhost:1313/posts/2014-02-13-c/</guid>
+      <description>&lt;p&gt;Платформа для независимой публикации книг Lulu.com начинает выпускать наборы для детей — коробки с бумагой, фломастерами и инструкциями по созданию книги. Нарисованную книгу можно отослать (на бумаге или в отсканированном виде) в Lulu, и получить отпечатанное цветное издание. Всё включено в цену наборов (40 баксов за большую книгу, 30 — за книгу форматом поменьше или комикс).&lt;/p&gt;&#xA;&lt;p&gt;Подробности на отдельном сайте &lt;a href=&#34;http://www.lulujr.com/&#34;&gt;lulujr.com&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Nielsen и PlayCollective о тенденциях детского электронного книгоиздания</title>
-      <link>/posts/2014-01-13-a/</link>
+      <link>//localhost:1313/posts/2014-01-13-a/</link>
       <pubDate>Mon, 13 Jan 2014 17:49:09 +0000</pubDate>
-      
-      <guid>/posts/2014-01-13-a/</guid>
-      <description>Kids Books Online and Off: Changing Buying Behaviors in the Digital Age (Nielsen - Jo Henry - Jonathan Nowell)  from Publishers Launch Conferences 
-Долгосрочные тенденции книгоиздания в США не слишком радостные — за 10 лет максимум общего объёма выпуска книг был в 2008 году (кстати, как и в России). С тех пор он только падал. Это касается и книг в целом, и fiction, и non-fiction (в меньшей степени).</description>
+      <guid>//localhost:1313/posts/2014-01-13-a/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/GBbEQDEvvhVPAn&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/PublishersLaunch/am0910-nielsenjo-henryjonathannowell&#34; title=&#34;Kids Books Online and Off: Changing Buying Behaviors in the Digital Age (Nielsen - Jo Henry - Jonathan Nowell)&#34; target=&#34;_blank&#34;&gt;Kids Books Online and Off: Changing Buying Behaviors in the Digital Age (Nielsen - Jo Henry - Jonathan Nowell)&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/PublishersLaunch&#34; target=&#34;_blank&#34;&gt;Publishers Launch Conferences&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;&#xA;&#xA;Долгосрочные тенденции книгоиздания в США не слишком радостные — за 10 лет максимум общего объёма выпуска книг был в 2008 году (кстати, как и в России). С тех пор он только падал. Это касается и книг в целом, и fiction, и non-fiction (в меньшей степени). А вот детские книги чувствуют себя лучше: их выпуск в США вернулся к уровню 2007 года и выше, чем 10 лет назад. Рынок электронных книг рос, как известно, по другому — резко до 2012 года и очень медленно в 2013 году. И теперь составляет 22% с тенденцией к дальнейшему эволюционному росту. При этом в более узких (еще не насыщенных) нишах электронных книг рост будет продолжаться выше рынка. Особенно в нише children&#39;s non-fiction. Он будет поддерживаться как за счет уменьшения доли детей, который предпочитают читать только на бумаге, так и за счет того, что дети всё меньше читают ради развлечения, и всё больше — для пользы. &#xA;&#xA;Развлечений им и так хватает. Но пока читают. Согласно свежему исследованию &lt;a href=&#34;http://www.digitalbookworld.com/2014/new-digital-book-world-report-on-kids-and-e-reading/&#34;&gt;Kids + E-Reading Trends Study&lt;/a&gt; читают электронные книги 2/3 американских детей в возрасте до 13 лет. При этом 92% читателей электронных книг читают их по меньшей мере раз в недели, а половина — ежедневно.&#xA;&#xA;&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/2PHkjADNmiQHiT&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/PublishersLaunch/from-page-flip-to-screen-swipe-10-keys-to-ebooks-and-learning-digital-book-world-and-playcollective&#34; title=&#34;From Page Flip to Screen Swipe: 10 Keys to Ebooks and Learning (Digital Book World and PlayCollective)&#34; target=&#34;_blank&#34;&gt;From Page Flip to Screen Swipe: 10 Keys to Ebooks and Learning (Digital Book World and PlayCollective)&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/PublishersLaunch&#34; target=&#34;_blank&#34;&gt;Publishers Launch Conferences&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The ABCs of Kids and E-books</title>
-      <link>/posts/2013-02-01-a/</link>
+      <link>//localhost:1313/posts/2013-02-01-a/</link>
       <pubDate>Fri, 01 Feb 2013 17:39:30 +0000</pubDate>
-      
-      <guid>/posts/2013-02-01-a/</guid>
-      <description>Еще одно исследование детского чтения электронных книг. На этот раз - от Digital Books World. И за деньги. Если купите, дадите почитать? ;)
-http://store.digitalbookworld.com/abcs-of-kids-and-ebooks?lid=JGdbFbs013113-ABCsReport</description>
+      <guid>//localhost:1313/posts/2013-02-01-a/</guid>
+      <description>&lt;p&gt;Еще одно исследование детского чтения электронных книг. На этот раз - от Digital Books World. И за деньги. Если купите, дадите почитать? ;)&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://store.digitalbookworld.com/abcs-of-kids-and-ebooks?lid=JGdbFbs013113-ABCsReport&#34;&gt;http://store.digitalbookworld.com/abcs-of-kids-and-ebooks?lid=JGdbFbs013113-ABCsReport&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Что и как читают дети</title>
-      <link>/posts/2013-01-16-a/</link>
+      <link>//localhost:1313/posts/2013-01-16-a/</link>
       <pubDate>Wed, 16 Jan 2013 23:55:21 +0000</pubDate>
-      
-      <guid>/posts/2013-01-16-a/</guid>
-      <description>Американские, конечно. Чтением российских детей и отношением к чтению их родителей всерьёз, кажется, никто особенно не интересуется (снять рекламный ролик, сорри, с Пушкиным и Гоголем в роли спортсменов значительно прикольнее, я всё понимаю). А вот издательство Scholastic который год опрашивает детей и их родителей на тему чтения, особенно — электронных книг. Данные последнего (предыдущий был в 2010 году, с ним и идёт сравнение в тексте) опроса опубликованы.
-В выборку попали 1074 ребёнка и подростка (и их родители) в возрасте 6–17 лет.</description>
+      <guid>//localhost:1313/posts/2013-01-16-a/</guid>
+      <description>&lt;p&gt;Американские, конечно. Чтением российских детей и отношением к чтению их родителей всерьёз, кажется, никто особенно не интересуется (снять рекламный ролик, сорри, с Пушкиным и Гоголем в роли спортсменов значительно прикольнее, я всё понимаю). А вот издательство Scholastic который год опрашивает детей и их родителей на тему чтения, особенно — электронных книг. Данные последнего (предыдущий был в 2010 году, с ним и идёт сравнение в тексте) опроса &lt;a href=&#34;http://mediaroom.scholastic.com/files/kfrr2013-noappendix.pdf&#34;&gt;опубликованы&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;В выборку попали 1074 ребёнка и подростка (и их родители) в возрасте 6–17 лет. Вкратце результаты таковы: Дети стали больше читать электронных книг — 46% (ср. 25% в 2010 г.). Вокруг этой цифры, замечу, в американских околоиздательских СМИ случилась настоящая история со стаканом: кто-то выдаёт заголовком эти самые проценты, а кто-то — «54% детей не читают электронные книги»! При этом читают электронные книги 41% родителей (14% в 2010 г.).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ярмарка non/fiction #14. Детские некниги</title>
-      <link>/posts/2012-12-03-c/</link>
+      <link>//localhost:1313/posts/2012-12-03-c/</link>
       <pubDate>Mon, 03 Dec 2012 11:43:17 +0000</pubDate>
-      
-      <guid>/posts/2012-12-03-c/</guid>
-      <description>Судя по тому, что круглым столом про детские некниги — электронные книги, книги-программы и пр. — издатели по преимуществу манкировали, вся эта электронная ерунда, вопреки здравому бизнес-смыслу, пока остаётся на периферии издательской индустрии. Хотя казалось бы — дайте ребёнку в руки планшет, и сами увидите, что из этого получится. И только от вас зависит, что там в планшете будет — книги и/или «Зомби против растений».
-Понятно, что детские издатели даже ещё в большей степени, чем издатели прочих книг, привязаны к бумажной книге — качество иллюстраций, все полиграфические дела с бумагой и пр.</description>
+      <guid>//localhost:1313/posts/2012-12-03-c/</guid>
+      <description>&lt;p&gt;Судя по тому, что круглым столом про детские некниги — электронные книги, книги-программы и пр. — издатели по преимуществу манкировали, вся эта электронная ерунда, вопреки здравому бизнес-смыслу, пока остаётся на периферии издательской индустрии. Хотя казалось бы — дайте ребёнку в руки планшет, и сами увидите, что из этого получится. И только от вас зависит, что там в планшете будет — книги и/или «Зомби против растений».&lt;/p&gt;&#xA;&lt;p&gt;Понятно, что детские издатели даже ещё в большей степени, чем издатели прочих книг, привязаны к бумажной книге — качество иллюстраций, все полиграфические дела с бумагой и пр. им, конечно, важнее, чем издателям массолита. Так что пока издатели с разработчиками существуют по отдельности. Прямо таки «два мира — два детства». И это плохо и для тех, и для других.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>uTales - библиотека детских интерактивных книг по подписке</title>
-      <link>/posts/2011-11-02-5/</link>
+      <link>//localhost:1313/posts/2011-11-02-5/</link>
       <pubDate>Wed, 02 Nov 2011 19:46:44 +0000</pubDate>
-      
-      <guid>/posts/2011-11-02-5/</guid>
-      <description>via mediabistro.com</description>
+      <guid>//localhost:1313/posts/2011-11-02-5/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.mediabistro.com/ebooknewser/new-ebook-app-publisher-launched-utales_b17335&#34;&gt;mediabistro.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>От рождения до 8-ми лет: смартфон-поколение американцев</title>
-      <link>/posts/2011-10-28-3/</link>
+      <link>//localhost:1313/posts/2011-10-28-3/</link>
       <pubDate>Fri, 28 Oct 2011 11:52:56 +0000</pubDate>
-      
-      <guid>/posts/2011-10-28-3/</guid>
-      <description>TOTAL DIGITAL MEDIA USE. Today a substantial proportion of the time that young children spend with screen media is spent with digital media — including computers, handheld and console video game players, and other interactive mobile devices such as cell phones, video iPods, and iPad-style tablet devices. Among 0- to 8-year-olds as a whole, a quarter (27%) of all screen time is spent with these digital devices.
-MOBILE MEDIA. Half (52%) of all children now have access to one of the newer mobile devices at home: either a smartphone (41%), a video iPod (21%), or an iPad or other tablet device (8%).</description>
+      <guid>//localhost:1313/posts/2011-10-28-3/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;TOTAL DIGITAL MEDIA USE.&lt;/strong&gt; Today a substantial proportion of the time that young children spend with screen media is spent with digital media — including computers, handheld and console video game players, and other interactive mobile devices such as cell phones, video iPods, and iPad-style tablet devices. Among 0- to 8-year-olds as a whole, a quarter (27%) of all screen time is spent with these digital devices.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;MOBILE MEDIA.&lt;/strong&gt; Half (52%) of all children now have access to one of the newer mobile devices at home: either a smartphone (41%), a video iPod (21%), or an iPad or other tablet device (8%).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Собственно - к предыдущему пассажу Альперовича</title>
-      <link>/posts/2011-02-09-a/</link>
+      <link>//localhost:1313/posts/2011-02-09-a/</link>
       <pubDate>Wed, 09 Feb 2011 17:23:41 +0000</pubDate>
-      
-      <guid>/posts/2011-02-09-a/</guid>
-      <description>At HarperCollins, for example, e-books made up 25 percent of all young-adult sales in January, up from about 6 percent a year before — a boom in sales that quickly got the attention of publishers there.
-“Adult fiction is hot, hot, hot, in e-books,” said Susan Katz, the president and publisher of HarperCollins Children’s Books. “And now it seems that teen fiction is getting to be hot, hot, hot.”</description>
+      <guid>//localhost:1313/posts/2011-02-09-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;At HarperCollins, for example, e-books made up 25 percent of all young-adult sales in January, up from about 6 percent a year before — a boom in sales that quickly got the attention of publishers there.&lt;/p&gt;&#xA;&lt;p&gt;“Adult fiction is hot, hot, hot, in e-books,” said Susan Katz, the president and publisher of HarperCollins Children’s Books. “And now it seems that teen fiction is getting to be hot, hot, hot.”&lt;/p&gt;&#xA;&lt;p&gt;In their infancy e-readers were adopted by an older generation that valued the devices for their convenience, portability and, in many cases, simply for their ability to enlarge text to a more legible size. Appetite for e-book editions of best sellers and adult genre fiction — romance, mysteries, thrillers — has seemed almost bottomless.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Два мира - две детские книги</title>
-      <link>/posts/2011-02-09-b/</link>
+      <link>//localhost:1313/posts/2011-02-09-b/</link>
       <pubDate>Wed, 09 Feb 2011 17:14:05 +0000</pubDate>
-      
-      <guid>/posts/2011-02-09-b/</guid>
-      <description>даже если убрать с доски вопросы доступности электронных книг и вопросы цены, я не вижу, чтобы электронные носители обладали сейчас потребительскими свойствами, сопоставимыми с обычной книгой. Ведь в книге очень важны ее тактильные свойства, ее «бумажность». Плюс нельзя забывать о такой важной вещи для ребенка, как момент общения с родителями и сверстниками через книгу. Ситуация, когда ребенок приходит с бумажной книгой к родителям и просит почитать ему, невозможна с электронной книгой.</description>
+      <guid>//localhost:1313/posts/2011-02-09-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;даже если убрать с доски вопросы доступности электронных книг и вопросы цены, я не вижу, чтобы электронные носители обладали сейчас потребительскими свойствами, сопоставимыми с обычной книгой. Ведь в книге очень важны ее тактильные свойства, ее «бумажность». Плюс нельзя забывать о такой важной вещи для ребенка, как момент общения с родителями и сверстниками через книгу. Ситуация, когда ребенок приходит с бумажной книгой к родителям и просит почитать ему, невозможна с электронной книгой.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Читайте с детьми на компе</title>
-      <link>/posts/2010-07-19-39/</link>
+      <link>//localhost:1313/posts/2010-07-19-39/</link>
       <pubDate>Mon, 19 Jul 2010 18:06:09 +0000</pubDate>
-      
-      <guid>/posts/2010-07-19-39/</guid>
-      <description>via astorybeforebed.com
-Классный проект. Можно записать видео для ребёнка или с ребёнком - так читать веселее. За деньги, ок.</description>
+      <guid>//localhost:1313/posts/2010-07-19-39/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.astorybeforebed.com/recordings/10127f791976d95c&#34;&gt;astorybeforebed.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Классный проект. Можно записать видео для ребёнка или с ребёнком - так читать веселее. За деньги, ок.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>One Laptop Per Child Project Partners With Marvell to Produce a $100 Tablet - Bits Blog</title>
-      <link>/posts/2010-05-27-135/</link>
+      <link>//localhost:1313/posts/2010-05-27-135/</link>
       <pubDate>Thu, 27 May 2010 21:24:25 +0000</pubDate>
-      
-      <guid>/posts/2010-05-27-135/</guid>
-      <description>via bits.blogs.nytimes.com</description>
+      <guid>//localhost:1313/posts/2010-05-27-135/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://bits.blogs.nytimes.com/2010/05/27/olpc-partners-with-marvell-to-launch-100-tablet/?src=twt&amp;amp;twt=nytimesbits&#34;&gt;bits.blogs.nytimes.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ePub Bud - бесплатные детские книжки в epub для iPad</title>
-      <link>/posts/2010-04-16-64/</link>
+      <link>//localhost:1313/posts/2010-04-16-64/</link>
       <pubDate>Fri, 16 Apr 2010 19:55:18 +0000</pubDate>
-      
-      <guid>/posts/2010-04-16-64/</guid>
-      <description>epubbud.com
-опять, правда, кажется, только английские</description>
+      <guid>//localhost:1313/posts/2010-04-16-64/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.epubbud.com/&#34;&gt;epubbud.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;опять, правда, кажется, только английские&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Бесплатная! Библиотека! Детских! Книг!</title>
-      <link>/posts/2010-04-06-29/</link>
+      <link>//localhost:1313/posts/2010-04-06-29/</link>
       <pubDate>Tue, 06 Apr 2010 21:18:57 +0000</pubDate>
-      
-      <guid>/posts/2010-04-06-29/</guid>
-      <description>via en.childrenslibrary.org
-Ни одной на русском языке не нашёл.</description>
+      <guid>//localhost:1313/posts/2010-04-06-29/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://en.childrenslibrary.org/&#34;&gt;en.childrenslibrary.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ни одной на русском языке не нашёл.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Издатели детских книг будут первыми, кто опомнится</title>
-      <link>/posts/2010-04-06-83/</link>
+      <link>//localhost:1313/posts/2010-04-06-83/</link>
       <pubDate>Tue, 06 Apr 2010 18:52:59 +0000</pubDate>
-      
-      <guid>/posts/2010-04-06-83/</guid>
-      <description>Children&amp;rsquo;s publishing is at the cutting edge of the digital revolution taking place in book publishing. Where once publishers could happily ignore technology and stick to traditional formats, now a digital platform is not just a necessity but an expectation among readers raised in classrooms where smartboards are replacing blackboards and computers being used instead of rough books.
- via londonbookfair.co.uk
-Потому что дети уже живут с компьютерами и интернетом.</description>
+      <guid>//localhost:1313/posts/2010-04-06-83/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Children&amp;rsquo;s publishing is at the cutting edge of the digital revolution taking place in book publishing. Where once publishers could happily ignore technology and stick to traditional formats, now a digital platform is not just a necessity but an expectation among readers raised in classrooms where smartboards are replacing blackboards and computers being used instead of rough books.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.londonbookfair.co.uk/page.cfm/action=Archive/ArchiveID=13/EntryID=35&#34;&gt;londonbookfair.co.uk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Потому что дети уже живут с компьютерами и интернетом.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

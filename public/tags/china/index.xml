@@ -2,124 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>China on Новости электронного книгоиздания</title>
-    <link>/tags/china/</link>
+    <link>//localhost:1313/tags/china/</link>
     <description>Recent content in China on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Jan 2019 08:47:09 +0000</lastBuildDate><atom:link href="/tags/china/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Jan 2019 08:47:09 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/china/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Китай. Краткие итоги 2018</title>
-      <link>/posts/2019-01-14-a/</link>
+      <link>//localhost:1313/posts/2019-01-14-a/</link>
       <pubDate>Mon, 14 Jan 2019 08:47:09 +0000</pubDate>
-      
-      <guid>/posts/2019-01-14-a/</guid>
-      <description>Как обычно, в начале года появляется годовая статистика. И вот Китай. Общий оборот индустрии 54 млрд USD (+5.9%), из них розница — 42% (и рост +11.3%). Но самое интересное — 225 тысяч книжных магазинов и киосков (+4.3% YtoY). Откуда бы столько книжных магазинов? Государственные субсидии, оказывается. В одном только Пекине 151 книжный магазин получили 50 млн юаней, то есть в среднем по 50 тыс. долларов на магазин. Пятьдесят тысяч долларов. На магазин.</description>
+      <guid>//localhost:1313/posts/2019-01-14-a/</guid>
+      <description>&lt;p&gt;Как обычно, в начале года появляется годовая статистика. И вот Китай. Общий оборот индустрии 54 млрд USD (+5.9%), из них розница — 42% (и рост +11.3%). Но самое интересное — 225 тысяч книжных магазинов и киосков (+4.3% YtoY). Откуда бы столько книжных магазинов? Государственные субсидии, оказывается. В одном только Пекине 151 книжный магазин получили 50 млн юаней, то есть в среднем по 50 тыс. долларов на магазин. Пятьдесят тысяч долларов. На магазин. Вот даже комментировать нечего. &lt;a href=&#34;http://www.xinhuanet.com/english/2019-01/09/c_137731040.htm&#34;&gt;http://www.xinhuanet.com/english/2019-01/09/c_137731040.htm&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Типографский дисбаланс</title>
-      <link>/posts/2018-12-24-b/</link>
+      <link>//localhost:1313/posts/2018-12-24-b/</link>
       <pubDate>Mon, 24 Dec 2018 17:08:32 +0000</pubDate>
-      
-      <guid>/posts/2018-12-24-b/</guid>
-      <description>Жаль, не попалась мне эта история до написания всяких обзор книжных индустриальных событий этого года. История крайне примечательная: в США типографии, сократившие свои мощности, закупки бумагу и рабочую силу, не справляются с печатью нескольких последних бестселлеров этого года. В частности, книгу Мишель Обамы продали уже 3 800 000 экз. В результате сдвигаются допечатки и тиражи других книг. В выигрыше, конечно, останутся независимые книжные, у которых и так рост продаж в этом году на 5%.</description>
+      <guid>//localhost:1313/posts/2018-12-24-b/</guid>
+      <description>&lt;p&gt;Жаль, не попалась мне &lt;a href=&#34;https://www.nytimes.com/2018/12/23/books/paper-printers-holiday-sales-books-publishers.html&#34;&gt;эта история&lt;/a&gt; до написания всяких обзор книжных индустриальных событий этого года. История крайне примечательная: &lt;strong&gt;в США типографии&lt;/strong&gt;, сократившие свои мощности, закупки бумагу и рабочую силу, &lt;strong&gt;не справляются с печатью нескольких последних бестселлеров этого года&lt;/strong&gt;. В частности, книгу Мишель Обамы продали уже 3 800 000 экз. В результате сдвигаются допечатки и тиражи других книг. В выигрыше, конечно, останутся независимые книжные, у которых и так рост продаж в этом году на 5%. Вроде бы надо радоваться за американских издателей и читателей. Но что-то тут не так. Не бывает такого эффекта без существенного внутреннего перекоса. Это ведь те самые долгожданные бестселлеры, которых так ждали большие издатели ещё в прошлом году, и которые тогда не пришли. И вот бестселлеры тут, спрос есть, но типографии не могут. Как же так, собственно? А кто нам рассказывал несколько лет, что у них «ренессанс бумаги»? Какой может быть «ренессанс бумаги», если одни крупные типографии закрываются, а другие сливаются, чтобы не разориться? Не исключено, конечно, что опять подгадил интернет, и типографии тяжко страдают не от спада книжного производства, а от постепенно исчезающей печати газет и журналов, и такая история с книгами — просто коллатеральный ущерб. Может быть. Но, в таком случае, получается, что на одних книгах типографиям не прожить и такая ерунда с тиражами будет продолжаться. Очень интересно. Вон он какой, «ренессанс бумаги».&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Китайская литература стоит больше $12 млрд</title>
-      <link>/posts/2017-11-09-a/</link>
+      <link>//localhost:1313/posts/2017-11-09-a/</link>
       <pubDate>Thu, 09 Nov 2017 12:08:29 +0000</pubDate>
-      
-      <guid>/posts/2017-11-09-a/</guid>
-      <description>Собственно, не вся литература, а компания China Literature, которая вчера вышла на IPO на Гонконгской бирже. За день акции подорожали в два раза. Общая капитализация компании составила чуть больше 12 млрд USD. China Literature на 68% принадлежит одному из трёх главных IT-гигантов Китая, компании Tencent. В свою очередь, компания управляет двумя сервисами, связанными с электронными книгами — QQ Reading и Quidian. Вместе они занимают около 1/4 этого рынка. Результаты IPO удивительные.</description>
+      <guid>//localhost:1313/posts/2017-11-09-a/</guid>
+      <description>&lt;p&gt;Собственно, не вся литература, а компания China Literature, которая &lt;a href=&#34;https://qz.com/1123570/china-literature-ipo-tencents-e-books-unit-one-of-asias-largest-tech-offerings/?utm_source=Publishers%20Weekly&amp;amp;utm_campaign=f2fc8d63c5-EMAIL_CAMPAIGN_2017_11_08&amp;amp;utm_medium=email&amp;amp;utm_term=0_0bb2959cbb-f2fc8d63c5-304500337&#34;&gt;вчера вышла на IPO на Гонконгской бирже&lt;/a&gt;. За день акции подорожали в два раза. Общая капитализация компании составила чуть больше 12 млрд USD. China Literature на 68% принадлежит одному из трёх главных IT-гигантов Китая, компании Tencent.  В свою очередь, компания управляет двумя сервисами, связанными с электронными книгами — QQ Reading и Quidian. Вместе они занимают около 1/4 этого рынка. Результаты IPO удивительные. Вся книжная индустрия Китая в 2014–2015 гг.  была около €10,5 млрд. Но понятно, почему так оценили — дикий рост этого рынка и авторитет Tencent. Для сравнения: весь книжный рынок России — примерно €1 млрд.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Как это делается в Китае</title>
-      <link>/posts/2016-09-29-a/</link>
+      <link>//localhost:1313/posts/2016-09-29-a/</link>
       <pubDate>Thu, 29 Sep 2016 09:29:12 +0000</pubDate>
-      
-      <guid>/posts/2016-09-29-a/</guid>
-      <description>Франкфуртская ярмарка выпустила обновление обзора книжного рынка Китая.
-Вкратце — в Китае всё хорошо. Оборот розничной книжной торговли ¥62,4 млрд ($9,35 млрд). Рост на 12,8% за последний год. Рынок цифрового контента, правда, в 5 раз больше — ¥339 млрд ($51 млрд). На продажу электронных книг (точнее, на «онлайновую литературу» — китайская специфика) в 2015 году пришлось ¥7 млрд (чуть больше $1 млрд) с ростом на 25% по сравнению с прошлым годом.</description>
+      <guid>//localhost:1313/posts/2016-09-29-a/</guid>
+      <description>&lt;p&gt;Франкфуртская ярмарка выпустила обновление &lt;a href=&#34;http://www.buchmesse.de/images/fbm/dokumente-ua-pdfs/2016/white_paper_chinese_book_market_report_update_2016_new_58110.pdf&#34;&gt;обзора книжного рынка Китая&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Вкратце — в Китае всё хорошо. Оборот розничной книжной торговли ¥62,4 млрд ($9,35 млрд). Рост на 12,8% за последний год. Рынок цифрового контента, правда, в 5 раз больше — ¥339 млрд ($51 млрд). На продажу электронных книг (точнее, на «онлайновую литературу» — китайская специфика) в 2015 году пришлось ¥7 млрд (чуть больше $1 млрд) с ростом на 25% по сравнению с прошлым годом. Совсем недурно.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Амазонка принесёт свои «Свечки» в Китай</title>
-      <link>/posts/2011-10-28-1/</link>
+      <link>//localhost:1313/posts/2011-10-28-1/</link>
       <pubDate>Fri, 28 Oct 2011 13:35:42 +0000</pubDate>
-      
-      <guid>/posts/2011-10-28-1/</guid>
-      <description>Today a report notes that the company is in talks with the Chinese government to retail its Kindle products, including e-readers in the country.
- via paidcontent.org
-Китай — уже второй по величине рынок для «Амазонки» после США. А говорят, там с потреблением всё плохо. Видимо, всё не так уж плохо. Во всяком случае, лучше, чем в России, куда «Амазонка», видимо, пока и не собирается.</description>
+      <guid>//localhost:1313/posts/2011-10-28-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Today a report notes that the company is in talks with the Chinese government to retail its Kindle products, including e-readers in the country.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://paidcontent.org/article/419-amazons-china-story-continues-planning-for-kindle-kindle-fire-release/&#34;&gt;paidcontent.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Китай — уже второй по величине рынок для «Амазонки» после США. А говорят, там с потреблением всё плохо. Видимо, всё не так уж плохо. Во всяком случае, лучше, чем в России, куда «Амазонка», видимо, пока и не собирается.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Китайский главный поисковик Baidu купил производителя букридеров. Яндекс! Ау!</title>
-      <link>/posts/2011-08-05-3/</link>
+      <link>//localhost:1313/posts/2011-08-05-3/</link>
       <pubDate>Fri, 05 Aug 2011 10:05:45 +0000</pubDate>
-      
-      <guid>/posts/2011-08-05-3/</guid>
-      <description>Baidu, China’s home-grown version of Google, now own about 40% of Fan Shu, maker of the Yambook ebook reader.
- via the-digital-reader.com
-После скандала с «пиратством» на книжном сервисе Baidu поисковик договорился со крупными китайскими издателями. А теперь вот и поисковик купил. Логично.</description>
+      <guid>//localhost:1313/posts/2011-08-05-3/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Baidu, China’s home-grown version of Google, now own about 40% of Fan Shu, maker of the &lt;a href=&#34;http://translate.google.com/translate?u=http%3A%2F%2Fyambook.fanshu.com%2F&amp;amp;hl=en&amp;amp;langpair=auto%7Cen&amp;amp;tbb=1&amp;amp;ie=UTF-8&#34;&gt;Yambook ebook reader&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.the-digital-reader.com/2011/08/04/chinese-search-giant-baidu-just-bought-an-e-reader-maker/&#34;&gt;the-digital-reader.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;После скандала с «пиратством» на книжном сервисе Baidu поисковик договорился со крупными китайскими издателями. А теперь вот и поисковик купил. Логично.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Baidu пошла по стопам Yandex и Google: Music</title>
-      <link>/posts/2011-07-19-1/</link>
+      <link>//localhost:1313/posts/2011-07-19-1/</link>
       <pubDate>Tue, 19 Jul 2011 12:30:42 +0000</pubDate>
-      
-      <guid>/posts/2011-07-19-1/</guid>
-      <description>Соответствующая договоренность была достигнута между &amp;ldquo;Байду&amp;rdquo; и компанией &amp;ldquo;Уан-стоп Чайна&amp;rdquo;, которую совместно учредила тройка звукозаписывающих лейблов-гигантов, таких как &amp;ldquo;Юниверсал мьюзик&amp;rdquo;, &amp;ldquo;Уорнер мьюзик&amp;rdquo; и &amp;ldquo;Сони мьюзик&amp;rdquo;.
- via itar-tass.com
-«Байда» большая. Думаю, договориться с тройкой им было несложно.
-В таком виде, тем временем, музыка становится просто ситуативным развлечением. Необременительным и бесплатным. Типа прогулки в парке.</description>
+      <guid>//localhost:1313/posts/2011-07-19-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Соответствующая договоренность была достигнута между &amp;ldquo;Байду&amp;rdquo; и компанией &amp;ldquo;Уан-стоп Чайна&amp;rdquo;, которую совместно учредила тройка звукозаписывающих лейблов-гигантов, таких как &amp;ldquo;Юниверсал мьюзик&amp;rdquo;, &amp;ldquo;Уорнер мьюзик&amp;rdquo; и &amp;ldquo;Сони мьюзик&amp;rdquo;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.itar-tass.com/c11/188552.html&#34;&gt;itar-tass.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;«Байда» большая. Думаю, договориться с тройкой им было несложно.&lt;/p&gt;&#xA;&lt;p&gt;В таком виде, тем временем, музыка становится просто ситуативным развлечением. Необременительным и бесплатным. Типа прогулки в парке.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Электронный бум в Китае</title>
-      <link>/posts/2011-04-24-a/</link>
+      <link>//localhost:1313/posts/2011-04-24-a/</link>
       <pubDate>Sun, 24 Apr 2011 21:00:51 +0000</pubDate>
-      
-      <guid>/posts/2011-04-24-a/</guid>
-      <description>The survey, conducted by the Chinese Academy of Press and Publication (CAPP), covers more than 19,000 people from 51 cities in 29 Chinese provincial regions.
-It says that Chinese people between the ages of 18 and 70 read 613 million electronic books in 2010.
-Among them, 23 percent read e-books via mobile phones, up 8 percentage points from 2009. Another 3.9 percent read books on e-book readers and over 18 percent read books on the Internet, it said.</description>
+      <guid>//localhost:1313/posts/2011-04-24-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The survey, conducted by the Chinese Academy of Press and Publication (CAPP), covers more than 19,000 people from 51 cities in 29 Chinese provincial regions.&lt;/p&gt;&#xA;&lt;p&gt;It says that Chinese people between the ages of 18 and 70 read 613 million electronic books in 2010.&lt;/p&gt;&#xA;&lt;p&gt;Among them, 23 percent read e-books via mobile phones, up 8 percentage points from 2009. Another 3.9 percent read books on e-book readers and over 18 percent read books on the Internet, it said.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Китайские писатели обвиняют Baidu в нарушении авторских прав</title>
-      <link>/posts/2011-03-31-1/</link>
+      <link>//localhost:1313/posts/2011-03-31-1/</link>
       <pubDate>Thu, 31 Mar 2011 15:25:05 +0000</pubDate>
-      
-      <guid>/posts/2011-03-31-1/</guid>
-      <description>Сервис Google Books неоднократно становился головной болью Google из-за проблем с авторами произведений, протестовавших против бесплатного выкладывания оцифрованных копий их книг. Сейчас с такой же проблемой столкнулся китайский поисковый сервис Baidu. Более сорока авторов обвинили компанию в нарушении авторских прав из-за предоставления возможности бесплатно скачать произведения через онлайн-библиотеку Baidu Wenku. В своем открытом письме авторы назвали Baidu насквозь коррумпированной воровской компанией.
-Baidu Wenku был запущен в 2009 году, На сервисе можно читать, скачивать и делиться книгами, а также приобретать их по более низкой стоимости, чем в магазинах.</description>
+      <guid>//localhost:1313/posts/2011-03-31-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Сервис Google Books неоднократно становился головной болью Google из-за проблем с авторами произведений, протестовавших против бесплатного выкладывания оцифрованных копий их книг. Сейчас с такой же проблемой столкнулся китайский поисковый сервис Baidu. Более сорока авторов обвинили компанию в нарушении авторских прав из-за предоставления возможности бесплатно скачать произведения через онлайн-библиотеку Baidu Wenku. В своем открытом письме авторы назвали Baidu насквозь коррумпированной воровской компанией.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://news.techlabs.by/img/news/229249/2_2.jpg&#34; alt=&#34;Пиратство книг&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Baidu Wenku был запущен в 2009 году, На сервисе можно читать, скачивать и делиться книгами, а также приобретать их по более низкой стоимости, чем в магазинах. Проблема в том, что в отличие от Google, Baidu лишь создала место для загрузки контента самими пользователями, то есть они самостоятельно выкладывают произведения. Согласно данным Baidu, набранные 10 миллионов файлов и книг составляют 70% файлообменного рынка в Китае. Нельзя сказать, что Baidu сидит сложа руки – удаляются десятки тысяч загрузок, но этого явно недостаточно для озабоченных авторов.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>China Mobile и букридеры</title>
-      <link>/posts/2009-10-06-37/</link>
+      <link>//localhost:1313/posts/2009-10-06-37/</link>
       <pubDate>Tue, 06 Oct 2009 16:00:57 +0000</pubDate>
-      
-      <guid>/posts/2009-10-06-37/</guid>
-      <description>China Mobile Should Have a Head Start in E-Reader Race &amp;ndash; Seeking Alpha
- Meanwhile Jinke is also looking further afield, having already reached a deal with France Telecom to distribute its Hanlin reader in Europe via Orange MNC business units and is looking to target BRIC partner countries, Brazil, Russia and India in the near future.
- Там еще любопытная новость о том, что Китай собирался закупить аж сразу 165 млн букридеров - для учащихся.</description>
+      <guid>//localhost:1313/posts/2009-10-06-37/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://seekingalpha.com/article/165051-china-mobile-should-have-a-head-start-in-e-reader-race?source=yahoo&#34;&gt;China Mobile Should Have a Head Start in E-Reader Race &amp;ndash; Seeking Alpha&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Meanwhile Jinke is also looking further afield, having already reached a deal with France Telecom to distribute its Hanlin reader in Europe via Orange MNC business units and is looking to target BRIC partner countries, Brazil, Russia and India in the near future.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Там еще любопытная новость о том, что Китай собирался закупить аж сразу 165 млн букридеров - для учащихся. Подтверждения, правда, не нашел, кроме &lt;a href=&#34;http://www.educause.edu/EDUCAUSE+Review/EDUCAUSEReviewMagazineVolume43/EBooksinHigherEducationNearing/162677&#34;&gt;упоминания&lt;/a&gt; о презентации Tim Godfray, “Opportunities for Booksellers Created by the Digitization of Book Content” (presentation at annual meeting of the European Booksellers Federation, December 4, 2006). Видимо слух, но забавный.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Продажи электронных книг в Китае</title>
-      <link>/posts/2009-08-18-47/</link>
+      <link>//localhost:1313/posts/2009-08-18-47/</link>
       <pubDate>Tue, 18 Aug 2009 10:18:57 +0000</pubDate>
-      
-      <guid>/posts/2009-08-18-47/</guid>
-      <description>Kindling e-book Fever in China
- Jo Lusby, General Manager of Penguin China, sees a growing interest. &amp;ldquo;E-book sales in China reached more than Rmb200 million last year and we are spending a great deal at Penguin at the moment on digitising our back catalogue.
-&amp;ldquo;We have more than 4,000 titles available at present, including our popular DK range. At least 60 per cent of our catalogue is informative, non-fiction titles.</description>
+      <guid>//localhost:1313/posts/2009-08-18-47/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.hktdc.com/info/vp/a/ctde/en/1/2/1/1X063XPK/China-Trade/Kindling-e-book-Fever-in-China.htm&#34;&gt;Kindling e-book Fever in China&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Jo Lusby, General Manager of Penguin China, sees a growing interest. &amp;ldquo;E-book sales in China reached more than Rmb200 million last year and we are spending a great deal at Penguin at the moment on digitising our back catalogue.&lt;br&gt;&#xA;&amp;ldquo;We have more than 4,000 titles available at present, including our popular DK range. At least 60 per cent of our catalogue is informative, non-fiction titles.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

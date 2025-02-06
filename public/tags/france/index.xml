@@ -2,111 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>France on Новости электронного книгоиздания</title>
-    <link>/tags/france/</link>
+    <link>//localhost:1313/tags/france/</link>
     <description>Recent content in France on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 17 Oct 2016 09:18:37 +0000</lastBuildDate><atom:link href="/tags/france/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Oct 2016 09:18:37 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/france/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Как там во Франции?</title>
-      <link>/posts/2016-10-17-b/</link>
+      <link>//localhost:1313/posts/2016-10-17-b/</link>
       <pubDate>Mon, 17 Oct 2016 09:18:37 +0000</pubDate>
-      
-      <guid>/posts/2016-10-17-b/</guid>
-      <description>Консервативные французы долго не хотели читать электронных книг. Но, видимо, начали привыкать. Если верить свежему обзору книгоиздания во Франции, выпущенному Франкфуртской книжной ярмаркой, общий оборот цифрового книжного контента был €164 млн в 2015 году (6,5% рынка), вырос на 14,9% за последний год. Если вычесть из этого оборота b2b, то розница составила 3,1% оборота. Не так уж плохо. Обзор, кстати, вообще любопытный, если хотите разобраться, кто есть кто и почём на книжном рынке Франции.</description>
+      <guid>//localhost:1313/posts/2016-10-17-b/</guid>
+      <description>&lt;p&gt;Консервативные французы долго не хотели читать электронных книг. Но, видимо, начали привыкать. Если верить &lt;a href=&#34;http://www.buchmesse.de/images/fbm/dokumente-ua-pdfs/2016/do-not-use/white_paper_all_about_french_publishing.pdf_58709.pdf&#34;&gt;свежему обзору книгоиздания во Франции&lt;/a&gt;, выпущенному Франкфуртской книжной ярмаркой, общий оборот цифрового книжного контента был €164 млн в 2015 году (6,5% рынка), вырос на 14,9% за последний год. Если вычесть из этого оборота b2b, то розница составила 3,1% оборота. Не так уж плохо. Обзор, кстати, вообще любопытный, если хотите разобраться, кто есть кто и почём на книжном рынке Франции.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Франция vs. DRM для книг</title>
-      <link>/posts/2013-11-15-a/</link>
+      <link>//localhost:1313/posts/2013-11-15-a/</link>
       <pubDate>Fri, 15 Nov 2013 13:30:21 +0000</pubDate>
-      
-      <guid>/posts/2013-11-15-a/</guid>
-      <description>Assemblée nationale ~ PROJET DE LOI DE FINANCES POUR 2014(no 1395) - Amendement no 22. С 1 января 2015 года все книги, продаваемые французам, будут облагаться НДС в размере 5,5%. А вот не книги, а лицензии для чтения (собственно, именно это и защищает система DRM), будут облагаться повышенной ставкой НДС 19,6%, на применении которой настаивает Евросоюз в отношении всех электронных книг. В рамках политики Франции и ЕС — это локальная история французских амбиций, брюссельской бюрократии + немного традиционного для Франции стремления ограничить «культурную экспансию Запада», а Amazon и пр.</description>
+      <guid>//localhost:1313/posts/2013-11-15-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.assemblee-nationale.fr/14/amendements/1395C/AN/22.asp&#34;&gt;Assemblée nationale ~ PROJET DE LOI DE FINANCES POUR 2014(no 1395) - Amendement no 22&lt;/a&gt;. С 1 января 2015 года все книги, продаваемые французам, будут облагаться НДС в размере 5,5%. А вот не книги, а лицензии для чтения (собственно, именно это и защищает система DRM), будут облагаться повышенной ставкой НДС 19,6%, на применении которой настаивает Евросоюз в отношении всех электронных книг. В рамках политики Франции и ЕС — это локальная история французских амбиций, брюссельской бюрократии + немного традиционного для Франции стремления ограничить «культурную экспансию Запада», а Amazon и пр. «американцы» продают книги с DRM. Важно, однако, обратить внимание на обоснование принятой Национальной Ассамблеи поправки. Французский мой так себе, но в резюме говорится:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Почему Франция оцифрует книги, не спрашивая писателей</title>
-      <link>/posts/2012-04-12-a/</link>
+      <link>//localhost:1313/posts/2012-04-12-a/</link>
       <pubDate>Thu, 12 Apr 2012 10:11:41 +0000</pubDate>
-      
-      <guid>/posts/2012-04-12-a/</guid>
-      <description>Реформа копирайта: Как это делается во Франции Государство само оцифрует все тексты Пару лет назад новости из Франции обошли весь интернет. Ещё бы! Там вступил в силу закон, позволяющий отключать от интернета пользователей, трижды замеченных в скачивании из сети нелегального контента. Однако времена меняются. Теперь Франция рискнула потеснить авторов.
-Согласно принятому в марте 2012 г. Национальным собранием и одобренному Сенатом закону «Закон о недоступных книгах ХХ века» ( «La loi sur les livres indisponibles du XXème siècle»), французское государство решило приступить к оцифровке сотен тысяч книг французских писателей, не спрашивая на то их разрешения.</description>
+      <guid>//localhost:1313/posts/2012-04-12-a/</guid>
+      <description>&lt;h3 id=&#34;реформа-копирайта-как-это-делается-во-франции&#34;&gt;Реформа копирайта: Как это делается во Франции&lt;/h3&gt;&#xA;&lt;h4 id=&#34;государство-само-оцифрует-все-тексты&#34;&gt;Государство само оцифрует все тексты&lt;/h4&gt;&#xA;&lt;p&gt;Пару лет назад новости из Франции обошли весь интернет. Ещё бы! Там вступил в силу закон, позволяющий отключать от интернета пользователей, трижды замеченных в скачивании из сети нелегального контента. Однако времена меняются. Теперь Франция рискнула потеснить авторов.&lt;/p&gt;&#xA;&lt;p&gt;Согласно принятому в марте 2012 г. Национальным собранием и одобренному Сенатом закону «Закон о недоступных книгах ХХ века» ( «&lt;a href=&#34;http://goo.gl/fK8AM&#34;&gt;La loi sur les livres indisponibles du XXème siècle&lt;/a&gt;»), французское государство решило приступить к оцифровке сотен тысяч книг французских писателей, не спрашивая на то их разрешения. Принудительной оцифровке для начала будут подвергнуты около полумиллиона книг, изданных до начала ХХ в. Речь идёт не обо всех книгах, но только о тех, которых уже нет в прямой (букинисты не в счёт) книжной продаже. После оцифровки книги окажутся в продаже, но уже в электронном виде. Список изданий, который должны пойти в работу, должна подготовить крупнейшая французская государственная Bibliothèque Nationale. Заниматься этим проектом будет не само государство и не Национальная библиотека, но специальная компания, которая будет не только оцифровывать книги, но и заниматься их дистрибуцией для онлайновых книжных магазинов электронных книг и собирать отчисления от их продаж. Компания будет на 40% контролироваться государством, а на 60% — издателями. Проект получит грант от французского правительства на 30 млн евро, при этом роялти от продаж будет делиться на паритетных началах между компанией и правообладателями.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Круче всех французские пираты манги</title>
-      <link>/posts/2012-01-25-b/</link>
+      <link>//localhost:1313/posts/2012-01-25-b/</link>
       <pubDate>Wed, 25 Jan 2012 11:19:31 +0000</pubDate>
-      
-      <guid>/posts/2012-01-25-b/</guid>
-      <description>The MOTif report reveals that of the 50 best-selling comics, 58% of these are not available as e-books. Pirated mangas are often streamed, whereas comic books are scanned. These generally good quality files, either PDFs or images, sell for an average of $15, slightly below the price of the equivalent paper book.
-It is also interesting to note that these pirating teams are well organized and able to scan new mangas that are released in Japan.</description>
+      <guid>//localhost:1313/posts/2012-01-25-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The MOTif report reveals that of the 50 best-selling comics, 58% of these are not available as e-books. Pirated mangas are often streamed, whereas comic books are scanned. These generally good quality files, either PDFs or images, sell for an average of $15, slightly below the price of the equivalent paper book.&lt;/p&gt;&#xA;&lt;p&gt;It is also interesting to note that these pirating teams are well organized and able to scan new mangas that are released in Japan. They even provide professional quality translations (including footnotes). The pirated comics are then sold online until the legal version appears in France, at which point they are removed. (After Japan, France is the country where the most mangas are sold.)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Amazon запускает французский Kindle Store</title>
-      <link>/posts/2011-10-07-1/</link>
+      <link>//localhost:1313/posts/2011-10-07-1/</link>
       <pubDate>Fri, 07 Oct 2011 19:47:46 +0000</pubDate>
-      
-      <guid>/posts/2011-10-07-1/</guid>
-      <description>The French Kindle Store contains 825,000 books, of which more than 30,000 are written in French, and another 4,000 are free, French-language classics.
- via mashable.com
-Всего с 34 тысячами французских книг (остальные 800 тыс не французские). Скромное начало. То есть в России ему нужно всего лишь купить ЛитРес.</description>
+      <guid>//localhost:1313/posts/2011-10-07-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The French Kindle Store contains 825,000 books, of which more than 30,000 are written in French, and another 4,000 are free, French-language classics.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://mashable.com/2011/10/07/amazon-kindle-france/&#34;&gt;mashable.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Всего с 34 тысячами французских книг (остальные 800 тыс не французские). Скромное начало. То есть в России ему нужно всего лишь купить ЛитРес.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Amazon Kindle для Испании, Франции и Нидерландов</title>
-      <link>/posts/2011-09-15-1/</link>
+      <link>//localhost:1313/posts/2011-09-15-1/</link>
       <pubDate>Thu, 15 Sep 2011 14:25:40 +0000</pubDate>
-      
-      <guid>/posts/2011-09-15-1/</guid>
-      <description>Amazon открылся в Испании, правда, без электронных книг, но, говорят, скоро.
-По слухам, скоро будут и магазинчики Kindle-книг на нидерландском. А ещё и на французском.
-А там, глядишь&amp;hellip;</description>
+      <guid>//localhost:1313/posts/2011-09-15-1/</guid>
+      <description>&lt;p&gt;Amazon открылся в Испании, правда, без электронных книг, но, говорят, скоро.&lt;/p&gt;&#xA;&lt;p&gt;По &lt;a href=&#34;http://goo.gl/lWTFH&#34;&gt;слухам&lt;/a&gt;, скоро будут и магазинчики Kindle-книг на нидерландском. А ещё и &lt;a href=&#34;http://www.the-digital-reader.com/2011/09/12/confirmed-kindle-coming-to-france-next-month&#34;&gt;на французском&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;А там, глядишь&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Французские издатели решили не судиться с Google, а договариваться</title>
-      <link>/posts/2011-05-15-a/</link>
+      <link>//localhost:1313/posts/2011-05-15-a/</link>
       <pubDate>Thu, 15 Sep 2011 10:09:17 +0000</pubDate>
-      
-      <guid>/posts/2011-05-15-a/</guid>
-      <description>French publishers Albin Michel, Flammarion and Gallimard have confirmed they have dropped charges against Google for digitising copyrighted books from their catalogues without prior permission.
-The three said they had decided to abandon the summons against Google France and Google Inc that they had filed on 6th May and 3rd June in order to &amp;ldquo;facilitate the resumption of talks between the French publishers association (Syndicat National de l&amp;rsquo;Edition, SNE) and Google over the digitation of copyrighted books and the search for an amicable solution to the litigation&amp;rdquo;.</description>
+      <guid>//localhost:1313/posts/2011-05-15-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;French publishers Albin Michel, Flammarion and Gallimard have confirmed they have dropped charges against Google for digitising copyrighted books from their catalogues without prior permission.&lt;/p&gt;&#xA;&lt;p&gt;The three said they had decided to abandon the summons against Google France and Google Inc that they had filed on 6th May and 3rd June in order to &amp;ldquo;facilitate the resumption of talks between the French publishers association (Syndicat National de l&amp;rsquo;Edition, SNE) and Google over the digitation of copyrighted books and the search for an amicable solution to the litigation&amp;rdquo;. However, they added they reserved the right to revive the case if the talks fell through.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Издание через краудсорсинг - французский эксперимент</title>
-      <link>/posts/2010-07-14-81/</link>
+      <link>//localhost:1313/posts/2010-07-14-81/</link>
       <pubDate>Wed, 14 Jul 2010 15:54:05 +0000</pubDate>
-      
-      <guid>/posts/2010-07-14-81/</guid>
-      <description>Investors will receive a copy of the book they back and earn up to eight times their outlay if more than 100,000 copies are sold. Their money will be returned if the €22,000 threshold is not reached.
- Отсюда: http://www.thebookseller.com/news/123455-crowdfunding-for-french-books.html</description>
+      <guid>//localhost:1313/posts/2010-07-14-81/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Investors will receive a copy of the book they back and earn up to eight times their outlay if more than 100,000 copies are sold. Their money will be returned if the €22,000 threshold is not reached.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Отсюда: &lt;a href=&#34;http://www.thebookseller.com/news/123455-crowdfunding-for-french-books.html&#34;&gt;http://www.thebookseller.com/news/123455-crowdfunding-for-french-books.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Иногда надо доказывать и очевидное</title>
-      <link>/posts/2009-10-24-70/</link>
+      <link>//localhost:1313/posts/2009-10-24-70/</link>
       <pubDate>Sat, 24 Oct 2009 14:04:07 +0000</pubDate>
-      
-      <guid>/posts/2009-10-24-70/</guid>
-      <description>French survey: 95 percent of pirated e-books are NOT online in legal editions | TeleRead: Bring the E-Books Home
- Ninety-five percent of the pirated e-books discovered—perhaps 6,000 or so—are not online in authorized editions. Granted, this isn’t proven cause-effect; the above percentage could simply reflect the slowness of French publishers in getting their wares online. Just eight percent of the top 50 bestsellers in France are legally buyable in E.</description>
+      <guid>//localhost:1313/posts/2009-10-24-70/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.teleread.org/2009/10/21/french-survey-95-percent-of-pirated-e-books-are-not-online-legally/&#34;&gt;French survey: 95 percent of pirated e-books are NOT online in legal editions | TeleRead: Bring the E-Books Home&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Ninety-five percent of the pirated e-books discovered—perhaps 6,000 or so—are not online in authorized editions. Granted, this isn’t proven cause-effect; the above percentage could simply reflect the slowness of French publishers in getting their wares online. Just eight percent of the top 50 bestsellers in France are legally buyable in E. Cause-effect or not, I hope that French houses will still consider the wisdom of using attractive legal editions to preempt the pirated ones. Same for American publishers who fantasize that they can delay e-book editions in hopes of spiking up p-book sales. Readers will seek out the material when they want it and in the formats they want. Harry Potter books, not legally available in E, are among the favorite illegal titles in P2P. While the numbers are small compared to French publishers’ total output, you can bet the number will grow, as the price of e-book readers declines and the technology improves.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Крупнейшее французское издательство покупает главного продавца электронных книг</title>
-      <link>/posts/2008-05-20-15/</link>
+      <link>//localhost:1313/posts/2008-05-20-15/</link>
       <pubDate>Tue, 20 May 2008 14:13:21 +0000</pubDate>
-      
-      <guid>/posts/2008-05-20-15/</guid>
-      <description>Издательство Hachette, крупнейшее французское издательство, покупает компанию Numilog, одного из главных дистрибьюторов и продавцов электронных книг в стране. Кроме того, Hachette объявило о том, что собирается начать официальные продажи букридеров Sony Reader до конца этого года:
- Hachette plans to buy Numilog—and introduce the Sony Reader to France this year | TeleRead: Bring the E-Books Home
- </description>
+      <guid>//localhost:1313/posts/2008-05-20-15/</guid>
+      <description>&lt;p&gt;Издательство &lt;a href=&#34;http://www.hachette.com&#34;&gt;Hachette&lt;/a&gt;, крупнейшее французское издательство, покупает компанию &lt;a href=&#34;http://www.numilog.com/&#34;&gt;Numilog&lt;/a&gt;, одного из главных дистрибьюторов и продавцов электронных книг в стране. Кроме того, Hachette объявило о том, что собирается начать официальные продажи букридеров Sony Reader до конца этого года:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.teleread.org/blog/2008/05/20/hachette-plans-to-buy-numilog-and-introduce-the-sony-reader-to-france-this-year/&#34;&gt;Hachette plans to buy Numilog—and introduce the Sony Reader to France this year | TeleRead: Bring the E-Books Home&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
-    
   </channel>
 </rss>

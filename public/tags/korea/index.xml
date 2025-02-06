@@ -2,30 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Korea on Новости электронного книгоиздания</title>
-    <link>/tags/korea/</link>
+    <link>//localhost:1313/tags/korea/</link>
     <description>Recent content in Korea on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 20 Oct 2011 20:15:22 +0000</lastBuildDate><atom:link href="/tags/korea/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Oct 2011 20:15:22 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/korea/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>К 2015 году Южная Корея переведёт все школы &#34;на цифру&#34;</title>
-      <link>/posts/2011-10-20-2/</link>
+      <link>//localhost:1313/posts/2011-10-20-2/</link>
       <pubDate>Thu, 20 Oct 2011 20:15:22 +0000</pubDate>
-      
-      <guid>/posts/2011-10-20-2/</guid>
-      <description>via bbc.co.uk
-Французским студентам, тем временем, Orange предлагает iPad 2 за 1 евро в месяц.</description>
+      <guid>//localhost:1313/posts/2011-10-20-2/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.bbc.co.uk/news/business-15175962&#34;&gt;bbc.co.uk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Французским студентам, тем временем, Orange предлагает iPad 2 за 1 евро в месяц.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Правительство Южной Кореи намерено принять госстандарт на электронные книги</title>
-      <link>/posts/2010-01-18-1/</link>
+      <link>//localhost:1313/posts/2010-01-18-1/</link>
       <pubDate>Mon, 18 Jan 2010 21:36:30 +0000</pubDate>
-      
-      <guid>/posts/2010-01-18-1/</guid>
-      <description>Song, Yang-hee, manager at KATS explained that the e book market this year will record huge growth, and if standard is set, it will help local e book market to be boosted.
-KATS plans to suggest guidelines to minimize confusions in the industry although it takes e Pub, international standard as local standard. ePub is international standard for e book and used by Sony and i River. It can support the other document standards such as txt, pdf and doc.</description>
+      <guid>//localhost:1313/posts/2010-01-18-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Song, Yang-hee, manager at KATS explained that the e book market this year will record huge growth, and if standard is set, it will help local e book market to be boosted.&lt;br&gt;&#xA;KATS plans to suggest guidelines to minimize confusions in the industry although it takes e Pub, international standard as local standard. ePub is international standard for e book and used by Sony and i River. It can support the other document standards such as txt, pdf and doc. It was to utilize the strength of using diverse contents.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

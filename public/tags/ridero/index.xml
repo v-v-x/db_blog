@@ -2,49 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ridero on Новости электронного книгоиздания</title>
-    <link>/tags/ridero/</link>
+    <link>//localhost:1313/tags/ridero/</link>
     <description>Recent content in Ridero on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 16 Jan 2020 13:27:37 +0300</lastBuildDate><atom:link href="/tags/ridero/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jan 2020 13:27:37 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/ridero/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rideró — 2019</title>
-      <link>/posts/2020-01-16-1/</link>
+      <link>//localhost:1313/posts/2020-01-16-1/</link>
       <pubDate>Thu, 16 Jan 2020 13:27:37 +0300</pubDate>
-      
-      <guid>/posts/2020-01-16-1/</guid>
-      <description>Rideró отчиталось по итогам прошлого года:
- ассортимент вырос до 60 тыс., количество авторов — на 40%, выручка у партнёров — на 65%, в собственном магазине — на 42%, роялти авторам — на 62%.  Плюс возобновлено партнёрство с Озоном, продажи в Библиоглобусе и чаты в книжках. Совсем неплохо.
-P.S. Для архива: https://web.archive.org/web/20200116102907/https://ridero.ru/blog/?p=3988.</description>
+      <guid>//localhost:1313/posts/2020-01-16-1/</guid>
+      <description>&lt;p&gt;Rideró &lt;a href=&#34;https://ridero.ru/blog/?p=3988&#34;&gt;отчиталось&lt;/a&gt; по итогам прошлого года:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ассортимент вырос до 60 тыс.,&lt;/li&gt;&#xA;&lt;li&gt;количество авторов — на 40%,&lt;/li&gt;&#xA;&lt;li&gt;выручка у партнёров — на 65%,&lt;/li&gt;&#xA;&lt;li&gt;в собственном магазине — на 42%,&lt;/li&gt;&#xA;&lt;li&gt;роялти авторам — на 62%.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Плюс возобновлено партнёрство с Озоном, продажи в Библиоглобусе и чаты в книжках. Совсем неплохо.&lt;/p&gt;&#xA;&lt;p&gt;P.S. Для архива: &lt;a href=&#34;https://web.archive.org/web/20200116102907/https://ridero.ru/blog/?p=3988&#34;&gt;https://web.archive.org/web/20200116102907/https://ridero.ru/blog/?p=3988&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Первый импринт пошёл</title>
-      <link>/posts/2017-06-13-b/</link>
+      <link>//localhost:1313/posts/2017-06-13-b/</link>
       <pubDate>Tue, 13 Jun 2017 12:27:16 +0000</pubDate>
-      
-      <guid>/posts/2017-06-13-b/</guid>
-      <description>Идея писательского импринта сама по себе не то, что бы неновая, а даже старая. Да вот хотя бы «Лекарство от скуки» (сост. Б. Акунин). Но у импринтов Rideró («Выбор Сенчина» — первый) другая модель: Rideró не заказывает книги, а предоставляет инфраструктуру. Остальное писатель/редактор/составитель всё сам вместе со своими авторами. Пока симпатично. Интересно, что из этого получится.</description>
+      <guid>//localhost:1313/posts/2017-06-13-b/</guid>
+      <description>&lt;p&gt;Идея писательского импринта сама по себе не то, что бы неновая, а даже старая. Да вот хотя бы «Лекарство от скуки» (сост. Б. Акунин). Но у импринтов Rideró («&lt;a href=&#34;https://beta.ridero.ru/l/senchin-choice/&#34;&gt;Выбор Сенчина&lt;/a&gt;» — первый) другая модель: Rideró не заказывает книги, а предоставляет инфраструктуру. Остальное писатель/редактор/составитель всё сам вместе со своими авторами. Пока симпатично. Интересно, что из этого получится.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ridero открылся</title>
-      <link>/posts/2014-02-13-a/</link>
+      <link>//localhost:1313/posts/2014-02-13-a/</link>
       <pubDate>Thu, 13 Feb 2014 08:31:41 +0000</pubDate>
-      
-      <guid>/posts/2014-02-13-a/</guid>
-      <description>Сервис Ridero, работа над которым ведёт группа российских программистов с прошлого года, наконец открылся в тестовом режиме для всех желающих. С помощью Ridero прямо сейчас вы можете создать электронную книгу в формате EPUB, загрузив файл в текстовом формате. Ridero неплохо понимает стилевое форматирование Word. Текст можно скопировать и вставить в окно онлайнового редактора. И там же проверить/исправить стилевое форматирование абзацев, отформатировать текст, вставить/исправить сноски (да! Ridero делает правильные сноски, которые адекватно отображаются в iBooks).</description>
+      <guid>//localhost:1313/posts/2014-02-13-a/</guid>
+      <description>&lt;p&gt;Сервис &lt;a href=&#34;http://ridero.ru&#34;&gt;Ridero&lt;/a&gt;, работа над которым ведёт группа российских программистов с прошлого года, наконец открылся в тестовом режиме для всех желающих. С помощью Ridero прямо сейчас вы можете создать электронную книгу в формате EPUB, загрузив файл в текстовом формате. Ridero неплохо понимает стилевое форматирование Word. Текст можно скопировать и вставить в окно онлайнового редактора. И там же проверить/исправить стилевое форматирование абзацев, отформатировать текст, вставить/исправить сноски (да! Ridero делает правильные сноски, которые адекватно отображаются в iBooks). Кроме того, в Ridero можно сделать обложку книги, используя готовые шаблоны, загрузить свою иллюстрацию, подобрать цветовое оформление под неё. Готовый файл EPUB можно бесплатно скачать и делать с ним всё, что угодно.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>На РБК daily о Ridero</title>
-      <link>/posts/2013-10-16-a/</link>
+      <link>//localhost:1313/posts/2013-10-16-a/</link>
       <pubDate>Wed, 16 Oct 2013 22:35:25 +0000</pubDate>
-      
-      <guid>/posts/2013-10-16-a/</guid>
-      <description>Основатели проекта Ridero выводят на рынок технологию автоматизации книжной верстки. Система позволит молодым авторам создавать книги самостоятельно и продавать их в интернет-магазинах, не делясь прибылью с издательскими фирмами. Однако эксперты неоднозначно оценивают новинку.
- РБК daily.</description>
+      <guid>//localhost:1313/posts/2013-10-16-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Основатели проекта Ridero выводят на рынок технологию автоматизации книжной верстки. Система позволит молодым авторам создавать книги самостоятельно и продавать их в интернет-магазинах, не делясь прибылью с издательскими фирмами. Однако эксперты неоднозначно оценивают новинку.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rbcdaily.ru/business/562949989246286?fb_action_ids=10151865619142860&amp;amp;fb_action_types=og.likes&amp;amp;fb_source=other_multiline&amp;amp;action_object_map=%7B%2210151865619142860%22%3A600999286631617%7D&amp;amp;action_type_map=%7B%2210151865619142860%22%3A%22og.likes%22%7D&amp;amp;action_ref_map=%5B%5D&#34;&gt;РБК daily&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

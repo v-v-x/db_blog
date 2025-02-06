@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tre on Новости электронного книгоиздания</title>
-    <link>/tags/tre/</link>
-    <description>Recent content in tre on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Tre on Новости электронного книгоиздания</title>
+    <link>//localhost:1313/tags/tre/</link>
+    <description>Recent content in Tre on Новости электронного книгоиздания</description>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 30 Sep 2009 23:35:00 +0000</lastBuildDate><atom:link href="/tags/tre/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Sep 2009 23:35:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/tre/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Издатели считают &#34;электронный поворот&#34; неизбежным</title>
-      <link>/posts/2009-09-30-a/</link>
+      <link>//localhost:1313/posts/2009-09-30-a/</link>
       <pubDate>Wed, 30 Sep 2009 23:35:00 +0000</pubDate>
-      
-      <guid>/posts/2009-09-30-a/</guid>
-      <description>nds
-Company - Emergence of new business models
- Time is of the essence. As a general rule, digital products still only comprise a small fraction of sales: Around 60 per cent of those polled estimate that considerably less than ten per cent of their revenue will come from digital sources in 2009. However, this will change in the next two years in the opinion of those polled: 41 per cent of those polled calculate sales of up to ten per cent for 2011 and 58 per cent anticipate that digital products will comprise a considerably higher share of total sales.</description>
+      <guid>//localhost:1313/posts/2009-09-30-a/</guid>
+      <description>&lt;p&gt;nds&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://en.book-fair.com/company/press_pr/press_releases/detail.aspx?c20f0587-85d5-44d3-a9a4-eb75d0c6143b=b7ac17c8-33de-4a6c-abff-edfc1297d69d&#34;&gt;Company - Emergence of new business models&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Time is of the essence. As a general rule, digital products still only comprise a small fraction of sales: Around 60 per cent of those polled estimate that considerably less than ten per cent of their revenue will come from digital sources in 2009. However, this will change in the next two years in the opinion of those polled: 41 per cent of those polled calculate sales of up to ten per cent for 2011 and 58 per cent anticipate that digital products will comprise a considerably higher share of total sales. The percentage of those who assume that 26 to 100 per cent of their revenue will come from digital products in two years increased from 24 per cent (2009) to 38 per cent (2011). The idea that digital content will generate more sales than the traditional book business is also gradually becoming more of a reality. Around 50 per cent of industry experts now see the year 2018 as the turning point: In a comparable survey taken one year ago, 40 per cent saw this date as a “changing of the guard”. In 2008, 27 per cent were of the opinion that digital would never overtake print - today that number is only 22 per cent. Sell, but at what price? The decisive question is which payment model will prevail in the digital world. The favourites from the list provided are clear.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

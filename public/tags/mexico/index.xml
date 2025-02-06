@@ -2,21 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mexico on Новости электронного книгоиздания</title>
-    <link>/tags/mexico/</link>
+    <link>//localhost:1313/tags/mexico/</link>
     <description>Recent content in Mexico on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 30 Aug 2013 08:50:43 +0000</lastBuildDate><atom:link href="/tags/mexico/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Aug 2013 08:50:43 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/mexico/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amazon Kindle Store открылся в Мексике</title>
-      <link>/posts/2013-08-30-b/</link>
+      <link>//localhost:1313/posts/2013-08-30-b/</link>
       <pubDate>Fri, 30 Aug 2013 08:50:43 +0000</pubDate>
-      
-      <guid>/posts/2013-08-30-b/</guid>
-      <description>New Kindle Store offers over 2 million eBooks sold in Mexican Pesos, including the most Spanish language best sellers, more than 1,500 free books in Spanish, and hundreds of thousands of exclusive titles, including works from authors like José Emilio Pacheco, Elena Poniatowska, Sergio Pitol and Carlos Monsivais, as well as comic books from Mafalda and Familia Burrón
-via Amazon Media Room: Press Releases
-Amazon зашёл на самый большой испаноязычный рынок 70 тыс испаноязычных книг, 2 млн в общем каталоге и 1399 песо (3485 руб.</description>
+      <guid>//localhost:1313/posts/2013-08-30-b/</guid>
+      <description>&lt;p&gt;New Kindle Store offers over 2 million eBooks sold in Mexican Pesos, including the most Spanish language best sellers, more than 1,500 free books in Spanish, and hundreds of thousands of exclusive titles, including works from authors like José Emilio Pacheco, Elena Poniatowska, Sergio Pitol and Carlos Monsivais, as well as comic books from Mafalda and Familia Burrón&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://phx.corporate-ir.net/phoenix.zhtml?c=176060&amp;amp;p=irol-newsArticle&amp;amp;ID=1850669&amp;amp;highlight=&#34;&gt;Amazon Media Room: Press Releases&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Amazon зашёл на самый большой испаноязычный рынок 70 тыс испаноязычных книг, 2 млн в общем каталоге и 1399 песо (3485 руб.) за простенький Kindle. 115 млн человек. Уровень проникновения интернета, правда, не очень высокий в сравнении с другими странами Латинской Америки — &lt;a href=&#34;http://goo.gl/7YLLdH&#34;&gt;всего около 40%&lt;/a&gt;. Но и 47 млн пользователей — тоже неплохо. Когда уж в России-то?&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

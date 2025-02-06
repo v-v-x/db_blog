@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yandex on Новости электронного книгоиздания</title>
-    <link>/tags/yandex/</link>
+    <link>//localhost:1313/tags/yandex/</link>
     <description>Recent content in Yandex on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 23 May 2014 10:11:57 +0000</lastBuildDate><atom:link href="/tags/yandex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 May 2014 10:11:57 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/yandex/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Браузер, который читает книги</title>
-      <link>/posts/2014-05-23-a/</link>
+      <link>//localhost:1313/posts/2014-05-23-a/</link>
       <pubDate>Fri, 23 May 2014 10:11:57 +0000</pubDate>
-      
-      <guid>/posts/2014-05-23-a/</guid>
-      <description>Пользователи современных браузеров уже довольно давно имеют возможность открывать обычные офисные документы прямо в браузере. Пришло вам письмо на почту, в нём вложен DOC. Скачивать и открывать в Word часто не обязательно, достаточно кликнуть на файле и посмотреть, что в нём, прямо в браузере. Аналогичный вьюер, только электронных книг (поддерживается epub, fb2 и fb2.zip), включился в последней (за номером 14.4.1750.13662 (129c834)) версии Яндекс.Браузера (на Маке обновление можно получить в меню Yandex &amp;gt; About Yandex, на Windows — в настройках).</description>
+      <guid>//localhost:1313/posts/2014-05-23-a/</guid>
+      <description>&lt;p&gt;Пользователи современных браузеров уже довольно давно имеют возможность открывать обычные офисные документы прямо в браузере. Пришло вам письмо на почту, в нём вложен DOC. Скачивать и открывать в Word часто не обязательно, достаточно кликнуть на файле и посмотреть, что в нём, прямо в браузере. Аналогичный вьюер, только электронных книг (поддерживается epub, fb2 и fb2.zip), включился в последней (за номером 14.4.1750.13662 (129c834)) версии Яндекс.Браузера (на Маке обновление можно получить в меню &lt;strong&gt;Yandex &amp;gt; About Yandex&lt;/strong&gt;, на Windows — в настройках).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

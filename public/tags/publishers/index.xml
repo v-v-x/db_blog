@@ -1,1137 +1,775 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>publishers on Новости электронного книгоиздания</title>
-    <link>/tags/publishers/</link>
-    <description>Recent content in publishers on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Publishers on Новости электронного книгоиздания</title>
+    <link>//localhost:1313/tags/publishers/</link>
+    <description>Recent content in Publishers on Новости электронного книгоиздания</description>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Mar 2020 15:06:22 +0300</lastBuildDate><atom:link href="/tags/publishers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Mar 2020 15:06:22 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/publishers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Издательство Simon &amp; Schuster выставлено на продажу</title>
-      <link>/posts/2020-03-06-2/</link>
+      <link>//localhost:1313/posts/2020-03-06-2/</link>
       <pubDate>Fri, 06 Mar 2020 15:06:22 +0300</pubDate>
-      
-      <guid>/posts/2020-03-06-2/</guid>
-      <description>Ого. Viacom решил продать издательство Simon &amp;amp; Schuster, потому что оно «не связано с видео» и «не очень связано с нашим основным бизнесом». Издательство оказалось в активе видеоконгломерата после его слияния в прошлом году с медиакорпорацией CBS, в которую издательство входило много лет. «Желающих купить много», — заявил гендиректор Viacom Боб Бакиш. Дела у издательство, которое считается самым маленьким среди самых больших на американским рынком и входит в «большую пятёрку», не сильно отличаются от американской книжной индустрии в целом: оборот в прошлом году сократился на 1% до 814 млн USD.</description>
+      <guid>//localhost:1313/posts/2020-03-06-2/</guid>
+      <description>&lt;p&gt;Ого. &lt;strong&gt;Viacom&lt;/strong&gt; решил продать издательство &lt;strong&gt;Simon &amp;amp; Schuster&lt;/strong&gt;, потому что оно «не связано с видео» и «не очень связано с нашим основным бизнесом». Издательство оказалось в активе видеоконгломерата после его слияния в прошлом году с медиакорпорацией &lt;strong&gt;CBS&lt;/strong&gt;, в которую издательство входило много лет. «Желающих купить много», — заявил гендиректор Viacom  Боб Бакиш.&#xA;Дела у издательство, которое считается самым маленьким среди самых больших на американским рынком и входит в «&lt;strong&gt;большую пятёрку&lt;/strong&gt;», не сильно отличаются от американской книжной индустрии в целом: оборот в прошлом году сократился на 1% до 814 млн USD. В 2017-м году оборот был 830 млн. (Ну, немногим меньше всего российсакого книжного рынка.) Так что не исключено, что издательство просто не справляется с корпоративными KPI. А корпоративная культура и уровень IQ в Viacom те ещё: корпорация прославилась тем, что неоднократно требовала от YouTube заблокировать ролики, которые размещал их собственных отдел маркетинга. За нарушение авторских прав. И судилось с Google на какие-то миллиарды.&#xA;Впервые за три года у издательства, кстати, в прошлом году выросли продажи электронных книг. Но не сильно помогли.&#xA;Ну, издательство большое, славное и с хорошим портфелем прав (один Стивен Кинг чего стоит), так что не пропадёт. Надо же что-то читать во время чумы.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Penguin Random House отозвал книги у безлимитных сервисов</title>
-      <link>/posts/2020-01-20-1/</link>
+      <link>//localhost:1313/posts/2020-01-20-1/</link>
       <pubDate>Mon, 20 Jan 2020 22:43:02 +0300</pubDate>
-      
-      <guid>/posts/2020-01-20-1/</guid>
-      <description>Пишут, что Penguin Random House со знакомыми повадками самого крутого парня на деревне отозвал свои аудиокниги на английском из подписочных сервисов Storytel, Bookbeat и Nextory, ссылаясь на &amp;ldquo;каннибализацию&amp;rdquo;. Это особенно забавно, поскольку практически все эти сервисы работают в странах, где не английский язык — основной.
-По слухам, впрочем, причина в другом: PRH готовит свой собственный аудиосервис. Готовить-то он, конечно, может — каталога хватит. Вот только предыдущие попытки сделать собственный конкурентоспособный магазин заканчивались пфуком.</description>
+      <guid>//localhost:1313/posts/2020-01-20-1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://thenewpublishingstandard.com/penguin-random-house-pulls-english-language-titles-from-storytel-bookbeat-and-nextory-unhappy-with-terms-or-is-a-prh-streaming-service-launch-imminent/&#34;&gt;Пишут&lt;/a&gt;, что &lt;strong&gt;Penguin Random House&lt;/strong&gt; со знакомыми повадками самого крутого парня на деревне отозвал свои аудиокниги на английском из подписочных сервисов Storytel, Bookbeat и Nextory, ссылаясь на &amp;ldquo;каннибализацию&amp;rdquo;. Это особенно забавно, поскольку практически все эти сервисы работают в странах, где не английский язык — основной.&lt;/p&gt;&#xA;&lt;p&gt;По слухам, впрочем, причина в другом: PRH готовит свой собственный аудиосервис. Готовить-то он, конечно, может — каталога хватит. Вот только предыдущие попытки сделать собственный конкурентоспособный магазин заканчивались пфуком.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Крупнейший оптовик Германии подал на банкротство</title>
-      <link>/posts/2019-02-19-a/</link>
+      <link>//localhost:1313/posts/2019-02-19-a/</link>
       <pubDate>Tue, 19 Feb 2019 14:54:48 +0000</pubDate>
-      
-      <guid>/posts/2019-02-19-a/</guid>
-      <description>Главный книжный оптовик Германии KNV Group подал заявление о банкротстве и пытается реструктурироваться. Koch, Neff und Volckmar — это примерно как Союзкниготорг, но только 5000 издателями-поставщиками, 5600 книжных магазинов-получателей в Германии, Австрии и Швейцарии + ещё 7000 точками продаж книг. Издаешь книгу, отдаешь в KNV и, в общем, спишь спокойно. Ну, почти. Börsenverein, объединение немецких издателей, уже заявило, что всё ОК, разбираемся, спите дальше, всё это «никак не связано со спросом на книги», а с ценой на дизельное топливо и ошибками руководства.</description>
+      <guid>//localhost:1313/posts/2019-02-19-a/</guid>
+      <description>&lt;p&gt;Главный книжный оптовик Германии KNV Group &lt;a href=&#34;https://publishingperspectives.com/2019/02/german-market-watches-largest-wholesaler-distributor-knv-bankruptcy-crisis/&#34;&gt;подал заявление о банкротстве&lt;/a&gt; и пытается реструктурироваться. Koch, Neff und Volckmar — это примерно как Союзкниготорг, но только 5000 издателями-поставщиками, 5600 книжных магазинов-получателей в Германии, Австрии и Швейцарии + ещё 7000 точками продаж книг. Издаешь книгу, отдаешь в KNV и, в общем, спишь спокойно. Ну, почти. Börsenverein, объединение немецких издателей, уже заявило, что всё ОК, разбираемся, спите дальше, всё это «никак не связано со спросом на книги», а с ценой на дизельное топливо и ошибками руководства. Издатели, однако, кажется, в шоке. И правда, если KNV рухнет, то прекрасный спрос на книги кто будет удовлетворять? Amazon, что ли?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Pearson избавляется от учебников</title>
-      <link>/posts/2019-02-19-b/</link>
+      <link>//localhost:1313/posts/2019-02-19-b/</link>
       <pubDate>Tue, 19 Feb 2019 14:34:23 +0000</pubDate>
-      
-      <guid>/posts/2019-02-19-b/</guid>
-      <description>Английское издательство Pearson (№ 1 в мировом рейтинге, оборот 6,070 млрд USD в 2017) продало своё подразделение школьных учебников частным инвесторам Nexus Capital Management LP за $250 млн, «сдвигая фокус с учебников на цифру». С издателями учебников вот так и будет.</description>
+      <guid>//localhost:1313/posts/2019-02-19-b/</guid>
+      <description>&lt;p&gt;Английское издательство Pearson (№ 1 в мировом рейтинге, оборот 6,070 млрд USD в 2017) &lt;a href=&#34;https://www.reuters.com/article/pearson-disposal-k12/pearson-sells-k12-us-textbook-unit-for-250-mln-idUSL5N20D10N&#34;&gt;продало&lt;/a&gt; своё подразделение школьных учебников частным инвесторам Nexus Capital Management LP за $250 млн, «сдвигая фокус с учебников на цифру». С издателями учебников вот так и будет.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Как это делается в Macmillan</title>
-      <link>/posts/2017-01-19-a/</link>
+      <link>//localhost:1313/posts/2017-01-19-a/</link>
       <pubDate>Thu, 19 Jan 2017 22:46:49 +0000</pubDate>
-      
-      <guid>/posts/2017-01-19-a/</guid>
-      <description>На конференции ebookcraft в Торонто 22–23 марта будет выступать Nellie McKesson, отвечающая за производство электронных книг в Macmillan Publishers (одно из пяти крупнейших издательств США, которым владеет немецкая Holtzbrinck Publishing Group). Совсем не конвертацией из InDesign, потому что это дорого и неэффективно. Производственный процесс начинается с специально приготовленного Word, а на выходе получается HTMLbook, PDF и EPUB.
-Всё это называется Bookmaker. Инструменты, разработанные в издательстве выложены в открытый доступ. Вот тут подробный рассказ Маккессон о том, как и что.</description>
+      <guid>//localhost:1313/posts/2017-01-19-a/</guid>
+      <description>&lt;p&gt;На конференции &lt;strong&gt;ebookcraft&lt;/strong&gt; в Торонто 22–23 марта будет выступать Nellie McKesson, отвечающая за производство электронных книг в Macmillan Publishers (одно из пяти крупнейших издательств США, которым владеет немецкая Holtzbrinck Publishing Group). Совсем не конвертацией из InDesign, потому что это дорого и неэффективно. Производственный процесс начинается с &lt;a href=&#34;https://confluence.macmillan.com/display/PBL/Manuscript+Styling+with+MS+Word&#34;&gt;специально приготовленного Word&lt;/a&gt;, а на выходе получается HTMLbook, PDF и EPUB.&lt;/p&gt;&#xA;&lt;p&gt;Всё это называется &lt;a href=&#34;http://macmillanpublishers.github.io/bookmaker/&#34;&gt;Bookmaker&lt;/a&gt;. Инструменты, разработанные в издательстве &lt;a href=&#34;https://github.com/macmillanpublishers/bookmaker&#34;&gt;выложены в открытый доступ&lt;/a&gt;. Вот &lt;a href=&#34;http://www.booknetcanada.ca/blog/2017/1/19/three-modern-technologies-behind-automated-epub-toolchain&#34;&gt;тут подробный рассказ&lt;/a&gt; Маккессон о том, как и что.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>«Большая пятерка» снижает цены</title>
-      <link>/posts/2016-01-02-a/</link>
+      <link>//localhost:1313/posts/2016-01-02-a/</link>
       <pubDate>Thu, 02 Jun 2016 14:35:44 +0000</pubDate>
-      
-      <guid>/posts/2016-01-02-a/</guid>
-      <description>Если верить аналитике Author Earnings, издательства «большой пятёрки» с начала года так-таки снизили цены на электронные книги примерно на $1. Потому что повысили в прошлом году и получили падение спроса.</description>
+      <guid>//localhost:1313/posts/2016-01-02-a/</guid>
+      <description>&lt;p&gt;Если верить &lt;a href=&#34;http://authorearnings.com/big-five-may-2016-ebook-pricing/&#34;&gt;аналитике&lt;/a&gt; Author Earnings, издательства «большой пятёрки» с начала года так-таки снизили цены на электронные книги примерно на $1. Потому что повысили в прошлом году и получили падение спроса.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ЖЗЛ в Amazon</title>
-      <link>/posts/2016-01-26-a/</link>
+      <link>//localhost:1313/posts/2016-01-26-a/</link>
       <pubDate>Tue, 26 Jan 2016 11:05:44 +0000</pubDate>
-      
-      <guid>/posts/2016-01-26-a/</guid>
-      <description>Издательство «Молодая гвардия» долго не хотело иметь никакого дела с электронными книгами. И с бумажными ему было хорошо, а электронные… Ну, что с них толку? А сегодня пришла рекламная рассылка от Amazon, что «&amp;ldquo;Жизнь Замечательных Людей&amp;rdquo; впервые в электронном формате — эксклюзивно на Amazon». Проверил — точно, 25 книг. Ну, тоже хорошо. Только непонятно, почему эксклюзивно?
-P. S. Полистал превью книжек, везде бросилась в глаза одна и та же ошибка конвертации — неразрывный пробел после инициалов превратился в дефис.</description>
+      <guid>//localhost:1313/posts/2016-01-26-a/</guid>
+      <description>&lt;p&gt;Издательство «Молодая гвардия» долго не хотело иметь никакого дела с электронными книгами. И с бумажными ему было хорошо, а электронные… Ну, что с них толку? А сегодня пришла рекламная рассылка от Amazon, что «&amp;ldquo;Жизнь Замечательных Людей&amp;rdquo; впервые в электронном формате — эксклюзивно на Amazon». Проверил — точно, 25 книг. Ну, тоже хорошо. Только непонятно, почему эксклюзивно?&lt;/p&gt;&#xA;&lt;p&gt;P. S. Полистал превью книжек, везде бросилась в глаза одна и та же ошибка конвертации — неразрывный пробел после инициалов превратился в дефис. Передайте там государю императору, что ружья не надо кирпичом чистить.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Свежий рейтинг мировой издательской индустрии</title>
-      <link>/posts/2015-07-02-a/</link>
+      <link>//localhost:1313/posts/2015-07-02-a/</link>
       <pubDate>Thu, 02 Jul 2015 18:31:23 +0000</pubDate>
-      
-      <guid>/posts/2015-07-02-a/</guid>
-      <description>Source: Wischenbart.com</description>
+      <guid>//localhost:1313/posts/2015-07-02-a/</guid>
+      <description>&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.wischenbart.com/page-2#global_ranking_of_the_publishing_industry_2015_is_out&#34;&gt;Wischenbart.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>35%, Карл!</title>
-      <link>/posts/2015-05-08-b/</link>
+      <link>//localhost:1313/posts/2015-05-08-b/</link>
       <pubDate>Fri, 08 May 2015 22:04:41 +0000</pubDate>
-      
-      <guid>/posts/2015-05-08-b/</guid>
-      <description>According to the latest statistics released by The Publishers Association, the UK book publishing industry was stable in 2014 and valued at 4.3 billion pounds. Digital products account for 35% of the industry’s total revenue, and export sales account for 44%.
- Source: Latest UK Book Publishing Statistics Show Stable Market - Publishing Perspectives
-35% доходов книжной индустрии в Великобритании приходится на цифру. Из 4,3 миллиардов фунтов стерлингов.</description>
+      <guid>//localhost:1313/posts/2015-05-08-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;According to the latest statistics released by The Publishers Association, the UK book publishing industry was stable in 2014 and valued at 4.3 billion pounds. &lt;strong&gt;Digital products account for 35% of the industry’s total revenue&lt;/strong&gt;, and export sales account for 44%.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://publishingperspectives.com/2015/05/latest-uk-book-publishing-statistics-show-stable-market/&#34;&gt;Latest UK Book Publishing Statistics Show Stable Market - Publishing Perspectives&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;35% доходов книжной индустрии в Великобритании приходится на цифру. Из 4,3 миллиардов фунтов стерлингов.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>31%, Карл!</title>
-      <link>/posts/2015-05-08-c/</link>
+      <link>//localhost:1313/posts/2015-05-08-c/</link>
       <pubDate>Fri, 08 May 2015 20:24:52 +0000</pubDate>
-      
-      <guid>/posts/2015-05-08-c/</guid>
-      <description>Simon &amp;amp; Schuster is experiencing massive growth with e-books and audiobooks, more than any other publisher. Digital revenues represented 31% of S&amp;amp;S’s total
- Source: Digital Accounts for 31% of Simon &amp;amp; Schuster’s Revenue</description>
+      <guid>//localhost:1313/posts/2015-05-08-c/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Simon &amp;amp; Schuster is experiencing massive growth with e-books and audiobooks, more than any other publisher. Digital revenues represented 31% of S&amp;amp;S’s total&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://goodereader.com/blog/e-book-news/digital-accounts-for-31-of-simon-schuster-revenue&#34;&gt;Digital Accounts for 31% of Simon &amp;amp; Schuster’s Revenue&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Маленький телефонный и почтовый справочник мировой книжной отрасли. Вдруг, кому</title>
-      <link>/posts/2015-04-23-a/</link>
+      <link>//localhost:1313/posts/2015-04-23-a/</link>
       <pubDate>Thu, 23 Apr 2015 11:09:15 +0000</pubDate>
-      
-      <guid>/posts/2015-04-23-a/</guid>
-      <description>Ежегодное обновление справочника от Publishing Perspectives: http://www.publishingtrends.com/2015/04/publishing-trends-annual-contact-sheet-2015/</description>
+      <guid>//localhost:1313/posts/2015-04-23-a/</guid>
+      <description>&lt;p&gt;Ежегодное обновление справочника от Publishing Perspectives: &lt;a href=&#34;http://www.publishingtrends.com/2015/04/publishing-trends-annual-contact-sheet-2015/&#34;&gt;http://www.publishingtrends.com/2015/04/publishing-trends-annual-contact-sheet-2015/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Springer &#43; Macmillan</title>
-      <link>/posts/2015-01-16-a/</link>
+      <link>//localhost:1313/posts/2015-01-16-a/</link>
       <pubDate>Fri, 16 Jan 2015 09:51:25 +0000</pubDate>
-      
-      <guid>/posts/2015-01-16-a/</guid>
-      <description>Ну, вот, Springer Science and Business Media сливается с Macmillan Science and Education. Общий оборот издательской группы составит 1,5 млрд €. Крупнейший в мире издатель научной литературы. Учитывая, что и Springer, и Macmillan активно экспериментировали с электронным книгоизданием, появился серьёзный лоббист интересов издателей научной литературы по части стандартов. Может, схему Content Fragment Identifier, наконец, внедрят, и разрешится обычное затруднение людей из академической среды, связанное с электронными книгами, — «а как дать точную ссылку?</description>
+      <guid>//localhost:1313/posts/2015-01-16-a/</guid>
+      <description>&lt;p&gt;Ну, вот, &lt;strong&gt;Springer Science and Business Media&lt;/strong&gt; &lt;a href=&#34;http://publishingperspectives.com/2015/01/springer-science-business-merges-macmillan-science-education/&#34;&gt;сливается&lt;/a&gt; с &lt;strong&gt;Macmillan Science and Education&lt;/strong&gt;. Общий оборот издательской группы составит 1,5 млрд €. Крупнейший в мире издатель научной литературы. Учитывая, что и Springer, и Macmillan активно экспериментировали с электронным книгоизданием, появился серьёзный лоббист интересов издателей научной литературы по части стандартов. Может, схему Content Fragment Identifier, наконец, внедрят, и разрешится обычное затруднение людей из академической среды, связанное с электронными книгами, — «а как дать точную ссылку?»&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Amazon и Hachette договорились</title>
-      <link>/posts/2014-11-13-a/</link>
+      <link>//localhost:1313/posts/2014-11-13-a/</link>
       <pubDate>Thu, 13 Nov 2014 18:05:35 +0000</pubDate>
-      
-      <guid>/posts/2014-11-13-a/</guid>
-      <description>The Guardian пишет, что спор закончился. Hachette гордо заявило, что само будет устанавливать цены и получил лучшее продвижение. Amazon гордо заявила, что цены на электронные книги будут низкими. И что? Hachette будет самостоятельно устанавливать низкие цены? Деталей пока нет.</description>
+      <guid>//localhost:1313/posts/2014-11-13-a/</guid>
+      <description>&lt;p&gt;The Guardian &lt;a href=&#34;http://bit.ly/1v8MbAV&#34;&gt;пишет&lt;/a&gt;, что спор закончился. Hachette гордо заявило, что само будет устанавливать цены и получил лучшее продвижение. Amazon гордо заявила, что цены на электронные книги будут низкими. И что? Hachette будет самостоятельно устанавливать низкие цены? Деталей пока нет.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Amazon покупает Simon &amp; Schuster?</title>
-      <link>/posts/2014-07-16-b/</link>
+      <link>//localhost:1313/posts/2014-07-16-b/</link>
       <pubDate>Wed, 16 Jul 2014 10:56:18 +0000</pubDate>
-      
-      <guid>/posts/2014-07-16-b/</guid>
-      <description>Amazon in Talks with Simon &amp;amp; Schuster - Acquisition? | The Digital Reader.
-Идея дикая, но, ка кни странно, вполне логичная. Есть ли у Amazon своя издательская стратегия? Есть: у него уже целая рота импринтов. Может ли Amazon купить Simon &amp;amp; Schuster? Денег хватит. S&amp;amp;S — большое, но самое маленькое издательство «Большой пятёрки» со своей, хоть и скромной, дистрибуцией. Продадут ли Amazon? Владелец S&amp;amp;S медиахолдинг CBS вполне может отказаться от актива.</description>
+      <guid>//localhost:1313/posts/2014-07-16-b/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://the-digital-reader.com/2014/07/15/amazon-talks-simon-schuster-acquisition/#.U8ZRoYCSw7c&#34;&gt;Amazon in Talks with Simon &amp;amp; Schuster - Acquisition? | The Digital Reader&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Идея дикая, но, ка кни странно, вполне логичная. Есть ли у Amazon своя издательская стратегия? Есть: у него уже целая рота импринтов. Может ли Amazon купить Simon &amp;amp; Schuster? Денег хватит. S&amp;amp;S — большое, но самое маленькое издательство «Большой пятёрки» со своей, хоть и скромной, дистрибуцией. Продадут ли Amazon? Владелец S&amp;amp;S медиахолдинг CBS вполне может отказаться от актива. Разрешит ли антимонопольное ведомство США? Не исключено. Захочет ли Amazon, наконец? В рамках стратегии вытеснения издателей — да. Так что, если случится, будет весело.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Сама, сама, сама. Английские сами себя издатели</title>
-      <link>/posts/2014-07-14-a/</link>
+      <link>//localhost:1313/posts/2014-07-14-a/</link>
       <pubDate>Mon, 14 Jul 2014 09:48:43 +0000</pubDate>
-      
-      <guid>/posts/2014-07-14-a/</guid>
-      <description>Self-publishing, meanwhile, is becoming an increasingly attractive option for writers, according to the survey, which found that just over 25% of writers had published something themselves. Writers were investing a mean of £2,470 in publishing their own work, with the median investment at £500, and typically recouping their investment plus 40%. Eighty-six per cent of those who had self-published said they would do so again.
- via Traditional publishing is &amp;lsquo;no longer fair or sustainable&amp;rsquo;, says Society of Authors | Books | theguardian.</description>
+      <guid>//localhost:1313/posts/2014-07-14-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Self-publishing, meanwhile, is becoming an increasingly attractive option for writers, according to the survey, which found that just over 25% of writers had published something themselves. Writers were investing a mean of £2,470 in publishing their own work, with the median investment at £500, and typically recouping their investment plus 40%. Eighty-six per cent of those who had self-published said they would do so again.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.theguardian.com/books/2014/jul/11/traditional-publishing-fair-sustainable-society-of-authors&#34;&gt;Traditional publishing is &amp;rsquo;no longer fair or sustainable&amp;rsquo;, says Society of Authors | Books | theguardian.com&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>e &#43; Verso. Ведущее левое издательство начинает дистрибуцию электронных книг</title>
-      <link>/posts/2014-03-27-a/</link>
+      <link>//localhost:1313/posts/2014-03-27-a/</link>
       <pubDate>Thu, 27 Mar 2014 16:35:18 +0000</pubDate>
-      
-      <guid>/posts/2014-03-27-a/</guid>
-      <description>Английское издательство Verso, наверное, лучшее издательство критических текстов, 8 апреля 2014 года открывает собственный интернет-магазин. Судя по пресс-релизу, в продажу поступят и новинки, и backlist. Причём издательство будет продавать бумажные книги с бесплатной (!) доставкой по всему миру и вместе с электронной копией книги, снабжённой social DRM от компании Booxtream (с видимыми и невидимыми метками, идентифицирующими покупателя книги).
-Если я правильно понял пресс-релиз, то для электронных книг предполагается некая «библиотека». Поскольку сайт издательства достаточно популярен (65 тысяч уникальных посетителей в месяц), оно рассчитывает заработать в первый же год £200,000.</description>
+      <guid>//localhost:1313/posts/2014-03-27-a/</guid>
+      <description>&lt;p&gt;Английское издательство &lt;a href=&#34;http://www.versobooks.com/&#34;&gt;Verso&lt;/a&gt;, наверное, лучшее издательство критических текстов, 8 апреля 2014 года открывает собственный интернет-магазин. Судя по &lt;a href=&#34;http://www.digitalbookworld.com/2014/verso-books-launches-e-commerce-site-ebook-bundling/&#34;&gt;пресс-релизу&lt;/a&gt;, в продажу поступят и новинки, и backlist. Причём издательство будет продавать бумажные книги с бесплатной (!) доставкой по всему миру и вместе с электронной копией книги, снабжённой social DRM от компании Booxtream (с видимыми и невидимыми метками, идентифицирующими покупателя книги).&lt;/p&gt;&#xA;&lt;p&gt;Если я правильно понял пресс-релиз, то для электронных книг предполагается некая «библиотека». Поскольку сайт издательства достаточно популярен (65 тысяч уникальных посетителей в месяц), оно рассчитывает заработать в первый же год £200,000. P. S. А ещё у Verso всегда было ОК с дизайном обложек.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Краткое пособие по нишевому электронному книгоизданию</title>
-      <link>/posts/2013-02-25-d/</link>
+      <link>//localhost:1313/posts/2013-02-25-d/</link>
       <pubDate>Mon, 25 Feb 2013 13:12:52 +0000</pubDate>
-      
-      <guid>/posts/2013-02-25-d/</guid>
-      <description></description>
+      <guid>//localhost:1313/posts/2013-02-25-d/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
-    
     <item>
       <title>Are we over-thinking EPUB? - Tools of Change for Publishing</title>
-      <link>/posts/2013-02-25-b/</link>
+      <link>//localhost:1313/posts/2013-02-25-b/</link>
       <pubDate>Mon, 25 Feb 2013 13:10:18 +0000</pubDate>
-      
-      <guid>/posts/2013-02-25-b/</guid>
-      <description>The future of the book is inherently linked to the browser. Discussion of EPUB as a technology somehow ‘separate’ from browsers is not helping us see that very rich and quite unbelievable future, one that is entirely different to what is in front of us now. If we see EPUB as something other than a subset browser functionality we are not seeing the present or the future clearly.I’m not sure what is holding us back from this way of seeing things.</description>
+      <guid>//localhost:1313/posts/2013-02-25-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The future of the book is inherently linked to the browser. Discussion of EPUB as a technology somehow ‘separate’ from browsers is not helping us see that very rich and quite unbelievable future, one that is entirely different to what is in front of us now. If we see EPUB as something other than a subset browser functionality we are not seeing the present or the future clearly.I’m not sure what is holding us back from this way of seeing things. It could be that we somehow consider the browser too mundane to be the future of the book. It could be that the browser is too scary as it gestures strongly in the direction of ‘the web’ and content out ‘in the wild’. It could be that all of this triggers challenges we don’t want to consider – challenges to current business models, the status value of the book, professional pride, roles, and infrastructure. Whatever it is, I am sure it’s there; legacy ideas that prevent us from understanding what is actually going on, from understanding that an EPUB is nothing special.We could perhaps clarify this by calling EPUB a standard for ‘portable websites’ and stop talking about books altogether.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Inkling Habitat и издатели</title>
-      <link>/posts/2013-02-13-a/</link>
+      <link>//localhost:1313/posts/2013-02-13-a/</link>
       <pubDate>Wed, 13 Feb 2013 22:17:51 +0000</pubDate>
-      
-      <guid>/posts/2013-02-13-a/</guid>
-      <description>Небезынтересное дополнение ко вчерашней новости о запуске онлайнового редактора электронных учебников Inkling Habitat: Inkling уже в партнёрах у Pearson, Wolters-Kluwer (крупнейший издатель книг по медицине), Harper Collins, Dorling Kindersley и Lonely Planet. Плюс к этому на Habitat будут делаться и через Inkling распространяться 50 открытых учебников для колледжей, на которые переходит Калифорния. А McGraw-Hill, Elsevier, Wiley (путеводители Frommer’s, серия For Dummies) и O’Reilly начали делать некоторые книги на этой платформе в период тестирования.</description>
+      <guid>//localhost:1313/posts/2013-02-13-a/</guid>
+      <description>&lt;p&gt;Небезынтересное дополнение ко вчерашней новости о запуске онлайнового редактора электронных учебников &lt;a href=&#34;http://www.inkling.com/habitat/&#34;&gt;Inkling Habitat&lt;/a&gt;: Inkling уже в партнёрах у Pearson, Wolters-Kluwer (крупнейший издатель книг по медицине), Harper Collins, Dorling Kindersley и Lonely Planet. Плюс к этому на Habitat будут делаться и через Inkling распространяться 50 открытых учебников для колледжей, на которые переходит Калифорния. А McGraw-Hill, Elsevier, Wiley (путеводители Frommer’s, серия For Dummies) и O’Reilly начали делать некоторые книги на этой платформе в период тестирования. Inkling сделала то, что действительно нужно индустрии. Не может не вызывать уважения.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Pearson купил кусочек будущего. Возможно, неудачного</title>
-      <link>/posts/2013-01-03-a/</link>
+      <link>//localhost:1313/posts/2013-01-03-a/</link>
       <pubDate>Thu, 03 Jan 2013 06:20:00 +0000</pubDate>
-      
-      <guid>/posts/2013-01-03-a/</guid>
-      <description>Незадолго до Нового года Pearson и Barnes &amp;amp; Noble объявили о том, что Pearson покупает 5% Nook Media, оперирующей продажами букридеров и планшетников Nook и электронных книг. Покупая долю продавца электронных книг, Pearson сделало ставку на альтернативу Amazon и Apple на будущем рынке электронных учебников. Плюс получила эксклюзивный доступ в 674 книжных магазина Barnes &amp;amp; Noble d американских университетах. Всё бы ок, да вот только предпраздничные продажи Nook оказались хуже ожиданий.</description>
+      <guid>//localhost:1313/posts/2013-01-03-a/</guid>
+      <description>&lt;p&gt;Незадолго до Нового года Pearson и Barnes &amp;amp; Noble объявили о том, что Pearson покупает 5% Nook Media, оперирующей продажами букридеров и планшетников Nook и электронных книг. Покупая долю продавца электронных книг, Pearson сделало ставку на альтернативу Amazon и Apple на будущем рынке электронных учебников. Плюс получила эксклюзивный доступ в 674 книжных магазина Barnes &amp;amp; Noble d американских университетах. Всё бы ок, да вот только предпраздничные продажи Nook оказались хуже ожиданий.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Закон эл.индустрии N1 от Капитана очевидность</title>
-      <link>/posts/2012-12-13-a/</link>
+      <link>//localhost:1313/posts/2012-12-13-a/</link>
       <pubDate>Thu, 13 Dec 2012 10:15:32 +0000</pubDate>
-      
-      <guid>/posts/2012-12-13-a/</guid>
-      <description>Как вы думаете, кто из издателей больше всего преуспевает на электронном рынке? Общение с издателями дало очевидный ответ: больше всего электронных книг продают те, кто рискнул начать это раньше. В отличие от издателей, которые ждут до сих пор и не знают, как, что и кому продавать (и стоит ли?), те, кто начал это делать два года назад, есть издательства с долей в 8-10% продаж электронных книг.</description>
+      <guid>//localhost:1313/posts/2012-12-13-a/</guid>
+      <description>&lt;p&gt;Как вы думаете, кто из издателей больше всего преуспевает на электронном рынке? Общение с издателями дало очевидный ответ: больше всего электронных книг продают те, кто рискнул начать это раньше. В отличие от издателей, которые ждут до сих пор и не знают, как, что и кому продавать (и стоит ли?), те, кто начал это делать два года назад, есть издательства с долей в 8-10% продаж электронных книг.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>От «Большой шестёрки» останется «Большая тройка»</title>
-      <link>/posts/2012-11-20-a/</link>
+      <link>//localhost:1313/posts/2012-11-20-a/</link>
       <pubDate>Tue, 20 Nov 2012 22:44:09 +0000</pubDate>
-      
-      <guid>/posts/2012-11-20-a/</guid>
-      <description>News Corp, which owns book publisher HarperCollins, is reportedly in “preliminary” talks to buy CBS’s Simon &amp;amp; Schuster, according to a report in the News Corp-owned Wall Street Journal.
- via HarperCollins, Simon &amp;amp; Schuster reportedly in “preliminary” merger talks — paidContent
-Вслед за объявлением о возможном влиянии Penguin и Random House появилась информация о переговорах, которые ведёт мердоковская News Corp., владеющая издательством HarperCollins, с CBS, которой принадлежит издательство Simon &amp;amp; Schuster.</description>
+      <guid>//localhost:1313/posts/2012-11-20-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;News Corp, which owns book publisher HarperCollins, is reportedly in “preliminary” talks to buy CBS’s Simon &amp;amp; Schuster, according to a report in the News Corp-owned Wall Street Journal.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://paidcontent.org/2012/11/20/harpercollins-simon-schuster-reportedly-in-preliminary-merger-talks/&#34;&gt;HarperCollins, Simon &amp;amp; Schuster reportedly in “preliminary” merger talks — paidContent&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Вслед за объявлением о возможном влиянии Penguin и Random House появилась информация о переговорах, которые ведёт мердоковская News Corp., владеющая издательством HarperCollins, с CBS, которой принадлежит издательство Simon &amp;amp; Schuster. «Свободными» из бывшей «Большой шестёрки» американских издательств, выпускающих массовую неспециализированную литературу, останутся только Hachette, которое и так сама по себе большое, и Macmillan и пр. — американская группа издательств международной издательской компании Георга фон Хольцбринка.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>26% выручки Simon &amp; Schuster</title>
-      <link>/posts/2012-05-03-a/</link>
+      <link>//localhost:1313/posts/2012-05-03-a/</link>
       <pubDate>Thu, 03 May 2012 12:04:48 +0000</pubDate>
-      
-      <guid>/posts/2012-05-03-a/</guid>
-      <description>Digital revenues for Simon &amp;amp; Schuster US climbed 64% in the first quarter of the year, while print sales also rose.
-In S&amp;amp;S’ parent company CBS Corporation’s financial results for the first quarter to 31st March 2012, the company said publishing revenues increased 14% to $176m from $155m for the same period last year.
-S&amp;amp;S attributed the hike in sales to its digital publishing arm, which represented 26% of the company’s total revenues, its “highest to date” according to the publisher.</description>
+      <guid>//localhost:1313/posts/2012-05-03-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Digital revenues for Simon &amp;amp; Schuster US climbed 64% in the first quarter of the year, while print sales also rose.&lt;/p&gt;&#xA;&lt;p&gt;In S&amp;amp;S’ parent company CBS Corporation’s financial results for the first quarter to 31st March 2012, the company said publishing revenues increased 14% to $176m from $155m for the same period last year.&lt;/p&gt;&#xA;&lt;p&gt;S&amp;amp;S attributed the hike in sales to its digital publishing arm, which represented 26% of the company’s total revenues, its “highest to date” according to the publisher. S&amp;amp;S US also increased its sales of print books; the company said operating income before depreciation and amortization (OIBDA) increased 43% to $10m from $7m for the same period the year before.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ой, как всё серьёзно с иском американского минюста против Apple и издателей</title>
-      <link>/posts/2012-04-11-c/</link>
+      <link>//localhost:1313/posts/2012-04-11-c/</link>
       <pubDate>Wed, 11 Apr 2012 21:54:05 +0000</pubDate>
-      
-      <guid>/posts/2012-04-11-c/</guid>
-      <description>The 16 states that filed suit today seek “consumer restitution.” Hachette and HarperCollins reached settlements with the states today and agreed to pay $52 million in damages.
- via paidcontent.org
-Там ещё и 16 штатов. И Hachette с HaperCollins уже сдались и заплатят $52 млн. А вот Macmillan и Penguin будут сражаться.
-И только в России всем по барабану, почему книги так дорого стоят и при этом никому от этого особенно не сладко.</description>
+      <guid>//localhost:1313/posts/2012-04-11-c/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The 16 states that filed suit today seek “consumer restitution.” Hachette and HarperCollins reached settlements with the states today and agreed to pay $52 million in damages.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://paidcontent.org/2012/04/11/everything-you-need-to-know-about-e-book-doj-lawsuit-in-one-post/&#34;&gt;paidcontent.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Там ещё и 16 штатов. И Hachette с HaperCollins уже сдались и заплатят $52 млн. А вот Macmillan и Penguin будут сражаться.&lt;br&gt;&#xA;И только в России всем по барабану, почему книги так дорого стоят и при этом никому от этого особенно не сладко.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Независимый альянс и электронные книги</title>
-      <link>/posts/2012-04-10-a/</link>
+      <link>//localhost:1313/posts/2012-04-10-a/</link>
       <pubDate>Tue, 10 Apr 2012 11:00:51 +0000</pubDate>
-      
-      <guid>/posts/2012-04-10-a/</guid>
-      <description>— Планируете ли в рамках Альянса формировать соответствующую инфраструктуру для грамотного представления электронных книг, их покупки, чтения?
-М. Котомин: Конечно. Только надо понимать, что Альянс – это не палочка-выручалочка, и это не те лю ди, которые будут создавать инфраструктуру. Мы планируем объединять существующие проекты. Например, есть интересное начинание – Bookmate, мы с ними будем сотрудничать. Но наша главная задача – собрать информацию и предоставить её людям. Не такая большая проблема, где человек получит книгу.</description>
+      <guid>//localhost:1313/posts/2012-04-10-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;— Планируете ли в рамках Альянса формировать соответствующую инфраструктуру для грамотного представления электронных книг, их покупки, чтения?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;М. Котомин&lt;/strong&gt;: Конечно. Только надо понимать, что Альянс – это не палочка-выручалочка, и это не те лю ди, которые будут создавать инфраструктуру. Мы планируем объединять существующие проекты. Например, есть интересное начинание – Bookmate, мы с ними будем сотрудничать. Но наша главная задача – собрать информацию и предоставить её людям. Не такая большая проблема, где человек получит книгу. Он может заказать её на OZON.ru, купить в провинциальном магазине, скачать платно или бесплатно. Важно, чтобы читатель знал о её существовании.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Выручка падает, прибыль растет. Спасибо эл.книгам</title>
-      <link>/posts/2012-04-04-a/</link>
+      <link>//localhost:1313/posts/2012-04-04-a/</link>
       <pubDate>Wed, 04 Apr 2012 08:19:37 +0000</pubDate>
-      
-      <guid>/posts/2012-04-04-a/</guid>
-      <description>Large book publishers’ most recent earnings reports reflect a new normal: Revenues are roughly flat, but profits are up — in large part due to e-books.
-In the 2011 Bertelsmann annual report released this week, Random House said it has nearly 40,000 titles available as e-books worldwide, and while revenues were down for the year, “operating EBIT was higher year on year, especially in the United States. This rise was helped by continued cost-cutting measures and lower return rates in North America and the United Kingdom due to increased e-book sales.</description>
+      <guid>//localhost:1313/posts/2012-04-04-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Large book publishers’ most recent earnings reports reflect a new normal: Revenues are roughly flat, but profits are up — in large part due to e-books.&lt;br&gt;&#xA;In the 2011 Bertelsmann annual report &lt;a href=&#34;https://cms.bertelsmann.de/bertelsmann_corp/wms41/customers/bmir/pdf/Annual_Report_2011.pdf&#34; title=&#34;released&#34;&gt;released&lt;/a&gt; this week, Random House said it has nearly 40,000 titles available as e-books worldwide, and while revenues were down for the year, “operating EBIT was higher year on year, especially in the United States. This rise was helped by continued cost-cutting measures and lower return rates in North America and the United Kingdom due to increased e-book sales.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>У кого как, а у Hachette...</title>
-      <link>/posts/2012-03-30-b/</link>
+      <link>//localhost:1313/posts/2012-03-30-b/</link>
       <pubDate>Fri, 30 Mar 2012 09:29:50 +0000</pubDate>
-      
-      <guid>/posts/2012-03-30-b/</guid>
-      <description>announcing that e-books sales were 250% up in February year-on-year with March looking “even better.”
- via thebookseller.com
-Продажи эл.книг Hachette в феврале 2012-го в 2,5 раза больше прошлогодних.</description>
+      <guid>//localhost:1313/posts/2012-03-30-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;announcing that e-books sales were 250% up in February year-on-year with March looking “even better.”&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.thebookseller.com/news/revolutionary-website-plans-hachette-uk.html&#34;&gt;thebookseller.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Продажи эл.книг Hachette в феврале 2012-го в 2,5 раза больше прошлогодних.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Итоги цифровых продаж</title>
-      <link>/posts/2012-01-18-a/</link>
+      <link>//localhost:1313/posts/2012-01-18-a/</link>
       <pubDate>Wed, 18 Jan 2012 20:07:40 +0000</pubDate>
-      
-      <guid>/posts/2012-01-18-a/</guid>
-      <description>How Publishers’ Digital Revenues Stack Up
- via paidcontent.org
-paidContent свели в таблицу победные реляции крупных издательств о цифровых продажах. Lagardere с Bertelsmann впереди всех с 1/5 всех продаж.</description>
+      <guid>//localhost:1313/posts/2012-01-18-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;How Publishers’ Digital Revenues Stack Up&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://paidcontent.org/table/how-publishers-digital-revenues-stack-up&#34;&gt;paidcontent.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;paidContent свели в таблицу победные реляции крупных издательств о цифровых продажах. Lagardere с Bertelsmann впереди всех с 1/5 всех продаж.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Депрессия американских издателей</title>
-      <link>/posts/2012-01-12-c/</link>
+      <link>//localhost:1313/posts/2012-01-12-c/</link>
       <pubDate>Thu, 12 Jan 2012 20:02:44 +0000</pubDate>
-      
-      <guid>/posts/2012-01-12-c/</guid>
-      <description>Depressing new research by Forrester indicates that book publishers are becoming increasingly disheartened about the state of the industry: Only 28 percent of publishing executives think their company will be better off because of the transition to digital, down from 51 percent a year ago.
-The survey was conducted among book publishing executives at publishers across the U.S. that represent 74 percent of U.S. publishing revenues. Forrester will present the full results of the study at Digital Book World in NYC on January 24, but the initial findings are as follows:</description>
+      <guid>//localhost:1313/posts/2012-01-12-c/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Depressing new research by Forrester indicates that book publishers are becoming increasingly disheartened about the state of the industry: Only 28 percent of publishing executives think their company will be better off because of the transition to digital, down from 51 percent a year ago.&lt;/p&gt;&#xA;&lt;p&gt;The survey was conducted among book publishing executives at publishers across the U.S. that represent 74 percent of U.S. publishing revenues. Forrester will present the full results of the study at Digital Book World in NYC on January 24, but the initial findings are as follows:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Написал про FutureBook 2011: «Издатель — это тот, кто между автором и читателем» | Pro-Books.ru</title>
-      <link>/posts/2011-12-28-1/</link>
+      <link>//localhost:1313/posts/2011-12-28-1/</link>
       <pubDate>Wed, 28 Dec 2011 09:53:51 +0000</pubDate>
-      
-      <guid>/posts/2011-12-28-1/</guid>
-      <description>via pro-books.ru
-Написал в Bookmate Publisher Review о конференции FutureBook 2011, которую организовал английский The Bookseller в начале декабря.</description>
+      <guid>//localhost:1313/posts/2011-12-28-1/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://pro-books.ru/sitearticles/8454&#34;&gt;pro-books.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Написал в Bookmate Publisher Review о конференции FutureBook 2011, которую организовал английский The Bookseller в начале декабря.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Взгляд редактора Random House на цифровое книгоиздание « Блог Bookmate</title>
-      <link>/posts/2011-12-09-1/</link>
+      <link>//localhost:1313/posts/2011-12-09-1/</link>
       <pubDate>Fri, 09 Dec 2011 10:44:09 +0000</pubDate>
-      
-      <guid>/posts/2011-12-09-1/</guid>
-      <description>Дэн Франклин, редактор цифрового направления Random House Group UK, рассказал о проблемах цифровой литературы, поделился идеями и показал успешные примеры зарубежных разработок.</description>
+      <guid>//localhost:1313/posts/2011-12-09-1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://blog.bookmate.com/2011/12/09/dan-franklin-video/&#34;&gt;Дэн Франклин, редактор цифрового направления Random House Group UK, рассказал о проблемах цифровой литературы, поделился идеями и показал успешные примеры зарубежных разработок.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Талант предсказателя</title>
-      <link>/posts/2011-10-11-3/</link>
+      <link>//localhost:1313/posts/2011-10-11-3/</link>
       <pubDate>Tue, 11 Oct 2011 08:02:29 +0000</pubDate>
-      
-      <guid>/posts/2011-10-11-3/</guid>
-      <description>Олег Бартенев, коммерческий директор издательства АСТ
-Если «Эксмо» решит купить «ЛитРес», это будет очень глупо. Думаю, «ЛитРес» ничего не стоит. Во-первых, в нем по-прежнему масса «нелегитимки», во-вторых, у них нет прямых прав на книги, так что они будут вынуждены пользоваться тем, что им поставляет «Эксмо» до тех пор, пока они не создадут собственный магазин.
-Даже если сделка между «ЛитРесом» и «Эксмо» состоится, на издательстве АСТ это никак не скажется, у нас есть свой электронный магазин, очень похожий на «ЛитРес».</description>
+      <guid>//localhost:1313/posts/2011-10-11-3/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Олег Бартенев, коммерческий директор издательства АСТ&lt;/p&gt;&#xA;&lt;p&gt;Если «Эксмо» решит купить «ЛитРес», это будет очень глупо. Думаю, «ЛитРес» ничего не стоит. Во-первых, в нем по-прежнему масса «нелегитимки», во-вторых, у них нет прямых прав на книги, так что они будут вынуждены пользоваться тем, что им поставляет «Эксмо» до тех пор, пока они не создадут собственный магазин.&lt;/p&gt;&#xA;&lt;p&gt;Даже если сделка между «ЛитРесом» и «Эксмо» состоится, на издательстве АСТ это никак не скажется, у нас есть свой электронный магазин, очень похожий на «ЛитРес».&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Всё-таки издатели должны мало-мальски разбираться в том, о чём говорят</title>
-      <link>/posts/2011-10-03-1/</link>
+      <link>//localhost:1313/posts/2011-10-03-1/</link>
       <pubDate>Mon, 03 Oct 2011 10:52:57 +0000</pubDate>
-      
-      <guid>/posts/2011-10-03-1/</guid>
-      <description>Если в США десятки миллионов проданных iPad, на которые получить информацию можно только через библиотеку Apple с лицензионными продуктами, то вопрос в принципе не стоит о пиратстве для тех людей, которые находятся в этой зоне. У нас же «пиратствуют» везде.
- via pro-books.ru
-Или они перестанут быть издателями. Судя по словам Бартеньева, вероятнее второе.</description>
+      <guid>//localhost:1313/posts/2011-10-03-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Если в США десятки миллионов проданных iPad, на которые получить информацию можно только через библиотеку Apple с лицензионными продуктами, то вопрос в принципе не стоит о пиратстве для тех людей, которые находятся в этой зоне. У нас же «пиратствуют» везде.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://pro-books.ru/sitearticles/7945&#34;&gt;pro-books.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Или они перестанут быть издателями. Судя по словам Бартеньева, вероятнее второе.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Четыре премьера и четыре премьеры, или «Бумажный &#34;Титаник&#34;-2»</title>
-      <link>/posts/2011-09-28-1/</link>
+      <link>//localhost:1313/posts/2011-09-28-1/</link>
       <pubDate>Wed, 28 Sep 2011 19:29:31 +0000</pubDate>
-      
-      <guid>/posts/2011-09-28-1/</guid>
-      <description>Спасибо устроителям, побывал на съезде Российского книжного союза. Послушал речи аж четырёх премьеров-министров — одного бывшего и другого, который сразу 3-в-одном: бывший, нынешний и будущий бывший. Последний сильно порадовал новостью о том, что продажи «так называемых ридеров» выросли в 200 раз. И что льготные пошлины за меловку с февраля будущего года будут отменены «аккуратно», чтобы поддержать отечественных производителей бумаги. То есть книги будут не только дорогими, но ещё и на плохой бумаге.</description>
+      <guid>//localhost:1313/posts/2011-09-28-1/</guid>
+      <description>&lt;p&gt;Спасибо устроителям, побывал на съезде Российского книжного союза. Послушал речи аж четырёх премьеров-министров — одного бывшего и другого, который сразу 3-в-одном: бывший, нынешний и будущий бывший. Последний сильно порадовал новостью о том, что продажи «так называемых ридеров» выросли в 200 раз. И что льготные пошлины за меловку с февраля будущего года будут отменены «аккуратно», чтобы поддержать отечественных производителей бумаги. То есть книги будут не только дорогими, но ещё и на плохой бумаге. И что тот, что другой — в один голос суровыми голосами обещали более решительно бороться с пиратством. И эта суровость гулом одобрения отзывалась в сердцах делегатов съезда.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Afictionado: сервис MacMillan по прокату книг</title>
-      <link>/posts/2011-09-15-4/</link>
+      <link>//localhost:1313/posts/2011-09-15-4/</link>
       <pubDate>Thu, 15 Sep 2011 14:32:42 +0000</pubDate>
-      
-      <guid>/posts/2011-09-15-4/</guid>
-      <description>a fresh new website where you can borrow ebooks for your computer, tablet, smartphone or ebook reader; the freedom to read anything, anytime, anywhere.  Welcome to a new way of reading. Afictionado is a fresh new website where you can borrow ebooks for your computer, tablet, smartphone or ebook reader. Browse our online library and choose from thousands of titles. Read sample chapters to get a feel for your favourites.</description>
+      <guid>//localhost:1313/posts/2011-09-15-4/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;a fresh new website where you can borrow ebooks for your computer, tablet, smartphone or ebook reader; the freedom to read anything, anytime, anywhere.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Welcome to a new way of reading. Afictionado is a fresh new website where you can borrow ebooks for your computer, tablet, smartphone or ebook reader. Browse our online library and choose from thousands of titles. Read sample chapters to get a feel for your favourites. And then borrow the ones you want. It couldn’t be simpler!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Издательская реальность (крик души)</title>
-      <link>/posts/2011-09-08-1/</link>
+      <link>//localhost:1313/posts/2011-09-08-1/</link>
       <pubDate>Thu, 08 Sep 2011 19:43:01 +0000</pubDate>
-      
-      <guid>/posts/2011-09-08-1/</guid>
-      <description>Возвращаясь сегодня с книжной ярмарки, посчитал, сколько вокруг меня в вагоне метро (именно вокруг — народу было много, так что за весь вагон не поручусь) ехало людей, которые уткнулись в текст или устройство: 9 человек. Из них 1 читал букридер (Достоевский, «Преступление и наказание»), 3 читали в смартфонах (один — какую-то ересь про планету Набу, другой — руководство по какой-то карточной игре, третий далеко сидел), 1 в iPod смотрел фильм, 2 читали книги (какие — не оцифровал), 2 читали газеты.</description>
+      <guid>//localhost:1313/posts/2011-09-08-1/</guid>
+      <description>&lt;p&gt;Возвращаясь сегодня с книжной ярмарки, посчитал, сколько вокруг меня в вагоне метро (именно вокруг — народу было много, так что за весь вагон не поручусь) ехало людей, которые уткнулись в текст или устройство: 9 человек. Из них 1 читал букридер (Достоевский, «Преступление и наказание»), 3 читали в смартфонах (один — какую-то ересь про планету Набу, другой — руководство по какой-то карточной игре, третий далеко сидел), 1 в iPod смотрел фильм, 2 читали книги (какие — не оцифровал), 2 читали газеты. По носителям 5:4 — устройства. По книгам 4:2 в пользу устройств. По медиа 8:1 в пользу текста. Это реальность. Примерно такая же, с которой я теперь почти каждый день встречаюсь в московском метро. И вы, наверное, тоже, если в этом метро ездите. В этой реальности, как подсказывает ВЦИОМ, 21-22 млн человек читают электронные книги. И читают довольно много. Откуда они эти книги берут, догадаться несложно: оттуда, где они есть. Читателю, в общем, всегда было все равно, где брать книги, лишь бы они там были и по силам было их получить — в библиотеке, у друзей, в магазине, на «яме». И книгу не зазорно дать почитать другу, приятелю, знакомому. Сейчас даже проще, чем раньше — можно просто переслать по электронной почте. Скопировать. Раньше было сложно, а теперь — клик мышкой. Кроме этого — ничего не изменилось.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20% продаж Hachette US приходится на электронные книги. Спросите Уокли, как он этого добился</title>
-      <link>/posts/2011-09-01-a/</link>
+      <link>//localhost:1313/posts/2011-09-01-a/</link>
       <pubDate>Thu, 01 Sep 2011 13:01:45 +0000</pubDate>
-      
-      <guid>/posts/2011-09-01-a/</guid>
-      <description>Hachette Book Group says that e-books made up 20 percent of its U.S. sales in the first half of this year, up from 10 percent in the first half of 2010.
-Hachette Book Group says its e-book revenue is up 115 percent compared to the first half of 2010, although the company did not break out actual sales figures. In addition to the 20 percent in the U.S., e-books now account for 8 percent of trade sales in the UK, up from 4 percent in the first half of 2010.</description>
+      <guid>//localhost:1313/posts/2011-09-01-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Hachette Book Group says that e-books made up 20 percent of its U.S. sales in the first half of this year, up from 10 percent in the first half of 2010.&lt;/p&gt;&#xA;&lt;p&gt;Hachette Book Group says its e-book revenue is up 115 percent compared to the first half of 2010, although the company did not break out actual sales figures. In addition to the 20 percent in the U.S., e-books now account for 8 percent of trade sales in the UK, up from 4 percent in the first half of 2010.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Pan Macmillan запускает электронный импринт Momentum</title>
-      <link>/posts/2011-08-24-3/</link>
+      <link>//localhost:1313/posts/2011-08-24-3/</link>
       <pubDate>Wed, 24 Aug 2011 12:38:32 +0000</pubDate>
-      
-      <guid>/posts/2011-08-24-3/</guid>
-      <description>PAN MACMILLAN AUSTRALIA announced today the launch of MOMENTUM, its new digital-only imprint. Momentum will publish an exciting and vibrant list of new works from established and emerging authors, as well as partnering with agents and individual copyright holders to digitally republish titles that are currently unavailable in print. Publishing ebooks and utilising print-on-demand (POD) technology, Momentum aims to make new and old books more accessible than ever before.</description>
+      <guid>//localhost:1313/posts/2011-08-24-3/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;PAN MACMILLAN AUSTRALIA announced today the launch of MOMENTUM, its new digital-only imprint. Momentum will publish an exciting and vibrant list of new works from established and emerging authors, as well as partnering with agents and individual copyright holders to digitally republish titles that are currently unavailable in print. Publishing ebooks and utilising print-on-demand (POD) technology, Momentum aims to make new and old books more accessible than ever before.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.momentumbooks.com.au/Momentum%20Press%20Release.htm&#34;&gt;momentumbooks.com.au&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Пол Карр: &#34;Издатели, не парьтесь о пиратстве&#34;</title>
-      <link>/posts/2011-08-24-5/</link>
+      <link>//localhost:1313/posts/2011-08-24-5/</link>
       <pubDate>Wed, 24 Aug 2011 11:53:27 +0000</pubDate>
-      
-      <guid>/posts/2011-08-24-5/</guid>
-      <description>“Let’s say my goal is to sell 10,000 copies of something. And let’s say that if by putting DRM in it I sell 10,000 copies and I make my money, and if by having no DRM 100,000 copies go into circulation and I still sell 10,000 copies. Which of those is the better outcome?
-I think having 100,000 [books] in circulation and selling 10,000 is way better than having just the 10,000 that are paid for and nobody else benefits.</description>
+      <guid>//localhost:1313/posts/2011-08-24-5/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“Let’s say my goal is to sell 10,000 copies of something. And let’s say that if by putting DRM in it I sell 10,000 copies and I make my money, and if by having no DRM 100,000 copies go into circulation and I still sell 10,000 copies. Which of those is the better outcome?&lt;/p&gt;&#xA;&lt;p&gt;I think having 100,000 [books] in circulation and selling 10,000 is way better than having just the 10,000 that are paid for and nobody else benefits. People who don’t pay you generally wouldn’t have paid you anyway. We’re delighted when people who can’t afford our books don’t pay us for them, if they go out and do something useful with that information.”&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Эл. продажи HarperCollins - 11% выручки</title>
-      <link>/posts/2011-08-11-1/</link>
+      <link>//localhost:1313/posts/2011-08-11-1/</link>
       <pubDate>Thu, 11 Aug 2011 09:23:01 +0000</pubDate>
-      
-      <guid>/posts/2011-08-11-1/</guid>
-      <description>HarperCollins e-book sales now comprise 11% of its total revenue, the company has said following parent NewsCorp&amp;rsquo;s latest results.
- via thebookseller.com
-Передовики электронного книгоиздания ))</description>
+      <guid>//localhost:1313/posts/2011-08-11-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;HarperCollins e-book sales now comprise 11% of its total revenue, the company has said following parent NewsCorp&amp;rsquo;s latest results.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.thebookseller.com/news/harpercollins-e-book-sales-11-revenue.html&#34;&gt;thebookseller.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Передовики электронного книгоиздания ))&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ярмарка независимых издательств 9-10 сентября 2011 в Политехе</title>
-      <link>/posts/2011-08-11-4/</link>
+      <link>//localhost:1313/posts/2011-08-11-4/</link>
       <pubDate>Thu, 11 Aug 2011 08:30:43 +0000</pubDate>
-      
-      <guid>/posts/2011-08-11-4/</guid>
-      <description>9-10 сентября, во дворе Политехнического музея состоится
-Ярмарка независимых книжных издательств.
-Участие бесплатное (регистрационный сбор 500 р. на уборку и плакаты).
-Столы предоставляются.
-Место для хранения книг есть. Будем рады встретиться со старыми друзьями и обзавестись новыми!
-Заявки на участие присылайте на info@admarginem.ru
- via ad-marg.livejournal.com</description>
+      <guid>//localhost:1313/posts/2011-08-11-4/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;9-10 сентября, во дворе Политехнического музея состоится&lt;br&gt;&#xA;&lt;strong&gt;Ярмарка независимых книжных издательств.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Участие бесплатное (регистрационный сбор 500 р. на уборку и плакаты).&lt;br&gt;&#xA;Столы предоставляются.&lt;br&gt;&#xA;Место для хранения книг есть. &lt;br&gt;&#xA;Будем рады встретиться со старыми друзьями и обзавестись новыми!&lt;/p&gt;&#xA;&lt;p&gt;Заявки на участие присылайте на &lt;a href=&#34;http://ad-marg.livejournal.com/170226.html/mailto:info@admarginem.ru&#34;&gt;info@admarginem.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://ad-marg.livejournal.com/170226.html&#34;&gt;ad-marg.livejournal.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>5 книжных мейджоров и Apple подали в суд против Amazon</title>
-      <link>/posts/2011-08-10-b/</link>
+      <link>//localhost:1313/posts/2011-08-10-b/</link>
       <pubDate>Wed, 10 Aug 2011 15:19:11 +0000</pubDate>
-      
-      <guid>/posts/2011-08-10-b/</guid>
-      <description>&amp;ldquo;Terrified&amp;rdquo; by Amazon&amp;rsquo;s Kindle e-reader and discounted e-book pricing, five major publishers allegedly acted together to increase e-book prices and compel Amazon to abandon its discount sales strategy. That&amp;rsquo;s the gist of a new class action antitrust lawsuit filed in the US District Court for the Northern District of California by the Hagens Berman litigation group.
-The five book sellers named in the suit are HarperCollins, Hachette Book Group, Macmillan, Penguin Group Inc.</description>
+      <guid>//localhost:1313/posts/2011-08-10-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Terrified&amp;rdquo; by Amazon&amp;rsquo;s Kindle e-reader and discounted e-book pricing, five major publishers allegedly acted together to increase e-book prices and compel Amazon to abandon its discount sales strategy. That&amp;rsquo;s the gist of a new class action antitrust lawsuit &lt;a href=&#34;http://www.hbsslaw.com/file.php?id=761&amp;amp;key=ecdb5cfd51c029dd03eab73f6ccdd096&#34;&gt;filed&lt;/a&gt; in the US District Court for the Northern District of California by the &lt;a href=&#34;http://www.hbsslaw.com/cases-and-investigations/ebooks&#34;&gt;Hagens Berman litigation group&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The five book sellers named in the suit are HarperCollins, Hachette Book Group, Macmillan, Penguin Group Inc., and Simon &amp;amp; Schuster Inc, plus one more defendant: Apple.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>АСТ купило права на книги Умберто Эко. Все???</title>
-      <link>/posts/2011-08-08-2/</link>
+      <link>//localhost:1313/posts/2011-08-08-2/</link>
       <pubDate>Mon, 08 Aug 2011 08:25:49 +0000</pubDate>
-      
-      <guid>/posts/2011-08-08-2/</guid>
-      <description>В пресс-релизе издательства поп поводу выхода «Имени розы» (извините, в «новом оформлении»; фамилия автора, как, наверное, следовало бы ожидать, прочитать невозможно) гордо сообщается, что «автор теперь в АСТ!».
-Куда катится мир?</description>
+      <guid>//localhost:1313/posts/2011-08-08-2/</guid>
+      <description>&lt;p&gt;В пресс-релизе издательства поп поводу выхода «Имени розы» (извините, в «новом оформлении»; фамилия автора, как, наверное, следовало бы ожидать, прочитать невозможно) гордо сообщается, что «автор теперь в АСТ!».&lt;/p&gt;&#xA;&lt;p&gt;Куда катится мир?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Дополненные книги от Melville House: Hybrid Books</title>
-      <link>/posts/2011-08-05-2/</link>
+      <link>//localhost:1313/posts/2011-08-05-2/</link>
       <pubDate>Fri, 05 Aug 2011 09:58:16 +0000</pubDate>
-      
-      <guid>/posts/2011-08-05-2/</guid>
-      <description>via mhpbooks.com
-На книжке — QR-код, по которому в браузере открывается страница с дополнительными материалами к книге.
-Illuminations for The Duel by Anton Chekhov includes writings by:
-Mikhail Lermontov
-Ivan Goncharov
-Alexander Pushkin
-Herbert Spencer
-Friedrich Nietzsche
-Jack London
-A guide to the game of vint.
-And more</description>
+      <guid>//localhost:1313/posts/2011-08-05-2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://mhpbooks.com/aboutsub.php?id=613&#34;&gt;&lt;img src=&#34;https://lh5.googleusercontent.com/-4iwsQCWfY_M/TjsGJBiNgpI/AAAAAAAAAEc/tEuHMS7m_4Q/s640/Casanova-illumination-backad.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://mhpbooks.com/aboutsub.php?id=613&#34;&gt;mhpbooks.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;На книжке — QR-код, по которому в браузере открывается страница с дополнительными материалами к книге.&lt;/p&gt;&#xA;&lt;p&gt;Illuminations for The Duel by Anton Chekhov includes writings by:&lt;br&gt;&#xA;Mikhail Lermontov&lt;br&gt;&#xA;Ivan Goncharov&lt;br&gt;&#xA;Alexander Pushkin&lt;br&gt;&#xA;Herbert Spencer&lt;br&gt;&#xA;Friedrich Nietzsche&lt;br&gt;&#xA;Jack London&lt;br&gt;&#xA;A guide to the game of vint.&lt;br&gt;&#xA;And more&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Penguin: год, когда всё меняется</title>
-      <link>/posts/2011-07-29-4/</link>
+      <link>//localhost:1313/posts/2011-07-29-4/</link>
       <pubDate>Fri, 29 Jul 2011 13:04:48 +0000</pubDate>
-      
-      <guid>/posts/2011-07-29-4/</guid>
-      <description>Despite the collapse of two of the world&amp;rsquo;s largest high street book chains, the book publisher Penguin lost only £36m in sales in the first half of 2011, while profits narrowed marginally. Digital sales made up 14% of its overall business, resulting in in total sales of £64m at a growth rate of 128%.
- via futurebook.net
-Для Penguin — может быть, 2011-й год и в самом деле станет переломным.</description>
+      <guid>//localhost:1313/posts/2011-07-29-4/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Despite the collapse of two of the world&amp;rsquo;s largest high street book chains, the book publisher Penguin lost only £36m in sales in the first half of 2011, while profits narrowed marginally. &lt;a href=&#34;http://www.thebookseller.com/news/penguins-sales-and-profits-fall-first-half-digital-rises.html&#34; title=&#34;http://www.thebookseller.com/news/penguins-sales-and-profits-fall-first-half-digital-rises.html&#34;&gt;Digital sales made up 14% of its overall business, resulting in in total sales of £64m at a growth rate of 128%&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://futurebook.net/content/2011-was-year-it-all-changed&#34;&gt;futurebook.net&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Для Penguin — может быть, 2011-й год и в самом деле станет переломным. В самом деле: падение (по ср. с первым полугодием 2010-го) общих продаж на 36 млн фунтов, но цифровые продажи — уже 64 млн (и это 14% всех продаж).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Апокалипсис в АСТ</title>
-      <link>/posts/2011-07-29-2/</link>
+      <link>//localhost:1313/posts/2011-07-29-2/</link>
       <pubDate>Fri, 29 Jul 2011 11:42:33 +0000</pubDate>
-      
-      <guid>/posts/2011-07-29-2/</guid>
-      <description>«С 1 по 10 августа пройдет доселе невиданная по масштабам феерически дружественная покупательская акция под названием «Летняя ликвидация в «Букве».
-Любому посетителю магазина «Буква» предоставляется 50% скидка практически* на все книги от самых разных книжных издательств России!
-В акции участвуют: 250 из 380-ти магазинов «Буква» в 69 регионах России; более 50 тысяч книг всех жанров и направлений; более 3000 продавцов и помощников-волонтеров.
-Всего 10 дней дается гражданам России, чтобы приобрести по уникальным ценам самые интересные книги любимых авторов!</description>
+      <guid>//localhost:1313/posts/2011-07-29-2/</guid>
+      <description>&lt;p&gt;«С 1 по 10 августа пройдет доселе невиданная по масштабам феерически дружественная покупательская акция под названием «Летняя ликвидация в «Букве».&lt;/p&gt;&#xA;&lt;p&gt;Любому посетителю магазина «Буква» предоставляется 50% скидка практически* на все книги от самых разных книжных издательств России!&lt;/p&gt;&#xA;&lt;p&gt;В акции участвуют: 250 из 380-ти магазинов «Буква» в 69 регионах России; более 50 тысяч книг всех жанров и направлений; более 3000 продавцов и помощников-волонтеров.&lt;/p&gt;&#xA;&lt;p&gt;Всего 10 дней дается гражданам России, чтобы приобрести по уникальным ценам самые интересные книги любимых авторов! Только в эти 10 дней вы сможете позволить себе ВСЕ! Вы купите даже те книги, о которых и не мечтали!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Какой отличный проект, однако: читательско-издательский кооператив</title>
-      <link>/posts/2011-07-28-1/</link>
+      <link>//localhost:1313/posts/2011-07-28-1/</link>
       <pubDate>Thu, 28 Jul 2011 22:04:55 +0000</pubDate>
-      
-      <guid>/posts/2011-07-28-1/</guid>
-      <description>The story of Ordfront began some 35 years ago in an old smokehouse on the south side of Stockholm and continued on an old farm in Småland, in the south of Sweden. There, the first members of Ordfront devoted themselves to rediscovering the art of printing books, whilst raising sheep and growing potatoes. For many years Ordfront was a marginal enterprise in the Swedish media world, even though the company’s move back to Stockholm meant a geographical relocation back to the centre.</description>
+      <guid>//localhost:1313/posts/2011-07-28-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The story of Ordfront began some 35 years ago in an old smokehouse on the south side of Stockholm and continued on an old farm in Småland, in the south of Sweden. There, the first members of Ordfront devoted themselves to rediscovering the art of printing books, whilst raising sheep and growing potatoes. For many years Ordfront was a marginal enterprise in the Swedish media world, even though the company’s move back to Stockholm meant a geographical relocation back to the centre.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Gollancz запускает баклист в цифру</title>
-      <link>/posts/2011-07-21-2/</link>
+      <link>//localhost:1313/posts/2011-07-21-2/</link>
       <pubDate>Thu, 21 Jul 2011 11:48:25 +0000</pubDate>
-      
-      <guid>/posts/2011-07-21-2/</guid>
-      <description>Double Arthur C Clarke award-wnner Pat Cadigan said: &amp;ldquo;This is exactly what I&amp;rsquo;ve been hoping for now that the digital book is becoming more widespread. I have always said that the e-book will not be the death of the physical book – the e-book will save so many wonderful books from being lost. We have to remember that what we read is the book – what we read it on, whether ink and paper or pixels on a screen, is just the interface.</description>
+      <guid>//localhost:1313/posts/2011-07-21-2/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Double Arthur C Clarke award-wnner Pat Cadigan said: &amp;ldquo;This is exactly what I&amp;rsquo;ve been hoping for now that the digital book is becoming more widespread. I have always said that the e-book will not be the death of the physical book – the e-book will save so many wonderful books from being lost. We have to remember that what we read is the book – what we read it on, whether ink and paper or pixels on a screen, is just the interface. I&amp;rsquo;m honestly thrilled about this new project and delighted to be on the list.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ещё больше Поттера</title>
-      <link>/posts/2011-06-23-a/</link>
+      <link>//localhost:1313/posts/2011-06-23-a/</link>
       <pubDate>Thu, 23 Jun 2011 11:26:30 +0000</pubDate>
-      
-      <guid>/posts/2011-06-23-a/</guid>
-      <description>JK Rowling has revealed that she will release the long-awaited e-books of her mind-bogglingly popular fantasy series through her own ecommerce store and interactive online experience, Pottermore.
-Crucially, Rowling will sell the e-books through a proprietary platform, she revealed at a press conference this morning in the Victoria &amp;amp; Albert museum in London. Because of a shrewd arrangement with her publishers Bloomsbury and Scholastic (or possibly just a short-sighted one on the publishers&#39; side), Rowling retains the digital rights to the seven Harry Potter novels.</description>
+      <guid>//localhost:1313/posts/2011-06-23-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;JK Rowling has revealed that she will release the long-awaited e-books of her mind-bogglingly popular fantasy series through her own ecommerce store and interactive online experience, &lt;a href=&#34;http://www.pottermore.com/&#34;&gt;Pottermore&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Crucially, Rowling will sell the e-books through a proprietary platform, she revealed at a press conference this morning in the Victoria &amp;amp; Albert museum in London. Because of a shrewd arrangement with her publishers Bloomsbury and Scholastic (or possibly just a short-sighted one on the publishers&amp;rsquo; side), Rowling retains the digital rights to the seven &lt;em&gt;Harry Potter&lt;/em&gt; novels. Bloomsbury and Scholastic still have control of print publishing rights.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Random House займётся instant publishing</title>
-      <link>/posts/2011-06-17-c/</link>
+      <link>//localhost:1313/posts/2011-06-17-c/</link>
       <pubDate>Fri, 17 Jun 2011 09:18:19 +0000</pubDate>
-      
-      <guid>/posts/2011-06-17-c/</guid>
-      <description>Speaking at the inaugural Futurebook Innovation Workshop, held in London Bridge, digital editor Dan Franklin announced that five 10,000 word e-books would be released on 28th July, priced £2.99, with Franklin saying the books, and the imprint, will be aiming to fill the space for long-form journalism left as traditional media contracts.
-The specially-commissioned titles, all written by journalists, will be: Kettled Youth by Dan Hancox; The Debt Delusion by Mehdi Hassan; The Revolution Road by Peter Beaumont; Digital Activism or Slack-tivism?</description>
+      <guid>//localhost:1313/posts/2011-06-17-c/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Speaking at the inaugural Futurebook Innovation Workshop, held in London Bridge, digital editor Dan Franklin announced that five 10,000 word e-books would be released on 28th July, priced £2.99, with Franklin saying the books, and the imprint, will be aiming to fill the space for long-form journalism left as traditional media contracts.&lt;/p&gt;&#xA;&lt;p&gt;The specially-commissioned titles, all written by journalists, will be: &lt;em&gt;Kettled Youth&lt;/em&gt; by Dan Hancox; &lt;em&gt;The Debt Delusion&lt;/em&gt; by Mehdi Hassan; &lt;em&gt;The Revolution Road&lt;/em&gt; by Peter Beaumont; &lt;em&gt;Digital Activism or Slack-tivism?&lt;/em&gt; by Tom Chatfield, and Nariman Youssef&amp;rsquo;s &lt;em&gt;Tahrir: 18 Days of Grace&lt;/em&gt;. Speaking to &lt;em&gt;The Bookseller&lt;/em&gt;, Franklin said: &amp;ldquo;The books all look at key themes behind revolution and unrest in genreal but all focus in on a specific area. All the authors have a strong online presence and a parent media organisation that they can market through, and we will be backing that too.&amp;rdquo;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Random House выпустил первые цветные книжки для детей. Электронные</title>
-      <link>/posts/2011-06-15-a/</link>
+      <link>//localhost:1313/posts/2011-06-15-a/</link>
       <pubDate>Wed, 15 Jun 2011 19:50:23 +0000</pubDate>
-      
-      <guid>/posts/2011-06-15-a/</guid>
-      <description>Random House Children&amp;rsquo;s Books has released four colour picture e-books, marking the start of its e-book publishing programme for picture books. Digital editions will from now on be released alongside the physical books.
-Four titles have been published as fixed page format books for the iBookstore, and in standard EPUB format where the text reflows for the Kindle, Sony Reader and mobile devices.
- via thebookseller.com
-Правда, совсем непонятно, зачем цвет для нынешних Kindle и Sony Reader.</description>
+      <guid>//localhost:1313/posts/2011-06-15-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Random House Children&amp;rsquo;s Books has released four colour picture e-books, marking the start of its e-book publishing programme for picture books. Digital editions will from now on be released alongside the physical books.&lt;/p&gt;&#xA;&lt;p&gt;Four titles have been published as fixed page format books for the iBookstore, and in standard EPUB format where the text reflows for the Kindle, Sony Reader and mobile devices.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.thebookseller.com/news/random-house-launches-first-colour-picture-e-books.html&#34;&gt;thebookseller.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Правда, совсем непонятно, зачем цвет для нынешних Kindle и Sony Reader. Или Random что-то знает??&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ОЛМА начинала тестовую продажу электронных книг в формате EPUB</title>
-      <link>/posts/2011-05-23-e/</link>
+      <link>//localhost:1313/posts/2011-05-23-e/</link>
       <pubDate>Mon, 23 May 2011 12:43:30 +0000</pubDate>
-      
-      <guid>/posts/2011-05-23-e/</guid>
-      <description>via olmamedia.ru
-В каталоге 6 книг. Мне кажется, что это и для теста маловато.</description>
+      <guid>//localhost:1313/posts/2011-05-23-e/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.olmamedia.ru/article/3608/468618/olma-media-nachinaet-prodazhu-elektronnyh-knig.html&#34;&gt;olmamedia.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;В каталоге 6 книг. Мне кажется, что это и для теста маловато.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Колонка в Forbes о том, что в ситуации на рынке виноваты сами издатели</title>
-      <link>/posts/2011-05-23-c/</link>
+      <link>//localhost:1313/posts/2011-05-23-c/</link>
       <pubDate>Mon, 23 May 2011 09:51:57 +0000</pubDate>
-      
-      <guid>/posts/2011-05-23-c/</guid>
-      <description>But the real reason why books are going to vanish is the remarkably un-business-like business model of the publishers. Think of General Motors — decades of inefficiency, but without the federal bailouts.
-In no other industry do producers actually wait passively to see what products are suggested to them, instead of doing market research to see what people really want to buy. Yet publishers seldom generate book ideas; instead they wait for literary agents to submit proposals.</description>
+      <guid>//localhost:1313/posts/2011-05-23-c/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;But the real reason why books are going to vanish is the remarkably un-business-like business model of the publishers.  Think of General Motors — decades of inefficiency, but without the federal bailouts.&lt;/p&gt;&#xA;&lt;p&gt;In no other industry do producers actually wait passively to see what products are suggested to them, instead of doing market research to see what people really want to buy.  Yet publishers seldom generate book ideas; instead they wait for literary agents to submit proposals.  Houses decide which book to publish based on little more than a gut feeling that says, “I think we can make money selling this!”&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Издатели! Эй, издатели!</title>
-      <link>/posts/2011-05-17-f/</link>
+      <link>//localhost:1313/posts/2011-05-17-f/</link>
       <pubDate>Tue, 17 May 2011 12:34:48 +0000</pubDate>
-      
-      <guid>/posts/2011-05-17-f/</guid>
-      <description>via blog.bookmate.ru
-Bookmate открыл сервис Publisher: зарегистрировался, книжки выложил, получаешь деньги. Пока только для юридических лиц.</description>
+      <guid>//localhost:1313/posts/2011-05-17-f/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://blog.bookmate.ru/2011/05/17/publisher/#more-426&#34;&gt;blog.bookmate.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bookmate открыл сервис Publisher: зарегистрировался, книжки выложил, получаешь деньги. Пока только для юридических лиц.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>«Интеллектуальный бизнес Олега Новикова»</title>
-      <link>/posts/2011-05-16-b/</link>
+      <link>//localhost:1313/posts/2011-05-16-b/</link>
       <pubDate>Mon, 16 May 2011 09:40:26 +0000</pubDate>
-      
-      <guid>/posts/2011-05-16-b/</guid>
-      <description>«Нужна не только книга, но и зрелища».
-«Если звезда, но говно написала, будете издавать?» — «Не отпустим, будем работать».
-Даже приятно, когда люди так честно о себе рассказывают.
-И с интересом жду мероприятий по закрытию Либрусека и Флибусты.</description>
+      <guid>//localhost:1313/posts/2011-05-16-b/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/xXkQ5G823Ys?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;«Нужна не только книга, но и зрелища».&lt;/p&gt;&#xA;&lt;p&gt;«Если звезда, но говно написала, будете издавать?» — «Не отпустим, будем работать».&lt;/p&gt;&#xA;&lt;p&gt;Даже приятно, когда люди так честно о себе рассказывают.&lt;br&gt;&#xA;И с интересом жду мероприятий по закрытию Либрусека и Флибусты.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O&#39;Reilly обзавелось мобильной читалкой</title>
-      <link>/posts/2011-05-11-d/</link>
+      <link>//localhost:1313/posts/2011-05-11-d/</link>
       <pubDate>Wed, 11 May 2011 12:19:53 +0000</pubDate>
-      
-      <guid>/posts/2011-05-11-d/</guid>
-      <description>via itunes.apple.com
-Для своего книжного клуба Safari Books. Версия для iPad.</description>
+      <guid>//localhost:1313/posts/2011-05-11-d/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://itunes.apple.com/us/app/safari-to-go/id385824712?mt=8&#34;&gt;itunes.apple.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Для своего книжного клуба Safari Books. Версия для iPad.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>I квартал Simon &amp; Schuster: 17%</title>
-      <link>/posts/2011-05-05-b/</link>
+      <link>//localhost:1313/posts/2011-05-05-b/</link>
       <pubDate>Thu, 05 May 2011 12:32:16 +0000</pubDate>
-      
-      <guid>/posts/2011-05-05-b/</guid>
-      <description>Big 6 publisher Simon &amp;amp; Schuster&amp;rsquo;s first quarter earnings announcement included one significant number: Digital content generated 18% of total revenue in the period. Through 2010, e-books had topped out at about 10% of publishing&amp;rsquo;s revenues.
- via latimesblogs.latimes.com
-А в 2010 год 10% дохода Simon &amp;amp; Schuster пришлось на электронные книги.
-Учитывая, что за квартал обороты составили $155 млн, на электронные книги пришлось $26,35 млн. Нехило.</description>
+      <guid>//localhost:1313/posts/2011-05-05-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Big 6 publisher Simon &amp;amp; Schuster&amp;rsquo;s first quarter earnings announcement included one significant number: Digital content generated 18% of total revenue in the period. Through 2010, e-books had topped out at about 10% of publishing&amp;rsquo;s revenues.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://latimesblogs.latimes.com/jacketcopy/2011/05/simon-schuster-ebooks-equal-dollars.html&#34;&gt;latimesblogs.latimes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;А в 2010 год 10% дохода Simon &amp;amp; Schuster пришлось на электронные книги.&lt;/p&gt;&#xA;&lt;p&gt;Учитывая, что за квартал обороты составили $155 млн, на электронные книги пришлось $26,35 млн. Нехило.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Кто станет издателем?</title>
-      <link>/posts/2011-04-11-e/</link>
+      <link>//localhost:1313/posts/2011-04-11-e/</link>
       <pubDate>Mon, 11 Apr 2011 09:05:17 +0000</pubDate>
-      
-      <guid>/posts/2011-04-11-e/</guid>
-      <description>The AAA constitution says anyone employed by a publisher should not be eligible for membership. Piers Blofeld of Sheil Land said the AAA should reflect the &amp;ldquo;fast-changing landscape&amp;rdquo; of publishing. He said: &amp;ldquo;There are obvious issues and potential conflicts of interest, but at heart the role of an agent is to offer advice and support to a writer on their writing career. We&amp;rsquo;re here to maximise their earnings. We&amp;rsquo;re not simply there to act as an interface between authors and publishers—that landscape has gone.</description>
+      <guid>//localhost:1313/posts/2011-04-11-e/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The AAA constitution says anyone employed by a publisher should not be eligible for membership. Piers Blofeld of Sheil Land said the AAA should reflect the &amp;ldquo;fast-changing landscape&amp;rdquo; of publishing. He said: &amp;ldquo;There are obvious issues and potential conflicts of interest, but at heart the role of an agent is to offer advice and support to a writer on their writing career. We&amp;rsquo;re here to maximise their earnings. We&amp;rsquo;re not simply there to act as an interface between authors and publishers—that landscape has gone.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O&#39;Reilly вместе с Ingram сделали еще один шаг в будущее книгоиздания</title>
-      <link>/posts/2011-04-07-a/</link>
+      <link>//localhost:1313/posts/2011-04-07-a/</link>
       <pubDate>Thu, 07 Apr 2011 16:20:04 +0000</pubDate>
-      
-      <guid>/posts/2011-04-07-a/</guid>
-      <description>The program enables O’Reilly to boldly shift from a traditional inventory and capital intensive business model to an on-demand program that selects the most timely and cost effective method to print and distribute books, allowing consumers full and immediate access to all of O’Reilly’s titles. O’Reilly is now able to increase their title and channel availability, substantially reduce inventory, free up resources to invest in content development and increase revision speed, keeping the most relevant content available in the market.</description>
+      <guid>//localhost:1313/posts/2011-04-07-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The program enables O’Reilly to boldly shift from a traditional inventory and capital intensive business model to an on-demand program that selects the most timely and cost effective method to print and distribute books, allowing consumers full and immediate access to all of O’Reilly’s titles. O’Reilly is now able to increase their title and channel availability, substantially reduce inventory, free up resources to invest in content development and increase revision speed, keeping the most relevant content available in the market.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Какие нынче адекватные издатели пошли. Аж приятно</title>
-      <link>/posts/2011-03-24-1/</link>
+      <link>//localhost:1313/posts/2011-03-24-1/</link>
       <pubDate>Thu, 24 Mar 2011 20:21:53 +0000</pubDate>
-      
-      <guid>/posts/2011-03-24-1/</guid>
-      <description>И напоследок. Ребята, я вас правда очень люблю и мне, как и вам, крайне не нравятся эти позорные писательские гонорары которые давно уже превратили писательскую профессию в хобби. Но, честное слово – не там вы врагов ищете, не там. По сути, для раскрученного автора от пиратов, выкладывающих его новенький худлит, если оставить в стороне хамство и беспардонность, «пользы как с козла молока, но вреда однако тоже никакого». А для начинающего, которых среди подписантов процентов, думаю, девяносто, от пиратской выкладки ничего, кроме пользы.</description>
+      <guid>//localhost:1313/posts/2011-03-24-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;И напоследок. Ребята, я вас правда очень люблю и мне, как и вам, крайне не нравятся эти позорные писательские гонорары которые давно уже превратили писательскую профессию в хобби. Но, честное слово – не там вы врагов ищете, не там. По сути, &lt;strong&gt;для раскрученного автора&lt;/strong&gt; от пиратов, выкладывающих его новенький худлит, если оставить в стороне хамство и беспардонность, «пользы как с козла молока, но вреда однако тоже никакого». А для &lt;strong&gt;начинающего&lt;/strong&gt;, которых среди подписантов процентов, думаю, девяносто, от пиратской выкладки ничего, кроме пользы. Если у вас товар качественный - это реклама, причем не стоящая ни вам, ни издателю ни копейки. Как на духу говорю – я искренне убежден, что на сегодняшний момент рекламные возможности интернета намного превышают издержки от нелегального скачивания.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Нью-Йоркский суд отменил соглашение Google с Гильдией авторов и Ассоциацией издателей</title>
-      <link>/posts/2011-03-22-2/</link>
+      <link>//localhost:1313/posts/2011-03-22-2/</link>
       <pubDate>Tue, 22 Mar 2011 20:39:48 +0000</pubDate>
-      
-      <guid>/posts/2011-03-22-2/</guid>
-      <description>Judge Denny Chin said the agreement &amp;ldquo;would simply go too far&amp;rdquo; and would give Google a significant advantage over its competitors.
- via reuters.com
-И пусть теперь они сидят со своими книгами, а сиротские книжки так и вообще пусть тухнут. Отличное решение. Нафиг вообще книги? Фтопку их.
-Плохой знак для любых начинаний, которые могли бы преодолеть вязкое status quo и сократить паразитные издержки.</description>
+      <guid>//localhost:1313/posts/2011-03-22-2/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Judge Denny Chin said the agreement &amp;ldquo;would simply go too far&amp;rdquo; and would give Google a significant advantage over its competitors.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.reuters.com/article/2011/03/22/us-google-books-antitrust-idUSTRE72L6D920110322&#34;&gt;reuters.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;И пусть теперь они сидят со своими книгами, а сиротские книжки так и вообще пусть тухнут. Отличное решение. Нафиг вообще книги? Фтопку их.&lt;/p&gt;&#xA;&lt;p&gt;Плохой знак для любых начинаний, которые могли бы преодолеть вязкое status quo и сократить паразитные издержки.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Сет Годин о бедных издателях</title>
-      <link>/posts/2011-03-22-1/</link>
+      <link>//localhost:1313/posts/2011-03-22-1/</link>
       <pubDate>Tue, 22 Mar 2011 11:32:11 +0000</pubDate>
-      
-      <guid>/posts/2011-03-22-1/</guid>
-      <description>It’s filled with really smart people whom I like, who don’t get paid enough and do good work. The problem is that they think their customer is the bookstore.
-The other problem is that bookstores demand a very slow cycle of a year to bring a book out, demand books that meet a certain expectation and demand full return privileges on those books. At the same time, that industry is stuck paying big advances to big-name authors, most of which lose money.</description>
+      <guid>//localhost:1313/posts/2011-03-22-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;It’s filled with really smart people whom I like, who don’t get paid enough and do good work. The problem is that they think their customer is the bookstore.&lt;/p&gt;&#xA;&lt;p&gt;The other problem is that bookstores demand a very slow cycle of a year to bring a book out, demand books that meet a certain expectation and demand full return privileges on those books. At the same time, that industry is stuck paying big advances to big-name authors, most of which lose money.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Комикс по &#34;Длинному хвосту&#34; Криса Андерсона</title>
-      <link>/posts/2011-03-21-1/</link>
+      <link>//localhost:1313/posts/2011-03-21-1/</link>
       <pubDate>Mon, 21 Mar 2011 20:21:18 +0000</pubDate>
-      
-      <guid>/posts/2011-03-21-1/</guid>
-      <description>И правда что: эта книжка вполне сводима к комиксу.</description>
+      <guid>//localhost:1313/posts/2011-03-21-1/</guid>
+      <description>&lt;p&gt;И правда что: эта книжка вполне сводима к комиксу.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Шацкин комментирует Кононова</title>
-      <link>/posts/2011-03-21-a/</link>
+      <link>//localhost:1313/posts/2011-03-21-a/</link>
       <pubDate>Mon, 21 Mar 2011 20:20:22 +0000</pubDate>
-      
-      <guid>/posts/2011-03-21-a/</guid>
-      <description>I wasn’t planning to write a post this past weekend for Monday morning publication. But then Joe Konrath and Barry Eisler contacted me on Saturday to tell me what Barry is up to. I’ve read their lengthy conversation about Barry’s decision to turn down a $500,000 contract (apparently for two books) and join Joe (and many others, but none who have turned down half-a-million bucks) as a self-published author.</description>
+      <guid>//localhost:1313/posts/2011-03-21-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.idealog.com/blog/eislers-decision-is-a-key-benchmark-on-the-road-to-wherever-it-is-were-going&#34;&gt;I wasn’t planning to write a post this past weekend for Monday morning publication. But then Joe Konrath and Barry Eisler contacted me on Saturday to tell me what Barry is up to. I’ve read their lengthy conversation about Barry’s decision to turn down a $500,000 contract (apparently for two books) and join Joe (and many others, but none who have turned down half-a-million bucks) as a self-published author.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Не напрямую, конечно. Он комментирует переход традиционных авторов к модели «без издательства». Да, да. Это не для всех. Просто они создадут зону, свободную от традиционных издателей. И тем, если они всё же ещё не собрались на пенсию, придётся что-то придумывать.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Таки Мамут договорился с Lagardere за “Азбуку-Аттикус”</title>
-      <link>/posts/2011-03-21-b/</link>
+      <link>//localhost:1313/posts/2011-03-21-b/</link>
       <pubDate>Mon, 21 Mar 2011 20:19:28 +0000</pubDate>
-      
-      <guid>/posts/2011-03-21-b/</guid>
-      <description>На российский книжный рынок выходит один из крупнейших мировых издателей — Lagardere Publishing. Как стало известно “Ъ”, французская компания договорилась о покупке у Александра Мамута 25% плюс одна акция группы “Азбука-Аттикус” — четвертого по величине книгоиздателя в стране. В течение двух лет французы смогут увеличить свою долю до контрольной. Ранее Lagardere инвестировала в России в радиостанции и журналы, но от этих активов она сейчас избвляется.
- Лагардер одной рукой продает медиаактивы, другой – покупает издателей.</description>
+      <guid>//localhost:1313/posts/2011-03-21-b/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://kommersant.ru/Doc/1605079&#34;&gt;На российский книжный рынок выходит один из крупнейших мировых издателей — Lagardere Publishing. Как стало известно “Ъ”, французская компания договорилась о покупке у Александра Мамута 25% плюс одна акция группы “Азбука-Аттикус” — четвертого по величине книгоиздателя в стране. В течение двух лет французы смогут увеличить свою долю до контрольной. Ранее Lagardere инвестировала в России в радиостанции и журналы, но от этих активов она сейчас избвляется.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Лагардер одной рукой продает медиаактивы, другой – покупает издателей. Странная политика.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Кононов (Симпозиум) о грядущем книжном апокалипсисе</title>
-      <link>/posts/2011-03-21-2/</link>
+      <link>//localhost:1313/posts/2011-03-21-2/</link>
       <pubDate>Mon, 21 Mar 2011 20:18:43 +0000</pubDate>
-      
-      <guid>/posts/2011-03-21-2/</guid>
-      <description>Я прочитал здесь довольно много рассуждений о том, что писатель пишет, потому что не может не писать, что этот процесс вообще имеет мало отношения к издательскому процессу, деньгам и т.п. Да, такое бывает. И слава Богу. Называется – самовыражение. Но огромная часть книг, которыми с несомненной пользой для себя оперирует человечество, порождены НЕ ЭТИМ процессом.
- Проблема, однако, в том, что он говорит от лица традиции, которая уходит. Традицию, которая уходит, нельзя удержать — ни государственной политикой, ни положениями законодательства.</description>
+      <guid>//localhost:1313/posts/2011-03-21-2/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://blogs.computerra.ru/9340&#34;&gt;Я прочитал здесь довольно много рассуждений о том, что писатель пишет, потому что не может не писать, что этот процесс вообще имеет мало отношения к издательскому процессу, деньгам и т.п. Да, такое бывает. И слава Богу. Называется – самовыражение. Но огромная часть книг, которыми с несомненной пользой для себя оперирует человечество, порождены НЕ ЭТИМ процессом.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Проблема, однако, в том, что он говорит от лица традиции, которая уходит. Традицию, которая уходит, нельзя удержать — ни государственной политикой, ни положениями законодательства. Точнее — можно, но результат получится вымороченный. Кажется, что издатели не хотят меняться. Они скорее готовы уйти на покой, чем доказывать свою необходимость не словами, а реальной практикой.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lonely Planet пошла по пути &#34;Вокруг света&#34;</title>
-      <link>/posts/2011-03-17-4/</link>
+      <link>//localhost:1313/posts/2011-03-17-4/</link>
       <pubDate>Thu, 17 Mar 2011 19:47:43 +0000</pubDate>
-      
-      <guid>/posts/2011-03-17-4/</guid>
-      <description>via radar.oreilly.com
-И выпускает аудиоэкскурсии для iPhone.
-Сергей Пархоменко (lj cook) может гордиться: &amp;ldquo;Вокруг света&amp;rdquo; уже как год такую прогу для айфона выпускает.</description>
+      <guid>//localhost:1313/posts/2011-03-17-4/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://radar.oreilly.com/2011/03/lonely-planet-digital-publishing.html&#34;&gt;radar.oreilly.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;И выпускает &lt;a href=&#34;http://www.lonelyplanet.com/mobile/apple/audio.php&#34;&gt;аудиоэкскурсии для iPhone&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Сергей Пархоменко (lj cook) может гордиться: &amp;ldquo;Вокруг света&amp;rdquo; уже как год такую прогу для айфона выпускает.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>99 центов за любую книгу</title>
-      <link>/posts/2011-03-08-a/</link>
+      <link>//localhost:1313/posts/2011-03-08-a/</link>
       <pubDate>Tue, 08 Mar 2011 19:46:21 +0000</pubDate>
-      
-      <guid>/posts/2011-03-08-a/</guid>
-      <description>I am having trouble convincing myself why digital books will not cost 99 cents within 5 years. All books, on average. Just as the price of music does not in general change on the length or quality.
-Here&amp;rsquo;s a reason why they&amp;rsquo;ll be as inexpensive as music. The other day Joe Konrath, a genre writer, and avid self-publisher of ebooks, said:
- Eighteen days ago, I dropped the price of my ebook, The List, from $2.</description>
+      <guid>//localhost:1313/posts/2011-03-08-a/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;I am having trouble convincing myself why digital books will not cost 99 cents within 5 years. All books, on average. Just as the price of music does not in general change on the length or quality.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a reason why they&amp;rsquo;ll be as inexpensive as music. The other day &lt;a href=&#34;http://jakonrath.blogspot.com/&#34;&gt;Joe Konrath&lt;/a&gt;, a genre writer, and avid self-publisher of ebooks, said:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Eighteen days ago, I dropped the price of my ebook, The List, from $2.99 to 99 cents on Amazon. I was selling 40 copies a day prior to that.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Интересно, а издательство Просвещение получило разрешение у наследников?</title>
-      <link>/posts/2011-03-03-%D1%81/</link>
+      <link>//localhost:1313/posts/2011-03-03-%D1%81/</link>
       <pubDate>Thu, 03 Mar 2011 13:04:00 +0000</pubDate>
-      
-      <guid>/posts/2011-03-03-%D1%81/</guid>
-      <description>via lib.prosv.ru
-Все ведь так бьются за авторские права. Особенно издатели. А тут - гляньте: Мастер и Маргарита, Собачье сердце, стихотворения Ахматовой и Гумилева, Мандельштам и Бернард Шоу! Они с разрешения наследников это всё размещают?</description>
+      <guid>//localhost:1313/posts/2011-03-03-%D1%81/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://lib.prosv.ru/info.aspx?ob_no=17730&#34;&gt;lib.prosv.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Все ведь так бьются за авторские права. Особенно издатели. А тут - гляньте: Мастер и Маргарита, Собачье сердце, стихотворения Ахматовой и Гумилева, Мандельштам и Бернард Шоу! Они с разрешения наследников это всё размещают?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O&#39;Reilly подвёл итоги 2010 года</title>
-      <link>/posts/2011-02-24-d/</link>
+      <link>//localhost:1313/posts/2011-02-24-d/</link>
       <pubDate>Thu, 24 Feb 2011 07:15:16 +0000</pubDate>
-      
-      <guid>/posts/2011-02-24-d/</guid>
-      <description>ebooks represent about 88% of our unit sales, and 79% of our dollar sales on oreilly.com. What is really impressive is that the growth of our digital products is moving faster than the decline of our print products. This suggests to me that we are not seeing one product type cannibalizing another — rather they are supplementing each other.
- via radar.oreilly.com
-«Электронные книги — 88% продаж в штуках, 79% — в деньгах.</description>
+      <guid>//localhost:1313/posts/2011-02-24-d/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;ebooks represent about 88% of our unit sales, and 79% of our dollar sales on oreilly.com. What is really impressive is that the growth of our digital products is moving faster than the decline of our print products. This suggests to me that we are not seeing one product type cannibalizing another — rather they are supplementing each other.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://radar.oreilly.com/2011/02/2010-book-market-5.html&#34;&gt;radar.oreilly.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;«Электронные книги — 88% продаж в штуках, 79% — в деньгах. И рост цифровых продаж растёт быстрее, чем падают продажи бумажных книг».&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Open Monograph Press - технология открытого издательства</title>
-      <link>/posts/2011-01-16-a/</link>
+      <link>//localhost:1313/posts/2011-01-16-a/</link>
       <pubDate>Sun, 16 Jan 2011 22:40:42 +0000</pubDate>
-      
-      <guid>/posts/2011-01-16-a/</guid>
-      <description>via pkp.sfu.ca
-Ого. Организационный open source. Оч. интересно</description>
+      <guid>//localhost:1313/posts/2011-01-16-a/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://pkp.sfu.ca/omp&#34;&gt;pkp.sfu.ca&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ого. Организационный open source. Оч. интересно&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Journal of Electronic Publishing: Welcome</title>
-      <link>/posts/2011-01-12-c/</link>
+      <link>//localhost:1313/posts/2011-01-12-c/</link>
       <pubDate>Wed, 12 Jan 2011 22:17:11 +0000</pubDate>
-      
-      <guid>/posts/2011-01-12-c/</guid>
-      <description>via journalofelectronicpublishing.org
-Всегда догадывался, что у англосаксов должен быть журнал на любую тему. Но на журнал про электронное издательство наткнулся только что. Градиска!</description>
+      <guid>//localhost:1313/posts/2011-01-12-c/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.journalofelectronicpublishing.org/&#34;&gt;journalofelectronicpublishing.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Всегда догадывался, что у англосаксов должен быть журнал на любую тему. Но на журнал про электронное издательство наткнулся только что. Градиска!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>А вот и Taschen в iPad</title>
-      <link>/posts/2010-12-21-5/</link>
+      <link>//localhost:1313/posts/2010-12-21-5/</link>
       <pubDate>Tue, 21 Dec 2010 11:01:58 +0000</pubDate>
-      
-      <guid>/posts/2010-12-21-5/</guid>
-      <description>Taschen launches first app 21.12.10 | Katie Allen
-Taschen is to publish its first app this week, a re-release of architectural title Yes is More.
-Exclusive to the iPad, the £5.99 app will be launched on the iTunes App Store this week. The illustrated publisher appointed its first digital director Julius Wiedemann last month.
-Yes is More comprises the original 400-page &amp;ldquo;archicomic&amp;rdquo;, which sets out the radical agenda of Danish architectural practice Bjarke Ingels Group (BIG) in comic-book form.</description>
+      <guid>//localhost:1313/posts/2010-12-21-5/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.thebookseller.com/images/uploaded/7311.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;taschen-launches-first-app&#34;&gt;Taschen launches first app&lt;/h3&gt;&#xA;&lt;p&gt;21.12.10 | &lt;a href=&#34;http://www.thebookseller.com/news/139925-taschen-launches-first-app.html#&#34;&gt;Katie Allen&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Taschen is to publish its first app this week, a re-release of architectural title &lt;em&gt;Yes is More&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Exclusive to the iPad, the £5.99 app will be launched on the iTunes App Store this week. The illustrated publisher appointed its first digital director Julius Wiedemann last month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Yes is More&lt;/em&gt; comprises the original 400-page &amp;ldquo;archicomic&amp;rdquo;, which sets out the radical agenda of Danish architectural practice Bjarke Ingels Group (BIG) in comic-book form. It also includes updates of building projects the Danish Pavilion at the Shanghai Expo and the 8 House in Copenhagen, details of three new constructions, 25 videos and 360° images of BIG exhibitions.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Safari To Go for iPad</title>
-      <link>/posts/2010-11-04-183/</link>
+      <link>//localhost:1313/posts/2010-11-04-183/</link>
       <pubDate>Thu, 04 Nov 2010 22:23:36 +0000</pubDate>
-      
-      <guid>/posts/2010-11-04-183/</guid>
-      <description>via itunes.apple.com
-На bookmate.ru похоже ;)</description>
+      <guid>//localhost:1313/posts/2010-11-04-183/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://itunes.apple.com/us/app/safari-to-go/id385824712?mt=8&#34;&gt;itunes.apple.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;На bookmate.ru похоже ;)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Сколково! Ау! Oxford, Rice и Open U добавили в iTunes U электронные учебники в EPUB</title>
-      <link>/posts/2010-11-02-193/</link>
+      <link>//localhost:1313/posts/2010-11-02-193/</link>
       <pubDate>Tue, 02 Nov 2010 13:10:05 +0000</pubDate>
-      
-      <guid>/posts/2010-11-02-193/</guid>
-      <description>Three institutions&amp;ndash;Oxford University, Rice University, and Open University--have added e-books for free download through iTunes U, Apple&amp;rsquo;s educational area in its iTunes Store. Each is taking a unique approach to the selection of its e-books, but all are using the EPUB format.
- via campustechnology.com
-Учебники Open University посмотрел — для старшеклассников. Но всё равно — круто.</description>
+      <guid>//localhost:1313/posts/2010-11-02-193/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Three institutions&amp;ndash;&lt;a href=&#34;http://www.ox.ac.uk/&#34;&gt;Oxford University&lt;/a&gt;, &lt;a href=&#34;http://www.rice.edu/&#34;&gt;Rice University&lt;/a&gt;, and Open &lt;a href=&#34;http://www.open.ac.uk/&#34;&gt;University&lt;/a&gt;--have added e-books for free download through &lt;a href=&#34;http://www.apple.com/education/itunes-u/&#34;&gt;iTunes U&lt;/a&gt;, Apple&amp;rsquo;s educational area in its iTunes Store. Each is taking a unique approach to the selection of its e-books, but all are using the EPUB format.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://campustechnology.com/articles/2010/11/02/oxford-rice-open-u-add-to-itunes-u-electronic-book-collection.aspx&#34;&gt;campustechnology.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Учебники Open University посмотрел — для старшеклассников. Но всё равно — круто.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Вниманию издательств НЛО, Европа, Ивана Лимбаха, Астрель, Академический проект, Евразия и Corpus!</title>
-      <link>/posts/2010-10-06-221/</link>
+      <link>//localhost:1313/posts/2010-10-06-221/</link>
       <pubDate>Wed, 06 Oct 2010 22:40:08 +0000</pubDate>
-      
-      <guid>/posts/2010-10-06-221/</guid>
-      <description>Дорогие коллеги издатели!
-Считаю своим долгом известить вас о том, что сегодня вы потеряли деньги. Мои. Зайдя в магазин «Фаланстер», я присмотрел несколько книг:
- Маурицио Феррарис. Ты где? Онтология мобильного телефона. НЛО, 2010. Зигмунт Бауман. Актуальность Холокоста. Европа, 2010. Рене Жирар. Козел отпущения. Изд-во Ивана Лимбаха, 2010. Жиль Делез, Феликс Гваттари. Тысяча плато. У-Фактория, Астрель, 2010. А. Ушаков, Д. Кралечкин. Конец цензуры. Акад. проект, 2010. Жак Ле Гофф. Средневековье и деньги.</description>
+      <guid>//localhost:1313/posts/2010-10-06-221/</guid>
+      <description>&lt;p&gt;Дорогие коллеги издатели!&lt;/p&gt;&#xA;&lt;p&gt;Считаю своим долгом известить вас о том, что сегодня вы потеряли деньги. Мои. Зайдя в магазин «Фаланстер», я присмотрел несколько книг:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Маурицио Феррарис. Ты где? Онтология мобильного телефона. НЛО, 2010.&lt;/li&gt;&#xA;&lt;li&gt;Зигмунт Бауман. Актуальность Холокоста. Европа, 2010.&lt;/li&gt;&#xA;&lt;li&gt;Рене Жирар. Козел отпущения. Изд-во Ивана Лимбаха, 2010.&lt;/li&gt;&#xA;&lt;li&gt;Жиль Делез, Феликс Гваттари. Тысяча плато. У-Фактория, Астрель, 2010.&lt;/li&gt;&#xA;&lt;li&gt;А. Ушаков, Д. Кралечкин. Конец цензуры. Акад. проект, 2010.&lt;/li&gt;&#xA;&lt;li&gt;Жак Ле Гофф. Средневековье и деньги. Евразия, 2010.&lt;/li&gt;&#xA;&lt;li&gt;Борис Дубин. Классика, после и рядом. НЛО, 2010.&lt;/li&gt;&#xA;&lt;li&gt;Найл Фергюсон. Восхождение денег. Корпус, 2010.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Эти книги я бы с удовольствием купил, да вот незадача — мне книги ставить некуда: они везде — на столе, под столом, на подоконниках, на стеллажах, естественно. А ещё в ящиках на балконе. И потому я бы их всё равно купил, но только в электронном виде. Искал и на сайтах издательств, и в известных мне магазинах электронных книг. Но в электронной продаже их не нашёл. И у пиратов не нашёл. И что же делать?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>AmazonCrossing - импринт для переводных книг</title>
-      <link>/posts/2010-09-25-20/</link>
+      <link>//localhost:1313/posts/2010-09-25-20/</link>
       <pubDate>Sat, 25 Sep 2010 20:12:44 +0000</pubDate>
-      
-      <guid>/posts/2010-09-25-20/</guid>
-      <description>5. 
-Field Work in Ukrainian Sex
-by Oksana Zabuzhko No customer rating available.
-Write a review.
-Available for Pre-order
-AmazonCrossing
-April 30, 2011
-Paperback
- via amazon.com
-Как я понял, на бумаге будет book-on-demand, а так - Kindle Edition. Переводная книга, теретически, и впрямь очень подходит для цифрового издания — она дороже по расходам, чем обычная (из-за выплат переводчику), но за счёт экономии на бумаге может быть всё равно выйдет дешевле.</description>
+      <guid>//localhost:1313/posts/2010-09-25-20/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;5.&lt;/strong&gt; &lt;a href=&#34;http://www.amazon.com/Field-Work-Ukrainian-Oksana-Zabuzhko/dp/1611090083/ref=br_lf_m_1000507571_1_5_img?ie=UTF8&amp;amp;m=ATVPDKIKX0DER&amp;amp;s=books&amp;amp;pf_rd_p=1275759362&amp;amp;pf_rd_s=center-3&amp;amp;pf_rd_t=1401&amp;amp;pf_rd_i=1000507571&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=1NYBXGW9RZ48P7G8QCZ3&#34;&gt;&lt;img src=&#34;http://ecx.images-amazon.com/images/I/51ws2TX9pYL._SL110_.jpg&#34; alt=&#34;Field Work in Ukrainian Sex&#34;&gt;&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;http://www.amazon.com/Field-Work-Ukrainian-Oksana-Zabuzhko/dp/1611090083/ref=br_lf_m_1000507571_1_5_ttl?ie=UTF8&amp;amp;m=ATVPDKIKX0DER&amp;amp;s=books&amp;amp;pf_rd_p=1275759362&amp;amp;pf_rd_s=center-3&amp;amp;pf_rd_t=1401&amp;amp;pf_rd_i=1000507571&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=1NYBXGW9RZ48P7G8QCZ3&#34;&gt;Field Work in Ukrainian Sex&lt;/a&gt;&lt;br&gt;&#xA;by &lt;a href=&#34;http://www.amazon.com/-/e/B00423WOVO?pf_rd_p=1275759362&amp;amp;pf_rd_s=center-3&amp;amp;pf_rd_t=1401&amp;amp;pf_rd_i=1000507571&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=1NYBXGW9RZ48P7G8QCZ3&#34;&gt;Oksana Zabuzhko&lt;/a&gt; No customer rating available.&lt;br&gt;&#xA;&lt;a href=&#34;http://www.amazon.com/review/write-a-review.html?ie=UTF8&amp;amp;asin=1611090083&amp;amp;pf_rd_p=1275759362&amp;amp;pf_rd_s=center-3&amp;amp;pf_rd_t=1401&amp;amp;pf_rd_i=1000507571&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=1NYBXGW9RZ48P7G8QCZ3&#34;&gt;Write a review.&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Available for Pre-order&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;AmazonCrossing&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;April 30, 2011&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Paperback&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.amazon.com/gp/feature.html?ie=UTF8&amp;amp;docId=1000507571&#34;&gt;amazon.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Как я понял, на бумаге будет book-on-demand, а так - Kindle Edition. Переводная книга, теретически, и впрямь очень подходит для цифрового издания — она дороже по расходам, чем обычная (из-за выплат переводчику), но за счёт экономии на бумаге может быть всё равно выйдет дешевле.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lonely Planet выпустило путеводители с расширенной реальностью</title>
-      <link>/posts/2010-08-04-109/</link>
+      <link>//localhost:1313/posts/2010-08-04-109/</link>
       <pubDate>Wed, 04 Aug 2010 14:31:34 +0000</pubDate>
-      
-      <guid>/posts/2010-08-04-109/</guid>
-      <description>Lonely Planet has launched augmented reality guides for UK&amp;rsquo;s Google Android users.
-Its &amp;lsquo;Compass Guides&amp;rsquo; are available for 25 locations including Amsterdam, Bangkok, Barcelona, Hong Kong, Istanbul, London, Paris, Prague and New York City. They are available for $4.99 (£3.12) from the Google Android store.
-Matthew Cashmore, innovation and ecosystems manager, said: &amp;ldquo;This is one of the most innovative things we’ve launched and we’re really excited to see how people use this application.</description>
+      <guid>//localhost:1313/posts/2010-08-04-109/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Lonely Planet has launched augmented reality guides for UK&amp;rsquo;s Google Android users.&lt;/p&gt;&#xA;&lt;p&gt;Its &amp;lsquo;Compass Guides&amp;rsquo; are available for 25 locations including Amsterdam, Bangkok, Barcelona, Hong Kong, Istanbul, London, Paris, Prague and New York City. They are available for $4.99 (£3.12) from the Google Android store.&lt;/p&gt;&#xA;&lt;p&gt;Matthew Cashmore, innovation and ecosystems manager, said: &amp;ldquo;This is one of the most innovative things we’ve launched and we’re really excited to see how people use this application.&amp;rdquo;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Random House US: 8% продаж — электронные книги</title>
-      <link>/posts/2010-08-02-175/</link>
+      <link>//localhost:1313/posts/2010-08-02-175/</link>
       <pubDate>Mon, 02 Aug 2010 08:21:32 +0000</pubDate>
-      
-      <guid>/posts/2010-08-02-175/</guid>
-      <description>Random House chief executive Markus Dohle is expecting e-books to contribute more than 10% of the total US revenue next year, according to an interview in German magazine Der Spiegel.
-A Reuters article translates the piece, in which Dohle said e-books were already generating 8% in the US, where it had risen &amp;ldquo;by leaps and bounds.&amp;rdquo;
- via thebookseller.com</description>
+      <guid>//localhost:1313/posts/2010-08-02-175/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Random House chief executive Markus Dohle is expecting e-books to contribute more than 10% of the total US revenue next year, according to an interview in German magazine &lt;a href=&#34;http://www.spiegel.de/spiegel/vorab/0,1518,709472,00.html&#34;&gt;Der Spiegel.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://uk.reuters.com/article/idUKLDE67007W20100801?rpc=401&amp;amp;feedType=RSS&amp;amp;feedName=governmentFilingsNews&#34;&gt;A Reuters article translates the piece,&lt;/a&gt; in which Dohle said e-books were already generating 8% in the US, where it had risen &amp;ldquo;by leaps and bounds.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.thebookseller.com/news/124746-e-books-to-account-for-10-of-rh-us-sales-says-dohle-.html.rss?utm_source=twitterfeed&amp;amp;utm_medium=twitter&#34;&gt;thebookseller.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Simon &amp; Schuster сделало книжку с видео</title>
-      <link>/posts/2010-07-30-191/</link>
+      <link>//localhost:1313/posts/2010-07-30-191/</link>
       <pubDate>Fri, 30 Jul 2010 20:20:31 +0000</pubDate>
-      
-      <guid>/posts/2010-07-30-191/</guid>
-      <description>Scribner and Simon &amp;amp; Schuster Digital have released what they are calling their first-ever “enhanced e-book,” Rick Perlstein’s Nixonland, via Apple’s iBookstore application.
-The enhanced e-book [iTunes link] includes an original interview with the author and 27 historic video segments produced by CBS News embedded alongside the original text, which was first published in hardcover in May 2008. A digital version without the video is also available through Amazon’s Kindle Store.</description>
+      <guid>//localhost:1313/posts/2010-07-30-191/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Scribner and Simon &amp;amp; Schuster Digital have released what they are calling their first-ever “enhanced e-book,” Rick Perlstein’s &lt;em&gt;Nixonland&lt;/em&gt;, via Apple’s iBookstore application.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;http://itunes.apple.com/us/book/nixonland-enhanced-version/id383314664?mt=11#&#34;&gt;enhanced e-book&lt;/a&gt; [iTunes link] includes an original interview with the author and 27 historic video segments produced by CBS News embedded alongside the original text, which was first published in hardcover in May 2008. A digital version without the video is also available through Amazon’s Kindle Store.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bertelsmann и Holtzbrinck объединяются</title>
-      <link>/posts/2010-07-24-28/</link>
+      <link>//localhost:1313/posts/2010-07-24-28/</link>
       <pubDate>Sat, 24 Jul 2010 17:46:22 +0000</pubDate>
-      
-      <guid>/posts/2010-07-24-28/</guid>
-      <description>he Bookseller reports that publishing megaconglomerates Bertelsmann (owner of Random House) and Holtzbrinck (owner of Macmillan, to which it changed its name for purposes of US operations several years ago) are cooperating to create an on-line e-book distribution platform, primarily for German-language e-books.
-The paperwork has already been submitted to the European Commission in Brussels, but the two corporations have been keeping most details secret. Not much more is known about their plans, but there seems to be concern that this new development might imperil the plans of German trade association Börsenverein des Deutschen Buchhandels (roughly, “Association of German Book Trade”) to create a unified market with its Libreka format.</description>
+      <guid>//localhost:1313/posts/2010-07-24-28/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;he Bookseller reports that publishing megaconglomerates Bertelsmann (owner of Random House) and Holtzbrinck (owner of Macmillan, &lt;a href=&#34;http://news.bookweb.org/news/holtzbrinck-becomes-macmillan&#34;&gt;to which it changed its name for purposes of US operations&lt;/a&gt; several years ago) are &lt;a href=&#34;http://www.thebookseller.com/news/123639-bertelsmann-and-holtzbrinck-to-develop-e-book-platform.html.rss&#34;&gt;cooperating to create an on-line e-book distribution platform&lt;/a&gt;, primarily for German-language e-books.&lt;/p&gt;&#xA;&lt;p&gt;The paperwork has already been submitted to the European Commission in Brussels, but the two corporations have been keeping most details secret. Not much more is known about their plans, but there seems to be concern that this new development might imperil the plans of German trade association Börsenverein des Deutschen Buchhandels (roughly, “Association of German Book Trade”) to create a unified market with its Libreka format.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Случай Уайли: почему издатели в панике?</title>
-      <link>/posts/2010-07-23-195/</link>
+      <link>//localhost:1313/posts/2010-07-23-195/</link>
       <pubDate>Fri, 23 Jul 2010 10:25:07 +0000</pubDate>
-      
-      <guid>/posts/2010-07-23-195/</guid>
-      <description>Publishers came face to face with their own vision of apocalypse yesterday, as Andrew Wylie announced that he and his authors would be cutting publishing houses out of the future and teaming up with Amazon to sell their own electronic editions.
- via guardian.co.uk
-Потому что он показал, что издатели авторам могут быть нафиг не нужны. Их функцию в цифровом workflow могут исполнять литагенты, агрегирующие права, и распространители контента. Это если издатели не удосужились купить электронные права &amp;ndash; как раз случай России.</description>
+      <guid>//localhost:1313/posts/2010-07-23-195/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/gp/feature.html/ref=amb_link_353564082_3/176-1675311-1884214?ie=UTF8&amp;amp;docId=1000528381&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_s=auto-sparkle&amp;amp;pf_rd_r=0VKNZ4AFMDEV1E2J87ZE&amp;amp;pf_rd_t=301&amp;amp;pf_rd_p=1270168602&amp;amp;pf_rd_i=roth&#34;&gt;Publishers came face to face with their own vision of apocalypse yesterday&lt;/a&gt;, as Andrew Wylie announced that he and &lt;a href=&#34;http://www.wylieagency.com/CLIENT%20LIST.htm&#34;&gt;his authors&lt;/a&gt; would be cutting &lt;a href=&#34;http://www.guardian.co.uk/books/publishing&#34; title=&#34;More from guardian.co.uk on Publishing&#34;&gt;publishing&lt;/a&gt; houses out of the future and teaming up with Amazon to sell their own electronic editions.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.guardian.co.uk/books/booksblog/2010/jul/23/authors-amazon-deal-publishing&#34;&gt;guardian.co.uk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Потому что он показал, что издатели авторам могут быть нафиг не нужны. Их функцию в цифровом workflow могут исполнять литагенты, агрегирующие права, и распространители контента. Это если издатели не удосужились купить электронные права &amp;ndash; как раз случай России.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Десять заповедей современного издателя</title>
-      <link>/posts/2010-06-30-50/</link>
+      <link>//localhost:1313/posts/2010-06-30-50/</link>
       <pubDate>Wed, 30 Jun 2010 08:12:09 +0000</pubDate>
-      
-      <guid>/posts/2010-06-30-50/</guid>
-      <description>Ten More Commandments, Publishing Edition Posted by Mike Shatzkin on June 27, 2010 at 10:27 am · Under Chuckles, Community, General Trade Publishing, New Models, Publishing, Supply-Chain, Vertical
-The following post is a collaboration with my friend Joe Esposito, the CEO of GiantChair. The post was Joe’s idea, but I contributed enough to its completion to justify a claim of shared authorship. Joe has kindly agreed to allow this received wisdom to be delivered to the world through The Shatzkin Files.</description>
+      <guid>//localhost:1313/posts/2010-06-30-50/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;h3 id=&#34;ten-more-commandments-publishing-edition&#34;&gt;Ten More Commandments, Publishing Edition&lt;/h3&gt;&#xA;&lt;p&gt;Posted by Mike Shatzkin on June 27, 2010 at 10:27 am · Under &lt;a href=&#34;http://www.idealog.com/blog/category/chuckles&#34; title=&#34;View all posts in Chuckles&#34;&gt;Chuckles&lt;/a&gt;, &lt;a href=&#34;http://www.idealog.com/blog/category/community&#34; title=&#34;View all posts in Community&#34;&gt;Community&lt;/a&gt;, &lt;a href=&#34;http://www.idealog.com/blog/category/general-trade-publishing&#34; title=&#34;View all posts in General Trade Publishing&#34;&gt;General Trade Publishing&lt;/a&gt;, &lt;a href=&#34;http://www.idealog.com/blog/category/new-models&#34; title=&#34;View all posts in New Models&#34;&gt;New Models&lt;/a&gt;, &lt;a href=&#34;http://www.idealog.com/blog/category/publishing&#34; title=&#34;View all posts in Publishing&#34;&gt;Publishing&lt;/a&gt;, &lt;a href=&#34;http://www.idealog.com/blog/category/supply-chain&#34; title=&#34;View all posts in Supply-Chain&#34;&gt;Supply-Chain&lt;/a&gt;, &lt;a href=&#34;http://www.idealog.com/blog/category/vertical&#34; title=&#34;View all posts in Vertical&#34;&gt;Vertical&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;The following post is a collaboration with my friend &lt;a href=&#34;http://www.giantchair.com/&#34;&gt;Joe Esposito, the CEO of GiantChair&lt;/a&gt;. The post was Joe’s idea, but I contributed enough to its completion to justify a claim of shared authorship. Joe has kindly agreed to allow this received wisdom to be delivered to the world through The Shatzkin Files.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>У самой книги нет проблем, они есть у книжной индустрии</title>
-      <link>/posts/2010-04-16-216/</link>
+      <link>//localhost:1313/posts/2010-04-16-216/</link>
       <pubDate>Fri, 16 Apr 2010 19:58:17 +0000</pubDate>
-      
-      <guid>/posts/2010-04-16-216/</guid>
-      <description>Читать дальше материалы семинара в Liberty.ru.</description>
+      <guid>//localhost:1313/posts/2010-04-16-216/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pro-books.ru/sitearticles/4176&#34;&gt;Читать дальше материалы семинара в Liberty.ru.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Издатели детских книг будут первыми, кто опомнится</title>
-      <link>/posts/2010-04-06-83/</link>
+      <link>//localhost:1313/posts/2010-04-06-83/</link>
       <pubDate>Tue, 06 Apr 2010 18:52:59 +0000</pubDate>
-      
-      <guid>/posts/2010-04-06-83/</guid>
-      <description>Children&amp;rsquo;s publishing is at the cutting edge of the digital revolution taking place in book publishing. Where once publishers could happily ignore technology and stick to traditional formats, now a digital platform is not just a necessity but an expectation among readers raised in classrooms where smartboards are replacing blackboards and computers being used instead of rough books.
- via londonbookfair.co.uk
-Потому что дети уже живут с компьютерами и интернетом.</description>
+      <guid>//localhost:1313/posts/2010-04-06-83/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Children&amp;rsquo;s publishing is at the cutting edge of the digital revolution taking place in book publishing. Where once publishers could happily ignore technology and stick to traditional formats, now a digital platform is not just a necessity but an expectation among readers raised in classrooms where smartboards are replacing blackboards and computers being used instead of rough books.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.londonbookfair.co.uk/page.cfm/action=Archive/ArchiveID=13/EntryID=35&#34;&gt;londonbookfair.co.uk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Потому что дети уже живут с компьютерами и интернетом.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Шестой пошёл: в iPad будет Perseus</title>
-      <link>/posts/2010-03-22-189/</link>
+      <link>//localhost:1313/posts/2010-03-22-189/</link>
       <pubDate>Mon, 22 Mar 2010 21:25:20 +0000</pubDate>
-      
-      <guid>/posts/2010-03-22-189/</guid>
-      <description>Apple has signed a deal with the largest distributor of independent publishers to sell electronic versions of it books on the new device, report Motoko Rich and Brad Stone on Media Decoder.
-Perseus Books Group, a large independent publisher that also distributes works from 330 other smaller presses including Grove Atlantic, Harvard Business School Press, Zagat and City Lights Books, signed a deal last week with Apple, following five of the six biggest publishers that have already signed agreements with Apple.</description>
+      <guid>//localhost:1313/posts/2010-03-22-189/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Apple has &lt;a href=&#34;http://mediadecoder.blogs.nytimes.com/2010/03/22/perseus-signs-an-ebooks-deal-for-the-ipad/&#34;&gt;signed a deal&lt;/a&gt; with the largest distributor of independent publishers to sell electronic versions of it books on the new device, report Motoko Rich and Brad Stone on Media Decoder.&lt;/p&gt;&#xA;&lt;p&gt;Perseus Books Group, a large independent publisher that also distributes works from 330 other smaller presses including Grove Atlantic, Harvard Business School Press, Zagat and City Lights Books, signed a deal last week with Apple, following five of the six biggest publishers that have already signed agreements with Apple.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Итоги электронных продаж у Hachette</title>
-      <link>/posts/2010-03-10-80/</link>
+      <link>//localhost:1313/posts/2010-03-10-80/</link>
       <pubDate>Wed, 10 Mar 2010 23:29:55 +0000</pubDate>
-      
-      <guid>/posts/2010-03-10-80/</guid>
-      <description>According to Lagardere, e-book sales in December in the U.S. were $5 million, a total that surpassed e-book sales for all of 2008. E-book sales represented 3% of full year sales at HBG USA in 2009.
- via publishersweekly.com
-За месяц как за весь предыдущий год. 3%</description>
+      <guid>//localhost:1313/posts/2010-03-10-80/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;According to Lagardere, e-book sales in December in the U.S. were $5 million, a total that surpassed e-book sales for all of 2008. E-book sales represented 3% of full year sales at HBG USA in 2009.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.publishersweekly.com/article/452660-Profits_Jump_at_Hachette_December_E_book_Sales_Soar.php&#34;&gt;publishersweekly.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;За месяц как за весь предыдущий год. 3%&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Penguin показал, какими будут книги в iPad</title>
-      <link>/posts/2010-03-02-142/</link>
+      <link>//localhost:1313/posts/2010-03-02-142/</link>
       <pubDate>Tue, 02 Mar 2010 23:09:56 +0000</pubDate>
-      
-      <guid>/posts/2010-03-02-142/</guid>
-      <description>via readwriteweb.com
-Полный и абсолютный привет сразу нескольким нишам на рынке — детская литература, references, путеводители. К путеводителю DK Paris, по совершенно личным причинам, у меня особо трепетное отношение. Наблюдать его в таком виде — сложная смесь шока, восторга, досады и сарказма. А использование «дополненной реальности» в звёздном атласе — полный восторг! Если кто-то интересовался тем, что такое rich media content по отношению к книгам — вот прекрасные примеры.
-Краткий обзор Frederic Lardinois тоже стоящий.</description>
+      <guid>//localhost:1313/posts/2010-03-02-142/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://www.readwriteweb.com/archives/e-books_after_the_hype_and_before_the_ipad.php&#34;&gt;readwriteweb.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Полный и абсолютный привет сразу нескольким нишам на рынке — детская литература, references, путеводители. К путеводителю DK Paris, по совершенно личным причинам, у меня особо трепетное отношение. Наблюдать его в таком виде — сложная смесь шока, восторга, досады и сарказма. А использование «дополненной реальности» в звёздном атласе — полный восторг! Если кто-то интересовался тем, что такое rich media content по отношению к книгам — вот прекрасные примеры.&lt;/p&gt;&#xA;&lt;p&gt;Краткий обзор Frederic Lardinois тоже стоящий.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Американские издатели вовсю ведут переговоры с Apple</title>
-      <link>/posts/2010-01-20-2/</link>
+      <link>//localhost:1313/posts/2010-01-20-2/</link>
       <pubDate>Wed, 20 Jan 2010 09:38:21 +0000</pubDate>
-      
-      <guid>/posts/2010-01-20-2/</guid>
-      <description>Top US publishers are in &amp;lsquo;secret&amp;rsquo; negotiations with Apple for the launch of the expected Apple Tablet/Slate/Pad later this month, with reports suggesting that they are seeking greater control over pricing and supply of digital material.
- via thebookseller.com
-Джобс молодец — слова не держит, если его можно продать ;)</description>
+      <guid>//localhost:1313/posts/2010-01-20-2/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Top US publishers are in &amp;lsquo;secret&amp;rsquo; negotiations with Apple for the launch of the expected Apple Tablet/Slate/Pad later this month, with reports suggesting that they are seeking greater control over pricing and supply of digital material.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.thebookseller.com/news/110213-us-publishers-seek-new-digital-model-with-apple.html.rss&#34;&gt;thebookseller.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Джобс молодец — слова не держит, если его можно продать ;)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ebooks : print = 3:1 (oreilly.com)</title>
-      <link>/posts/2009-12-23-48/</link>
+      <link>//localhost:1313/posts/2009-12-23-48/</link>
       <pubDate>Wed, 23 Dec 2009 22:54:22 +0000</pubDate>
-      
-      <guid>/posts/2009-12-23-48/</guid>
-      <description>In January of 2008, we sold two print books for every ebook on oreilly.com. Now it&amp;rsquo;s 3 ebooks for every print book. Remarkably fast transition.
- via links.toc.oreilly.com
-Соотношение 2:1 в пользу бумажных книг за два года у O&amp;rsquo;Reilly стало 3:1 в пользу электронных.</description>
+      <guid>//localhost:1313/posts/2009-12-23-48/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;In January of 2008, we sold two print books for every ebook on oreilly.com. Now it&amp;rsquo;s 3 ebooks for every print book. Remarkably fast transition.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://links.toc.oreilly.com/ebooks-now-outselling-print-31-on-oreillycom&#34;&gt;links.toc.oreilly.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Соотношение 2:1 в пользу бумажных книг за два года у O&amp;rsquo;Reilly стало 3:1 в пользу электронных.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Wiley выбрало Scribd</title>
-      <link>/posts/2009-12-15-167/</link>
+      <link>//localhost:1313/posts/2009-12-15-167/</link>
       <pubDate>Tue, 15 Dec 2009 22:07:35 +0000</pubDate>
-      
-      <guid>/posts/2009-12-15-167/</guid>
-      <description>Book publishers are increasingly embracing digital books, and not just on Amazon’s Kindle. Today, John Wiley and Sons, Barnes and Noble imprint Sterling Publishing, Chronicle Books, and the University of Chicago Press announced they will join a total of 150 publishers to offer ebooks in the Scribd Store. Wiley is the venerable publisher of the For Dummies series of books as well as Frommer’s travel guides and CliffsNotes.
- via techcrunch.</description>
+      <guid>//localhost:1313/posts/2009-12-15-167/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Book publishers are increasingly embracing digital books, and not just on Amazon’s Kindle.  Today, John Wiley and Sons, Barnes and Noble imprint Sterling Publishing, Chronicle Books, and the University of Chicago Press announced they will join a total of 150 publishers to offer ebooks in the &lt;a href=&#34;http://www.scribd.com/store&#34;&gt;Scribd Store&lt;img src=&#34;http://i.ixnp.com/images/v6.18/t.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt;.  Wiley is the venerable publisher of the &lt;em&gt;For Dummies&lt;/em&gt; series of books as well as &lt;em&gt;Frommer’s&lt;/em&gt; travel guides and &lt;em&gt;CliffsNotes.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.techcrunch.com/2009/12/15/scribd-store-wiley/&#34;&gt;techcrunch.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;150 издателей используют Scribd. Понятно, что по преимуществу из-за «защиты от копирования». Интересно, насколько это будет жизнеспособно.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Автор бизнес-бестселлеров передал права Amazon</title>
-      <link>/posts/2009-12-15-23/</link>
+      <link>//localhost:1313/posts/2009-12-15-23/</link>
       <pubDate>Tue, 15 Dec 2009 10:58:33 +0000</pubDate>
-      
-      <guid>/posts/2009-12-15-23/</guid>
-      <description>Ever since electronic books emerged as a major growth market, New York’s largest publishing houses have worried that big-name authors might sign deals directly with e-book retailers or other new ventures, bypassing traditional publishers entirely.
-Skip to next paragraph
-Now, one well-known author is doing just that.
-Stephen R. Covey, one of the most successful business authors of the last two decades, has moved e-book rights to two of his best-selling books from his print publisher, Simon &amp;amp; Schuster, a division of the CBS Corporation, to a digital publisher that will sell the e-books to Amazon.</description>
+      <guid>//localhost:1313/posts/2009-12-15-23/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Ever since electronic books emerged as a major growth market, New York’s largest publishing houses have worried that big-name authors might sign deals directly with e-book retailers or other new ventures, bypassing traditional publishers entirely.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#secondParagraph&#34;&gt;Skip to next paragraph&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Now, one well-known author is doing just that.&lt;/p&gt;&#xA;&lt;p&gt;Stephen R. Covey, one of the most successful business authors of the last two decades, has moved e-book rights to two of his best-selling books from his print publisher, Simon &amp;amp; Schuster, a division of the &lt;a href=&#34;http://topics.nytimes.com/top/news/business/companies/cbs_corporation/index.html?inline=nyt-org&#34; title=&#34;More information about CBS Corp&#34;&gt;CBS Corporation&lt;/a&gt;, to a digital publisher that will sell the e-books to &lt;a href=&#34;http://topics.nytimes.com/top/news/business/companies/amazon_inc/index.html?inline=nyt-org&#34; title=&#34;More information about Amazon.com Inc&#34;&gt;Amazon.com&lt;/a&gt; for one year.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Запись выступления Джереми Эттингхаузена, digital director в Penguin UK, на non-fiction: http://drop.io/penguinuk</title>
-      <link>/posts/2009-12-10-172/</link>
+      <link>//localhost:1313/posts/2009-12-10-172/</link>
       <pubDate>Thu, 10 Dec 2009 22:44:42 +0000</pubDate>
-      
-      <guid>/posts/2009-12-10-172/</guid>
-      <description>http://drop.io/penguinuk</description>
+      <guid>//localhost:1313/posts/2009-12-10-172/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://drop.io/penguinuk&#34;&gt;http://drop.io/penguinuk&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Продажи электронных книг у Random House за год выросли на 400%</title>
-      <link>/posts/2009-11-25-129/</link>
+      <link>//localhost:1313/posts/2009-11-25-129/</link>
       <pubDate>Wed, 25 Nov 2009 00:26:06 +0000</pubDate>
-      
-      <guid>/posts/2009-11-25-129/</guid>
-      <description>Random House Reports Big Digital Book Increases - mediabistro.com: GalleyCat
- Sources report that over the first half of the year, eBook sales at Random House have increased by 400 percent.
-According to a leaked report obtained by Crain&amp;rsquo;s NY, digital book sales at the company have increased dramatically. Despite impressive growth, the company called it &amp;ldquo;an incubatory period&amp;rdquo; for the digital book industry&amp;ndash;a fraction of the company&amp;rsquo;s overall revenues.</description>
+      <guid>//localhost:1313/posts/2009-11-25-129/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.mediabistro.com/galleycat/ebooks/random_house_reports_big_digital_book_increases_143395.asp&#34;&gt;Random House Reports Big Digital Book Increases - mediabistro.com: GalleyCat&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Sources report that over the first half of the year, eBook sales at Random House have increased by 400 percent.&lt;/p&gt;&#xA;&lt;p&gt;According to a leaked report obtained by Crain&amp;rsquo;s NY, digital book sales at the company have increased dramatically. Despite impressive growth, the company called it &amp;ldquo;an incubatory period&amp;rdquo; for the digital book industry&amp;ndash;a fraction of the company&amp;rsquo;s overall revenues.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s more from the article: &amp;ldquo;sales of its Kindle e-books through September 2009 came to $22.6 million, an increase of almost 700% over the $2.9 million in revenue that the Kindle generated during the same period in 2008. The Lost Symbol was a big part of that growth. Published Sept. 15, the thriller sold 100,000 e-books its first week out, or about 5% of total sales for the book. In the first half of 2009, Random House e-book revenue grew by 400%, says a spokesman.&amp;rdquo;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Писатели против издателей</title>
-      <link>/posts/2009-11-19-168/</link>
+      <link>//localhost:1313/posts/2009-11-19-168/</link>
       <pubDate>Thu, 19 Nov 2009 13:43:21 +0000</pubDate>
-      
-      <guid>/posts/2009-11-19-168/</guid>
-      <description>Американские авторы объединились для создания е-книг | Pro-Books.ru
- Писатели создали организацию, дабы выпускать свои книги в электронном виде без помощи издателей. Как сообщает журнал Bookseller, группа американских писателей, включая Урсулу Ле Гуин, решила миновать стадию традиционного издательского процесса и самостоятельно подготовила электронные версии своих новых произведений. Они предназначены непосредственно для чтения на ридерах Kindle and Sony. Организация Book View Press была основана в начале этого года членами сообщества Book View Cafe, в котором состояли 27 авторов, на чьем счету числилось немало бестселлеров и наград.</description>
+      <guid>//localhost:1313/posts/2009-11-19-168/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pro-books.ru/sitearticles/2565&#34;&gt;Американские авторы объединились для создания е-книг | Pro-Books.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Писатели создали организацию, дабы выпускать свои книги в электронном виде без помощи издателей. Как сообщает журнал Bookseller, группа американских писателей, включая Урсулу Ле Гуин, решила миновать стадию традиционного издательского процесса и самостоятельно подготовила электронные версии своих новых произведений. Они предназначены непосредственно для чтения на ридерах Kindle and Sony. Организация Book View Press была основана в начале этого года членами сообщества Book View Cafe, в котором состояли 27 авторов, на чьем счету числилось немало бестселлеров и наград.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Экс-президент HarperCollins открывает электронное издательство</title>
-      <link>/posts/2009-10-14-57/</link>
+      <link>//localhost:1313/posts/2009-10-14-57/</link>
       <pubDate>Wed, 14 Oct 2009 20:17:27 +0000</pubDate>
-      
-      <guid>/posts/2009-10-14-57/</guid>
-      <description>Jane Friedman Starts Open Road Integrated Media, an E-Book Company - NYTimes.com
- Sixteen months after stepping down as president and chief executive of HarperCollins Publishers Worldwide, Jane Friedman has formed a new company that will republish old titles by big-name authors including William Styron, Iris Murdoch and Pat Conroy in electronic form.
-Together with Jeffrey Sharp, a film producer of features including “Boys Don’t Cry” and “You Can Count on Me,” Ms.</description>
+      <guid>//localhost:1313/posts/2009-10-14-57/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2009/10/14/books/14fried.html?_r=1&amp;amp;partner=rss&amp;amp;emc=rss&#34;&gt;Jane Friedman Starts Open Road Integrated Media, an E-Book Company - NYTimes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Sixteen months after stepping down as president and chief executive of HarperCollins Publishers Worldwide, &lt;strong&gt;Jane Friedman&lt;/strong&gt; has formed a new company that will republish old titles by big-name authors including William Styron, Iris Murdoch and Pat Conroy in electronic form.&lt;br&gt;&#xA;Together with Jeffrey Sharp, a film producer of features including “Boys Don’t Cry” and “You Can Count on Me,” Ms. Friedman, 64, has founded &lt;strong&gt;Open Road Integrated Media&lt;/strong&gt; to focus almost exclusively on digital publishing. The company will also seek new authors willing to be published in the electronic format first.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Директор Hachette считает, что $10 за электронную книгу и Google убьют традиционное книгоиздание</title>
-      <link>/posts/2009-08-31-63/</link>
+      <link>//localhost:1313/posts/2009-08-31-63/</link>
       <pubDate>Mon, 31 Aug 2009 19:14:11 +0000</pubDate>
-      
-      <guid>/posts/2009-08-31-63/</guid>
-      <description>World&amp;rsquo;s Second Largest Publisher: $9.99 eBooks Will Kill Hardcover Books
- Arnaud Nourry, the CEO of the world&amp;rsquo;s second largest book publisher, Hachette Livre, says that the current pricing trends for eBooks may soon kill the hardcover book as we know it. In an interview with the Financial Times, Nourry says that he worries that the combination of the $9.99 price for bestsellers and the fact that Google now offers millions of out-of-copyright books for free could destroy profits for traditional publishing houses.</description>
+      <guid>//localhost:1313/posts/2009-08-31-63/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.readwriteweb.com/archives/does_amazons_999_price_for_ebooks_spell_the_end_of.php&#34;&gt;World&amp;rsquo;s Second Largest Publisher: $9.99 eBooks Will Kill Hardcover Books&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Arnaud Nourry, the CEO of the world&amp;rsquo;s second largest book publisher, Hachette Livre, says that the current pricing trends for eBooks may soon kill the hardcover book as we know it. In an interview with the Financial Times, Nourry says that he worries that the combination of the $9.99 price for bestsellers and the fact that Google now offers millions of out-of-copyright books for free could destroy profits for traditional publishing houses. Nourry is especially worried about the fact that Amazon is currently selling eBooks at a loss and that the company will soon demand that publishers will lower their prices so that it can actually make a profit from selling eBooks in its Kindle store.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Как превращаются в издателя электронных книг</title>
-      <link>/posts/2009-08-07-111/</link>
+      <link>//localhost:1313/posts/2009-08-07-111/</link>
       <pubDate>Fri, 07 Aug 2009 15:13:27 +0000</pubDate>
-      
-      <guid>/posts/2009-08-07-111/</guid>
-      <description>Does Digital Cannibalize Print? Not Yet. - Tools of Change for Publishing
- Over the past 18 months, we&amp;rsquo;ve gone from print outselling digital by more than 2:1 to just the opposite.
- За последние полтора года издательство соотношение проданных O&amp;rsquo;Reilly бумажных и электронных книг 2:1 изменилось на противоположное.</description>
+      <guid>//localhost:1313/posts/2009-08-07-111/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://toc.oreilly.com/2009/08/does-digital-cannibalize-print-not-likely.html&#34;&gt;Does Digital Cannibalize Print? Not Yet. - Tools of Change for Publishing&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Over the past 18 months, we&amp;rsquo;ve gone from print outselling digital by more than 2:1 to just the opposite.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;За последние полтора года издательство соотношение проданных O&amp;rsquo;Reilly бумажных и электронных книг 2:1 изменилось на противоположное.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Бывший CEO Random House об Amazon и Google</title>
-      <link>/posts/2009-02-24-35/</link>
+      <link>//localhost:1313/posts/2009-02-24-35/</link>
       <pubDate>Tue, 24 Feb 2009 21:04:22 +0000</pubDate>
-      
-      <guid>/posts/2009-02-24-35/</guid>
-      <description>Рынок электронных книг ожидает дуополия Amazon и Google - Культура - Литература - Электронные книги - Компьюлента
- Корпорация согласилась платить по 60 долларов за каждую отсканированную книгу, защищенную авторским правом. Кроме того, правообладатели смогут решать, стоит ли размещать рекламу рядом со страницами книги на соответствующем сайте. Если реклама будет разрешена, правообладатели получат комиссионные. Наконец, Google поможет правообладателям с выплатой налогов. Соглашение создало еще один источник доходов для издателей и авторов — библиотеки.</description>
+      <guid>//localhost:1313/posts/2009-02-24-35/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://culture.compulenta.ru/404479/&#34;&gt;Рынок электронных книг ожидает дуополия Amazon и Google - Культура - Литература - Электронные книги - Компьюлента&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Корпорация согласилась платить по 60 долларов за каждую отсканированную книгу, защищенную авторским правом. Кроме того, правообладатели смогут решать, стоит ли размещать рекламу рядом со страницами книги на соответствующем сайте. Если реклама будет разрешена, правообладатели получат комиссионные. Наконец, Google поможет правообладателям с выплатой налогов. Соглашение создало еще один источник доходов для издателей и авторов — библиотеки. Они должны платить Google за доступ к полному цифровому каталогу. Основная часть этих средств будет перечисляться правообладателям. Посетители библиотек получат доступ к электронным книгам, что превращает Google в поставщика электронных книг и конкурента Amazon с его устройством Kindle. В дальнейшем планируется создание книжного интернет-магазина под эгидой Google. Купленные в такой торговой точке книги можно будет только читать, не сохраняя на компьютере пользователя.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ScrollMotion будет делать айфонные книги для мейджоров книжного рынка США</title>
-      <link>/posts/2008-12-23-46/</link>
+      <link>//localhost:1313/posts/2008-12-23-46/</link>
       <pubDate>Tue, 23 Dec 2008 09:33:27 +0000</pubDate>
-      
-      <guid>/posts/2008-12-23-46/</guid>
-      <description>App Developer Strikes E-Book Deals With Major Publishers | Epicenter from Wired.com
- ScrollMotion, a New York mobile app developer, has concluded deals with a number of major publishing houses, and is in talks with several others, to produce newly released and best-selling e-books as applications for the iPhone and iPod touch. Publishers now on board include Houghton Mifflin, Simon &amp;amp; Schuster, Random House, Hachette and Penguin Group USA. The first official books will begin to roll out Monday and include titles such as Stephenie Meyer&amp;rsquo;s &amp;ldquo;Twilight,&amp;rdquo; Philip Pullman&amp;rsquo;s &amp;ldquo;The Golden Compass&amp;rdquo; and a number of others by Christopher Paolini, Brad Meltzer and Scott Westerfeld.</description>
+      <guid>//localhost:1313/posts/2008-12-23-46/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://blog.wired.com/business/2008/12/app-developer-s.html&#34;&gt;App Developer Strikes E-Book Deals With Major Publishers | Epicenter from Wired.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;ScrollMotion, a New York mobile app developer, has concluded deals with a number of major publishing houses, and is in talks with several others, to produce newly released and best-selling e-books as applications for the iPhone and iPod touch. Publishers now on board include Houghton Mifflin, Simon &amp;amp; Schuster, Random House, Hachette and Penguin Group USA. The first official books will begin to roll out Monday and include titles such as Stephenie Meyer&amp;rsquo;s &amp;ldquo;Twilight,&amp;rdquo; Philip Pullman&amp;rsquo;s &amp;ldquo;The Golden Compass&amp;rdquo; and a number of others by Christopher Paolini, Brad Meltzer and Scott Westerfeld. There are already several e-book readers in the app store, as well as a number of out-of-copyright e-books, but ScrollMotion’s product is unique in that these are stand-alone and newer in-copyright titles and best-selling novels. Each book is a separate application using Scroll Motion&amp;rsquo;s new reader technology called Iceberg and is wrapped only in the FairPlay iTunes DRM, putting Apple directly into the e-book business by allowing them to pick up a certain percentage of each sale.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Random House, Ballantine предложат бесплатные книги для пользователей Stanza</title>
-      <link>/posts/2008-12-09-42/</link>
+      <link>//localhost:1313/posts/2008-12-09-42/</link>
       <pubDate>Tue, 09 Dec 2008 21:48:31 +0000</pubDate>
-      
-      <guid>/posts/2008-12-09-42/</guid>
-      <description>Random House Publishing Group Makes Free Titles Available on Lexcycle&amp;rsquo;s Stanza Reader | Lexcycle
- New York, NY - December 8, 2008 &amp;ndash; The Random House Publishing Group and Lexcycle, Inc., jointly announced today that Random House and Ballantine will be the first major book publishers to make full-length books available for free on iPhone through Lexcycle Stanza, the most popular electronic book reader for the Apple iPhone and iPod Touch.</description>
+      <guid>//localhost:1313/posts/2008-12-09-42/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.lexcycle.com/press/random_house_free&#34;&gt;Random House Publishing Group Makes Free Titles Available on Lexcycle&amp;rsquo;s Stanza Reader | Lexcycle&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;New York, NY - December 8, 2008 &amp;ndash; The Random House Publishing Group and Lexcycle, Inc., jointly announced today that Random House and Ballantine will be the first major book publishers to make full-length books available for free on iPhone through Lexcycle Stanza, the most popular electronic book reader for the Apple iPhone and iPod Touch. This promotion will allow over 500,000 Stanza users to enjoy free eBooks from a varied list of authors including Alan Furst, Julie Garwood, Charlie Huston, David Liss, Laurie Notaro, Arthur Phillips and Simon Rich. The initial offerings will be drawn from each author&amp;rsquo;s backlist and will include excerpts for any new hardcovers coming in 2009. Random House is providing links to retailers like Amazon, Barnes and Noble.com, Borders.com, Powells.com and IndieBound.org to encourage readers to purchase more books by these authors. &amp;ldquo;A free eBook is a great way to sample a new writer, and help spread the word,&amp;rdquo; says Charlie Huston, whose novels &amp;lsquo;Caught Stealing&amp;rsquo;, &amp;lsquo;Six Bad Things&amp;rsquo;, and &amp;lsquo;A Dangerous Man&amp;rsquo; will all be available on Stanza. &amp;ldquo;Besides, it&amp;rsquo;s good to give things away. They&amp;rsquo;re books. We write them for people to read them.&amp;rdquo; Stanza users already have access to a public domain library which sees nearly 40,000 downloads a day. &amp;ldquo;Stanza has clearly tapped into an audience that&amp;rsquo;s hungry for content, and we&amp;rsquo;re happy to modify our traditional marketing methods to make use of the new technology available to readers today,&amp;rdquo; commented Avideh Bashirrad, Deputy Director of Marketing for Random House. Neelan Choksi, Chief Operating Officer of Lexcycle, added, &amp;ldquo;We are thrilled to bring Stanza readers a sampling of the wealth of titles published by the Random House Publishing Group imprints. But this is just the tip of the iceberg: we look forward to extending this promotion to make even more free titles available.&amp;rdquo;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>АСТ 2.0</title>
-      <link>/posts/2008-12-09-a/</link>
+      <link>//localhost:1313/posts/2008-12-09-a/</link>
       <pubDate>Tue, 09 Dec 2008 21:44:19 +0000</pubDate>
-      
-      <guid>/posts/2008-12-09-a/</guid>
-      <description>About Penguin 2.0 - Penguin Group (USA)
- Penguin 2.0 is a new suite of digital and print-based services that offer readers a new way to engage with and discover Penguin content. These collected services will encompass the entire spectrum of a Web 2.0 world by including aspects of customization, personalization, delivery to mobile phones, as well as eBooks and e-only content. In addition, later phases of Penguin 2.0 will offer community functionality and social networking.</description>
+      <guid>//localhost:1313/posts/2008-12-09-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://us.penguingroup.com/static/pages/whatsnext/about.html&#34;&gt;About Penguin 2.0 - Penguin Group (USA)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Penguin 2.0 is a new suite of digital and print-based services that offer readers a new way to engage with and discover Penguin content. These collected services will encompass the entire spectrum of a Web 2.0 world by including aspects of customization, personalization, delivery to mobile phones, as well as eBooks and e-only content. In addition, later phases of Penguin 2.0 will offer community functionality and social networking. The Penguin US website will be the focus and hub for the program. Individual services, such as Penguin Mobile and Penguin Personalized, are launching in December 2008. Additional Penguin 2.0 features and programs will be rolled out in 2009, with the entire suite of services being phased in over the next 12 months.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>OReilly начал продажи своих книг для букридеров</title>
-      <link>/posts/2008-06-15-a/</link>
+      <link>//localhost:1313/posts/2008-06-15-a/</link>
       <pubDate>Tue, 15 Jul 2008 20:30:49 +0000</pubDate>
-      
-      <guid>/posts/2008-06-15-a/</guid>
-      <description>Одно из крупнейших американских издательств, специализирующихся на компьютерной тематике, O&amp;rsquo;Reilly, сегодня начало продажи книг для букридеров. В списке пока 30 наименований свободных от DRM (издательство экспериментирует с Social DRM) наборов электронных книг. Каждый набор включает книгу в трех форматах — EPUB, PDF и совместимый с Kindle формат Mobipocket. Набор продается по цене, чуть меньшей печатной книги ($19 против $23). За чуть большую цену (примерно $30) издательство предлагает комплект из печатной книги и электронного набора.</description>
+      <guid>//localhost:1313/posts/2008-06-15-a/</guid>
+      <description>&lt;p&gt;Одно из крупнейших американских издательств, специализирующихся на компьютерной тематике, O&amp;rsquo;Reilly, сегодня начало продажи книг для букридеров. В списке пока 30 наименований свободных от DRM (издательство экспериментирует с Social DRM) наборов электронных книг. Каждый набор включает книгу в трех форматах — EPUB, PDF и совместимый с Kindle формат Mobipocket. Набор продается по цене, чуть меньшей печатной книги ($19 против $23). За чуть большую цену (примерно $30) издательство предлагает комплект из печатной книги и электронного набора. Это событие весьма примечательно тем, что Тим О&amp;rsquo;Рейли и его издательский дом — не только первопроходец, но и законодатель. Он не только умело превращает компьютерные знания в деньги, но и открывает новые ниши, выпускает книги на самые «горячие» темы (что непросто в и без того «горячей» сфере IT) и, что важно, он один из тех, кто задает повестку дня для всей IT-отрасли (так, наприемр, именно он ответственен за медиавирус «Web 2.0»). Тим О&amp;rsquo;Рейли старается не бросать слов и битов на ветер: электронные книги — это всерьез.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Российские издатели против обязательного электронного экземпляра</title>
-      <link>/posts/2008-07-03-44/</link>
+      <link>//localhost:1313/posts/2008-07-03-44/</link>
       <pubDate>Thu, 03 Jul 2008 18:36:17 +0000</pubDate>
-      
-      <guid>/posts/2008-07-03-44/</guid>
-      <description>Ъ - Госдума цифруется на случай буквоедства
- Сегодня Госдума в первом чтении должна рассмотреть поправки к закону &amp;ldquo;О библиотечном деле&amp;rdquo;, легализующие деятельность электронных библиотек. В целях &amp;ldquo;сохранности фондов&amp;rdquo; национальные библиотеки предлагается наделить правом оцифровывания книг, видеофильмов и других произведений, что позволит им создавать электронные копии документов без согласия авторов и без выплаты им вознаграждения &amp;lt;&amp;hellip;&amp;gt;
-&amp;ldquo;Издатели захотят зафиксировать защиту своего авторского права, и читатели будут оплачивать вот этот бесплатный доступ&amp;rdquo;,— прогнозирует гендиректор &amp;ldquo;Олма Медиа Групп&amp;rdquo; Дмитрий Иванов.</description>
+      <guid>//localhost:1313/posts/2008-07-03-44/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.kommersant.ru/doc.aspx?DocsID=908315&#34;&gt;Ъ - Госдума цифруется на случай буквоедства&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Сегодня Госдума в первом чтении должна рассмотреть поправки к закону &amp;ldquo;О библиотечном деле&amp;rdquo;, легализующие деятельность электронных библиотек. В целях &amp;ldquo;сохранности фондов&amp;rdquo; национальные библиотеки предлагается наделить правом оцифровывания книг, видеофильмов и других произведений, что позволит им создавать электронные копии документов без согласия авторов и без выплаты им вознаграждения &amp;lt;&amp;hellip;&amp;gt;&lt;br&gt;&#xA;&amp;ldquo;Издатели захотят зафиксировать защиту своего авторского права, и читатели будут оплачивать вот этот бесплатный доступ&amp;rdquo;,— прогнозирует гендиректор &amp;ldquo;Олма Медиа Групп&amp;rdquo; Дмитрий Иванов. &amp;ldquo;Мне будет трудно объяснить авторам, что я не контролирую электронную судьбу их творений. Это приведет к росту цен на книги&amp;rdquo;,— соглашается с ним главный редактор издательской группы &amp;ldquo;Аттикус&amp;rdquo; (включает издательства &amp;ldquo;Иностранка&amp;rdquo;, &amp;ldquo;Колибри&amp;rdquo; и &amp;ldquo;Махаон&amp;rdquo;) Сергей Пархоменко. &amp;ldquo;Сегодня нет надежной системы контроля учета и оплаты авторского права при электронном распространении, и пока это так, автор будет спрашивать с издателя&amp;rdquo;,— добавляет господин Пархоменко. &amp;ldquo;Даже защищенные базы вроде налоговой уже лежат в интернете. Посмотрите, что случилось с базами банков и мобильных телефонов. То же самое будет, если выдавать электронные экземпляры книг сразу в Ленинку,— говорит Вадим Усков.— Это крайне вредная для индустрии затея. Возведение в ранг госполитики безвозмездной раздачи всем всего — это недальновидно и направлено против авторов&amp;rdquo;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Иванов из «Иванов, Манн и Фербер» об электронных книгах</title>
-      <link>/posts/2008-06-30-19/</link>
+      <link>//localhost:1313/posts/2008-06-30-19/</link>
       <pubDate>Mon, 30 Jun 2008 07:46:27 +0000</pubDate>
-      
-      <guid>/posts/2008-06-30-19/</guid>
-      <description>Ъ - Михаил Иванов: «У отечественного рынка деловой литературы нет серьезного потенциала роста»
- Пока у нас электронных книг продается не так много, но посмотрите, что происходит на Западе. Там это очень серьезный тренд, связанный с выходом на рынок Kindle от Amazone. Это, мне кажется, может полностью изменить индустрию. Этот небольшой ридер позволяет вам собрать практически библиотеку в кармане. Связавшись с магазином, вы можете мгновенно получить необходимую вам книгу или вообще любой документ, просто скачав его оттуда.</description>
+      <guid>//localhost:1313/posts/2008-06-30-19/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.kommersant.ru/doc.aspx?DocsID=907031&#34;&gt;Ъ - Михаил Иванов: «У отечественного рынка деловой литературы нет серьезного потенциала роста»&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Пока у нас электронных книг продается не так много, но посмотрите, что происходит на Западе. Там это очень серьезный тренд, связанный с выходом на рынок Kindle от Amazone. Это, мне кажется, может полностью изменить индустрию. Этот небольшой ридер позволяет вам собрать практически библиотеку в кармане. Связавшись с магазином, вы можете мгновенно получить необходимую вам книгу или вообще любой документ, просто скачав его оттуда. И технология электронной бумаги, которую они там применили, не портит глаза. В итоге, я думаю, модель потребления изменится. Но, конечно, не сразу.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Электронные книги на BookExpo&#39;08</title>
-      <link>/posts/2008-06-03-a/</link>
+      <link>//localhost:1313/posts/2008-06-03-a/</link>
       <pubDate>Tue, 03 Jun 2008 08:45:45 +0000</pubDate>
-      
-      <guid>/posts/2008-06-03-a/</guid>
-      <description>Electronic Device Stirs Unease at BookExpo - NYTimes.com
- That too makes bookstore owners nervous about the future of electronic books.
- Автор статьи в New York Times акцентирует внимание на том, что в электронном книгоиздании, кажется, произошел перелом: его присутствие на книжной ярмарке в Лос-Анджелесе было более, чем заметным, равно как тревоги книгопродавцев и активность издателей, спешащих вскочить на подножку уходящего поезда.</description>
+      <guid>//localhost:1313/posts/2008-06-03-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2008/06/02/books/02bea.html&#34;&gt;Electronic Device Stirs Unease at BookExpo - NYTimes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;That too makes bookstore owners nervous about the future of electronic books.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Автор статьи в New York Times акцентирует внимание на том, что в электронном книгоиздании, кажется, произошел перелом: его присутствие на книжной ярмарке в Лос-Анджелесе было более, чем заметным, равно как тревоги книгопродавцев и активность издателей, спешащих вскочить на подножку уходящего поезда.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Simon and Schuster добавило еще 5 тысяч книг на Amazon. Электронных</title>
-      <link>/posts/2008-06-31-a/</link>
+      <link>//localhost:1313/posts/2008-06-31-a/</link>
       <pubDate>Sat, 31 May 2008 14:36:35 +0000</pubDate>
-      
-      <guid>/posts/2008-06-31-a/</guid>
-      <description>Вчера на проходящей в Лос-Анджелесе книжной ярмарке BookExpo Кэролайн Рейди,президент и исполнительный директор Simon &amp;amp; Schuster, объявила о том, что издательство добавляют к уже продающимся в электронном виде через Amazon книгам еще 5000 наименований из бэклиста. Теперь для владельцев Kindle доступно около 10 тысяч книг этого издательства (в числе примерно 125 000, продающихся на Amazon; для сравнения: в самом большом российском магазине электронных книг читателям могут предложить всего 6346 наименований.). Рейди с удовлетворением отметила, что те из покупателей книг на Amazon, кто пользуется Kindle, покупают примерно в 2,6 раза больше книг.</description>
+      <guid>//localhost:1313/posts/2008-06-31-a/</guid>
+      <description>&lt;p&gt;Вчера на проходящей в Лос-Анджелесе книжной ярмарке BookExpo Кэролайн Рейди,президент и исполнительный директор &lt;a href=&#34;http://www.simonsays.com/&#34;&gt;Simon &amp;amp; Schuster&lt;/a&gt;, объявила о том, что издательство добавляют к уже продающимся в электронном виде через Amazon книгам еще 5000 наименований из бэклиста. Теперь для владельцев Kindle доступно около 10 тысяч книг этого издательства (в числе примерно 125 000, продающихся на Amazon; для сравнения: в самом большом российском магазине электронных книг читателям могут предложить всего 6346 наименований.). Рейди с удовлетворением отметила, что те из покупателей книг на Amazon, кто пользуется Kindle, покупают примерно в 2,6 раза больше книг. Подробно: &lt;a href=&#34;http://biz.yahoo.com/bw/080530/20080530005158.html?.v=1&#34;&gt;Simon &amp;amp; Schuster, Inc. to Make 5,000 Additional Books Available for Amazon Kindle: Financial News - Yahoo! Finance&lt;/a&gt; P. S. В вяло (пока) текущей войне форматов (закрытый .azw от Amazon vs. .epub от IDPF) это серьезный ход. Видимо, Amazon перешел к активной «вербовке» сторонников, с одной стороны, среди крупнейших американских издателей, с другой — среди пользователей, снизив на прошлой неделе цену на Kindle на 10% (теперь букридер стоит $359).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Penguin объявляет о пятикратном росте продаж электронных книг</title>
-      <link>/posts/2008-05-30-35/</link>
+      <link>//localhost:1313/posts/2008-05-30-35/</link>
       <pubDate>Fri, 30 May 2008 12:05:18 +0000</pubDate>
-      
-      <guid>/posts/2008-05-30-35/</guid>
-      <description>По сообщению Publishers Weekly, один из крупнейших в мире издательских холдингов, Penguin Group, объявил о пятикратном увеличении продаж электронных книг с апреля прошлого года. В I квартале текущего года Penguin продал электронных книг больше, чем за весь 2007 г. Исполнительный директор группы Дэвид Шанкс объяснил такой скачок ростом популярности бук-ридеров.</description>
+      <guid>//localhost:1313/posts/2008-05-30-35/</guid>
+      <description>&lt;p&gt;По &lt;a href=&#34;http://www.publishersweekly.com/article/CA6564510.html&#34;&gt;сообщению Publishers Weekly&lt;/a&gt;, один из крупнейших в мире издательских холдингов, &lt;a href=&#34;http://www.penguin.com&#34;&gt;Penguin Group&lt;/a&gt;, объявил о пятикратном увеличении продаж электронных книг с апреля прошлого года. В I квартале текущего года Penguin продал электронных книг больше, чем за весь 2007 г. Исполнительный директор группы Дэвид Шанкс объяснил такой скачок ростом популярности бук-ридеров.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Крупнейшее французское издательство покупает главного продавца электронных книг</title>
-      <link>/posts/2008-05-20-15/</link>
+      <link>//localhost:1313/posts/2008-05-20-15/</link>
       <pubDate>Tue, 20 May 2008 14:13:21 +0000</pubDate>
-      
-      <guid>/posts/2008-05-20-15/</guid>
-      <description>Издательство Hachette, крупнейшее французское издательство, покупает компанию Numilog, одного из главных дистрибьюторов и продавцов электронных книг в стране. Кроме того, Hachette объявило о том, что собирается начать официальные продажи букридеров Sony Reader до конца этого года:
- Hachette plans to buy Numilog—and introduce the Sony Reader to France this year | TeleRead: Bring the E-Books Home
- </description>
+      <guid>//localhost:1313/posts/2008-05-20-15/</guid>
+      <description>&lt;p&gt;Издательство &lt;a href=&#34;http://www.hachette.com&#34;&gt;Hachette&lt;/a&gt;, крупнейшее французское издательство, покупает компанию &lt;a href=&#34;http://www.numilog.com/&#34;&gt;Numilog&lt;/a&gt;, одного из главных дистрибьюторов и продавцов электронных книг в стране. Кроме того, Hachette объявило о том, что собирается начать официальные продажи букридеров Sony Reader до конца этого года:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.teleread.org/blog/2008/05/20/hachette-plans-to-buy-numilog-and-introduce-the-sony-reader-to-france-this-year/&#34;&gt;Hachette plans to buy Numilog—and introduce the Sony Reader to France this year | TeleRead: Bring the E-Books Home&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,58 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jokes on Новости электронного книгоиздания</title>
-    <link>/tags/jokes/</link>
-    <description>Recent content in jokes on Новости электронного книгоиздания</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Jokes on Новости электронного книгоиздания</title>
+    <link>//localhost:1313/tags/jokes/</link>
+    <description>Recent content in Jokes on Новости электронного книгоиздания</description>
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Mar 2016 18:35:34 +0000</lastBuildDate><atom:link href="/tags/jokes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Mar 2016 18:35:34 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/jokes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My profession has probably been transformed</title>
-      <link>/posts/2016-03-15-c/</link>
+      <link>//localhost:1313/posts/2016-03-15-c/</link>
       <pubDate>Tue, 15 Mar 2016 18:35:34 +0000</pubDate>
-      
-      <guid>/posts/2016-03-15-c/</guid>
-      <description>My profession has probably been transformed again just since we started this session.</description>
+      <guid>//localhost:1313/posts/2016-03-15-c/</guid>
+      <description>&lt;p&gt;My profession has probably been transformed again just since we started this session.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>vellichor (noun) the strange wistfulness of used bookshops</title>
-      <link>/posts/2015-03-11-a/</link>
+      <link>//localhost:1313/posts/2015-03-11-a/</link>
       <pubDate>Wed, 11 Mar 2015 09:57:20 +0000</pubDate>
-      
-      <guid>/posts/2015-03-11-a/</guid>
-      <description>Отсюда</description>
+      <guid>//localhost:1313/posts/2015-03-11-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://ebookfriendly.com/most-beautiful-english-words-pictures/&#34;&gt;Отсюда&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Если забыли, как это делается</title>
-      <link>/posts/2015-03-10-c/</link>
+      <link>//localhost:1313/posts/2015-03-10-c/</link>
       <pubDate>Tue, 10 Mar 2015 21:17:43 +0000</pubDate>
-      
-      <guid>/posts/2015-03-10-c/</guid>
-      <description>How to Open a New Book.</description>
+      <guid>//localhost:1313/posts/2015-03-10-c/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;How to Open a New Book&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>По ссылке от Сета Година: стрип &#34;Альтернативная литература&#34;</title>
-      <link>/posts/2011-10-31-2/</link>
+      <link>//localhost:1313/posts/2011-10-31-2/</link>
       <pubDate>Mon, 31 Oct 2011 13:55:27 +0000</pubDate>
-      
-      <guid>/posts/2011-10-31-2/</guid>
-      <description>via xkcd.com
-Да-да. Хитрость издателя безмерна.</description>
+      <guid>//localhost:1313/posts/2011-10-31-2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://imgs.xkcd.com/comics/alternative_literature.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://xkcd.com/971/&#34;&gt;xkcd.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Да-да. Хитрость издателя безмерна.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Впечатляющая библиотека : eBook cartoon</title>
-      <link>/posts/2010-07-30-224/</link>
+      <link>//localhost:1313/posts/2010-07-30-224/</link>
       <pubDate>Fri, 30 Jul 2010 17:23:37 +0000</pubDate>
-      
-      <guid>/posts/2010-07-30-224/</guid>
-      <description>via mikecane.tumblr.com
-P. S. Archive</description>
+      <guid>//localhost:1313/posts/2010-07-30-224/</guid>
+      <description>&lt;p&gt;via &lt;a href=&#34;http://mikecane.tumblr.com/post/879694787/libraryland-inothernews-jeff-koterba&#34;&gt;mikecane.tumblr.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;P. S. &lt;a href=&#34;http://web.archive.org/web/20100802023539/http://mikecane.tumblr.com/post/879694787/libraryland-inothernews-jeff-koterba&#34;&gt;Archive&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
