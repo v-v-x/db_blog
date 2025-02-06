@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drm on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/drm/</link>
+    <link>/tags/drm/</link>
     <description>Recent content in Drm on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 24 Jan 2017 22:39:44 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/drm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/drm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Readium LCP — децентрализованный DRM</title>
-      <link>//localhost:1313/posts/2017-01-24-a/</link>
+      <link>/posts/2017-01-24-a/</link>
       <pubDate>Tue, 24 Jan 2017 22:39:44 +0000</pubDate>
-      <guid>//localhost:1313/posts/2017-01-24-a/</guid>
+      <guid>/posts/2017-01-24-a/</guid>
       <description>&lt;p&gt;Издатели искренно любят DRM, digital rights management. Их любовью иногда болеют даже целые стран, запрещая обход DRM. Издатели наивно полагают, что «управление цифровыми правами» (эвфемизм «предотвращения копирования») может действительно ограничить копирование. Истории противостояния DRM и программистов, которой уже не одно десятилетие и на протяжении которой каждая новая хитроумная технология DRM через довольно короткий срок оказывалась взломанной не менее хитроумными программными инструментами. Но издатели продолжают верить, потому что кое-где и кое-как DRM работает, хотя бы потому что успокаивает их тревогу.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новый DeDRM</title>
-      <link>//localhost:1313/posts/2016-10-16-b/</link>
+      <link>/posts/2016-10-16-b/</link>
       <pubDate>Sun, 16 Oct 2016 21:09:54 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-10-16-b/</guid>
+      <guid>/posts/2016-10-16-b/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://apprenticealf.wordpress.com/2016/10/11/dedrm-tools-6-5-2-released/&#34;&gt;Обновился&lt;/a&gt; набор утилит для снятия &lt;a href=&#34;https://goo.gl/foaCrk&#34;&gt;DRM&lt;/a&gt; с книг, приобретённых вами в магазинах, которые DRM используют (Amazon, Kobo, B&amp;amp;N и Adobe). Apprentice Alf позволяет ровно это — снять защиту с купленных &lt;em&gt;лично вами&lt;/em&gt; книг, а не каких-то других. Поэтому, например, чтобы снять защиту с книги, купленной в Amazon, вам надо будет зайти в личный кабинет на Amazon и найти серийный номер вашего Kindle. Снять защиту с книги, купленной для какого-то постороннего Kindle, не получится.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Водяные знаки в электронных книгах</title>
-      <link>//localhost:1313/posts/2016-01-21-a/</link>
+      <link>/posts/2016-01-21-a/</link>
       <pubDate>Tue, 21 Jun 2016 10:17:21 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-01-21-a/</guid>
+      <guid>/posts/2016-01-21-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://the-digital-reader.com/wp-content/uploads/2016/06/booxtream.txt&#34;&gt;Подробный разбор&lt;/a&gt; того, как реализуется watermark DRM от компании &lt;strong&gt;Booxtream&lt;/strong&gt; в книгах издательства &lt;strong&gt;Verso&lt;/strong&gt;. Кратко: всё не страшно (метка тут, метка там, удаляемая строка кода в png) и стираемо, но многогранно и может быть усовершенствовано. И, конечно, никто не мешает мне дать (или взять) почитать книгу издательства Verso. Барьер — чисто психологический (но зависит от законодательства, конечно) — только для тех, кто вдруг решит размещать в публичных сетях.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DRM — угроза для читателя</title>
-      <link>//localhost:1313/posts/2014-02-06-a/</link>
+      <link>/posts/2014-02-06-a/</link>
       <pubDate>Thu, 06 Feb 2014 11:51:52 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-02-06-a/</guid>
+      <guid>/posts/2014-02-06-a/</guid>
       <description>&lt;p&gt;История и правда смешная. Adobe обновила программное обеспечение для чтения электронных книг Adobe Digital Editions, а заодно и систему Adobe Content Server, которая отвечает за защиту от копирования файлов Adobe DRM. Следует иметь в виду, что ADE — это не только программа для ПК, но и программа, которая работает на большом количестве букридеров. Так вот с июля 2014 года все книги, защищенные предыдущей версией программы, не будут открываться в старых версиях ADE на компьютере, а также на букридерах со старым программным обеспечением. Но если программу обновить несложно, то обновление читалок, особенно не имеющих подключения к сети, как правило, не самая тривиальная задача. В результате немалое количество читателей может лишиться доступа к книгам, которые они приобрели в системе с защитой от копирования. Так гипертрофированная забота о защите от копирования заканчивается прямым ущербом, наносимым читателям. Проще говоря — грабежом. &lt;a href=&#34;http://goodereader.com/blog/e-book-news/adobe-cracks-down-on-piracy-with-new-epub-drm&#34;&gt;Adobe Cracks Down on Piracy with New ePub and PDF DRM | Good E-Reader - eBook and Digital Publishing News&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Франция vs. DRM для книг</title>
-      <link>//localhost:1313/posts/2013-11-15-a/</link>
+      <link>/posts/2013-11-15-a/</link>
       <pubDate>Fri, 15 Nov 2013 13:30:21 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-11-15-a/</guid>
+      <guid>/posts/2013-11-15-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.assemblee-nationale.fr/14/amendements/1395C/AN/22.asp&#34;&gt;Assemblée nationale ~ PROJET DE LOI DE FINANCES POUR 2014(no 1395) - Amendement no 22&lt;/a&gt;. С 1 января 2015 года все книги, продаваемые французам, будут облагаться НДС в размере 5,5%. А вот не книги, а лицензии для чтения (собственно, именно это и защищает система DRM), будут облагаться повышенной ставкой НДС 19,6%, на применении которой настаивает Евросоюз в отношении всех электронных книг. В рамках политики Франции и ЕС — это локальная история французских амбиций, брюссельской бюрократии + немного традиционного для Франции стремления ограничить «культурную экспансию Запада», а Amazon и пр. «американцы» продают книги с DRM. Важно, однако, обратить внимание на обоснование принятой Национальной Ассамблеи поправки. Французский мой так себе, но в резюме говорится:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Джеф Безос о DRM: «Это не я, это они»</title>
-      <link>//localhost:1313/posts/2013-09-26-a/</link>
+      <link>/posts/2013-09-26-a/</link>
       <pubDate>Thu, 26 Sep 2013 12:13:42 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-09-26-a/</guid>
+      <guid>/posts/2013-09-26-a/</guid>
       <description>&lt;p&gt;&amp;ldquo;We are agnostic to that. We do what the publisher wants. If the rights owner wants DRM, we do DRM. If the rights owner doesn&amp;rsquo;t want DRM, we don&amp;rsquo;t do DRM,&amp;rdquo; he said.&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.pcmag.com/article2/0,2817,2424829,00.asp?et_mid=638728&amp;amp;rid=241007131&#34;&gt;Bezos: Books Will Live On, So Will DRMed E-Books | News &amp;amp; Opinion | PCMag.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;И уточнил, что покупатели электронных книг покупают и много бумажных, и он не видит угрозы. Ну, если так, то урок издателям.&lt;/p&gt;</description>
     </item>
     <item>
       <title>На Amazon и Big-6 подали в суд за DRM</title>
-      <link>//localhost:1313/posts/2013-02-20-a/</link>
+      <link>/posts/2013-02-20-a/</link>
       <pubDate>Wed, 20 Feb 2013 22:40:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-02-20-a/</guid>
+      <guid>/posts/2013-02-20-a/</guid>
       <description>&lt;p&gt;Три независимых книжных магазина подали в суд на Amazon и «Большую шестёрку» американских издателей, обвиняя их в сговоре по внедрению проприетарного DRM в Kindle, который мешает независимым издателям тоже продавать книжки «Большой шестёрки». Иск может показаться странным и слабым, если бы не одно «но»: в американской книжной индустрии издатели и продавцы — по разные стороны баррикад, поэтому суд может и заинтересоваться, равно как и американское министерство юстиции.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.huffingtonpost.com/2013/02/20/drm-lawsuit-independent-bookstores-amazon_n_2727519.html?ncid=edlinkusaolp00000003&#34;&gt;DRM Lawsuit Filed By Independent Bookstores Against Amazon, Big Six Publishers&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Adobe DRM в розницу: Иллюзия безопасности стоит денег</title>
-      <link>//localhost:1313/posts/2013-02-04-a/</link>
+      <link>/posts/2013-02-04-a/</link>
       <pubDate>Mon, 04 Feb 2013 20:53:02 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-02-04-a/</guid>
+      <guid>/posts/2013-02-04-a/</guid>
       <description>&lt;p&gt;Странно, что это идея не была реализована раньше. Лицензия на Adobe Content Service дорогая, позволить себе её могут только большие компании. Почему бы не покупать дицензию и через API не «раздавать» издателям. Вот этим и занялся сервис &lt;a href=&#34;http://www.editionguard.com/&#34;&gt;EditionGuard&lt;/a&gt;. Цены, правда, тоже не слишком: обслуживание 5 книжек в ассортименте стоит 39 USD/месяц + 45 центов за каждую загрузку, за 25 — 79 USD + 40 центов, за 200 — 149 USD + 35 центов, за анлим — 249 USD и 30 центов. Деньги делаются на разнице — Adobe раньше брал за одну загрузку 14 центов (при годовой лицензии 10 тыс USD). А что вы хотите? За иллюзию безопасности нужно платить. Не заплатишь — не почувствуешь.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Гарри Поттер и Водяные знаки</title>
-      <link>//localhost:1313/posts/2012-03-29-a/</link>
+      <link>/posts/2012-03-29-a/</link>
       <pubDate>Thu, 29 Mar 2012 10:47:37 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-03-29-a/</guid>
+      <guid>/posts/2012-03-29-a/</guid>
       <description>&lt;p&gt;Наблюдательные читатели внутренностей электронных файлов книг с Pottermore обнаружили, где, собственно, скрываются те самый «водяные знаки», которыми магазин пугает своих покупателей. Поскольку никакого шифрования в этих файлах нет, то вычистить для дальнейшего распространения их несложно.&lt;/p&gt;&#xA;&lt;p&gt;Даже такой мягкий вариант social DRM, конечно, непроходим для большинства пользователей. Вопрос — нужен ли он вообще?&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;In case you’re interested, the digital watermarks use by Pottermore are serial numbers added to various files. There’s a warning statement on the copyright page, but the true watermarks are slightly better hidden. You can find them as strings of text in the title element of some of the images. Also, eReaders.nl identified an element in the CSS file as being from Booxtream.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Requiem по Apple DRM</title>
-      <link>//localhost:1313/posts/2012-02-24-a/</link>
+      <link>/posts/2012-02-24-a/</link>
       <pubDate>Fri, 24 Feb 2012 12:38:41 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-02-24-a/</guid>
+      <guid>/posts/2012-02-24-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://goo.gl/4nksu&#34;&gt;http://goo.gl/4nksu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Программа предназначена исключительно для снятия DRM с купленных самим пользователем книг на iBookStore. Посторонние защищенные файлы не чистит.&lt;/p&gt;&#xA;&lt;p&gt;Перед применением проконсультируйтесь у врача ;)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Если кто не в курсе: DeDRM AppleScript for Mac OS X</title>
-      <link>//localhost:1313/posts/2011-09-21-1/</link>
+      <link>/posts/2011-09-21-1/</link>
       <pubDate>Wed, 21 Sep 2011 09:47:07 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-09-21-1/</guid>
+      <guid>/posts/2011-09-21-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;I hoped all users of these de-drm tools would have been sensible enough to realize that de-drmed ebooks should not be uploaded to open servers, torrents, or other methods of mass distribution. No help will be given to people doing such things, and no links to such books should be posted here.&lt;/p&gt;&#xA;&lt;p&gt;Authors, bookshops and publishers all need to make a living, so that they can continue to produce books for us to read. Don’t be a parasite.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DRM-книгообмен</title>
-      <link>//localhost:1313/posts/2011-01-27-a/</link>
+      <link>/posts/2011-01-27-a/</link>
       <pubDate>Thu, 27 Jan 2011 08:12:58 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-01-27-a/</guid>
+      <guid>/posts/2011-01-27-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;With eBook Fling, swap unlimited ebooks with thousands of readers nationwide. Just fling an eBook to others and catch the eBook of your choice - choose from the hottest New York Times Bestsellers, timeless classics and even rare, eclectic titles, textbooks and tech manuals! Trade Kindle™ and Nook™ books using your e-reader device, iPad, iPhone, Blackberry™ or Android™ smartphone.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://ebookfling.com/&#34;&gt;ebookfling.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Сервис предлагает меняться защищёнными электронными книгами для Kindle и nook. Функция «дать почитать» в них есть. Теперь можно будет дать почитать кому угодно. Про ущерб издателей кричать не стоит: если книга понравится, то читатель не утерпит и новую книгу автора купит.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Вода дырочку найдёт: инструкция для пиратов с iPad</title>
-      <link>//localhost:1313/posts/2010-12-27-222/</link>
+      <link>/posts/2010-12-27-222/</link>
       <pubDate>Mon, 27 Dec 2010 21:11:10 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-12-27-222/</guid>
+      <guid>/posts/2010-12-27-222/</guid>
       <description>&lt;p&gt;Запускаем любое &amp;ldquo;книжное&amp;rdquo; приложение с DRM (Kindle for iPad, Kobo, eReader от B&amp;amp;N и т. д.), открываем книгу, на каждой странице делаем скриншот (Home Button + Power), переправляет из Photo себе в комп, грузим всё в Google Docs в режиме распознавания — и вуаля. Разрешения PNG-файла, который получается, вполне хваатает для относительно качественного распознавания. Google, правда, пока русского не понимает. Но это пока. В общем — быстрее, чем сканировать.&lt;/p&gt;&#xA;&lt;p&gt;И вот зачем DRM? Не понимаю.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Легализованы некоторые виды обхода DRM</title>
-      <link>//localhost:1313/posts/2010-07-26-107/</link>
+      <link>/posts/2010-07-26-107/</link>
       <pubDate>Mon, 26 Jul 2010 20:21:53 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-07-26-107/</guid>
+      <guid>/posts/2010-07-26-107/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Specifically, today&amp;rsquo;s exemptions include the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Permission for cell phone owners to break access controls on their phones in order to switch wireless carriers or &amp;ldquo;jailbreak&amp;rdquo; their device&lt;/li&gt;&#xA;&lt;li&gt;Permission to break technical protections on video games to investigate or correct security flaws&lt;/li&gt;&#xA;&lt;li&gt;Permission for college professors, film students and documentary filmmakers to break copy-protection measures on DVDs so they can embed clips for educational purposes, criticism, commentary and noncommercial videos&lt;/li&gt;&#xA;&lt;li&gt;Permission to enable an e-book&amp;rsquo;s read-aloud function or use a screen reader with the e-book, even when built-in access controls prevent this&lt;/li&gt;&#xA;&lt;li&gt;Permission for computer owners to bypass the need for external security devices called dongles if the dongle no longer works and cannot be replaced&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.readwriteweb.com/archives/fair_use_legalized_says_eff.php&#34;&gt;readwriteweb.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apple не будетииспользовать DRM от Adobe. Остальное - пока предположения</title>
-      <link>//localhost:1313/posts/2010-02-19-25/</link>
+      <link>/posts/2010-02-19-25/</link>
       <pubDate>Fri, 19 Feb 2010 13:29:03 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-02-19-25/</guid>
+      <guid>/posts/2010-02-19-25/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Apple has not licensed Adobe Content Server for their iBookstore,&amp;rdquo; Nick Bogaty, senior business development manager at Adobe, told &lt;em&gt;Computerworld&lt;/em&gt;. &amp;ldquo;They appear to be doing something else.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.computerworld.com/s/article/9158398/Apple_disses_our_DRM_for_iPad_Adobe_says&#34;&gt;computerworld.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Взломали DRM Kindle</title>
-      <link>//localhost:1313/posts/2009-12-22-166/</link>
+      <link>/posts/2009-12-22-166/</link>
       <pubDate>Tue, 22 Dec 2009 22:18:15 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-12-22-166/</guid>
+      <guid>/posts/2009-12-22-166/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The hacker, known only as Labba, posed a challenge on a hacker forum and was quickly aided by other programmers to discover the hack for the Kindle. They were essentially able to break the DRM protection and find a way to get the eBooks converted to an open format and into PDF files. This allows the files to be read on several eReaders, not just the Kindle. Now we have to wait and see what Amazon will do to patch things up, but Labba says whenever Amazon does release a software solution, he will be able to hack it again — just like the iPhone getting jailbroken with every software update. Or, you know, you can just buy paper books.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Adobe продвигает свой DRM для EPUB</title>
-      <link>//localhost:1313/posts/2009-12-10-7/</link>
+      <link>/posts/2009-12-10-7/</link>
       <pubDate>Thu, 10 Dec 2009 12:58:06 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-12-10-7/</guid>
+      <guid>/posts/2009-12-10-7/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Adobe today announced that more than 100 publishers, book retailers and libraries have adopted Adobe Content Server 4 software to protect PDF and EPUB eBook content and support the distribution to thousands of retail, libraries and other channels across the globe. In addition, nearly 20 device manufacturers have licensed the Adobe Reader Mobile software development kit (SDK) to enable PDF and EPUB support on dedicated reading devices. This furthers industry efforts to accelerate eBook standardization on the open EPUB eBook format, enabling companies to create, deliver and monetize eBook content on smartphones and devices using Adobe’s eBook platform. Core technologies of Adobe’s end-to-end digital publishing solution include Adobe InDesign CS4, Adobe Digital Editions, Adobe Content Server 4, and the Adobe Reader Mobile Software Development Kit (SDK).&lt;/p&gt;</description>
     </item>
   </channel>

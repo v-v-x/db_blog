@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Typography on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/typography/</link>
+    <link>/tags/typography/</link>
     <description>Recent content in Typography on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 21 Nov 2017 13:44:17 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/typography/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/typography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Буквица: история и CSS</title>
-      <link>//localhost:1313/posts/2017-11-21-a/</link>
+      <link>/posts/2017-11-21-a/</link>
       <pubDate>Tue, 21 Nov 2017 13:44:17 +0000</pubDate>
-      <guid>//localhost:1313/posts/2017-11-21-a/</guid>
+      <guid>/posts/2017-11-21-a/</guid>
       <description>&lt;p&gt;Большая и полезная статья по истории буквицы и о том, как их теперь верстать в вебе с помощью CSS: &lt;a href=&#34;https://www.smashingmagazine.com/2012/04/drop-caps-historical-use-and-current-best-practices/&#34;&gt;https://www.smashingmagazine.com/2012/04/drop-caps-historical-use-and-current-best-practices/&lt;/a&gt; Для EPUB, в общем, тоже полезно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>10 книг по типографике от Brain Pickings</title>
-      <link>//localhost:1313/posts/2011-08-01-a/</link>
+      <link>/posts/2011-08-01-a/</link>
       <pubDate>Mon, 01 Aug 2011 13:43:04 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-08-01-a/</guid>
+      <guid>/posts/2011-08-01-a/</guid>
       <description>&lt;p&gt;10 книг по типографике от Brain Pickings&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.brainpickings.org/index.php/2011/08/01/10-essential-books-on-typography/&#34;&gt;&lt;img src=&#34;https://images3-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://s2.googleusercontent.com/s2/favicons?domain%3Dwww.brainpickings.org&amp;amp;container=focus&amp;amp;gadget=a&amp;amp;rewriteMime=image/*&amp;amp;refresh=31536000&amp;amp;resize_h=16&#34; alt=&#34;&#34;&gt;10 Essential Books on Typography&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;What Arab culture has to do with industrial ideals, midcentury design and Victorian hand-lettering. Whet&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://plus.google.com/_/notifications/ngemlink?&amp;amp;emid=CKizk7GcrqoCFRNTDAodGpxNPw&amp;amp;path=%2F114174803614877607595%2Fposts%2FH62vqbLsuER%3Fgpinv%3DAGXbFGz_IGtiXurxDHarS8W8qk8e5WmEPWdsTx8y_NiFtIqh4Y2E7GDfXHX6fZKC8jqEbsI_yJLRqnZd_A9G5mou2vBwK4d5NcukcMOcVHyrRNqnKdB_Yoc%26hl%3Den&#34;&gt;&lt;img src=&#34;https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.brainpickings.org/wp-content/uploads/2011/08/typographie.png&amp;amp;container=focus&amp;amp;gadget=a&amp;amp;rewriteMime=image/*&amp;amp;refresh=31536000&amp;amp;resize_h=120&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Вспомнить шпоны и шпации. Кое-что о вёрстке EPUB в ID CS 5.5</title>
-      <link>//localhost:1313/posts/2011-07-29-5/</link>
+      <link>/posts/2011-07-29-5/</link>
       <pubDate>Fri, 29 Jul 2011 12:33:30 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-07-29-5/</guid>
+      <guid>/posts/2011-07-29-5/</guid>
       <description>&lt;p&gt;В InDesign CS 5.5 появилась новая возможность — индивидуальная настройка параметров экспорта для объектов. В частности, картинки можно снабжать разрывами страницы (до, после или до и после картинки). У этой функции есть отличное применение. Дело в том, что &amp;ldquo;разрезание&amp;rdquo; макета на отдельные xhtml-файлы в InDesign можно делать или вручную, собирая отдельные файлы макета в Book, или автоматически, выставляя в опциях экспорта Break Document at Paragraph Style и выбирая соответствующий стиль — главы, например. Однако резать файл — а это, на минутку, единственный способ эмуляции в EPUB набора с новой страницы — именно по главам не всегда удобно. Вот тут на помощь и могут придти маленькие прозрачные картинки, по которым InDesign и произведёт нарезку везде, где нужно. Имейте в виду, что такие картинки должны быть завёрстаны из внешних файлов. Созданные в самой программе линейки, квадратики и пр. ID, по глупости, конвертировать наотрез отказывается.&lt;/p&gt;</description>
     </item>
     <item>
       <title>PT Sans - Паратайп сделал бесплатный шрифт. Скоро будет и для сети. Рекомендую</title>
-      <link>//localhost:1313/posts/2009-12-28-126/</link>
+      <link>/posts/2009-12-28-126/</link>
       <pubDate>Mon, 28 Dec 2009 10:37:24 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-12-28-126/</guid>
+      <guid>/posts/2009-12-28-126/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Компания ПараТайп объявляет о выходе в свет шрифта ПТ Санс—первой общенациональной бесплатной шрифтовой гарнитуры.&lt;/p&gt;&#xA;&lt;p&gt;Гарнитура ПТ Санс является частью проекта по созданию комплекта бесплатных общедоступных российских шрифтов с &lt;a href=&#34;http://fonts.ru/publicpt_openlicense.asp&#34;&gt;открытой пользовательской лицензией&lt;/a&gt;, призванных обеспечить потребности многонациональной страны в шрифте, который позволит не только обслуживать официальную и деловую переписку, но и служить средством развития национальных письменностей и межкультурного обмена. Проект является частью программы, посвящённой 300-летию реформы русского алфавита, проведённой Петром I с 1708 по 1710 год, и осуществляется при финансовой поддержке Федерального агентства по печати и массовым коммуникациям Российской Федерации.&lt;/p&gt;</description>
     </item>
     <item>
       <title>О верстке электронных книг</title>
-      <link>//localhost:1313/posts/2008-06-25-26/</link>
+      <link>/posts/2008-06-25-26/</link>
       <pubDate>Wed, 25 Jun 2008 09:01:16 +0000</pubDate>
-      <guid>//localhost:1313/posts/2008-06-25-26/</guid>
+      <guid>/posts/2008-06-25-26/</guid>
       <description>&lt;p&gt;Полезная статья (с обещанным продолжением) о проблемах верстки и недостатках основных форматов электронных книг: &lt;a href=&#34;http://ay4.getalime.ru/blog/2008/06/24/on-ebooks/&#34;&gt;Sans стыда, sans совести » Blog Archive » Об электронных книгах&lt;/a&gt; и &lt;a href=&#34;http://ay4.getalime.ru/blog/2008/06/24/more-on-ebooks/&#34;&gt;Sans стыда, sans совести » Blog Archive » Еще об электронных книгах&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

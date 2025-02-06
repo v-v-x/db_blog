@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/ai/</link>
+    <link>/tags/ai/</link>
     <description>Recent content in AI on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 13 Dec 2017 15:49:07 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Искусственные фанфики</title>
-      <link>//localhost:1313/posts/2017-12-13-a/</link>
+      <link>/posts/2017-12-13-a/</link>
       <pubDate>Wed, 13 Dec 2017 15:49:07 +0000</pubDate>
-      <guid>//localhost:1313/posts/2017-12-13-a/</guid>
+      <guid>/posts/2017-12-13-a/</guid>
       <description>&lt;p&gt;Хорошо, что Роулинг не запрещает фанфики. Иначе не было бы вот этой прелести: &lt;a href=&#34;http://botnik.org/content/harry-potter.html&#34;&gt;http://botnik.org/content/harry-potter.html&lt;/a&gt;. Четыре странички фанфика по мотивам Гарри Поттера, созданного предсказательным алгоритмом. «Скайнет» всё-таки появится и будет писать фанфики.&lt;/p&gt;</description>
     </item>
   </channel>

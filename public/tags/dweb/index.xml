@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dweb on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/dweb/</link>
+    <link>/tags/dweb/</link>
     <description>Recent content in Dweb on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 05 Oct 2018 15:13:58 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/dweb/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/dweb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;Вечная&#34; Капитанская дочка</title>
-      <link>//localhost:1313/posts/2018-10-05-a/</link>
+      <link>/posts/2018-10-05-a/</link>
       <pubDate>Fri, 05 Oct 2018 15:13:58 +0000</pubDate>
-      <guid>//localhost:1313/posts/2018-10-05-a/</guid>
+      <guid>/posts/2018-10-05-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://cloudflare-ipfs.com/ipfs/QmUL3SwL9DHVzNTjDMBBnFcxSeVY4LJVyh1LK4uc8oJWWt/&#34;&gt;https://cloudflare-ipfs.com/ipfs/QmUL3SwL9DHVzNTjDMBBnFcxSeVY4LJVyh1LK4uc8oJWWt&lt;/a&gt;/&lt;/p&gt;</description>
     </item>
   </channel>

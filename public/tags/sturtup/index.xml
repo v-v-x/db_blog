@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sturtup on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/sturtup/</link>
+    <link>/tags/sturtup/</link>
     <description>Recent content in Sturtup on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 14 Oct 2016 12:55:17 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/sturtup/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/sturtup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NetGalley купил Bookish.com</title>
-      <link>//localhost:1313/posts/2016-10-14-a/</link>
+      <link>/posts/2016-10-14-a/</link>
       <pubDate>Fri, 14 Oct 2016 12:55:17 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-10-14-a/</guid>
+      <guid>/posts/2016-10-14-a/</guid>
       <description>&lt;p&gt;У &lt;a href=&#34;http://bookish.com&#34;&gt;Bookish&lt;/a&gt; была судьба печальная и примечательная. Пять лет назад его организовали три больших издательства — Hachette, Penguin и Simon &amp;amp; Schuster — пересилив свою конкуренцию, чтобы сделать «альтернативу» Amazon. Но продажи то ли не пошли, то ли не устроили учредителей, и сайт сделали рекомендательным «книжным обозрением». И в таком виде его пару лет назад продали Zola Books, которое зачем-то скупает всё, что не летает.&lt;/p&gt;&#xA;&lt;p&gt;И вот &lt;a href=&#34;http://www.publishersweekly.com/pw/by-topic/industry-news/industry-deals/article/71732-netgalley-buys-bookish.html&#34;&gt;теперь сайт у NetGalley&lt;/a&gt;. Если вы ещё не пользовались &lt;a href=&#34;http://netgalley.com&#34;&gt;NetGalley&lt;/a&gt;, то рекомендую. Бизнес у NetGalley очень простой — через этот сервис издательства продвигают ещё неопубликованные книги в надежде на шум, рецензии и пиар от критиков, блогеров и пр. Среди всякого трэша есть и вполне себе интересные книжки. Регистрируют читателями, правда, не всех желающих, но тех, кто может указать хотя бы свой блог. После регистрации смотрите каталог и оставляете заявку на интересующую вас книгу. C DRM, правда, там всё строго, так что читать придётся или через Kindle, или через iOS-устройство. Но всё бесплатно — для читателей. А вот издатели за такую дистрибуцию платят NetGalley. И этот бизнес настолько жив, что компания в начале этого года открыла представительство в Германии. Что же до Bookish, то, наверное, и дополнительный контент на сайте NetGalley не помешает. И два вида продвижения поддержат друг друга.&lt;/p&gt;</description>
     </item>
   </channel>

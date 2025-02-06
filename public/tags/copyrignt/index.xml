@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Copyrignt on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/copyrignt/</link>
+    <link>/tags/copyrignt/</link>
     <description>Recent content in Copyrignt on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 24 Jan 2017 22:39:44 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/copyrignt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/copyrignt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Readium LCP — децентрализованный DRM</title>
-      <link>//localhost:1313/posts/2017-01-24-a/</link>
+      <link>/posts/2017-01-24-a/</link>
       <pubDate>Tue, 24 Jan 2017 22:39:44 +0000</pubDate>
-      <guid>//localhost:1313/posts/2017-01-24-a/</guid>
+      <guid>/posts/2017-01-24-a/</guid>
       <description>&lt;p&gt;Издатели искренно любят DRM, digital rights management. Их любовью иногда болеют даже целые стран, запрещая обход DRM. Издатели наивно полагают, что «управление цифровыми правами» (эвфемизм «предотвращения копирования») может действительно ограничить копирование. Истории противостояния DRM и программистов, которой уже не одно десятилетие и на протяжении которой каждая новая хитроумная технология DRM через довольно короткий срок оказывалась взломанной не менее хитроумными программными инструментами. Но издатели продолжают верить, потому что кое-где и кое-как DRM работает, хотя бы потому что успокаивает их тревогу.&lt;/p&gt;</description>
     </item>
     <item>
       <title>К предыдущему: ЛитРесу, Аймобилко и Озону пора напрячься</title>
-      <link>//localhost:1313/posts/2011-04-15-c/</link>
+      <link>/posts/2011-04-15-c/</link>
       <pubDate>Fri, 15 Apr 2011 08:47:31 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-04-15-c/</guid>
+      <guid>/posts/2011-04-15-c/</guid>
       <description>&lt;p&gt;Пока наши славные ритейлеры электронных книг &amp;ldquo;боролись с пиратством&amp;rdquo; и &amp;ldquo;оцифровкой книг библиотеками&amp;rdquo;, к ним подкралась другая поправка к ГК.&lt;/p&gt;&#xA;&lt;p&gt;Вводимый запрет на воспроизведение книг в личных целях не просто запрещает пользователям делать бэкап и сканировать свои собственные книг (что, безусловно, само по себе уже маразм), но делает незаконным использование легально приобретенных электронных книг. Если я покупаю электронную книгу у ритейлера, то, как правило, я скачиваю её на компьютер, а затем &lt;strong&gt;копирую&lt;/strong&gt; в устройство для чтения, то есть, извините, &lt;strong&gt;воспроизвожу&lt;/strong&gt;, а это законодатели хотят сделать незаконным. Продавец электронной книги, таким образом, либо становится соучастником правонарушения, либо должен вводить DRM.&lt;/p&gt;</description>
     </item>
   </channel>

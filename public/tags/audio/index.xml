@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Audio on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/audio/</link>
+    <link>/tags/audio/</link>
     <description>Recent content in Audio on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 20 Jan 2020 22:43:02 +0300</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/audio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Penguin Random House отозвал книги у безлимитных сервисов</title>
-      <link>//localhost:1313/posts/2020-01-20-1/</link>
+      <link>/posts/2020-01-20-1/</link>
       <pubDate>Mon, 20 Jan 2020 22:43:02 +0300</pubDate>
-      <guid>//localhost:1313/posts/2020-01-20-1/</guid>
+      <guid>/posts/2020-01-20-1/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://thenewpublishingstandard.com/penguin-random-house-pulls-english-language-titles-from-storytel-bookbeat-and-nextory-unhappy-with-terms-or-is-a-prh-streaming-service-launch-imminent/&#34;&gt;Пишут&lt;/a&gt;, что &lt;strong&gt;Penguin Random House&lt;/strong&gt; со знакомыми повадками самого крутого парня на деревне отозвал свои аудиокниги на английском из подписочных сервисов Storytel, Bookbeat и Nextory, ссылаясь на &amp;ldquo;каннибализацию&amp;rdquo;. Это особенно забавно, поскольку практически все эти сервисы работают в странах, где не английский язык — основной.&lt;/p&gt;&#xA;&lt;p&gt;По слухам, впрочем, причина в другом: PRH готовит свой собственный аудиосервис. Готовить-то он, конечно, может — каталога хватит. Вот только предыдущие попытки сделать собственный конкурентоспособный магазин заканчивались пфуком.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AudioFile — сайт с рецензиями только на аудиокниги</title>
-      <link>//localhost:1313/posts/2016-01-11-a/</link>
+      <link>/posts/2016-01-11-a/</link>
       <pubDate>Mon, 11 Jan 2016 11:18:04 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-01-11-a/</guid>
+      <guid>/posts/2016-01-11-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Explore great audio book listening with AudioFile recommendations and reviews. We help you find your next great audiobook. Independent reviews help you discover the best narrators, great listening, and spoken word programs worth your listening time. We talk all audiobooks, all the time.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.audiofilemagazine.com/&#34;&gt;AudioFile Magazine&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;До чего дошёл прогресс )&lt;/p&gt;</description>
     </item>
   </channel>

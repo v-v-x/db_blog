@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pagedmedia on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/pagedmedia/</link>
+    <link>/tags/pagedmedia/</link>
     <description>Recent content in Pagedmedia on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 17 Jan 2018 11:51:55 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/pagedmedia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/pagedmedia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Издательство без InDesign</title>
-      <link>//localhost:1313/posts/2018-01-17-a/</link>
+      <link>/posts/2018-01-17-a/</link>
       <pubDate>Wed, 17 Jan 2018 11:51:55 +0000</pubDate>
-      <guid>//localhost:1313/posts/2018-01-17-a/</guid>
+      <guid>/posts/2018-01-17-a/</guid>
       <description>&lt;p&gt;Это вовсе не издательство на Quark. Это издательство, в котором вообще не пользуются программами для вёрстки книг. Думаете, такого не может быть? Да и зачем, собственно? InDesign — практически идеальная программа для подготовки макетов печатных книг. Может быть, лет пять-десять назад она была не идеальна, но сейчас — даже не могу представить, чего бы InDesign не мог. А если хочется чего-нибудь особенного, то есть расширения и скрипты на любой вкус. Но это программа для подготовки &lt;strong&gt;макетов печатных книг&lt;/strong&gt;. Не электронных книг, потому что экспорт из InDesign — это отдельная история. Не вебсайтов с книгами, хотя в InDesign есть и экспорт в HTML, и даже мгновенная публикация PDF онлайн, но сайт из материала для книги делать придётся практически с нуля. С другой стороны, а разве нужно или можно хотеть чего-то другого?&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gadgets on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/gadgets/</link>
+    <link>/tags/gadgets/</link>
     <description>Recent content in Gadgets on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 08 Oct 2014 08:15:03 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/gadgets/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/gadgets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Пишущая машинка для XXI века</title>
-      <link>//localhost:1313/posts/2014-10-08-a/</link>
+      <link>/posts/2014-10-08-a/</link>
       <pubDate>Wed, 08 Oct 2014 08:15:03 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-10-08-a/</guid>
+      <guid>/posts/2014-10-08-a/</guid>
       <description>&lt;p&gt;На IndieGoGo открыта &lt;a href=&#34;https://www.indiegogo.com/projects/waterproof-and-durable-eink-word-processor#home&#34;&gt;кампания&lt;/a&gt; по сбору средств на разработку и запуск в производство однозадачного ноутбука для писателей с экраном на «электронных чернилах». Смешная идея. Но 2 месяца на одном заряде аккумулятора… Почти как настоящая пишущая машинка, только без ленты и бумаги.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Гаджетизация в США: не только по Марксу</title>
-      <link>//localhost:1313/posts/2013-10-21-a/</link>
+      <link>/posts/2013-10-21-a/</link>
       <pubDate>Mon, 21 Oct 2013 10:22:37 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-10-21-a/</guid>
+      <guid>/posts/2013-10-21-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://pewinternet.org/Reports/2013/Tablets-and-ereaders/Findings.aspx&#34;&gt;Tablet and e-reader ownership | Pew Internet &amp;amp; American Life Project&lt;/a&gt;. В очередном отчете проекта The Pew Research Center’s Internet Project примечательно не только продолжающийся прост числа владельцев букридеров и планшетов.&lt;/p&gt;&#xA;&lt;p&gt;Нынче 43% американцев в возрасте старше 16 лет могут читать книги с букридеров и/или планшетов (за год их число выросло на 1/3), причём число владельцев планшетов (35%) продолжает обгонять число владельцев букридеров (24%). Примечательны другие результаты. Во-первых, прямая зависимость вероятности владения устройством от уровня образования и/или уровня доходов семьи. Но есть и несколько других: 1) планшетами владеет почти половина тинейджеров и азиатоамериканцев, 2) вероятность владеть букридером несколько выше у 30–40-летних, 3) доля владельцев обычных телефонов и смартфонов отчетливо выше у азиатоамериканцев (особенно смартфонов) и несколько выше у 20-летних.&lt;/p&gt;</description>
     </item>
     <item>
       <title>25% американцев имеют планшеты</title>
-      <link>//localhost:1313/posts/2012-10-02-b/</link>
+      <link>/posts/2012-10-02-b/</link>
       <pubDate>Tue, 02 Oct 2012 14:00:36 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-10-02-b/</guid>
+      <guid>/posts/2012-10-02-b/</guid>
       <description>&lt;p&gt;В январе было еще 18%. И сильно сократилась доля iPad. Видимо, iOS в перспективе ждёт судьба «Макинтоша», хех.&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.journalism.org/analysis_report/device_ownership&#34;&gt;journalism.org&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>29% американцев имеют читалку или планшетник</title>
-      <link>//localhost:1313/posts/2012-01-24-d/</link>
+      <link>/posts/2012-01-24-d/</link>
       <pubDate>Tue, 24 Jan 2012 08:12:46 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-01-24-d/</guid>
+      <guid>/posts/2012-01-24-d/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The share of adults in the United States who own tablet computers nearly doubled from 10% to 19% between mid-December and early January and the same surge in growth also applied to e-book readers, which also jumped from 10% to 19% over the same time period.&lt;/p&gt;&#xA;&lt;p&gt;The number of Americans owning at least one of these digital reading devices jumped from 18% in December to 29% in January.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.pewinternet.org/Reports/2012/E-readers-and-tablets/Findings.aspx&#34;&gt;pewinternet.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Праздники благотворно влияют на прирост электронных книг. После Рождества доля владельцев этих устройств среди взрослых американцев практически удвоилась — с 10 до 19%: каждый пятый американец владеет читалкой и каждый пятый — планшетником.&lt;br&gt;&#xA;При этом владеют хотя бы тем или другим 29% (в декабре 2011 их доля была 18%). Несложно посчитать, что 9% американцев владеют и тем, и другим.&lt;/p&gt;</description>
     </item>
     <item>
       <title>IDC повысило прогноз продаж планшетников</title>
-      <link>//localhost:1313/posts/2011-09-14-1/</link>
+      <link>/posts/2011-09-14-1/</link>
       <pubDate>Wed, 14 Sep 2011 14:41:47 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-09-14-1/</guid>
+      <guid>/posts/2011-09-14-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Worldwide media tablet shipments rose by 88.9% on a sequential basis and 303.8% year over year in the second calendar quarter of 2011 (2Q11) to 13.6 million units, according to the International Data Corporation (&lt;a href=&#34;http://www.idc.com/&#34;&gt;IDC&lt;/a&gt;) &lt;a href=&#34;http://www.idc.com/getdoc.jsp?containerId=IDC_P21526&#34;&gt;Worldwide Quarterly Media Tablet and eReader Tracker&lt;/a&gt;. Based on this strong performance in the second quarter, and an improved outlook for the second half of the year, IDC raised its shipment forecast for 2011 to 62.5 million units, up from a previous projection of 53.5 million units.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CNews: PocketBook расширяет производство и метит на рынок планшетов</title>
-      <link>//localhost:1313/posts/2011-09-02-1/</link>
+      <link>/posts/2011-09-02-1/</link>
       <pubDate>Fri, 02 Sep 2011 04:20:33 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-09-02-1/</guid>
+      <guid>/posts/2011-09-02-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Производиться на новых мощностях Foxconn будут не только ридеры. В PocketBook рассказали CNews, что компания держит курс на диверсификацию продукции и выход на рынок планшетов. Первый шаг в эту сторону уже сделан – в феврале компания выпустила планшетный ридер с 7-дюймовым TFT-экраном, сочетающий возможности обоих устройств – PocketBook IQ 701.&lt;/p&gt;&#xA;&lt;p&gt;Новым устройством такого типа станет PocketBook A10, рассказывает Евгений Милица. По сравнению со своим предшественником он обладает большим размером экрана – 10 дюймов, более мощным процессором – 1 Ггц против 800 Мгц, объемом памяти, более новой версией ОС Android – 2.3.4. Ридер оснащен фронтальной 2-мегапиксельной камерой, модулями Bluetooth и Wi-Fi. Розничная цена устройства составит около 12 тыс. руб.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Спад на рынке планшетов?</title>
-      <link>//localhost:1313/posts/2011-07-18-3/</link>
+      <link>/posts/2011-07-18-3/</link>
       <pubDate>Mon, 18 Jul 2011 08:16:52 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-07-18-3/</guid>
+      <guid>/posts/2011-07-18-3/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Всё это пишется не для того, чтобы позлорадствовать над производителями планшетов, которых подвело маркетинговое кунг-фу, а в надежде на то, что прямо сейчас они садятся за один стол с инженерами и психологами, и тщательно анализируют, почему за год продаж их детище растеряло ажиотаж, с которым его некогда встречали. И почему такая ботаническая вещь, как электронные книги, напротив, успешно расходится вопреки уверениям в её негодности и отсутствии будущего. Ещё полгода такой статистики, и между двумя видами гаджетов начнётся настоящая идеологическая война, война блокнотов и книг.&lt;/p&gt;</description>
     </item>
     <item>
       <title>iPad кроет букридеры, как бык овцу (отчёт IMS)</title>
-      <link>//localhost:1313/posts/2010-09-30-a/</link>
+      <link>/posts/2010-09-30-a/</link>
       <pubDate>Thu, 30 Sep 2010 11:13:41 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-09-30-a/</guid>
+      <guid>/posts/2010-09-30-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;AUSTIN, TEXAS, September 28, 2010 – IMS Research has released the second issue of its &lt;em&gt;Quarterly eBook and iPad Shipment and Forecast Service&lt;/em&gt; which provides actual shipments on eBook frontplanes, eBook displays, eBook readers, iPads and iPad displays along with a rolling 6-quarter forecast.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.fpdmarketresearch.com/press-details.php?eID=OA==&#34;&gt;fpdmarketresearch.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;За 2-й квартал 2010 года продажи Apple iPad составили 3,3 млн штук против 2,4 млн букридеров (учитывалось 40 марок устройств).&lt;br&gt;&#xA;Буркидеры продолжают продваться неплохо — рост на 28% в сравнении с 2-м кварталом 2009 года.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Реальная идея для IT-патента</title>
-      <link>//localhost:1313/posts/2010-09-27-176/</link>
+      <link>/posts/2010-09-27-176/</link>
       <pubDate>Mon, 27 Sep 2010 20:58:33 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-09-27-176/</guid>
+      <guid>/posts/2010-09-27-176/</guid>
       <description>&lt;p&gt;Зачем нужен смартфон, если есть планшет? Да, с планшета неудобно звонить. Но если есть планшет и надо звонить, то почему бы не делать субститут смартфона - типа обычного телефона, но «завязанного» на планшет по Bluetooth, например? С экранчиком и клавиатуркой только для набора номера и, может быть, отправки смс. Жил бы в Америке - побежал бы патентовать.&lt;/p&gt;</description>
     </item>
     <item>
       <title>iPad был предсказан 11 лет назад</title>
-      <link>//localhost:1313/posts/2010-07-16-79/</link>
+      <link>/posts/2010-07-16-79/</link>
       <pubDate>Fri, 16 Jul 2010 06:33:52 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-07-16-79/</guid>
+      <guid>/posts/2010-07-16-79/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Thanks to strong iMac sales, Steve Jobs is insanely great again, and accolades in the trades have called Apple&amp;rsquo;s reversal of fortune everything from a &amp;ldquo;rebound&amp;rdquo; to &amp;ldquo;the Second Coming.&amp;rdquo; The next iMac attack promises new lollipop laptops, a more serious series of professional machines, and a wireless handheld dubbed the iPad. Though it&amp;rsquo;s hard to argue with five straight profitable quarters, Apple&amp;rsquo;s teal-colored turnaround is saddled to a single product line - built on an aging operating system. And it&amp;rsquo;s just a matter of time before iMac imitators send in the clones. Can Apple find more new things, in Jobs&amp;rsquo;s words, &amp;ldquo;complementary to its core&amp;rdquo;? Memo to Steverino: Think different.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Дисплей iPad против Pixel-Qi на солнце</title>
-      <link>//localhost:1313/posts/2010-06-30-53/</link>
+      <link>/posts/2010-06-30-53/</link>
       <pubDate>Wed, 30 Jun 2010 07:35:38 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-06-30-53/</guid>
+      <guid>/posts/2010-06-30-53/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.e-ink-info.com/ipad-display-vs-pixel-qi-one-daylight&#34;&gt;e-ink-info.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;У айпад дисплей блекнет на солнце, конечно. Вопрос - как будет с сетчатым дисплеем. А внедрение Пиксель-Чи тормозится. Оно и понятно - надо менять поставщиков, а вдруг что, технология новая. Лучше бы Apple их купил - толку бы больше было.&lt;/p&gt;</description>
     </item>
     <item>
       <title>comScore о покупателях iPad и читалок</title>
-      <link>//localhost:1313/posts/2010-03-23-43/</link>
+      <link>/posts/2010-03-23-43/</link>
       <pubDate>Tue, 23 Mar 2010 12:53:24 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-03-23-43/</guid>
+      <guid>/posts/2010-03-23-43/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Younger consumers indicated a high willingness to pay for news and magazines specially formatted for e-readers. 68 percent of 25-34 year olds and 59 percent of 35-44 year olds said they were willing to pay for this content, representing substantially higher percentages than people age 45 and older.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.prnewswire.com/news-releases/comscore-releases-results-of-study-on-apple-ipad-and-e-reader-consumer-attitudes-behaviors-and-purchase-intent-88856612.html&#34;&gt;prnewswire.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Там ещё немного разной не очень важной информации.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Стала извествна цена на таблетку Adam от notion ink</title>
-      <link>//localhost:1313/posts/2010-02-16-4/</link>
+      <link>/posts/2010-02-16-4/</link>
       <pubDate>Tue, 16 Feb 2010 12:19:44 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-02-16-4/</guid>
+      <guid>/posts/2010-02-16-4/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://notionink.in/adamfeature.php&#34;&gt;notionink.in&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;От $327. Даже уже с какой-то установленной читалкой. Батареи - на 16 часов HD-видео. То есть в режиме читалки - не меньше недели, видимо. Кому продать свой PocketBook?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Tablet: по слухам Google и HTC готовят конкурента iSlate от Apple</title>
-      <link>//localhost:1313/posts/2010-01-02-2/</link>
+      <link>/posts/2010-01-02-2/</link>
       <pubDate>Sat, 02 Jan 2010 20:39:44 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-01-02-2/</guid>
+      <guid>/posts/2010-01-02-2/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://mashable.com/wp-content/uploads/2010/01/googletablet.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Check out this website I found at &lt;a href=&#34;http://mashable.com/2010/01/02/google-tablet/&#34;&gt;mashable.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kobo on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/kobo/</link>
+    <link>/tags/kobo/</link>
     <description>Recent content in Kobo on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 27 Oct 2017 12:38:30 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/kobo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/kobo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Подписные сервисы наносят ответный удар</title>
-      <link>//localhost:1313/posts/2017-10-27-a/</link>
+      <link>/posts/2017-10-27-a/</link>
       <pubDate>Fri, 27 Oct 2017 12:38:30 +0000</pubDate>
-      <guid>//localhost:1313/posts/2017-10-27-a/</guid>
+      <guid>/posts/2017-10-27-a/</guid>
       <description>&lt;p&gt;&lt;em&gt;GIF by Maarten Brinkerink from Rotterdam, Netherlands. GIF IT UP 2015&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;В смысле — очень уж бодро себя ведут. Вот Kobo Plus (подписочный сервис Kobo в Нидерландах), &lt;a href=&#34;https://goodereader.com/blog/e-book-news/kobo-plus-is-getting-a-number-of-exclusive-ebooks&#34;&gt;например&lt;/a&gt;, подписывает эксклюзивные контракты с популярными местными авторами. Да так удачно, что книжные магазины обижаются и перестают продавать бумажные книжки этих авторов. Причём книг на голландском в сервисе не так уж много — около 20 тысяч. Договорились с четырьмя сотнями издателей. Каталог ведь не обязательно должен быть очень большим, главное — интересным и разнообразным. А Amazon вообще, &lt;a href=&#34;https://goodereader.com/blog/electronic-readers/amazon-is-forcing-new-users-to-signup-for-kindle-unlimited&#34;&gt;говорят&lt;/a&gt;, озверел, и прямо-таки навязывает свой Kindle Unlimited каждому новому пользователю Kindle. Только регистрируешь аккаунт Amazon, как тут же попадаешь на пробный бесплатный месяц подписки на KU. По преимуществу самиздат, но 700 тыс. книг в каталоге — есть, из чего выбрать. И целый месяц несчастный пользователь не может купить эти книги, но только читать их бесплатно. Ужас, что творят. Все там будем когда-нибудь.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Вот это новость. Rakuten покупает OverDrive</title>
-      <link>//localhost:1313/posts/2015-03-19-a/</link>
+      <link>/posts/2015-03-19-a/</link>
       <pubDate>Thu, 19 Mar 2015 08:44:14 +0000</pubDate>
-      <guid>//localhost:1313/posts/2015-03-19-a/</guid>
+      <guid>/posts/2015-03-19-a/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Rakuten&lt;/strong&gt;, японский «магазин магазинов» и владелец книжной платформы &lt;strong&gt;Kobo&lt;/strong&gt;, &lt;a href=&#34;http://techcrunch.com/2015/03/19/rakuten-ovedrive/&#34;&gt;покупает&lt;/a&gt; компанию &lt;strong&gt;OverDrive&lt;/strong&gt;, крупнейшего дистрибьютора книжного контента (прежде всего, для библиотек) за 410 млн USD. Если учесть, что Rakuten контролирует российский «Озон», а «Озон»—«Литрес», то конкуренция на вялом рынке электронных книг в библиотеках может стать интереснее.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Требования Kobo к EPUB</title>
-      <link>//localhost:1313/posts/2014-06-16-a/</link>
+      <link>/posts/2014-06-16-a/</link>
       <pubDate>Mon, 16 Jun 2014 09:03:22 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-06-16-a/</guid>
+      <guid>/posts/2014-06-16-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/kobolabs/epub-spec&#34;&gt;kobolabs/epub-spec · GitHub&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Весьма полезная информация для вендоров, которые будут работать (уже работают) с Kobo. В том числе — по совместимости с разными букридерами от Kobo. Как-то пропустил, что дефолтная версия Kobo — уже EPUB3.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kobo в России — неофициальный запуск</title>
-      <link>//localhost:1313/posts/2013-10-10-a/</link>
+      <link>/posts/2013-10-10-a/</link>
       <pubDate>Thu, 10 Oct 2013 11:21:23 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-10-10-a/</guid>
+      <guid>/posts/2013-10-10-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://ru.kobo.com/&#34;&gt;Kobo: электронные книги для беспроводных, сенсорных и цветных ридеров&lt;/a&gt;. Судя по частично русскому интерфейсу ru.kobo.com, официальный запуск уже не за горами. Русские книжки — пока public domain — уже продаются (от лица англо-нидерландской компанией Glagoslav).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kobo открыла сервис самопубликации</title>
-      <link>//localhost:1313/posts/2012-07-16-a/</link>
+      <link>/posts/2012-07-16-a/</link>
       <pubDate>Mon, 16 Jul 2012 20:09:35 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-07-16-a/</guid>
+      <guid>/posts/2012-07-16-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;https://writinglife.kobobooks.com/learningCentre&#34;&gt;writinglife.kobobooks.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kobo Writing Life, велкам.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kobo приходит в Италию через Mondadori</title>
-      <link>//localhost:1313/posts/2012-07-10-b/</link>
+      <link>/posts/2012-07-10-b/</link>
       <pubDate>Tue, 10 Jul 2012 18:04:51 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-07-10-b/</guid>
+      <guid>/posts/2012-07-10-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Kobo Inc., a global leader in eReading, and the Mondadori Group, Italy’s leading retailer, and publisher of books and magazines, today announced a partnership to bring the Kobo eReading platform and its award-winning eReaders to the Italian consumer&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.prweb.com/releases/2012/7/prweb9686160.htm&#34;&gt;prweb.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Отлично. Значит русские электронные книги скоро будут доступны русскоязычным итальянцам ;)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kobo приходит в Японию с EPUB3-читалкой</title>
-      <link>//localhost:1313/posts/2012-07-02-a/</link>
+      <link>/posts/2012-07-02-a/</link>
       <pubDate>Mon, 02 Jul 2012 13:28:37 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-07-02-a/</guid>
+      <guid>/posts/2012-07-02-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Kobo Inc., a global leader in eReading, today announced that it will launch its full eReading service in Japan on July 19. The company’s award-winning Kobo Touch™ eReader will be offered to Japanese consumers for ¥7,980 including tax (or $100 USD).&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.virtual-strategy.com/2012/07/02/kobo-launches-japan-world-class-full-service-ereading-platform&#34;&gt;virtual-strategy.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;EPUB3 выбрали для поддержки всех радостей японского языка. Базироваться читалка &lt;a href=&#34;http://www.marketwatch.com/story/kobo-selects-access-netfronttm-bookreader-v10-epub-edition-as-epub-3-standard-viewer-engine-for-its-ebook-services-2012-07-02&#34;&gt;будет&lt;/a&gt; на NetFront BookReader от ACCESS. Если я правильно понимаю, то потому Kobo перенесёт движок и на другие платформы. Может, вслед за Японией, и в другие страны? Например, в Россию ;) Ну, чтобы просто обогнать Amazon и Barnes &amp;amp; Noble…&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kobo станет издателем</title>
-      <link>//localhost:1313/posts/2012-04-03-b/</link>
+      <link>/posts/2012-04-03-b/</link>
       <pubDate>Tue, 03 Apr 2012 20:46:27 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-04-03-b/</guid>
+      <guid>/posts/2012-04-03-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Canadian-based e-book seller Kobo is following in Amazon&amp;rsquo;s footsteps and creating a publishing arm that will deal directly with authors, CBC News has learned.&lt;br&gt;&#xA;Kobo, whose major shareholder is Indigo Books, will roll out its program sometime next year, according to CEO Michael Serbinis.&lt;br&gt;&#xA;Like Amazon, which announced two weeks ago that it would be publishing 122 original titles this fall, Kobo will be offering complete publishing services for authors, including book editing and design.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rakuten купил Kobo за $315 Million</title>
-      <link>//localhost:1313/posts/2011-11-09-1/</link>
+      <link>/posts/2011-11-09-1/</link>
       <pubDate>Wed, 09 Nov 2011 05:19:58 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-11-09-1/</guid>
+      <guid>/posts/2011-11-09-1/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://mashable.com/2011/11/08/kobo-acquired-ratuken/&#34;&gt;mashable.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Видно, дела у Borders совсем плохи.&lt;br&gt;&#xA;У истории, правда, может быть актуальный для России поворот: Rakuten &lt;a href=&#34;http://venturebeat.com/2011/09/07/ozon-russia%E2%80%99s-amazon/&#34;&gt;оказался&lt;/a&gt; в числе главных инвесторов ozon.ru. Может, таким макаром Kobo станет «русским Amazon Kindle»?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindle Fire? Или Kobo Vox?</title>
-      <link>//localhost:1313/posts/2011-10-20-1/</link>
+      <link>/posts/2011-10-20-1/</link>
       <pubDate>Thu, 20 Oct 2011 17:47:05 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-10-20-1/</guid>
+      <guid>/posts/2011-10-20-1/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/IiRxIXytLYQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;Sociality в Kobo выглядит забавно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Читалка Kobo за $99,98</title>
-      <link>//localhost:1313/posts/2011-05-12-b/</link>
+      <link>/posts/2011-05-12-b/</link>
       <pubDate>Thu, 12 May 2011 09:54:02 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-05-12-b/</guid>
+      <guid>/posts/2011-05-12-b/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://posterous.com/getfile/files.posterous.com/v-x/itiBffBAirDxIzeuwpAjtfHIksBsFJfikhJpgCkvBudtjBJDgxjEtJqtFIoy/media_httpiwalmartima_Iewpz.jpg.scaled500.jpg&#34; alt=&#34;Media_httpiwalmartima_iewpz&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.walmart.com/ip/Kobo-eReader-Black/15266007&#34;&gt;walmart.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Такие ценовые войны - аж завидно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kobo получила $50 млн на экпансию в Европу</title>
-      <link>//localhost:1313/posts/2011-04-19-a/</link>
+      <link>/posts/2011-04-19-a/</link>
       <pubDate>Tue, 19 Apr 2011 19:38:37 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-04-19-a/</guid>
+      <guid>/posts/2011-04-19-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Kobo &lt;a href=&#34;http://emoney.allthingsd.com/20110411/kobo-opens-new-chapter-in-europe/?mod=ATD_search&#34;&gt;kicked off its European expansion last week&lt;/a&gt;, with the announcement of its plans to launch local content stores in Germany. Local additions are also coming for Spain, France, Italy and the Netherlands.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Some of Kobo’s recent achievements include:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;An e-book store that has more than 2.3 million e-books, newspapers and magazines.&lt;/li&gt;&#xA;&lt;li&gt;More than 3.2 million users, more than 1 million new users in the past 90 days.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://emoney.allthingsd.com/20110419/kobo-closes-book-on-50-million-round-to-fuel-international-growth/&#34;&gt;emoney.allthingsd.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Бодрые канадские ребята. Может, ещё до России доберутся?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Social media invades book world</title>
-      <link>//localhost:1313/posts/2010-12-09-197/</link>
+      <link>/posts/2010-12-09-197/</link>
       <pubDate>Thu, 09 Dec 2010 17:12:25 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-12-09-197/</guid>
+      <guid>/posts/2010-12-09-197/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;On Thursday, the Toronto-based e-publishing startup will launch Reading Life, a new e-reading iPad application that integrates with the company&amp;rsquo;s digital bookstore designed to bring social-networking capabilities to the world of electronic books, in a sort of Book Club 2.0.&lt;/p&gt;&#xA;&lt;p&gt;Through the opt-in service, Kobo users will be able to directly share with their friends what books they&amp;rsquo;re reading and share favourite passages through Facebook, keep tabs on their reading history through a comprehensive statistics tracker and earn badges and rewards for reading in a manner reminiscent of social check in services like Foursquare and Gowalla.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kobo™ eReader – симпатично</title>
-      <link>//localhost:1313/posts/2010-03-24-98/</link>
+      <link>/posts/2010-03-24-98/</link>
       <pubDate>Wed, 24 Mar 2010 16:29:10 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-03-24-98/</guid>
+      <guid>/posts/2010-03-24-98/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.koboereader.com/index.html&#34;&gt;koboereader.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

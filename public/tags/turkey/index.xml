@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Turkey on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/turkey/</link>
+    <link>/tags/turkey/</link>
     <description>Recent content in Turkey on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 18 Aug 2011 22:35:24 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/turkey/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/turkey/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Турция собралась заказать 15 млн планшетников для школьников</title>
-      <link>//localhost:1313/posts/2011-08-18-2/</link>
+      <link>/posts/2011-08-18-2/</link>
       <pubDate>Thu, 18 Aug 2011 22:35:24 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-08-18-2/</guid>
+      <guid>/posts/2011-08-18-2/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.bloomberg.com/news/2011-08-18/apple-microsoft-may-bid-for-15-million-turkish-tablets-aa-says.html&#34;&gt;Apple Inc. (AAPL), Microsoft Corp. and Intel Corp. (INTC) may participate in the government’s project to supply as much as 15 million tablet computers for school children over four years, state-owned Anatolia news agency said, citing Turkish Trade Minister Zafer Caglayan.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;И вправду — чего на букридеры размениваться, если есть деньги сразу на планшетники? Не Россия, чай.&lt;/p&gt;</description>
     </item>
   </channel>

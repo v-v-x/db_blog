@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Israel on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/israel/</link>
+    <link>/tags/israel/</link>
     <description>Recent content in Israel on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 02 Jun 2010 11:16:24 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/israel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/israel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Про израильское РАО - оч. смешно</title>
-      <link>//localhost:1313/posts/2010-06-02-166/</link>
+      <link>/posts/2010-06-02-166/</link>
       <pubDate>Wed, 02 Jun 2010 11:16:24 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-06-02-166/</guid>
+      <guid>/posts/2010-06-02-166/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Как известно царь Соломон славился умением принимать правильные и понятные всем гражданам решения по различным сложным делам.&lt;br&gt;&#xA;Потомки царя Соломона тоже не ударили в грязь лицом и продемонстрировали всему миру ряд интересных и понятных решений в сфере контроля за деятельностью своих ОКУПов.&lt;/p&gt;&#xA;&lt;p&gt;Первое решение было принято 30 марта 2004 года. В этот &amp;ldquo;черный&amp;rdquo; для израильских ОКУПов день Генеральный директор антимонопольного органа Израиля принял судьбоносное &lt;a href=&#34;http://www.oecd.org/dataoecd/36/44/34720615.pdf&#34;&gt;постановление об авторском обществе ACUM&lt;/a&gt; (Общество Израильских Композиторов, Авторов и Издателей). Сие авторское общество ОФИЦИАЛЬНО было объявлено МОНОПОЛИЕЙ И КАРТЕЛЕМ. И ему как монополии и картелю было выдано ВРЕМЕННОЕ РАЗРЕШЕНИЕ В ОПРЕДЕЛЕННЫХ ПРАВОВЫХ РАМКАХ ОСУЩЕСТВЛЯТЬ СВОЮ ДЕЯТЕЛЬНОСТЬ.&lt;/p&gt;</description>
     </item>
   </channel>

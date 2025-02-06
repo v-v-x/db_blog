@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mytext on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/mytext/</link>
+    <link>/tags/mytext/</link>
     <description>Recent content in Mytext on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 26 Sep 2016 13:47:44 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/mytext/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/mytext/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>«Конец тиражей» — по просьбам трудящихся</title>
-      <link>//localhost:1313/posts/2016-09-26-a/</link>
+      <link>/posts/2016-09-26-a/</link>
       <pubDate>Mon, 26 Sep 2016 13:47:44 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-09-26-a/</guid>
-      <description>&lt;p&gt;По многочисленным просьбам трудящихся и любопытствующих — расшифровка &lt;a href=&#34;http://ridero.ru/books/konec_tirazhei_knigoizdanie_v_epokhu_peremen/&#34;&gt;вебинара Ridero&lt;/a&gt; про «Конец тиражей» в виде &lt;a href=&#34;//localhost:1313/end.epub&#34;&gt;epub&lt;/a&gt; и &lt;a href=&#34;https://ru.bookmate.com/books/mAdcQLzS&#34;&gt;на Bookmate&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>/posts/2016-09-26-a/</guid>
+      <description>&lt;p&gt;По многочисленным просьбам трудящихся и любопытствующих — расшифровка &lt;a href=&#34;http://ridero.ru/books/konec_tirazhei_knigoizdanie_v_epokhu_peremen/&#34;&gt;вебинара Ridero&lt;/a&gt; про «Конец тиражей» в виде &lt;a href=&#34;/end.epub&#34;&gt;epub&lt;/a&gt; и &lt;a href=&#34;https://ru.bookmate.com/books/mAdcQLzS&#34;&gt;на Bookmate&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Книги в вебе. Далее везде</title>
-      <link>//localhost:1313/posts/2016-09-26-b/</link>
+      <link>/posts/2016-09-26-b/</link>
       <pubDate>Mon, 26 Sep 2016 09:30:38 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-09-26-b/</guid>
+      <guid>/posts/2016-09-26-b/</guid>
       <description>&lt;p&gt;Международная организация International Digital Publishing Forum (IDPF), контролирующая развитие основного для электронных книг формата EPUB, вскоре может объединиться с World Wide Web Consortium (W3C), организацией, отвечающей за развитие стандартов веба.&lt;/p&gt;&#xA;&lt;p&gt;На книжной ярмарке BookExpo в Чикаго руководители IDPF и W3C подтвердили: подписан меморандум о взаимопонимании, и это «может привести к унификации наших организаций с целью будущего развития EPUB и укрепления всей платформы веба для паблишинга как часть расширяющейся деятельности в сфере книгоиздания внутри W3C». От лица Web Consortium на конференции выступил сам сэр Тим Бернерс-Ли, отец веба. С точки зрения организации планируется, что IDPF, по всей видимости, постепенно вольется в W3C.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новости устаревают быстро, но</title>
-      <link>//localhost:1313/posts/2013-02-28-b/</link>
+      <link>/posts/2013-02-28-b/</link>
       <pubDate>Thu, 28 Feb 2013 11:35:05 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-02-28-b/</guid>
+      <guid>/posts/2013-02-28-b/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.unkniga.ru/bookrinok/knigniy-rinok/1114-elektr-knigi-azhiotazh.html&#34;&gt;Обзор рынка за прошлый год в &amp;ldquo;Университетской книге&amp;rdquo;&lt;/a&gt;. Отчётное.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Когда закончатся тиражи | Pro-Books.ru</title>
-      <link>//localhost:1313/posts/2011-09-14-2/</link>
+      <link>/posts/2011-09-14-2/</link>
       <pubDate>Wed, 14 Sep 2011 09:18:34 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-09-14-2/</guid>
+      <guid>/posts/2011-09-14-2/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Пока ещё есть время, стоит экспериментировать. Не забывая про старые времена, когда поэт был бардом, а печатник — книгоношей.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://pro-books.ru/sitearticles/7841#.TnBwCL-mZmc.twitter&#34;&gt;pro-books.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Владимир Харитонов, специально для Pro-Books.ru&lt;/p&gt;</description>
     </item>
     <item>
       <title>Авторское право и интернет: между Сциллой и свободой</title>
-      <link>//localhost:1313/posts/2011-04-25-b/</link>
+      <link>/posts/2011-04-25-b/</link>
       <pubDate>Mon, 25 Apr 2011 07:19:36 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-04-25-b/</guid>
+      <guid>/posts/2011-04-25-b/</guid>
       <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/hVaB9FOCqAOWDK&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/VladimirHaritonov/ss-7724691&#34; title=&#34;Авторское право и интернет&#34; target=&#34;_blank&#34;&gt;Авторское право и интернет&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/VladimirHaritonov&#34; target=&#34;_blank&#34;&gt;Vladimir Haritonov&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;&#xA;&#xA;Доклад на РИФ&#39;2011</description>
     </item>
     <item>
       <title>Why EPUB? Потому.</title>
-      <link>//localhost:1313/posts/2011-04-14-b/</link>
+      <link>/posts/2011-04-14-b/</link>
       <pubDate>Thu, 14 Apr 2011 07:09:13 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-04-14-b/</guid>
+      <guid>/posts/2011-04-14-b/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.whyepub.ru/from_in_design_to_epub/&#34;&gt;whyepub.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Полезный маленький сайт с практической информацией о том, как читать и, главное, как сделать EPUB — и для авторов, и для издателей.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Чтение в эпоху электронной воспроизводимости книг</title>
-      <link>//localhost:1313/posts/2011-04-12-b/</link>
+      <link>/posts/2011-04-12-b/</link>
       <pubDate>Tue, 12 Apr 2011 13:09:53 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-04-12-b/</guid>
+      <guid>/posts/2011-04-12-b/</guid>
       <description>&lt;p&gt;&lt;em&gt;Тезисы к выступлению на круглом столе на журфаке МГУ 12/04/2011. Успел сказать не всё, так что тут.&lt;/em&gt; &lt;/p&gt;&#xA;&lt;p&gt;Да, это аллюзия на знаменитый текст Вальтера Беньямина. Аллюзия совершенно безобидная, поскольку понятие книги литературоведа Беньямина в этом эссе не волновало, интересуя только инструментально, как носитель книжной гравюры. И вся история про ауру, так тревожившая Беньямина, прилагалась им только к изобразительному (точнее, визуальному) искусству. Тем примечательнее, что дискуссия вокруг электронной книги сейчас всё ещё происходит практически по-беньяминовски: бумажная книга обладает аурой (запахом, звуком, тактильностью), а электронная — нет.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Обновил must publish. А толку?</title>
-      <link>//localhost:1313/posts/2011-02-18-a/</link>
+      <link>/posts/2011-02-18-a/</link>
       <pubDate>Fri, 18 Feb 2011 00:23:25 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-02-18-a/</guid>
+      <guid>/posts/2011-02-18-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://v-x.livejournal.com/233073.html&#34;&gt;http://v-x.livejournal.com/233073.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Четыре дюжины книг с гаком. Хоть по книге каждую неделю. Хоть в электронном виде с печатью-по-запросу. Хоть на бумаге.&lt;/p&gt;&#xA;&lt;p&gt;Жаль, денег на всё это счастье нет.&lt;/p&gt;</description>
     </item>
   </channel>

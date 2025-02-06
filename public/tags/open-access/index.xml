@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Access on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/open-access/</link>
+    <link>/tags/open-access/</link>
     <description>Recent content in Open Access on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 06 Jun 2011 10:49:01 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/open-access/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/open-access/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Академические книги в PDF бесплатно (и легально)</title>
-      <link>//localhost:1313/posts/2011-06-06-b/</link>
+      <link>/posts/2011-06-06-b/</link>
       <pubDate>Mon, 06 Jun 2011 10:49:01 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-06-06-b/</guid>
+      <guid>/posts/2011-06-06-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;As of today all PDF versions of books published by the National Academies Press will be downloadable to anyone free of charge.  This includes a current catalog of more than 4,000 books plus future reports produced by the Press.  The mission of the National Academies Press (NAP) &amp;ndash; publisher for the National Academy of Sciences, National Academy of Engineering, Institute of Medicine, and National Research Council &amp;ndash; is to disseminate the institutions&amp;rsquo; content as widely as possible while maintaining financial sustainability.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Directory of open access journals</title>
-      <link>//localhost:1313/posts/2010-03-15-52/</link>
+      <link>/posts/2010-03-15-52/</link>
       <pubDate>Mon, 15 Mar 2010 08:07:04 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-03-15-52/</guid>
+      <guid>/posts/2010-03-15-52/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Welcome to the Directory of Open Access Journals. This service covers free, full text, quality controlled scientific and scholarly journals. We aim to cover all subjects and languages. There are now &lt;strong&gt;4819&lt;/strong&gt; journals in the directory. Currently &lt;strong&gt;1938&lt;/strong&gt; journals are searchable at article level. As of today &lt;strong&gt;368470&lt;/strong&gt; articles are included in the DOAJ service.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.doaj.org/&#34;&gt;doaj.org&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

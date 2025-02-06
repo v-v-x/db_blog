@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tax on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/tax/</link>
+    <link>/tags/tax/</link>
     <description>Recent content in Tax on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 14 Sep 2016 19:56:27 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/tax/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/tax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ну, наконец-то: электронные книги — это книги. С точки зрения налогов в ЕС</title>
-      <link>//localhost:1313/posts/2016-09-14-b/</link>
+      <link>/posts/2016-09-14-b/</link>
       <pubDate>Wed, 14 Sep 2016 19:56:27 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-09-14-b/</guid>
+      <guid>/posts/2016-09-14-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.ft.com/content/5bba17d0-7743-11e6-a0c6-39e2633162d5&#34;&gt;Pierre Moscovici, the EU tax commissioner, confirmed on Saturday that the commission would propose legislation to address the matter, saying there was a need to recognise that ebooks “are books”.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Еврокомиссар по налогам заявил, что в ближайшее время внесёт предложение по изменению налогообложения продаж электронных книг, потому что надо признать, что электронные книги — «это книги». Ну, наконец-то. И это будет означать резкое снижение НДС.&lt;/p&gt;</description>
     </item>
   </channel>

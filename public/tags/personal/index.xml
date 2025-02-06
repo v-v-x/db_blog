@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/personal/</link>
+    <link>/tags/personal/</link>
     <description>Recent content in Personal on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 26 Dec 2018 14:28:24 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Некоторые итоги 2018</title>
-      <link>//localhost:1313/posts/2018-12-26-a/</link>
+      <link>/posts/2018-12-26-a/</link>
       <pubDate>Wed, 26 Dec 2018 14:28:24 +0000</pubDate>
-      <guid>//localhost:1313/posts/2018-12-26-a/</guid>
+      <guid>/posts/2018-12-26-a/</guid>
       <description>&lt;p&gt;На «&lt;a href=&#34;https://gorky.media/context/nastuplenie-robotov-i-povod-dlya-ostorozhnogo-optimizma/&#34;&gt;Горьком&lt;/a&gt;» про индустрию. В &lt;a href=&#34;https://republic.ru/posts/92742&#34;&gt;Republic&lt;/a&gt; про авторские права. В &lt;a href=&#34;http://t.me/words_and_money/1470&#34;&gt;Telegram&lt;/a&gt; про прочитанные книги.&lt;/p&gt;</description>
     </item>
   </channel>
