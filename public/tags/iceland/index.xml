@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iceland on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/iceland/</link>
+    <link>/tags/iceland/</link>
     <description>Recent content in Iceland on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 18 Dec 2017 10:21:55 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/iceland/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/iceland/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ну, вот, теперь и Исландия ;(</title>
-      <link>//localhost:1313/posts/2017-12-18-a/</link>
+      <link>/posts/2017-12-18-a/</link>
       <pubDate>Mon, 18 Dec 2017 10:21:55 +0000</pubDate>
-      <guid>//localhost:1313/posts/2017-12-18-a/</guid>
+      <guid>/posts/2017-12-18-a/</guid>
       <description>&lt;p&gt;Каждый год перед Рождеством в книжных новостях появляются истории о том, какие молодцы исландцы: с 1944 года в стране завёлся прекрасный обычай Jólabókaflóð (что-то типа «рождественского книжного потопа») — дарить (и покупать себе любимому) книжки перед праздником. В жутких количествах. В ноябре печатается специальный каталог Bókatíðindi и бесплатно рассылается в каждый дом. А в этом году &lt;a href=&#34;http://www.thenewpublishingstandard.com/print-sales-down-43-ebooks-sale-up-60-will-the-2017-christmas-book-flood-be-good-news-for-icelands-publishers/&#34;&gt;случился облом:&lt;/a&gt; стотысячный тираж каталога пришлось перепечатать из-за брака, рассылка затянулась, продажи книг падают ;( Впрочем, падают они не первый год, оказывается. С 2010 года продажи бумажных книг в Исландии и без того сократились на 43%. Но выросли продажи электронных книг. Продажи в местном магазине электронных книг &lt;a href=&#34;http://www.ebaekur.is/&#34;&gt;eBækur&lt;/a&gt; за первые 9 месяцев этого года выросли на 60%, а в ноябре — аж в 3 раза. А ведь на Исландию так все надеялись ;(&lt;/p&gt;</description>
     </item>
     <item>
       <title>В Исландии опять Jólabókaflóð</title>
-      <link>//localhost:1313/posts/2016-12-21-b/</link>
+      <link>/posts/2016-12-21-b/</link>
       <pubDate>Wed, 21 Dec 2016 10:51:30 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-12-21-b/</guid>
+      <guid>/posts/2016-12-21-b/</guid>
       <description>&lt;p&gt;В Исландии опять Jólabókaflóð, то есть рождественский книжный потоп. Все исландцы скупают книжки, чтобы подарить их родным и друзьям. Традиция, &lt;a href=&#34;https://jolabokaflod.org/about/founding-story/&#34;&gt;говорят&lt;/a&gt;, началась во время Второй мировой войны, когда с большинством импортных товаров (и подарков) были проблемы. Кроме бумаги, на которой печатали книги. И вот каждый год, начиная с 1944-го исландские издатели печатают общий Bókatíðindi, книжный каталог, который бесплатно рассылают каждой исландской семье в середине ноября (во время Рейкявикской книжной ярмарки). Исландцы вообще &lt;a href=&#34;http://publishingperspectives.com/2016/12/holiday-retail-iceland-jolabokaflod/&#34;&gt;дико много читают&lt;/a&gt;. Каждый второй прочитывает минимум 8 книг в год. И вообще симпатичная страна ))&lt;/p&gt;</description>
     </item>
     <item>
       <title>Исландия - наше будущее</title>
-      <link>//localhost:1313/posts/2012-01-28-a/</link>
+      <link>/posts/2012-01-28-a/</link>
       <pubDate>Sat, 28 Jan 2012 17:19:42 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-01-28-a/</guid>
+      <guid>/posts/2012-01-28-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Finally, one of the biggest reasons why the Icelandic publishing industry is so vibrant is almost counter-intuitively that Icelandic authors are underpaid . . . and accept it. Before the translation boom, the only way even bestselling Icelandic authors could expect to make a (slim) living off of their books was through government grants and a day job.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.thebookseller.com/feature/depth-icelands-book-market.html&#34;&gt;thebookseller.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;К вопросу о голодных авторах.&lt;/p&gt;</description>
     </item>
   </channel>

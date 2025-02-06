@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Startups on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/startups/</link>
+    <link>/tags/startups/</link>
     <description>Recent content in Startups on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 09 Apr 2013 23:34:36 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/startups/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/startups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Программа The People&#39;s E-Book: новое видео</title>
-      <link>//localhost:1313/posts/2013-04-09-b/</link>
+      <link>/posts/2013-04-09-b/</link>
       <pubDate>Tue, 09 Apr 2013 23:34:36 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-04-09-b/</guid>
+      <guid>/posts/2013-04-09-b/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.kickstarter.com/projects/1371597318/the-peoples-e-book/posts/449119?ref=email&amp;amp;show_token=924a67e09ccae170&#34;&gt;The People&amp;rsquo;s E-Book by Hol Art Books » Flying high in an invisible jet — Kickstarter&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>dotdotdot - читалка для книг и вебконтента</title>
-      <link>//localhost:1313/posts/2012-11-21-a/</link>
+      <link>/posts/2012-11-21-a/</link>
       <pubDate>Wed, 21 Nov 2012 21:53:44 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-11-21-a/</guid>
+      <guid>/posts/2012-11-21-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.dotdotdot.me/&#34;&gt;dotdotdot - Your free digital reading app.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Выглядит очень симпатично. Смесь ридера epub и Instapaper + возможность заметок, шаринга, social reading и пр. Если к ней добавить ещё и редактор для создания текстов&amp;hellip; Но даже и в таком виде — оч. круто.&lt;/p&gt;</description>
     </item>
     <item>
       <title>7 стартапов нового книгоиздания</title>
-      <link>//localhost:1313/posts/2011-07-12-a/</link>
+      <link>/posts/2011-07-12-a/</link>
       <pubDate>Tue, 12 Jul 2011 13:59:36 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-07-12-a/</guid>
+      <guid>/posts/2011-07-12-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.brainpickings.org/index.php/2011/06/28/7-publishing-platforms/&#34;&gt;brainpickings.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://byliner.com/&#34;&gt;Byliner&lt;/a&gt; Издательство и комьюнити вокруг оригинальных текстов-историй (не слишком длинных — до 35 тыс слов — нинфикшн эссе).&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://atavist.net/&#34;&gt;The Atavist&lt;/a&gt; «Длиннее, чем статья, меньше, чем книга». Сайт и приложения для мобильных устройств с контентом от хороших журналистов.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.unbound.co.uk/&#34;&gt;Unbound&lt;/a&gt; Английский «Кискстартер для писателей».&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://redlemona.de/&#34;&gt;Red Lemonade&lt;/a&gt; «Для писателей, которых боятсядругие издатели». Комьюнити для писателей и читателей.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.40kbooks.com/&#34;&gt;40K Books&lt;/a&gt; Новеллы.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.thedominoproject.com/&#34;&gt;The Domino Project&lt;/a&gt; Известный проект Сета Година с Amazon.&lt;/li&gt;&#xA;&lt;li&gt;aaaa! &lt;a href=&#34;http://www.ted.com/pages/567%3E&#34;&gt;TED Books&lt;/a&gt; Лекции конференции-шоу TED, продающиеся через Amazon Singles.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Booklikes - ещё один рекомендательный сервис</title>
-      <link>//localhost:1313/posts/2011-06-16-a/</link>
+      <link>/posts/2011-06-16-a/</link>
       <pubDate>Thu, 16 Jun 2011 14:17:27 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-06-16-a/</guid>
+      <guid>/posts/2011-06-16-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.teleread.com/wp-content/uploads/2011/06/Screen-shot-2011-06-16-at-8.51.36-AM.png&#34; alt=&#34;Screen shot 2011 06 16 at 8 51 36 AM&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;From the press release:&lt;/p&gt;&#xA;&lt;p&gt;Billed as “the missing link between Amazon and Facebook,” the site uses an innovative&lt;br&gt;&#xA;algorithm that helps people decide what book to read next. Users can also share and talk&lt;br&gt;&#xA;about their favorite books on BookLikes, making it one of the first sites to transform&lt;br&gt;&#xA;reading into a social experience. For more information, please visit &lt;a href=&#34;http://booklikes.com/&#34;&gt;booklikes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.teleread.com/paul-biba/booklikes-help-people-to-decide-what-to-read-next/&#34;&gt;teleread.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Книгофутуризм, или BookLab</title>
-      <link>//localhost:1313/posts/2011-02-03-b/</link>
+      <link>/posts/2011-02-03-b/</link>
       <pubDate>Thu, 03 Feb 2011 11:04:59 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-02-03-b/</guid>
+      <guid>/posts/2011-02-03-b/</guid>
       <description>&lt;p&gt;Его нет, но он может быть. Как think tank, как мозговой центр, как экспериментальная лаборатория, как инкубатор проектов. Книги-файлы, книги-программы, книги-в-браузере — пока только ростки того, чем книга может стать в будущем, причём не в таком уж отдалённом. Институт будущего книги может ускорить мутации, реализовав хотя бы некоторые из вот таких проектов — программных, дизайнерских, организационных.&lt;/p&gt;&#xA;&lt;p&gt;«Слои “Евгения Онегина”». Слой авторизованного текста, слой черновиков, слой комментариев — хотя бы Лотмана и Набокова, слой переводов, слой культурной переработки, слой культурного контекста. В одном месте, не покидая страницу. Текст как недовыскобленный палимпсест, в котором сквозь слои проступает смысл. Идеи этими слоями и рождаются.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zhook - формат электронных книг</title>
-      <link>//localhost:1313/posts/2010-10-15-237/</link>
+      <link>/posts/2010-10-15-237/</link>
       <pubDate>Fri, 15 Oct 2010 08:01:43 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-10-15-237/</guid>
+      <guid>/posts/2010-10-15-237/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://ochook.org/&#34;&gt;ochook.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Чего только не бывает, вот, например, ещё один формат ебуков — Жук, сорри, Zhook. Что-то типа EPUB, но только в одном зазипованном файле в HTML5. Последнее обстоятельство как раз очень перспективно. Но, думаю, EPUB тоже будет туда двигаться.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Микрослияния и поглощения в электронном книгоиздании</title>
-      <link>//localhost:1313/posts/2009-11-19-144/</link>
+      <link>/posts/2009-11-19-144/</link>
       <pubDate>Thu, 19 Nov 2009 23:34:09 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-11-19-144/</guid>
+      <guid>/posts/2009-11-19-144/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://paidcontent.org/article/419-ebook-distributor-smashwords-buys-online-self-publisher-bookhabit/&#34;&gt;eBook Distributor Smashwords Buys Online Self-Publisher BookHabit | paidContent&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Smashwords, which was one of the first eBook distributors to be have its self-publishing platform included in the new Sony (NYSE: SNE) digital bookstore, has acquired author community site Bookhabit. Terms weren’t disclosed, but a source told paidContent the deal was done for just under $1 million.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>

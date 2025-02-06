@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Readers on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/readers/</link>
+    <link>/tags/readers/</link>
     <description>Recent content in Readers on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 09 Jun 2008 14:50:30 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/readers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/readers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>В 2008 году будет продан, как минимум, 1 млн букридеров</title>
-      <link>//localhost:1313/posts/2008-06-09-a/</link>
+      <link>/posts/2008-06-09-a/</link>
       <pubDate>Mon, 09 Jun 2008 14:50:30 +0000</pubDate>
-      <guid>//localhost:1313/posts/2008-06-09-a/</guid>
+      <guid>/posts/2008-06-09-a/</guid>
       <description>&lt;p&gt;Вице-президент Oxford University Press Эван Шнитман (Evan Schnittman) &lt;a href=&#34;http://blog.oup.com/2008/06/ebooks-2/&#34;&gt;сформулировал оценку продаж букридеров&lt;/a&gt; Kindle и Sony, исходя из &lt;a href=&#34;http://www.digitimes.com/NewRegister/join.asp?view=Search&amp;amp;view=Search&amp;amp;DocID=PD000000000000000000000000005411&amp;amp;query=AMAZON&#34;&gt;данных о планах поставок&lt;/a&gt; основного компонента устройства — 6-дюймовых экранов электронной бумаги, которые производит тайваньская фирма PVI. К концу года фирма собирается отгружать по 120 тыс экранов ежемесячно (при текущих поставках порядка 70 тыс). При этом 60% поставок приходится на Amazon, а 40% — на Sony. На основе этих данных, а также статистики IDPF и заявлению главы Amazon Джефа Безоса о том, что на Kindle приходится 6% продаж книг его магазина, Шнитман делает вывод о том, что рынок продаж электронных книг в США может достичь в 2008 году $120 млн и увеличиться в несколько раз в следующем. Via &lt;a href=&#34;http://www.teleread.org/blog/2008/06/09/kindle-sony-reader-to-reach-1m-unit-sales-in-08-combined-says-oups-evan-schnittman/&#34;&gt;TeleRead&lt;/a&gt; и &lt;a href=&#34;http://www.mobileread.com/forums/showthread.php?t=24845&#34;&gt;MobileRead&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,997 +2,997 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Sun, 26 Jan 2025 14:11:47 +0300</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apps</title>
-      <link>//localhost:1313/tags/apps/</link>
+      <link>/tags/apps/</link>
       <pubDate>Sun, 26 Jan 2025 14:11:47 +0300</pubDate>
-      <guid>//localhost:1313/tags/apps/</guid>
+      <guid>/tags/apps/</guid>
       <description></description>
     </item>
     <item>
       <title>Digital Humanities</title>
-      <link>//localhost:1313/tags/digital-humanities/</link>
+      <link>/tags/digital-humanities/</link>
       <pubDate>Sat, 21 May 2022 14:11:47 +0300</pubDate>
-      <guid>//localhost:1313/tags/digital-humanities/</guid>
+      <guid>/tags/digital-humanities/</guid>
       <description></description>
     </item>
     <item>
       <title>News</title>
-      <link>//localhost:1313/tags/news/</link>
+      <link>/tags/news/</link>
       <pubDate>Fri, 20 May 2022 16:46:06 +0300</pubDate>
-      <guid>//localhost:1313/tags/news/</guid>
+      <guid>/tags/news/</guid>
       <description></description>
     </item>
     <item>
       <title>Russia</title>
-      <link>//localhost:1313/tags/russia/</link>
+      <link>/tags/russia/</link>
       <pubDate>Thu, 28 Jan 2021 15:13:03 +0300</pubDate>
-      <guid>//localhost:1313/tags/russia/</guid>
+      <guid>/tags/russia/</guid>
       <description></description>
     </item>
     <item>
       <title>Audiobooks, Spotify</title>
-      <link>//localhost:1313/tags/audiobooks-spotify/</link>
+      <link>/tags/audiobooks-spotify/</link>
       <pubDate>Thu, 28 Jan 2021 13:00:25 +0300</pubDate>
-      <guid>//localhost:1313/tags/audiobooks-spotify/</guid>
+      <guid>/tags/audiobooks-spotify/</guid>
       <description></description>
     </item>
     <item>
       <title>Reading</title>
-      <link>//localhost:1313/tags/reading/</link>
+      <link>/tags/reading/</link>
       <pubDate>Fri, 06 Mar 2020 15:13:46 +0300</pubDate>
-      <guid>//localhost:1313/tags/reading/</guid>
+      <guid>/tags/reading/</guid>
       <description></description>
     </item>
     <item>
       <title>UK</title>
-      <link>//localhost:1313/tags/uk/</link>
+      <link>/tags/uk/</link>
       <pubDate>Fri, 06 Mar 2020 15:13:46 +0300</pubDate>
-      <guid>//localhost:1313/tags/uk/</guid>
+      <guid>/tags/uk/</guid>
       <description></description>
     </item>
     <item>
       <title>Publishers</title>
-      <link>//localhost:1313/tags/publishers/</link>
+      <link>/tags/publishers/</link>
       <pubDate>Fri, 06 Mar 2020 15:06:22 +0300</pubDate>
-      <guid>//localhost:1313/tags/publishers/</guid>
+      <guid>/tags/publishers/</guid>
       <description></description>
     </item>
     <item>
       <title>US</title>
-      <link>//localhost:1313/tags/us/</link>
+      <link>/tags/us/</link>
       <pubDate>Fri, 06 Mar 2020 15:06:22 +0300</pubDate>
-      <guid>//localhost:1313/tags/us/</guid>
+      <guid>/tags/us/</guid>
       <description></description>
     </item>
     <item>
       <title>Finland</title>
-      <link>//localhost:1313/tags/finland/</link>
+      <link>/tags/finland/</link>
       <pubDate>Fri, 21 Feb 2020 12:11:50 +0300</pubDate>
-      <guid>//localhost:1313/tags/finland/</guid>
+      <guid>/tags/finland/</guid>
       <description></description>
     </item>
     <item>
       <title>Epub</title>
-      <link>//localhost:1313/tags/epub/</link>
+      <link>/tags/epub/</link>
       <pubDate>Fri, 14 Feb 2020 12:05:36 +0300</pubDate>
-      <guid>//localhost:1313/tags/epub/</guid>
+      <guid>/tags/epub/</guid>
       <description></description>
     </item>
     <item>
       <title>News,US, Russia</title>
-      <link>//localhost:1313/tags/newsus-russia/</link>
+      <link>/tags/newsus-russia/</link>
       <pubDate>Thu, 13 Feb 2020 18:00:43 +0300</pubDate>
-      <guid>//localhost:1313/tags/newsus-russia/</guid>
+      <guid>/tags/newsus-russia/</guid>
       <description></description>
     </item>
     <item>
       <title>Audio</title>
-      <link>//localhost:1313/tags/audio/</link>
+      <link>/tags/audio/</link>
       <pubDate>Mon, 20 Jan 2020 22:43:02 +0300</pubDate>
-      <guid>//localhost:1313/tags/audio/</guid>
+      <guid>/tags/audio/</guid>
       <description></description>
     </item>
     <item>
       <title>Subscription</title>
-      <link>//localhost:1313/tags/subscription/</link>
+      <link>/tags/subscription/</link>
       <pubDate>Mon, 20 Jan 2020 22:43:02 +0300</pubDate>
-      <guid>//localhost:1313/tags/subscription/</guid>
+      <guid>/tags/subscription/</guid>
       <description></description>
     </item>
     <item>
       <title>Ridero</title>
-      <link>//localhost:1313/tags/ridero/</link>
+      <link>/tags/ridero/</link>
       <pubDate>Thu, 16 Jan 2020 13:27:37 +0300</pubDate>
-      <guid>//localhost:1313/tags/ridero/</guid>
+      <guid>/tags/ridero/</guid>
       <description></description>
     </item>
     <item>
       <title>Selfpub</title>
-      <link>//localhost:1313/tags/selfpub/</link>
+      <link>/tags/selfpub/</link>
       <pubDate>Thu, 16 Jan 2020 13:27:37 +0300</pubDate>
-      <guid>//localhost:1313/tags/selfpub/</guid>
+      <guid>/tags/selfpub/</guid>
       <description></description>
     </item>
     <item>
       <title>Archive</title>
-      <link>//localhost:1313/tags/archive/</link>
+      <link>/tags/archive/</link>
       <pubDate>Sun, 12 Jan 2020 01:30:06 +0300</pubDate>
-      <guid>//localhost:1313/tags/archive/</guid>
+      <guid>/tags/archive/</guid>
       <description></description>
     </item>
     <item>
       <title>Bookmate</title>
-      <link>//localhost:1313/tags/bookmate/</link>
+      <link>/tags/bookmate/</link>
       <pubDate>Sat, 11 Jan 2020 23:12:31 +0300</pubDate>
-      <guid>//localhost:1313/tags/bookmate/</guid>
+      <guid>/tags/bookmate/</guid>
       <description></description>
     </item>
     <item>
       <title>Prognosis</title>
-      <link>//localhost:1313/tags/prognosis/</link>
+      <link>/tags/prognosis/</link>
       <pubDate>Fri, 10 Jan 2020 11:59:33 +0300</pubDate>
-      <guid>//localhost:1313/tags/prognosis/</guid>
+      <guid>/tags/prognosis/</guid>
       <description></description>
     </item>
     <item>
       <title>Trends</title>
-      <link>//localhost:1313/tags/trends/</link>
+      <link>/tags/trends/</link>
       <pubDate>Fri, 10 Jan 2020 11:59:33 +0300</pubDate>
-      <guid>//localhost:1313/tags/trends/</guid>
+      <guid>/tags/trends/</guid>
       <description></description>
     </item>
     <item>
       <title>USA</title>
-      <link>//localhost:1313/tags/usa/</link>
+      <link>/tags/usa/</link>
       <pubDate>Fri, 10 Jan 2020 11:59:33 +0300</pubDate>
-      <guid>//localhost:1313/tags/usa/</guid>
+      <guid>/tags/usa/</guid>
       <description></description>
     </item>
     <item>
       <title>Eink</title>
-      <link>//localhost:1313/tags/eink/</link>
+      <link>/tags/eink/</link>
       <pubDate>Thu, 09 Jan 2020 21:23:46 +0300</pubDate>
-      <guid>//localhost:1313/tags/eink/</guid>
+      <guid>/tags/eink/</guid>
       <description></description>
     </item>
     <item>
       <title>Ebook</title>
-      <link>//localhost:1313/tags/ebook/</link>
+      <link>/tags/ebook/</link>
       <pubDate>Thu, 24 Oct 2019 10:30:02 +0000</pubDate>
-      <guid>//localhost:1313/tags/ebook/</guid>
+      <guid>/tags/ebook/</guid>
       <description></description>
     </item>
     <item>
       <title>Webbooks</title>
-      <link>//localhost:1313/tags/webbooks/</link>
+      <link>/tags/webbooks/</link>
       <pubDate>Thu, 21 Feb 2019 07:59:47 +0000</pubDate>
-      <guid>//localhost:1313/tags/webbooks/</guid>
+      <guid>/tags/webbooks/</guid>
       <description></description>
     </item>
     <item>
       <title>Germany</title>
-      <link>//localhost:1313/tags/germany/</link>
+      <link>/tags/germany/</link>
       <pubDate>Tue, 19 Feb 2019 14:54:48 +0000</pubDate>
-      <guid>//localhost:1313/tags/germany/</guid>
+      <guid>/tags/germany/</guid>
       <description></description>
     </item>
     <item>
       <title>Textbooks</title>
-      <link>//localhost:1313/tags/textbooks/</link>
+      <link>/tags/textbooks/</link>
       <pubDate>Tue, 19 Feb 2019 14:34:23 +0000</pubDate>
-      <guid>//localhost:1313/tags/textbooks/</guid>
+      <guid>/tags/textbooks/</guid>
       <description></description>
     </item>
     <item>
       <title>Market</title>
-      <link>//localhost:1313/tags/market/</link>
+      <link>/tags/market/</link>
       <pubDate>Wed, 13 Feb 2019 08:18:30 +0000</pubDate>
-      <guid>//localhost:1313/tags/market/</guid>
+      <guid>/tags/market/</guid>
       <description></description>
     </item>
     <item>
       <title>Internet Archive</title>
-      <link>//localhost:1313/tags/internet-archive/</link>
+      <link>/tags/internet-archive/</link>
       <pubDate>Tue, 12 Feb 2019 11:04:07 +0000</pubDate>
-      <guid>//localhost:1313/tags/internet-archive/</guid>
+      <guid>/tags/internet-archive/</guid>
       <description></description>
     </item>
     <item>
       <title>Amazon</title>
-      <link>//localhost:1313/tags/amazon/</link>
+      <link>/tags/amazon/</link>
       <pubDate>Fri, 25 Jan 2019 07:23:33 +0000</pubDate>
-      <guid>//localhost:1313/tags/amazon/</guid>
+      <guid>/tags/amazon/</guid>
       <description></description>
     </item>
     <item>
       <title>China</title>
-      <link>//localhost:1313/tags/china/</link>
+      <link>/tags/china/</link>
       <pubDate>Mon, 14 Jan 2019 08:47:09 +0000</pubDate>
-      <guid>//localhost:1313/tags/china/</guid>
+      <guid>/tags/china/</guid>
       <description></description>
     </item>
     <item>
       <title>Copyright</title>
-      <link>//localhost:1313/tags/copyright/</link>
+      <link>/tags/copyright/</link>
       <pubDate>Wed, 26 Dec 2018 14:28:24 +0000</pubDate>
-      <guid>//localhost:1313/tags/copyright/</guid>
+      <guid>/tags/copyright/</guid>
       <description></description>
     </item>
     <item>
       <title>Industry</title>
-      <link>//localhost:1313/tags/industry/</link>
+      <link>/tags/industry/</link>
       <pubDate>Wed, 26 Dec 2018 14:28:24 +0000</pubDate>
-      <guid>//localhost:1313/tags/industry/</guid>
+      <guid>/tags/industry/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal</title>
-      <link>//localhost:1313/tags/personal/</link>
+      <link>/tags/personal/</link>
       <pubDate>Wed, 26 Dec 2018 14:28:24 +0000</pubDate>
-      <guid>//localhost:1313/tags/personal/</guid>
+      <guid>/tags/personal/</guid>
       <description></description>
     </item>
     <item>
       <title>Bookstores</title>
-      <link>//localhost:1313/tags/bookstores/</link>
+      <link>/tags/bookstores/</link>
       <pubDate>Wed, 26 Dec 2018 14:21:23 +0000</pubDate>
-      <guid>//localhost:1313/tags/bookstores/</guid>
+      <guid>/tags/bookstores/</guid>
       <description></description>
     </item>
     <item>
       <title>Public Domain</title>
-      <link>//localhost:1313/tags/public-domain/</link>
+      <link>/tags/public-domain/</link>
       <pubDate>Mon, 24 Dec 2018 09:46:42 +0000</pubDate>
-      <guid>//localhost:1313/tags/public-domain/</guid>
+      <guid>/tags/public-domain/</guid>
       <description></description>
     </item>
     <item>
       <title>Dweb</title>
-      <link>//localhost:1313/tags/dweb/</link>
+      <link>/tags/dweb/</link>
       <pubDate>Fri, 05 Oct 2018 15:13:58 +0000</pubDate>
-      <guid>//localhost:1313/tags/dweb/</guid>
+      <guid>/tags/dweb/</guid>
       <description></description>
     </item>
     <item>
       <title>Links</title>
-      <link>//localhost:1313/tags/links/</link>
+      <link>/tags/links/</link>
       <pubDate>Mon, 03 Sep 2018 13:23:49 +0000</pubDate>
-      <guid>//localhost:1313/tags/links/</guid>
+      <guid>/tags/links/</guid>
       <description></description>
     </item>
     <item>
       <title>Pagedmedia</title>
-      <link>//localhost:1313/tags/pagedmedia/</link>
+      <link>/tags/pagedmedia/</link>
       <pubDate>Wed, 17 Jan 2018 11:51:55 +0000</pubDate>
-      <guid>//localhost:1313/tags/pagedmedia/</guid>
+      <guid>/tags/pagedmedia/</guid>
       <description></description>
     </item>
     <item>
       <title>Netherlands</title>
-      <link>//localhost:1313/tags/netherlands/</link>
+      <link>/tags/netherlands/</link>
       <pubDate>Mon, 15 Jan 2018 14:57:57 +0000</pubDate>
-      <guid>//localhost:1313/tags/netherlands/</guid>
+      <guid>/tags/netherlands/</guid>
       <description></description>
     </item>
     <item>
       <title>Piracy</title>
-      <link>//localhost:1313/tags/piracy/</link>
+      <link>/tags/piracy/</link>
       <pubDate>Mon, 15 Jan 2018 14:57:57 +0000</pubDate>
-      <guid>//localhost:1313/tags/piracy/</guid>
+      <guid>/tags/piracy/</guid>
       <description></description>
     </item>
     <item>
       <title>Webpub</title>
-      <link>//localhost:1313/tags/webpub/</link>
+      <link>/tags/webpub/</link>
       <pubDate>Thu, 04 Jan 2018 09:42:44 +0000</pubDate>
-      <guid>//localhost:1313/tags/webpub/</guid>
+      <guid>/tags/webpub/</guid>
       <description></description>
     </item>
     <item>
       <title>Arabic</title>
-      <link>//localhost:1313/tags/arabic/</link>
+      <link>/tags/arabic/</link>
       <pubDate>Tue, 26 Dec 2017 07:02:20 +0000</pubDate>
-      <guid>//localhost:1313/tags/arabic/</guid>
+      <guid>/tags/arabic/</guid>
       <description></description>
     </item>
     <item>
       <title>Iceland</title>
-      <link>//localhost:1313/tags/iceland/</link>
+      <link>/tags/iceland/</link>
       <pubDate>Mon, 18 Dec 2017 10:21:55 +0000</pubDate>
-      <guid>//localhost:1313/tags/iceland/</guid>
+      <guid>/tags/iceland/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>//localhost:1313/tags/ai/</link>
+      <link>/tags/ai/</link>
       <pubDate>Wed, 13 Dec 2017 15:49:07 +0000</pubDate>
-      <guid>//localhost:1313/tags/ai/</guid>
+      <guid>/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Education</title>
-      <link>//localhost:1313/tags/education/</link>
+      <link>/tags/education/</link>
       <pubDate>Fri, 08 Dec 2017 09:42:32 +0000</pubDate>
-      <guid>//localhost:1313/tags/education/</guid>
+      <guid>/tags/education/</guid>
       <description></description>
     </item>
     <item>
       <title>Typography</title>
-      <link>//localhost:1313/tags/typography/</link>
+      <link>/tags/typography/</link>
       <pubDate>Tue, 21 Nov 2017 13:44:17 +0000</pubDate>
-      <guid>//localhost:1313/tags/typography/</guid>
+      <guid>/tags/typography/</guid>
       <description></description>
     </item>
     <item>
       <title>Kindle</title>
-      <link>//localhost:1313/tags/kindle/</link>
+      <link>/tags/kindle/</link>
       <pubDate>Tue, 14 Nov 2017 08:56:39 +0000</pubDate>
-      <guid>//localhost:1313/tags/kindle/</guid>
+      <guid>/tags/kindle/</guid>
       <description></description>
     </item>
     <item>
       <title>Startup</title>
-      <link>//localhost:1313/tags/startup/</link>
+      <link>/tags/startup/</link>
       <pubDate>Tue, 07 Nov 2017 07:00:45 +0000</pubDate>
-      <guid>//localhost:1313/tags/startup/</guid>
+      <guid>/tags/startup/</guid>
       <description></description>
     </item>
     <item>
       <title>Android</title>
-      <link>//localhost:1313/tags/android/</link>
+      <link>/tags/android/</link>
       <pubDate>Fri, 03 Nov 2017 13:41:35 +0000</pubDate>
-      <guid>//localhost:1313/tags/android/</guid>
+      <guid>/tags/android/</guid>
       <description></description>
     </item>
     <item>
       <title>Kobo</title>
-      <link>//localhost:1313/tags/kobo/</link>
+      <link>/tags/kobo/</link>
       <pubDate>Fri, 27 Oct 2017 12:38:30 +0000</pubDate>
-      <guid>//localhost:1313/tags/kobo/</guid>
+      <guid>/tags/kobo/</guid>
       <description></description>
     </item>
     <item>
       <title>Blockchain</title>
-      <link>//localhost:1313/tags/blockchain/</link>
+      <link>/tags/blockchain/</link>
       <pubDate>Wed, 25 Oct 2017 11:24:43 +0000</pubDate>
-      <guid>//localhost:1313/tags/blockchain/</guid>
+      <guid>/tags/blockchain/</guid>
       <description></description>
     </item>
     <item>
       <title>Poland</title>
-      <link>//localhost:1313/tags/poland/</link>
+      <link>/tags/poland/</link>
       <pubDate>Thu, 24 Aug 2017 13:32:13 +0000</pubDate>
-      <guid>//localhost:1313/tags/poland/</guid>
+      <guid>/tags/poland/</guid>
       <description></description>
     </item>
     <item>
       <title>Library</title>
-      <link>//localhost:1313/tags/library/</link>
+      <link>/tags/library/</link>
       <pubDate>Sun, 11 Jun 2017 18:49:03 +0000</pubDate>
-      <guid>//localhost:1313/tags/library/</guid>
+      <guid>/tags/library/</guid>
       <description></description>
     </item>
     <item>
       <title>Apple</title>
-      <link>//localhost:1313/tags/apple/</link>
+      <link>/tags/apple/</link>
       <pubDate>Wed, 17 May 2017 07:26:12 +0000</pubDate>
-      <guid>//localhost:1313/tags/apple/</guid>
+      <guid>/tags/apple/</guid>
       <description></description>
     </item>
     <item>
       <title>Copyrignt</title>
-      <link>//localhost:1313/tags/copyrignt/</link>
+      <link>/tags/copyrignt/</link>
       <pubDate>Tue, 24 Jan 2017 22:39:44 +0000</pubDate>
-      <guid>//localhost:1313/tags/copyrignt/</guid>
+      <guid>/tags/copyrignt/</guid>
       <description></description>
     </item>
     <item>
       <title>Drm</title>
-      <link>//localhost:1313/tags/drm/</link>
+      <link>/tags/drm/</link>
       <pubDate>Tue, 24 Jan 2017 22:39:44 +0000</pubDate>
-      <guid>//localhost:1313/tags/drm/</guid>
+      <guid>/tags/drm/</guid>
       <description></description>
     </item>
     <item>
       <title>Production</title>
-      <link>//localhost:1313/tags/production/</link>
+      <link>/tags/production/</link>
       <pubDate>Thu, 19 Jan 2017 22:46:49 +0000</pubDate>
-      <guid>//localhost:1313/tags/production/</guid>
+      <guid>/tags/production/</guid>
       <description></description>
     </item>
     <item>
       <title>Sociology</title>
-      <link>//localhost:1313/tags/sociology/</link>
+      <link>/tags/sociology/</link>
       <pubDate>Thu, 12 Jan 2017 14:03:25 +0000</pubDate>
-      <guid>//localhost:1313/tags/sociology/</guid>
+      <guid>/tags/sociology/</guid>
       <description></description>
     </item>
     <item>
       <title>Google</title>
-      <link>//localhost:1313/tags/google/</link>
+      <link>/tags/google/</link>
       <pubDate>Tue, 10 Jan 2017 13:02:24 +0000</pubDate>
-      <guid>//localhost:1313/tags/google/</guid>
+      <guid>/tags/google/</guid>
       <description></description>
     </item>
     <item>
       <title>Ebooks</title>
-      <link>//localhost:1313/tags/ebooks/</link>
+      <link>/tags/ebooks/</link>
       <pubDate>Tue, 10 Jan 2017 10:31:54 +0000</pubDate>
-      <guid>//localhost:1313/tags/ebooks/</guid>
+      <guid>/tags/ebooks/</guid>
       <description></description>
     </item>
     <item>
       <title>Alarm</title>
-      <link>//localhost:1313/tags/alarm/</link>
+      <link>/tags/alarm/</link>
       <pubDate>Tue, 03 Jan 2017 21:18:56 +0000</pubDate>
-      <guid>//localhost:1313/tags/alarm/</guid>
+      <guid>/tags/alarm/</guid>
       <description></description>
     </item>
     <item>
       <title>Report</title>
-      <link>//localhost:1313/tags/report/</link>
+      <link>/tags/report/</link>
       <pubDate>Wed, 30 Nov 2016 07:51:27 +0000</pubDate>
-      <guid>//localhost:1313/tags/report/</guid>
+      <guid>/tags/report/</guid>
       <description></description>
     </item>
     <item>
       <title>KDP</title>
-      <link>//localhost:1313/tags/kdp/</link>
+      <link>/tags/kdp/</link>
       <pubDate>Wed, 19 Oct 2016 10:21:03 +0000</pubDate>
-      <guid>//localhost:1313/tags/kdp/</guid>
+      <guid>/tags/kdp/</guid>
       <description></description>
     </item>
     <item>
       <title>France</title>
-      <link>//localhost:1313/tags/france/</link>
+      <link>/tags/france/</link>
       <pubDate>Mon, 17 Oct 2016 09:18:37 +0000</pubDate>
-      <guid>//localhost:1313/tags/france/</guid>
+      <guid>/tags/france/</guid>
       <description></description>
     </item>
     <item>
       <title>Web</title>
-      <link>//localhost:1313/tags/web/</link>
+      <link>/tags/web/</link>
       <pubDate>Sun, 16 Oct 2016 21:18:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/web/</guid>
+      <guid>/tags/web/</guid>
       <description></description>
     </item>
     <item>
       <title>Free</title>
-      <link>//localhost:1313/tags/free/</link>
+      <link>/tags/free/</link>
       <pubDate>Sun, 16 Oct 2016 21:09:54 +0000</pubDate>
-      <guid>//localhost:1313/tags/free/</guid>
+      <guid>/tags/free/</guid>
       <description></description>
     </item>
     <item>
       <title>Marketing</title>
-      <link>//localhost:1313/tags/marketing/</link>
+      <link>/tags/marketing/</link>
       <pubDate>Fri, 14 Oct 2016 12:55:17 +0000</pubDate>
-      <guid>//localhost:1313/tags/marketing/</guid>
+      <guid>/tags/marketing/</guid>
       <description></description>
     </item>
     <item>
       <title>Sturtup</title>
-      <link>//localhost:1313/tags/sturtup/</link>
+      <link>/tags/sturtup/</link>
       <pubDate>Fri, 14 Oct 2016 12:55:17 +0000</pubDate>
-      <guid>//localhost:1313/tags/sturtup/</guid>
+      <guid>/tags/sturtup/</guid>
       <description></description>
     </item>
     <item>
       <title>Service</title>
-      <link>//localhost:1313/tags/service/</link>
+      <link>/tags/service/</link>
       <pubDate>Fri, 30 Sep 2016 14:42:55 +0000</pubDate>
-      <guid>//localhost:1313/tags/service/</guid>
+      <guid>/tags/service/</guid>
       <description></description>
     </item>
     <item>
       <title>Mytext</title>
-      <link>//localhost:1313/tags/mytext/</link>
+      <link>/tags/mytext/</link>
       <pubDate>Mon, 26 Sep 2016 13:47:44 +0000</pubDate>
-      <guid>//localhost:1313/tags/mytext/</guid>
+      <guid>/tags/mytext/</guid>
       <description></description>
     </item>
     <item>
       <title>EU</title>
-      <link>//localhost:1313/tags/eu/</link>
+      <link>/tags/eu/</link>
       <pubDate>Wed, 14 Sep 2016 19:56:27 +0000</pubDate>
-      <guid>//localhost:1313/tags/eu/</guid>
+      <guid>/tags/eu/</guid>
       <description></description>
     </item>
     <item>
       <title>Tax</title>
-      <link>//localhost:1313/tags/tax/</link>
+      <link>/tags/tax/</link>
       <pubDate>Wed, 14 Sep 2016 19:56:27 +0000</pubDate>
-      <guid>//localhost:1313/tags/tax/</guid>
+      <guid>/tags/tax/</guid>
       <description></description>
     </item>
     <item>
       <title>SouthAfrica</title>
-      <link>//localhost:1313/tags/southafrica/</link>
+      <link>/tags/southafrica/</link>
       <pubDate>Wed, 14 Sep 2016 10:56:34 +0000</pubDate>
-      <guid>//localhost:1313/tags/southafrica/</guid>
+      <guid>/tags/southafrica/</guid>
       <description></description>
     </item>
     <item>
       <title>Game</title>
-      <link>//localhost:1313/tags/game/</link>
+      <link>/tags/game/</link>
       <pubDate>Sun, 31 Jul 2016 20:37:35 +0000</pubDate>
-      <guid>//localhost:1313/tags/game/</guid>
+      <guid>/tags/game/</guid>
       <description></description>
     </item>
     <item>
       <title>Wordpress</title>
-      <link>//localhost:1313/tags/wordpress/</link>
+      <link>/tags/wordpress/</link>
       <pubDate>Fri, 22 Apr 2016 22:18:32 +0000</pubDate>
-      <guid>//localhost:1313/tags/wordpress/</guid>
+      <guid>/tags/wordpress/</guid>
       <description></description>
     </item>
     <item>
       <title>Mac</title>
-      <link>//localhost:1313/tags/mac/</link>
+      <link>/tags/mac/</link>
       <pubDate>Thu, 14 Apr 2016 12:11:22 +0000</pubDate>
-      <guid>//localhost:1313/tags/mac/</guid>
+      <guid>/tags/mac/</guid>
       <description></description>
     </item>
     <item>
       <title>Jokes</title>
-      <link>//localhost:1313/tags/jokes/</link>
+      <link>/tags/jokes/</link>
       <pubDate>Tue, 15 Mar 2016 18:35:34 +0000</pubDate>
-      <guid>//localhost:1313/tags/jokes/</guid>
+      <guid>/tags/jokes/</guid>
       <description></description>
     </item>
     <item>
       <title>App</title>
-      <link>//localhost:1313/tags/app/</link>
+      <link>/tags/app/</link>
       <pubDate>Thu, 10 Mar 2016 06:50:09 +0000</pubDate>
-      <guid>//localhost:1313/tags/app/</guid>
+      <guid>/tags/app/</guid>
       <description></description>
     </item>
     <item>
       <title>Uncategorized</title>
-      <link>//localhost:1313/tags/uncategorized/</link>
+      <link>/tags/uncategorized/</link>
       <pubDate>Mon, 07 Mar 2016 22:59:46 +0000</pubDate>
-      <guid>//localhost:1313/tags/uncategorized/</guid>
+      <guid>/tags/uncategorized/</guid>
       <description></description>
     </item>
     <item>
       <title>Microsoft</title>
-      <link>//localhost:1313/tags/microsoft/</link>
+      <link>/tags/microsoft/</link>
       <pubDate>Mon, 08 Feb 2016 13:31:18 +0000</pubDate>
-      <guid>//localhost:1313/tags/microsoft/</guid>
+      <guid>/tags/microsoft/</guid>
       <description></description>
     </item>
     <item>
       <title>Bookshops</title>
-      <link>//localhost:1313/tags/bookshops/</link>
+      <link>/tags/bookshops/</link>
       <pubDate>Wed, 03 Feb 2016 06:54:51 +0000</pubDate>
-      <guid>//localhost:1313/tags/bookshops/</guid>
+      <guid>/tags/bookshops/</guid>
       <description></description>
     </item>
     <item>
       <title>Distribution</title>
-      <link>//localhost:1313/tags/distribution/</link>
+      <link>/tags/distribution/</link>
       <pubDate>Tue, 22 Dec 2015 23:15:19 +0000</pubDate>
-      <guid>//localhost:1313/tags/distribution/</guid>
+      <guid>/tags/distribution/</guid>
       <description></description>
     </item>
     <item>
       <title>History</title>
-      <link>//localhost:1313/tags/history/</link>
+      <link>/tags/history/</link>
       <pubDate>Tue, 06 Oct 2015 09:02:14 +0000</pubDate>
-      <guid>//localhost:1313/tags/history/</guid>
+      <guid>/tags/history/</guid>
       <description></description>
     </item>
     <item>
       <title>B&amp;N</title>
-      <link>//localhost:1313/tags/bn/</link>
+      <link>/tags/bn/</link>
       <pubDate>Wed, 16 Sep 2015 06:10:48 +0000</pubDate>
-      <guid>//localhost:1313/tags/bn/</guid>
+      <guid>/tags/bn/</guid>
       <description></description>
     </item>
     <item>
       <title>India</title>
-      <link>//localhost:1313/tags/india/</link>
+      <link>/tags/india/</link>
       <pubDate>Wed, 02 Sep 2015 19:59:32 +0000</pubDate>
-      <guid>//localhost:1313/tags/india/</guid>
+      <guid>/tags/india/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Media</title>
-      <link>//localhost:1313/tags/social-media/</link>
+      <link>/tags/social-media/</link>
       <pubDate>Thu, 16 Jul 2015 22:18:33 +0000</pubDate>
-      <guid>//localhost:1313/tags/social-media/</guid>
+      <guid>/tags/social-media/</guid>
       <description></description>
     </item>
     <item>
       <title>Jokers</title>
-      <link>//localhost:1313/tags/jokers/</link>
+      <link>/tags/jokers/</link>
       <pubDate>Mon, 13 Jul 2015 12:35:10 +0000</pubDate>
-      <guid>//localhost:1313/tags/jokers/</guid>
+      <guid>/tags/jokers/</guid>
       <description></description>
     </item>
     <item>
       <title>Kids</title>
-      <link>//localhost:1313/tags/kids/</link>
+      <link>/tags/kids/</link>
       <pubDate>Thu, 04 Jun 2015 12:33:29 +0000</pubDate>
-      <guid>//localhost:1313/tags/kids/</guid>
+      <guid>/tags/kids/</guid>
       <description></description>
     </item>
     <item>
       <title>Browsers</title>
-      <link>//localhost:1313/tags/browsers/</link>
+      <link>/tags/browsers/</link>
       <pubDate>Wed, 29 Apr 2015 20:00:35 +0000</pubDate>
-      <guid>//localhost:1313/tags/browsers/</guid>
+      <guid>/tags/browsers/</guid>
       <description></description>
     </item>
     <item>
       <title>Japan</title>
-      <link>//localhost:1313/tags/japan/</link>
+      <link>/tags/japan/</link>
       <pubDate>Thu, 19 Mar 2015 08:44:14 +0000</pubDate>
-      <guid>//localhost:1313/tags/japan/</guid>
+      <guid>/tags/japan/</guid>
       <description></description>
     </item>
     <item>
       <title>Gadgets</title>
-      <link>//localhost:1313/tags/gadgets/</link>
+      <link>/tags/gadgets/</link>
       <pubDate>Wed, 08 Oct 2014 08:15:03 +0000</pubDate>
-      <guid>//localhost:1313/tags/gadgets/</guid>
+      <guid>/tags/gadgets/</guid>
       <description></description>
     </item>
     <item>
       <title>Media</title>
-      <link>//localhost:1313/tags/media/</link>
+      <link>/tags/media/</link>
       <pubDate>Tue, 23 Sep 2014 21:43:53 +0000</pubDate>
-      <guid>//localhost:1313/tags/media/</guid>
+      <guid>/tags/media/</guid>
       <description></description>
     </item>
     <item>
       <title>Crowdsourcing</title>
-      <link>//localhost:1313/tags/crowdsourcing/</link>
+      <link>/tags/crowdsourcing/</link>
       <pubDate>Tue, 23 Sep 2014 12:19:16 +0000</pubDate>
-      <guid>//localhost:1313/tags/crowdsourcing/</guid>
+      <guid>/tags/crowdsourcing/</guid>
       <description></description>
     </item>
     <item>
       <title>Ereaders</title>
-      <link>//localhost:1313/tags/ereaders/</link>
+      <link>/tags/ereaders/</link>
       <pubDate>Mon, 04 Aug 2014 10:48:49 +0000</pubDate>
-      <guid>//localhost:1313/tags/ereaders/</guid>
+      <guid>/tags/ereaders/</guid>
       <description></description>
     </item>
     <item>
       <title>Economy</title>
-      <link>//localhost:1313/tags/economy/</link>
+      <link>/tags/economy/</link>
       <pubDate>Thu, 10 Jul 2014 08:52:37 +0000</pubDate>
-      <guid>//localhost:1313/tags/economy/</guid>
+      <guid>/tags/economy/</guid>
       <description></description>
     </item>
     <item>
       <title>Services</title>
-      <link>//localhost:1313/tags/services/</link>
+      <link>/tags/services/</link>
       <pubDate>Fri, 04 Jul 2014 13:14:39 +0000</pubDate>
-      <guid>//localhost:1313/tags/services/</guid>
+      <guid>/tags/services/</guid>
       <description></description>
     </item>
     <item>
       <title>Crowdfunding</title>
-      <link>//localhost:1313/tags/crowdfunding/</link>
+      <link>/tags/crowdfunding/</link>
       <pubDate>Tue, 10 Jun 2014 14:44:03 +0000</pubDate>
-      <guid>//localhost:1313/tags/crowdfunding/</guid>
+      <guid>/tags/crowdfunding/</guid>
       <description></description>
     </item>
     <item>
       <title>Yandex</title>
-      <link>//localhost:1313/tags/yandex/</link>
+      <link>/tags/yandex/</link>
       <pubDate>Fri, 23 May 2014 10:11:57 +0000</pubDate>
-      <guid>//localhost:1313/tags/yandex/</guid>
+      <guid>/tags/yandex/</guid>
       <description></description>
     </item>
     <item>
       <title>Ereadears</title>
-      <link>//localhost:1313/tags/ereadears/</link>
+      <link>/tags/ereadears/</link>
       <pubDate>Mon, 16 Dec 2013 09:43:06 +0000</pubDate>
-      <guid>//localhost:1313/tags/ereadears/</guid>
+      <guid>/tags/ereadears/</guid>
       <description></description>
     </item>
     <item>
       <title>IOS</title>
-      <link>//localhost:1313/tags/ios/</link>
+      <link>/tags/ios/</link>
       <pubDate>Wed, 23 Oct 2013 14:00:02 +0000</pubDate>
-      <guid>//localhost:1313/tags/ios/</guid>
+      <guid>/tags/ios/</guid>
       <description></description>
     </item>
     <item>
       <title>LatAm</title>
-      <link>//localhost:1313/tags/latam/</link>
+      <link>/tags/latam/</link>
       <pubDate>Fri, 30 Aug 2013 08:50:43 +0000</pubDate>
-      <guid>//localhost:1313/tags/latam/</guid>
+      <guid>/tags/latam/</guid>
       <description></description>
     </item>
     <item>
       <title>Mexico</title>
-      <link>//localhost:1313/tags/mexico/</link>
+      <link>/tags/mexico/</link>
       <pubDate>Fri, 30 Aug 2013 08:50:43 +0000</pubDate>
-      <guid>//localhost:1313/tags/mexico/</guid>
+      <guid>/tags/mexico/</guid>
       <description></description>
     </item>
     <item>
       <title>Startups</title>
-      <link>//localhost:1313/tags/startups/</link>
+      <link>/tags/startups/</link>
       <pubDate>Tue, 09 Apr 2013 23:34:36 +0000</pubDate>
-      <guid>//localhost:1313/tags/startups/</guid>
+      <guid>/tags/startups/</guid>
       <description></description>
     </item>
     <item>
       <title>Sturtups</title>
-      <link>//localhost:1313/tags/sturtups/</link>
+      <link>/tags/sturtups/</link>
       <pubDate>Fri, 08 Feb 2013 21:09:16 +0000</pubDate>
-      <guid>//localhost:1313/tags/sturtups/</guid>
+      <guid>/tags/sturtups/</guid>
       <description></description>
     </item>
     <item>
       <title>Freedom</title>
-      <link>//localhost:1313/tags/freedom/</link>
+      <link>/tags/freedom/</link>
       <pubDate>Mon, 14 Jan 2013 10:22:57 +0000</pubDate>
-      <guid>//localhost:1313/tags/freedom/</guid>
+      <guid>/tags/freedom/</guid>
       <description></description>
     </item>
     <item>
       <title>Brasil</title>
-      <link>//localhost:1313/tags/brasil/</link>
+      <link>/tags/brasil/</link>
       <pubDate>Thu, 06 Dec 2012 10:43:23 +0000</pubDate>
-      <guid>//localhost:1313/tags/brasil/</guid>
+      <guid>/tags/brasil/</guid>
       <description></description>
     </item>
     <item>
       <title>7</title>
-      <link>//localhost:1313/tags/7/</link>
+      <link>/tags/7/</link>
       <pubDate>Wed, 05 Dec 2012 20:30:19 +0000</pubDate>
-      <guid>//localhost:1313/tags/7/</guid>
+      <guid>/tags/7/</guid>
       <description></description>
     </item>
     <item>
       <title>Ereader</title>
-      <link>//localhost:1313/tags/ereader/</link>
+      <link>/tags/ereader/</link>
       <pubDate>Tue, 09 Oct 2012 19:44:04 +0000</pubDate>
-      <guid>//localhost:1313/tags/ereader/</guid>
+      <guid>/tags/ereader/</guid>
       <description></description>
     </item>
     <item>
       <title>Books in Browsers</title>
-      <link>//localhost:1313/tags/books-in-browsers/</link>
+      <link>/tags/books-in-browsers/</link>
       <pubDate>Tue, 17 Jul 2012 13:26:20 +0000</pubDate>
-      <guid>//localhost:1313/tags/books-in-browsers/</guid>
+      <guid>/tags/books-in-browsers/</guid>
       <description></description>
     </item>
     <item>
       <title>Italy</title>
-      <link>//localhost:1313/tags/italy/</link>
+      <link>/tags/italy/</link>
       <pubDate>Tue, 10 Jul 2012 18:04:51 +0000</pubDate>
-      <guid>//localhost:1313/tags/italy/</guid>
+      <guid>/tags/italy/</guid>
       <description></description>
     </item>
     <item>
       <title>Brazil</title>
-      <link>//localhost:1313/tags/brazil/</link>
+      <link>/tags/brazil/</link>
       <pubDate>Mon, 02 Jul 2012 14:26:12 +0000</pubDate>
-      <guid>//localhost:1313/tags/brazil/</guid>
+      <guid>/tags/brazil/</guid>
       <description></description>
     </item>
     <item>
       <title>Lending</title>
-      <link>//localhost:1313/tags/lending/</link>
+      <link>/tags/lending/</link>
       <pubDate>Thu, 10 May 2012 13:34:18 +0000</pubDate>
-      <guid>//localhost:1313/tags/lending/</guid>
+      <guid>/tags/lending/</guid>
       <description></description>
     </item>
     <item>
       <title>Mobi</title>
-      <link>//localhost:1313/tags/mobi/</link>
+      <link>/tags/mobi/</link>
       <pubDate>Mon, 09 Apr 2012 19:23:40 +0000</pubDate>
-      <guid>//localhost:1313/tags/mobi/</guid>
+      <guid>/tags/mobi/</guid>
       <description></description>
     </item>
     <item>
       <title>Cloud</title>
-      <link>//localhost:1313/tags/cloud/</link>
+      <link>/tags/cloud/</link>
       <pubDate>Mon, 06 Feb 2012 12:34:09 +0000</pubDate>
-      <guid>//localhost:1313/tags/cloud/</guid>
+      <guid>/tags/cloud/</guid>
       <description></description>
     </item>
     <item>
       <title>Manga</title>
-      <link>//localhost:1313/tags/manga/</link>
+      <link>/tags/manga/</link>
       <pubDate>Wed, 25 Jan 2012 11:19:31 +0000</pubDate>
-      <guid>//localhost:1313/tags/manga/</guid>
+      <guid>/tags/manga/</guid>
       <description></description>
     </item>
     <item>
       <title>Academic</title>
-      <link>//localhost:1313/tags/academic/</link>
+      <link>/tags/academic/</link>
       <pubDate>Fri, 16 Dec 2011 11:55:13 +0000</pubDate>
-      <guid>//localhost:1313/tags/academic/</guid>
+      <guid>/tags/academic/</guid>
       <description></description>
     </item>
     <item>
       <title>Books</title>
-      <link>//localhost:1313/tags/books/</link>
+      <link>/tags/books/</link>
       <pubDate>Wed, 14 Dec 2011 11:35:20 +0000</pubDate>
-      <guid>//localhost:1313/tags/books/</guid>
+      <guid>/tags/books/</guid>
       <description></description>
     </item>
     <item>
       <title>Spain</title>
-      <link>//localhost:1313/tags/spain/</link>
+      <link>/tags/spain/</link>
       <pubDate>Thu, 03 Nov 2011 11:14:41 +0000</pubDate>
-      <guid>//localhost:1313/tags/spain/</guid>
+      <guid>/tags/spain/</guid>
       <description></description>
     </item>
     <item>
       <title>Korea</title>
-      <link>//localhost:1313/tags/korea/</link>
+      <link>/tags/korea/</link>
       <pubDate>Thu, 20 Oct 2011 20:15:22 +0000</pubDate>
-      <guid>//localhost:1313/tags/korea/</guid>
+      <guid>/tags/korea/</guid>
       <description></description>
     </item>
     <item>
       <title>Turkey</title>
-      <link>//localhost:1313/tags/turkey/</link>
+      <link>/tags/turkey/</link>
       <pubDate>Thu, 18 Aug 2011 22:35:24 +0000</pubDate>
-      <guid>//localhost:1313/tags/turkey/</guid>
+      <guid>/tags/turkey/</guid>
       <description></description>
     </item>
     <item>
       <title>Ukrain</title>
-      <link>//localhost:1313/tags/ukrain/</link>
+      <link>/tags/ukrain/</link>
       <pubDate>Fri, 05 Aug 2011 09:17:15 +0000</pubDate>
-      <guid>//localhost:1313/tags/ukrain/</guid>
+      <guid>/tags/ukrain/</guid>
       <description></description>
     </item>
     <item>
       <title>Open Access</title>
-      <link>//localhost:1313/tags/open-access/</link>
+      <link>/tags/open-access/</link>
       <pubDate>Mon, 06 Jun 2011 10:49:01 +0000</pubDate>
-      <guid>//localhost:1313/tags/open-access/</guid>
+      <guid>/tags/open-access/</guid>
       <description></description>
     </item>
     <item>
       <title>Norway</title>
-      <link>//localhost:1313/tags/norway/</link>
+      <link>/tags/norway/</link>
       <pubDate>Fri, 20 May 2011 09:41:59 +0000</pubDate>
-      <guid>//localhost:1313/tags/norway/</guid>
+      <guid>/tags/norway/</guid>
       <description></description>
     </item>
     <item>
       <title>Prosuction</title>
-      <link>//localhost:1313/tags/prosuction/</link>
+      <link>/tags/prosuction/</link>
       <pubDate>Mon, 11 Apr 2011 08:13:39 +0000</pubDate>
-      <guid>//localhost:1313/tags/prosuction/</guid>
+      <guid>/tags/prosuction/</guid>
       <description></description>
     </item>
     <item>
       <title>POD</title>
-      <link>//localhost:1313/tags/pod/</link>
+      <link>/tags/pod/</link>
       <pubDate>Thu, 07 Apr 2011 16:20:04 +0000</pubDate>
-      <guid>//localhost:1313/tags/pod/</guid>
+      <guid>/tags/pod/</guid>
       <description></description>
     </item>
     <item>
       <title>Mesia</title>
-      <link>//localhost:1313/tags/mesia/</link>
+      <link>/tags/mesia/</link>
       <pubDate>Thu, 24 Mar 2011 14:31:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/mesia/</guid>
+      <guid>/tags/mesia/</guid>
       <description></description>
     </item>
     <item>
       <title>Philippines</title>
-      <link>//localhost:1313/tags/philippines/</link>
+      <link>/tags/philippines/</link>
       <pubDate>Thu, 20 Jan 2011 09:05:14 +0000</pubDate>
-      <guid>//localhost:1313/tags/philippines/</guid>
+      <guid>/tags/philippines/</guid>
       <description></description>
     </item>
     <item>
       <title>Open</title>
-      <link>//localhost:1313/tags/open/</link>
+      <link>/tags/open/</link>
       <pubDate>Sun, 16 Jan 2011 22:40:42 +0000</pubDate>
-      <guid>//localhost:1313/tags/open/</guid>
+      <guid>/tags/open/</guid>
       <description></description>
     </item>
     <item>
       <title>Readind</title>
-      <link>//localhost:1313/tags/readind/</link>
+      <link>/tags/readind/</link>
       <pubDate>Thu, 13 Jan 2011 09:55:45 +0000</pubDate>
-      <guid>//localhost:1313/tags/readind/</guid>
+      <guid>/tags/readind/</guid>
       <description></description>
     </item>
     <item>
       <title>Israel</title>
-      <link>//localhost:1313/tags/israel/</link>
+      <link>/tags/israel/</link>
       <pubDate>Wed, 02 Jun 2010 11:16:24 +0000</pubDate>
-      <guid>//localhost:1313/tags/israel/</guid>
+      <guid>/tags/israel/</guid>
       <description></description>
     </item>
     <item>
       <title>Trend</title>
-      <link>//localhost:1313/tags/trend/</link>
+      <link>/tags/trend/</link>
       <pubDate>Fri, 23 Apr 2010 22:51:42 +0000</pubDate>
-      <guid>//localhost:1313/tags/trend/</guid>
+      <guid>/tags/trend/</guid>
       <description></description>
     </item>
     <item>
       <title>Computational Texts</title>
-      <link>//localhost:1313/tags/computational-texts/</link>
+      <link>/tags/computational-texts/</link>
       <pubDate>Thu, 01 Apr 2010 20:33:09 +0000</pubDate>
-      <guid>//localhost:1313/tags/computational-texts/</guid>
+      <guid>/tags/computational-texts/</guid>
       <description></description>
     </item>
     <item>
       <title>Books on Browsers</title>
-      <link>//localhost:1313/tags/books-on-browsers/</link>
+      <link>/tags/books-on-browsers/</link>
       <pubDate>Tue, 23 Feb 2010 22:05:09 +0000</pubDate>
-      <guid>//localhost:1313/tags/books-on-browsers/</guid>
+      <guid>/tags/books-on-browsers/</guid>
       <description></description>
     </item>
     <item>
       <title>Clouds</title>
-      <link>//localhost:1313/tags/clouds/</link>
+      <link>/tags/clouds/</link>
       <pubDate>Tue, 16 Feb 2010 20:38:48 +0000</pubDate>
-      <guid>//localhost:1313/tags/clouds/</guid>
+      <guid>/tags/clouds/</guid>
       <description></description>
     </item>
     <item>
       <title>Kindls</title>
-      <link>//localhost:1313/tags/kindls/</link>
+      <link>/tags/kindls/</link>
       <pubDate>Thu, 21 Jan 2010 09:19:31 +0000</pubDate>
-      <guid>//localhost:1313/tags/kindls/</guid>
+      <guid>/tags/kindls/</guid>
       <description></description>
     </item>
     <item>
       <title>Букридеры</title>
-      <link>//localhost:1313/tags/%D0%B1%D1%83%D0%BA%D1%80%D0%B8%D0%B4%D0%B5%D1%80%D1%8B/</link>
+      <link>/tags/%D0%B1%D1%83%D0%BA%D1%80%D0%B8%D0%B4%D0%B5%D1%80%D1%8B/</link>
       <pubDate>Fri, 08 Jan 2010 23:07:57 +0000</pubDate>
-      <guid>//localhost:1313/tags/%D0%B1%D1%83%D0%BA%D1%80%D0%B8%D0%B4%D0%B5%D1%80%D1%8B/</guid>
+      <guid>/tags/%D0%B1%D1%83%D0%BA%D1%80%D0%B8%D0%B4%D0%B5%D1%80%D1%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>Mytexts</title>
-      <link>//localhost:1313/tags/mytexts/</link>
+      <link>/tags/mytexts/</link>
       <pubDate>Wed, 23 Dec 2009 10:20:55 +0000</pubDate>
-      <guid>//localhost:1313/tags/mytexts/</guid>
+      <guid>/tags/mytexts/</guid>
       <description></description>
     </item>
     <item>
       <title>Taiwan</title>
-      <link>//localhost:1313/tags/taiwan/</link>
+      <link>/tags/taiwan/</link>
       <pubDate>Tue, 22 Dec 2009 14:12:36 +0000</pubDate>
-      <guid>//localhost:1313/tags/taiwan/</guid>
+      <guid>/tags/taiwan/</guid>
       <description></description>
     </item>
     <item>
       <title>Mobile</title>
-      <link>//localhost:1313/tags/mobile/</link>
+      <link>/tags/mobile/</link>
       <pubDate>Tue, 08 Dec 2009 21:36:42 +0000</pubDate>
-      <guid>//localhost:1313/tags/mobile/</guid>
+      <guid>/tags/mobile/</guid>
       <description></description>
     </item>
     <item>
       <title>Tre</title>
-      <link>//localhost:1313/tags/tre/</link>
+      <link>/tags/tre/</link>
       <pubDate>Wed, 30 Sep 2009 23:35:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/tre/</guid>
+      <guid>/tags/tre/</guid>
       <description></description>
     </item>
     <item>
       <title>Readers</title>
-      <link>//localhost:1313/tags/readers/</link>
+      <link>/tags/readers/</link>
       <pubDate>Mon, 09 Jun 2008 14:50:30 +0000</pubDate>
-      <guid>//localhost:1313/tags/readers/</guid>
+      <guid>/tags/readers/</guid>
       <description></description>
     </item>
   </channel>

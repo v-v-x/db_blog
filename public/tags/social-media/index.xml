@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Media on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/social-media/</link>
+    <link>/tags/social-media/</link>
     <description>Recent content in Social Media on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 16 Jul 2015 22:18:33 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Вау! Facebook собрался торговать электронными книгами?</title>
-      <link>//localhost:1313/posts/2015-07-16-a/</link>
+      <link>/posts/2015-07-16-a/</link>
       <pubDate>Thu, 16 Jul 2015 22:18:33 +0000</pubDate>
-      <guid>//localhost:1313/posts/2015-07-16-a/</guid>
+      <guid>/posts/2015-07-16-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Authors and publishers have been selling books on Facebook for over six years now by setting up shops with 3rd-party services, and now Facebook wants to get into the act. Buzzfeed reports that Facebook has finally woken up to the idea that commerce is possible any place where people congregate: The company is building out shops&amp;hellip; Read More »&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://the-digital-reader.com/2015/07/16/facebook-wants-a-cut-of-ebook-sales-on-its-network/&#34;&gt;Facebook Wants a Cut of eBook Sales on Its Social Network | The Digital Reader&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Книга в твиттере</title>
-      <link>//localhost:1313/posts/2014-09-10-a/</link>
+      <link>/posts/2014-09-10-a/</link>
       <pubDate>Wed, 10 Sep 2014 12:28:38 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-09-10-a/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.iineshoten.com/e2t/&#34;&gt;EPUB電子書籍をTwitterに埋め込もう | EPUB to Twitter&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Забавный сервис EPUB2Tw. Подгружаете файл в формате EPUB (не более 10 Мб), вводите название и короткое описание. И сервис выдает вам ссылку, которую можно запостить в Twitter. На выходе в своей ленте в Twitter вы получите примерно вот такую картинку:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82-2014-09-10-16.13.26.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Под текстом твита появится виджет, в котором на самом деле можно листать книгу (там есть даже меню оглавления и настройка трёх видов просмотра страниц, включая вертикальную прокрутку). По ссылке за надписью &lt;a href=&#34;https://www.iineshoten.com/e2t/index.php?book=41a274a6&#34;&gt;View on web&lt;/a&gt; откроется полноэкранная читалка в браузере. Думаю, для продвижения книг в Twitter — очень хорошее решение.&lt;/p&gt;</description>
+      <guid>/posts/2014-09-10-a/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.iineshoten.com/e2t/&#34;&gt;EPUB電子書籍をTwitterに埋め込もう | EPUB to Twitter&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Забавный сервис EPUB2Tw. Подгружаете файл в формате EPUB (не более 10 Мб), вводите название и короткое описание. И сервис выдает вам ссылку, которую можно запостить в Twitter. На выходе в своей ленте в Twitter вы получите примерно вот такую картинку:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82-2014-09-10-16.13.26.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Под текстом твита появится виджет, в котором на самом деле можно листать книгу (там есть даже меню оглавления и настройка трёх видов просмотра страниц, включая вертикальную прокрутку). По ссылке за надписью &lt;a href=&#34;https://www.iineshoten.com/e2t/index.php?book=41a274a6&#34;&gt;View on web&lt;/a&gt; откроется полноэкранная читалка в браузере. Думаю, для продвижения книг в Twitter — очень хорошее решение.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon покупает Goodreads</title>
-      <link>//localhost:1313/posts/2013-03-28-b/</link>
+      <link>/posts/2013-03-28-b/</link>
       <pubDate>Thu, 28 Mar 2013 20:53:16 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-03-28-b/</guid>
+      <guid>/posts/2013-03-28-b/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://techcrunch.com/2013/03/28/amazon-acquires-social-reading-site-goodreads/&#34;&gt;Amazon Acquires Social Reading Site Goodreads, Which Gives The Company A Social Advantage Over Apple | TechCrunch&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Это уже вторая, если не ошибаюсь, читательская социальная сеть (после Shelfari), которую покупает Amazon. Безосу респект. Но плохой знак для издательской индустрии США, которая опять проворонила историю. Интересно, закроет ли теперь GoodReads свой открытый API?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Goodreads: 10 млн членов и 360 млн книг</title>
-      <link>//localhost:1313/posts/2012-08-13-a/</link>
+      <link>/posts/2012-08-13-a/</link>
       <pubDate>Mon, 13 Aug 2012 13:25:11 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-08-13-a/</guid>
+      <guid>/posts/2012-08-13-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://techcrunch.com/2012/08/13/goodreads-10-million-members/&#34;&gt;techcrunch.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Правильная социальная сеть. Интересно, кто, в результате, купит. Amazon не предлагать! ;) Она и так уже купила Shelfari.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Books добавил шэринг в G&#43;</title>
-      <link>//localhost:1313/posts/2011-08-11-3/</link>
+      <link>/posts/2011-08-11-3/</link>
       <pubDate>Thu, 11 Aug 2011 20:15:25 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-08-11-3/</guid>
+      <guid>/posts/2011-08-11-3/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://booksearch.blogspot.com/2011/08/share-your-favorite-books-with-literary.html&#34;&gt;booksearch.blogspot.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Не цитата - просто ссылка на превьюшную страницу с обложкой и аннотацией.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kno предлагает свои учебники в Textbooks on Facebook</title>
-      <link>//localhost:1313/posts/2011-08-10-1/</link>
+      <link>/posts/2011-08-10-1/</link>
       <pubDate>Wed, 10 Aug 2011 21:27:35 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-08-10-1/</guid>
+      <guid>/posts/2011-08-10-1/</guid>
       <description>&lt;p&gt;Check out this website I found at &lt;a href=&#34;http://apps.facebook.com/goodtokno/&#34;&gt;apps.facebook.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Функционал пока не очень впечатляющий. Но, кажется, это первая читалка книг в Facebook.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon обзавёлся социальной сетью для Kindle</title>
-      <link>//localhost:1313/posts/2011-08-08-1/</link>
+      <link>/posts/2011-08-08-1/</link>
       <pubDate>Mon, 08 Aug 2011 09:38:39 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-08-08-1/</guid>
+      <guid>/posts/2011-08-08-1/</guid>
       <description>&lt;p&gt;Всё, как у людей — вы фолловите, вас фолловят, с FB и Twitter, в FB и Twitter — заметки и смена статуса чтения. Пока всё скромно.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://kindle.amazon.com&#34;&gt;kindle.amazon.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Facebook купил цифрового издателя единственной книги</title>
-      <link>//localhost:1313/posts/2011-08-02-1/</link>
+      <link>/posts/2011-08-02-1/</link>
       <pubDate>Tue, 02 Aug 2011 21:21:24 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-08-02-1/</guid>
+      <guid>/posts/2011-08-02-1/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.guardian.co.uk/technology/appsblog/2011/aug/02/facebook-buys-push-pop-press&#34;&gt;guardian.co.uk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Push Pop Press издала только одну книгу-программу — книжку Альберта Гора «Our Choice». А планировала сделать издательскую платформу. Теперь будет что-то непонятное делать для Facebook, но уже, вроде бы, к книгам отношение не имеющее.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bookee завёл приложение ВКонтакте</title>
-      <link>//localhost:1313/posts/2011-06-24-a/</link>
+      <link>/posts/2011-06-24-a/</link>
       <pubDate>Fri, 24 Jun 2011 11:54:48 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-06-24-a/</guid>
+      <guid>/posts/2011-06-24-a/</guid>
       <description>&lt;p&gt;Бесплатно — классика. Оплата через ВКонтакте. PDF. Неудобно. Но маркетинговый ход правильный.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Readum и ReadSocial: социальная платформа для читателей</title>
-      <link>//localhost:1313/posts/2011-04-11-f/</link>
+      <link>/posts/2011-04-11-f/</link>
       <pubDate>Mon, 11 Apr 2011 10:33:54 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-04-11-f/</guid>
+      <guid>/posts/2011-04-11-f/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;In an unusual social media venture that brings together Google and Facebook, BookGlutton.com founder Travis Alber is releasing Readum, a new social media application that allows readers to add comments and notes to books in their Google eBooks library and easily post them on Facebook for the general public or to specific groups.&lt;/p&gt;&#xA;&lt;p&gt;Alber called Readum “a proof of concept” project to create a social media connection for readers across different e-reading platforms and devices. “You can’t set up a reading group with someone on an iPhone and someone else on the Kindle,” Alber said, “we’re creating a layer of social connection. Why should we divide our friends and fellow readers up by the devices they use?” Albers said Readum makes use of the &lt;a href=&#34;http://www.readsocialapi.com/&#34;&gt;ReadSocial API&lt;/a&gt;, an application developed by her company to create a single layer of commentary and social connection across multiple device platforms and software reading systems. “We started with Google eBooks which hasn’t got any social media turned on yet; we said let’s get it on there and start seeing what kind of use patterns we get.”&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Growth of Social Media [VIDEO]</title>
-      <link>//localhost:1313/posts/2010-05-07-208/</link>
+      <link>/posts/2010-05-07-208/</link>
       <pubDate>Fri, 07 May 2010 19:25:49 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-05-07-208/</guid>
+      <guid>/posts/2010-05-07-208/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://mashable.com/2010/05/07/social-media-stats-video/&#34;&gt;mashable.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Очень хороший текст Гатова, в т. ч. о местной прессе</title>
-      <link>//localhost:1313/posts/2010-03-24-132/</link>
+      <link>/posts/2010-03-24-132/</link>
       <pubDate>Wed, 24 Mar 2010 12:47:46 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-03-24-132/</guid>
+      <guid>/posts/2010-03-24-132/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;И угрозу развитию «новых СМИ» (не обязательно целиком  на интернет-платформе) вижу не в недостаточной численности интернет-россиян. Подключенные – возьмите любую цифру: хоть 10, хоть 20 процентов – это уже десятки миллионов, ознакомленных с концепцией интерактивных, открытых, «в-любую-минуту-обновляемых» СМИ. Каждый год в обсчитываемое маркетологами взрослое большинство (12 или 14 плюс, как они говорят) добавляется очередной почти миллион, рожденный и выращенный в эпоху, когда само понятие «интернет» столь же естественно, как и понятие «телевидение» или «радио» или «газета». Ни одно крупное федеральное издание, будь оно государственным или частным, принадлежащим публичной или «закрытой» компании, не занимается проблемой, будет ли это очередное микропоколение их читать. На вопросе «наши отношения с молодым читателем» поставлен жирный крест – вместе с общей уверенностью, что не будет.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Пример: использование social media для рекламы книги о social media</title>
-      <link>//localhost:1313/posts/2009-09-20-123/</link>
+      <link>/posts/2009-09-20-123/</link>
       <pubDate>Sun, 20 Sep 2009 21:04:19 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-09-20-123/</guid>
+      <guid>/posts/2009-09-20-123/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.crunchgear.com/2009/09/18/viral-loop-using-facebook-and-the-iphone-to-promote-something-called-a-%E2%80%98book%E2%80%99/&#34;&gt;Viral Loop: Using Facebook and the iPhone to promote something called a ‘book’&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Adam Penenberg, who’s a contributing writer over at Fast Company magazine (and an old professor of mine from back in my NYU days), has developed an iPhone and Facebook App called “Viral Loop” to help raise awareness of his latest book, Viral Loop: From Facebook to Twitter, How Today’s Smartest Businesses Grow Themselves. Let’s take a look.&lt;/p&gt;</description>
     </item>
   </channel>

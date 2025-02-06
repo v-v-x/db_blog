@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on Browsers on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/books-on-browsers/</link>
+    <link>/tags/books-on-browsers/</link>
     <description>Recent content in Books on Browsers on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 23 Feb 2010 22:05:09 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/books-on-browsers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/books-on-browsers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Встречайте - Ibis Reader, онлайновая читалка ePub</title>
-      <link>//localhost:1313/posts/2010-02-23-225/</link>
+      <link>/posts/2010-02-23-225/</link>
       <pubDate>Tue, 23 Feb 2010 22:05:09 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-02-23-225/</guid>
+      <guid>/posts/2010-02-23-225/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://ibisreader.com/&#34;&gt;ibisreader.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;От Лайзы Дейли — главного специалиста по epub.&lt;/p&gt;&#xA;&lt;p&gt;Функционально, кажется, ничем не отличается от &lt;a href=&#34;http://bookworm.oreilly.com/&#34;&gt;Bookworm&lt;/a&gt;, — те же возможности для чтения из браузера мобильных устройств. Но несколько проще по интерфейсу. На первый взгляд может показаться, что получить книги можно только с Feedbook.com, ан нет — после регистрации вы можете добавить книгу самостоятельно. На DRM пока не проверял. Десктопная версия уступает, на мой взгляд, bookmate.ru по удобству (когда ребята доведут этот сервис до ума — Лайза Дейли, наверное, обзавидуется, правда, только для десктопа). Но в любом случае — ура, коллеги!&lt;/p&gt;</description>
     </item>
   </channel>

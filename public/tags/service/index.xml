@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Service on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/service/</link>
+    <link>/tags/service/</link>
     <description>Recent content in Service on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 30 Sep 2016 14:42:55 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/service/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/service/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Завёл, кстати, канал в Телеграме: «Слова и деньги»</title>
-      <link>//localhost:1313/posts/2016-09-30-b/</link>
+      <link>/posts/2016-09-30-b/</link>
       <pubDate>Fri, 30 Sep 2016 14:42:55 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-09-30-b/</guid>
+      <guid>/posts/2016-09-30-b/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://telegram.me/words_and_money&#34;&gt;https://telegram.me/words_and_money&lt;/a&gt; И не всё там будет только про электронные книги. Хорошее ведь название?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fictionary — справочники для книжных сериалов</title>
-      <link>//localhost:1313/posts/2014-08-22-a/</link>
+      <link>/posts/2014-08-22-a/</link>
       <pubDate>Fri, 22 Aug 2014 13:44:35 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-08-22-a/</guid>
+      <guid>/posts/2014-08-22-a/</guid>
       <description>&lt;p&gt;Если вы читаете по-английски популярные сериалы типа «Песни льда и пламени» Джорджа Мартина, и причём с помощью Kindle, то вам могут пригодиться рукодельные словари-справочники, подготовленные на основе wiki-ресурсов по таким книгам. Персонажей и реалий в такого рода многотомных эпопеях много, потеряться легко, каждый раз ходить за справкой в интернет неудобно, но если под рукой (под пальцем) такой словарь с сайта &lt;a href=&#34;http://thefictionary.net/&#34;&gt;http://thefictionary.net/&lt;/a&gt;, то чтение становится интереснее. С удовольствием бы имел такой под рукой для «Барочного цикла» Нила Стивенсона. Словари работают со всеми обычными читалками Kindle и Kindle для iOS (но Kindle для Android, Mac и Kindle Fire, что минус).&lt;/p&gt;</description>
     </item>
   </channel>

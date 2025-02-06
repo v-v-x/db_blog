@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computational Texts on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/computational-texts/</link>
+    <link>/tags/computational-texts/</link>
     <description>Recent content in Computational Texts on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 01 Apr 2010 20:33:09 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/computational-texts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/computational-texts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wolfram Alpha  для электронных книг</title>
-      <link>//localhost:1313/posts/2010-04-01-230/</link>
+      <link>/posts/2010-04-01-230/</link>
       <pubDate>Thu, 01 Apr 2010 20:33:09 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-04-01-230/</guid>
+      <guid>/posts/2010-04-01-230/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;http://www.touchpress.com/&#34;&gt;first application&lt;/a&gt; to make use of Wolfram Alpha for e-books is the visually stunning iPad version of &lt;a href=&#34;http://theodoregray.com/&#34;&gt;Theodore Gray&lt;/a&gt;&amp;rsquo;s best-selling &lt;em&gt;The Elements: A Visual Exploration of Every Known Atom in the Universe&lt;/em&gt;. The e-book application integrates Wolfram&amp;rsquo;s computational knowledge engine closely into the e-book experience. It&amp;rsquo;s easy to imagine calculus, engineering or geography textbooks that will also make use of Wolfram Alpha&amp;rsquo;s vast data repository and its ability to manipulate this data. For now, the company is remaining relatively quiet about the exact details of the program, however. The full launch is scheduled to happen later in Q2 2010.&lt;/p&gt;</description>
     </item>
   </channel>

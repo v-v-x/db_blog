@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mac on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/mac/</link>
+    <link>/tags/mac/</link>
     <description>Recent content in Mac on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 14 Apr 2016 12:11:22 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/mac/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Отличная читалка Clearview</title>
-      <link>//localhost:1313/posts/2016-04-14-a/</link>
+      <link>/posts/2016-04-14-a/</link>
       <pubDate>Thu, 14 Apr 2016 12:11:22 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-04-14-a/</guid>
+      <guid>/posts/2016-04-14-a/</guid>
       <description>&lt;p&gt;Читалка Clearview (понимает epub, mobi, pdf, fb2 и chm), довольно долго вылетавшая в новой версии Mac OS, наконец починилась. В версии 1.7.8 всё, кажется, стабильно. Читалка не только читает, но и позволяет систематизировать каталог, делать и сохранять заметки и пр. мелкие читательские радости. &lt;a href=&#34;https://itunes.apple.com/app/clearview/id557090104?mt=12&amp;amp;ls=1&#34;&gt;Рекомендую&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

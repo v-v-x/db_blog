@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philippines on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/philippines/</link>
+    <link>/tags/philippines/</link>
     <description>Recent content in Philippines on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 20 Jan 2011 09:05:14 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/philippines/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/philippines/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Говоря о пиратстве, подумайте и об этом</title>
-      <link>//localhost:1313/posts/2011-01-20-b/</link>
+      <link>/posts/2011-01-20-b/</link>
       <pubDate>Thu, 20 Jan 2011 09:05:14 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-01-20-b/</guid>
+      <guid>/posts/2011-01-20-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;But if you want to talk about eBook piracy, let’s talk about it.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://charles-tan.blogspot.com/2011/01/essay-ebook-piracy-and-copyright-in.html&#34;&gt;charles-tan.blogspot.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Примечательная статья о книжном пиратстве на Филиппинах. Кое-что общее с Россией есть.&lt;/p&gt;</description>
     </item>
   </channel>

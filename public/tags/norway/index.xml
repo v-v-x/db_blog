@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Norway on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/norway/</link>
+    <link>/tags/norway/</link>
     <description>Recent content in Norway on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 20 May 2011 09:41:59 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/norway/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/norway/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Норвежцы сошли с ума</title>
-      <link>//localhost:1313/posts/2011-05-20-b/</link>
+      <link>/posts/2011-05-20-b/</link>
       <pubDate>Fri, 20 May 2011 09:41:59 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-05-20-b/</guid>
+      <guid>/posts/2011-05-20-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Norway’s Ministry of Culture has just proposed legislative changes designed to further crack down on illicit file-sharing. In addition to smoothing the way for Internet users to be monitored more easily by rightsholders, amendments have been tabled which would order file-sharing sites to be blocked at the ISP level. Top of the list, The Pirate Bay.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://torrentfreak.com/pirate-bay-heads-norwegian-domain-blocking-list-110520/&#34;&gt;torrentfreak.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

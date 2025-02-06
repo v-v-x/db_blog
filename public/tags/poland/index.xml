@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poland on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/poland/</link>
+    <link>/tags/poland/</link>
     <description>Recent content in Poland on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 24 Aug 2017 13:32:13 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/poland/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/poland/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Как там в Польше</title>
-      <link>//localhost:1313/posts/2017-08-24-a/</link>
+      <link>/posts/2017-08-24-a/</link>
       <pubDate>Thu, 24 Aug 2017 13:32:13 +0000</pubDate>
-      <guid>//localhost:1313/posts/2017-08-24-a/</guid>
+      <guid>/posts/2017-08-24-a/</guid>
       <description>&lt;p&gt;52% поляков, читающих книжки, читают их в электронном виде. 27% — слушают. Из тех, которые читают электронные книги, 2/3 пользуются Kindle. При этом, что смешно, Amazon официально Kindle в Польше не продает и польский язык не поддерживает. Вот такая невзаимная любовь. В любом случае, 52% впечатляют. Если &lt;a href=&#34;https://the-digital-reader.com/2017/08/10/two-thirds-poles-use-kindles/&#34;&gt;правда&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Книжная палата здорового человека</title>
-      <link>//localhost:1313/posts/2017-03-27-a/</link>
+      <link>/posts/2017-03-27-a/</link>
       <pubDate>Mon, 27 Mar 2017 14:27:25 +0000</pubDate>
-      <guid>//localhost:1313/posts/2017-03-27-a/</guid>
+      <guid>/posts/2017-03-27-a/</guid>
       <description>&lt;p&gt;В Польше, как и в России, есть своя &lt;a href=&#34;http://www.pik.org.pl/&#34;&gt;книжная палата&lt;/a&gt; (Polska Izba Książki). Помимо того, что она ведёт учёт издаваемых книг, она ещё и активно &lt;a href=&#34;https://publishingperspectives.com/2017/03/polish-publishers-tax-deductions-fixed-prices/&#34;&gt;участвует в политике регулирования книжной отрасли&lt;/a&gt;: лоббирует снижение НДС на книги и введение годового моратория на изменение цены на издание в рознице (с допустимыми процентами розничных скидок). Де-факто это введение фиксированной цены на книги, как в большинстве развитых стран Евросоюза. И, кстати, это неплохой механизм для повышения доходов писателей, которым сейчас издатели рассказывают про отпускные цены для расчета роялти. При фиксированной цене авторы смогут сами посмотреть эти цены в книжных магазинах.&lt;/p&gt;</description>
     </item>
   </channel>

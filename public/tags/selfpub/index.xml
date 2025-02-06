@@ -2,332 +2,332 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Selfpub on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/selfpub/</link>
+    <link>/tags/selfpub/</link>
     <description>Recent content in Selfpub on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 16 Jan 2020 13:27:37 +0300</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/selfpub/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/selfpub/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rideró — 2019</title>
-      <link>//localhost:1313/posts/2020-01-16-1/</link>
+      <link>/posts/2020-01-16-1/</link>
       <pubDate>Thu, 16 Jan 2020 13:27:37 +0300</pubDate>
-      <guid>//localhost:1313/posts/2020-01-16-1/</guid>
+      <guid>/posts/2020-01-16-1/</guid>
       <description>&lt;p&gt;Rideró &lt;a href=&#34;https://ridero.ru/blog/?p=3988&#34;&gt;отчиталось&lt;/a&gt; по итогам прошлого года:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ассортимент вырос до 60 тыс.,&lt;/li&gt;&#xA;&lt;li&gt;количество авторов — на 40%,&lt;/li&gt;&#xA;&lt;li&gt;выручка у партнёров — на 65%,&lt;/li&gt;&#xA;&lt;li&gt;в собственном магазине — на 42%,&lt;/li&gt;&#xA;&lt;li&gt;роялти авторам — на 62%.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Плюс возобновлено партнёрство с Озоном, продажи в Библиоглобусе и чаты в книжках. Совсем неплохо.&lt;/p&gt;&#xA;&lt;p&gt;P.S. Для архива: &lt;a href=&#34;https://web.archive.org/web/20200116102907/https://ridero.ru/blog/?p=3988&#34;&gt;https://web.archive.org/web/20200116102907/https://ridero.ru/blog/?p=3988&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wattpad Books</title>
-      <link>//localhost:1313/posts/2019-01-25-b/</link>
+      <link>/posts/2019-01-25-b/</link>
       <pubDate>Fri, 25 Jan 2019 07:43:07 +0000</pubDate>
-      <guid>//localhost:1313/posts/2019-01-25-b/</guid>
+      <guid>/posts/2019-01-25-b/</guid>
       <description>&lt;p&gt;Wattpad, один из крупнейших сервисов для самиздатчиков (70 млн пользователей), помимо продажи лицензий на истории для большого шоубизнеса, &lt;a href=&#34;https://www.nytimes.com/2019/01/24/books/wattpad-books-publishing-division.html&#34;&gt;решил&lt;/a&gt; сам заняться книгоизданием. В каталоге пока меньше дюжины книг, зато, говорят, все отобраны нейросетями. Нну-ну. А само издательство тут: &lt;a href=&#34;https://books.wattpad.com/&#34;&gt;https://books.wattpad.com/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon и идиш</title>
-      <link>//localhost:1313/posts/2019-01-25-a/</link>
+      <link>/posts/2019-01-25-a/</link>
       <pubDate>Fri, 25 Jan 2019 07:23:33 +0000</pubDate>
-      <guid>//localhost:1313/posts/2019-01-25-a/</guid>
+      <guid>/posts/2019-01-25-a/</guid>
       <description>&lt;p&gt;Год назад Amazon решила, что зачем же ей держать отдельно Kindle Direct Publishing, сервис для самопубликации электронных книг, и CreateSpace, сервис печати по запросу книг бумажных. А пусть теперь они будут вместе! И стали они вместе. Но есть нюансы. KDP всегда довольно трепетно относился к тому, чтобы поддерживать только те языки, которые точно способен отображать Kindle (формат для электронных книг для этих читалок — немного кастрированный и подтюненный EPUB) и отрабатывать служба поддержки. Поэтому там есть практически все языки с латиницей, но нет, например, языков с письменностью на основе кириллицы. А вот CreateSpace всё это было по барабану, потому что для печати книг нужен PDF, а PDF — он, в общем, и в России PDF. Однако при слиянии языковую поддержку оставили только для тех языков, которые способен KDP, а все остальные — извините, уже нет. И вот, например, оказалось, что и &lt;a href=&#34;https://forward.com/yiddish/417902/amazon-is-dooming-new-yiddish-publications-can-it-be-stopped/&#34;&gt;не идиш&lt;/a&gt;, душу и мёд хасидим. И вот уже вижу, как хасиды прибывают в Сиэттл, находят Безоса и популярно ему объясняют, что יידיש не надо трогать, а надо правильно отображать. XXI век на дворе, Джеф. Уже на дворе, Джеф. Давай, Джеф, давай.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Американский самиздат - свежий обзор</title>
-      <link>//localhost:1313/posts/2017-10-16-a/</link>
+      <link>/posts/2017-10-16-a/</link>
       <pubDate>Mon, 16 Oct 2017 06:03:34 +0000</pubDate>
-      <guid>//localhost:1313/posts/2017-10-16-a/</guid>
+      <guid>/posts/2017-10-16-a/</guid>
       <description>&lt;p&gt;Вышел обзор Bowker (компания, которая продает ISBN в США) об американском самиздате за &lt;a href=&#34;http://media.bowker.com/documents/bowker-selfpublishing-report2016.pdf&#34;&gt;2015–2016&lt;/a&gt;. Экспоненциального роста нет, всё устаканивается, но рост всё равно есть. 2011–2016: 218%, 2015–2016: 8%. Рост количества книг в бумаге выше роста в цифре. Ведущие сервисы — Create Space (64% рынка, принадлежит Amazon), Smashwords (11%) и Lulu (10%). Тройка по бумаге — CreateSpace, Lulu и Blurb, по цифре — Smashwords, Lulu и Xlibris. Всего в 2016 году Bowker присвоил ISBN 786 935 книг самиздатчиков. А сколько ещё книг было публиковано без ISBN!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Первый импринт пошёл</title>
-      <link>//localhost:1313/posts/2017-06-13-b/</link>
+      <link>/posts/2017-06-13-b/</link>
       <pubDate>Tue, 13 Jun 2017 12:27:16 +0000</pubDate>
-      <guid>//localhost:1313/posts/2017-06-13-b/</guid>
+      <guid>/posts/2017-06-13-b/</guid>
       <description>&lt;p&gt;Идея писательского импринта сама по себе не то, что бы неновая, а даже старая. Да вот хотя бы «Лекарство от скуки» (сост. Б. Акунин). Но у импринтов Rideró («&lt;a href=&#34;https://beta.ridero.ru/l/senchin-choice/&#34;&gt;Выбор Сенчина&lt;/a&gt;» — первый) другая модель: Rideró не заказывает книги, а предоставляет инфраструктуру. Остальное писатель/редактор/составитель всё сам вместе со своими авторами. Пока симпатично. Интересно, что из этого получится.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Как не надо делать сервис самиздата</title>
-      <link>//localhost:1313/posts/2016-09-23-b/</link>
+      <link>/posts/2016-09-23-b/</link>
       <pubDate>Fri, 23 Sep 2016 20:21:52 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-09-23-b/</guid>
+      <guid>/posts/2016-09-23-b/</guid>
       <description>&lt;p&gt;Сервис &lt;a href=&#34;http://www.booktango.com/Default.aspx&#34;&gt;BootTango&lt;/a&gt; — &lt;a href=&#34;http://goodereader.com/blog/digital-publishing/book-tango-is-closing-their-self-publishing-business&#34;&gt;всё&lt;/a&gt;. Довольно симпатичный редактор, рекомендации по исправлению ошибок, онлайновая вёрстка обложек. Но — высокие цены за дополнительные сервисы и Author Solutions в качестве владельца… А как было красиво:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Американский самиздат в цифрах, 2010–2015</title>
-      <link>//localhost:1313/posts/2016-09-13-b/</link>
+      <link>/posts/2016-09-13-b/</link>
       <pubDate>Tue, 13 Sep 2016 08:56:52 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-09-13-b/</guid>
+      <guid>/posts/2016-09-13-b/</guid>
       <description>&lt;p&gt;Агентство Bowker, занимающееся в США выдачей ISBN, опубликовало &lt;a href=&#34;http://media.bowker.com/documents/bowker-selfpublishing-report2015.pdf&#34;&gt;отчет&lt;/a&gt; с данными о количестве присвоенных в 2010–2015 гг. книжных номеров самиздатовским книгам. Если коротко:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;количество самиздатовских ISBN выросло с 2010 по 2015 гг. на 375% (с 153 тыс. до 727 тыс. ISBN);&lt;/li&gt;&#xA;&lt;li&gt;рост в 2014–2015 гг. составил 21%, но при этом рост для печатных книг составил 34%, а вот количество выданных ISBN для электронных книг сократилась на 19%;&lt;/li&gt;&#xA;&lt;li&gt;подавляющее количество ISBN для самиздата было продано через компании–посредники, на совсем маленьких издателей и самих авторов приходится только 7%;&lt;/li&gt;&#xA;&lt;li&gt;главные монстры в 2015 г. (печатные и электронные книги) — CreateSpace (58%, печатные книги), Smashwords (13%, электронные книги), Lulu (12%, печатные и электронные книги) и Blurb (4,5%, электроные книги).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Сравнительно малое количество выданных ISBN самим авторам весьма примечательно. Авторам или нужны помощники, или не нужны ISBN (при публикации через основные платформы, типа Amazon KDP, номера не нужны).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Авторские доходы на Amazon — Cентябрь 2015</title>
-      <link>//localhost:1313/posts/2015-09-14-a/</link>
+      <link>/posts/2015-09-14-a/</link>
       <pubDate>Mon, 14 Sep 2015 18:15:19 +0000</pubDate>
-      <guid>//localhost:1313/posts/2015-09-14-a/</guid>
+      <guid>/posts/2015-09-14-a/</guid>
       <description>&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://authorearnings.com/report/september-2015-author-earnings-report/&#34;&gt;September 2015 Author Earnings Report – Author Earnings&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Собственно, вывод из очередного доклада Хауи главный — один: большая пятёрка издателей сами виноваты, задрав цены на электронные книги. Чувствительный к цене рынок отреагировал радикально — доходы традиционной издательской индустрии валятся, авторы, работающие с издателями, получают меньше, а в выигрыше (сами продажи электронных книг на Amazon-то растут) остаются независимые авторы и Amazon с его собственными книгами. Делиться надо.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Иногда они возвращаются: Vook запускает самиздат Pronoun</title>
-      <link>//localhost:1313/posts/2015-05-19-b/</link>
+      <link>/posts/2015-05-19-b/</link>
       <pubDate>Tue, 19 May 2015 22:48:13 +0000</pubDate>
-      <guid>//localhost:1313/posts/2015-05-19-b/</guid>
+      <guid>/posts/2015-05-19-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Pronoun&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.digitalbookworld.com/2015/vook-to-relaunch-as-free-self-publishing-platform-pronoun/&#34;&gt;Vook Relaunches as Free Self-Publishing Platform Pronoun | Digital Book World&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;На модном Medium — &lt;a href=&#34;https://medium.com/@pronoun/how-to-fix-book-publishing-e40a04ffd804&#34;&gt;манифест&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Немецкий гигант Tolino наконец запустил платформу  самопубликации</title>
-      <link>//localhost:1313/posts/2015-04-28-a/</link>
+      <link>/posts/2015-04-28-a/</link>
       <pubDate>Tue, 28 Apr 2015 21:48:10 +0000</pubDate>
-      <guid>//localhost:1313/posts/2015-04-28-a/</guid>
+      <guid>/posts/2015-04-28-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Publizieren Sie jetzt Ihr eBook bei tolino media. In nur 3 Schritten zum eBook. Echte 70% Honorar. Jetzt testen!&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;https://www.tolino-media.de&#34;&gt;Startseite&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evernote для самиздата</title>
-      <link>//localhost:1313/posts/2014-07-30-a/</link>
+      <link>/posts/2014-07-30-a/</link>
       <pubDate>Wed, 30 Jul 2014 14:37:45 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-07-30-a/</guid>
+      <guid>/posts/2014-07-30-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://blog.evernote.com/blog/2014/07/29/publish-books-instantly-evernote/&#34;&gt;Publish Books Instantly From Evernote - Evernote Blog&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Логичный ход. FastPencil молодцы, что первые сообразили: пользователей Evernote уже настолько много, и среди них много тех, кто использует его как инструмент создания текстов. Так почему бы не прикрутить к издательской платформе? И прикрутили. FastPencil, правда, дюже не дёшев, но в США рынок для него есть.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Сама, сама, сама. Английские сами себя издатели</title>
-      <link>//localhost:1313/posts/2014-07-14-a/</link>
+      <link>/posts/2014-07-14-a/</link>
       <pubDate>Mon, 14 Jul 2014 09:48:43 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-07-14-a/</guid>
+      <guid>/posts/2014-07-14-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Self-publishing, meanwhile, is becoming an increasingly attractive option for writers, according to the survey, which found that just over 25% of writers had published something themselves. Writers were investing a mean of £2,470 in publishing their own work, with the median investment at £500, and typically recouping their investment plus 40%. Eighty-six per cent of those who had self-published said they would do so again.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.theguardian.com/books/2014/jul/11/traditional-publishing-fair-sustainable-society-of-authors&#34;&gt;Traditional publishing is &amp;rsquo;no longer fair or sustainable&amp;rsquo;, says Society of Authors | Books | theguardian.com&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Хочешь сам издать книгу? Прочитай для начала Кавасаки. Бесплатно</title>
-      <link>//localhost:1313/posts/2014-06-25-a/</link>
+      <link>/posts/2014-06-25-a/</link>
       <pubDate>Wed, 25 Jun 2014 13:25:29 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-06-25-a/</guid>
+      <guid>/posts/2014-06-25-a/</guid>
       <description>&lt;p&gt;Сервис для самопубликующихся авторов BookBaby предлагает &lt;a href=&#34;http://www.bookbaby.com/free-guide/ape-guide?Source=APEPRESS&amp;amp;Dest=https://www.pages04.net/discmakers-cdbaby/BookBaby_GuyKawasaki/APE_guide&#34;&gt;бесплатно скачать книжку Гая Кавасаки&lt;/a&gt; (известного главным образом по тому, что он когда-то был евангелистом Apple) о том, как лучше всего самому издать и продавать книгу. Я не люблю «бизнес-книг», «сделай-себе-сам» и «как заработать миллион, лопая воздушные шарики», но простые советы Кавасаки, хотя по преимуществу и для западного литератора, но вполне дельные.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Barnes &amp; Noble открывает Nook Press для европейцев</title>
-      <link>//localhost:1313/posts/2014-03-18-b/</link>
+      <link>/posts/2014-03-18-b/</link>
       <pubDate>Tue, 18 Mar 2014 06:54:14 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-03-18-b/</guid>
+      <guid>/posts/2014-03-18-b/</guid>
       <description>&lt;p&gt;Barnes &amp;amp; Noble тормозит, но старается. И — с большим отставанием от сервиса для самопубликации Amazon KDP — &lt;a href=&#34;http://www.the-digital-reader.com/2014/03/17/nook-press-launches-in-europe-today/&#34;&gt;открыл&lt;/a&gt; аналогичный сервис &lt;a href=&#34;https://www.nookpress.com/&#34;&gt;Nook Press&lt;/a&gt;, уже работающий в США, для авторов из Бельгии, Великобритании, Германии, Испании, Италии, Нидерландов и Франции. Вскоре — в Канаде, Австралии и Швейцарии. Схема «цена/роялти» в Nook Press немного отличается от схемы Amazon KDP: для рекомендуемого диапазона цен предусмотрены роялти 65% (у Amazon KDP 70%), за его пределами — 40% (у Amazon KDP — 35%). Что же Россия? А для России B&amp;amp;N откроет магазин электронных книг (вряд ли для nook, скорее, для nook apps) всё же откроется, судя по слухам, в этом году. Но, видимо, опять вслед за Amazon.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Селф-паблишинг для детей</title>
-      <link>//localhost:1313/posts/2014-02-13-c/</link>
+      <link>/posts/2014-02-13-c/</link>
       <pubDate>Thu, 13 Feb 2014 21:11:42 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-02-13-c/</guid>
+      <guid>/posts/2014-02-13-c/</guid>
       <description>&lt;p&gt;Платформа для независимой публикации книг Lulu.com начинает выпускать наборы для детей — коробки с бумагой, фломастерами и инструкциями по созданию книги. Нарисованную книгу можно отослать (на бумаге или в отсканированном виде) в Lulu, и получить отпечатанное цветное издание. Всё включено в цену наборов (40 баксов за большую книгу, 30 — за книгу форматом поменьше или комикс).&lt;/p&gt;&#xA;&lt;p&gt;Подробности на отдельном сайте &lt;a href=&#34;http://www.lulujr.com/&#34;&gt;lulujr.com&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ridero открылся</title>
-      <link>//localhost:1313/posts/2014-02-13-a/</link>
+      <link>/posts/2014-02-13-a/</link>
       <pubDate>Thu, 13 Feb 2014 08:31:41 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-02-13-a/</guid>
+      <guid>/posts/2014-02-13-a/</guid>
       <description>&lt;p&gt;Сервис &lt;a href=&#34;http://ridero.ru&#34;&gt;Ridero&lt;/a&gt;, работа над которым ведёт группа российских программистов с прошлого года, наконец открылся в тестовом режиме для всех желающих. С помощью Ridero прямо сейчас вы можете создать электронную книгу в формате EPUB, загрузив файл в текстовом формате. Ridero неплохо понимает стилевое форматирование Word. Текст можно скопировать и вставить в окно онлайнового редактора. И там же проверить/исправить стилевое форматирование абзацев, отформатировать текст, вставить/исправить сноски (да! Ridero делает правильные сноски, которые адекватно отображаются в iBooks). Кроме того, в Ridero можно сделать обложку книги, используя готовые шаблоны, загрузить свою иллюстрацию, подобрать цветовое оформление под неё. Готовый файл EPUB можно бесплатно скачать и делать с ним всё, что угодно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>На РБК daily о Ridero</title>
-      <link>//localhost:1313/posts/2013-10-16-a/</link>
+      <link>/posts/2013-10-16-a/</link>
       <pubDate>Wed, 16 Oct 2013 22:35:25 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-10-16-a/</guid>
+      <guid>/posts/2013-10-16-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Основатели проекта Ridero выводят на рынок технологию автоматизации книжной верстки. Система позволит молодым авторам создавать книги самостоятельно и продавать их в интернет-магазинах, не делясь прибылью с издательскими фирмами. Однако эксперты неоднозначно оценивают новинку.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rbcdaily.ru/business/562949989246286?fb_action_ids=10151865619142860&amp;amp;fb_action_types=og.likes&amp;amp;fb_source=other_multiline&amp;amp;action_object_map=%7B%2210151865619142860%22%3A600999286631617%7D&amp;amp;action_type_map=%7B%2210151865619142860%22%3A%22og.likes%22%7D&amp;amp;action_ref_map=%5B%5D&#34;&gt;РБК daily&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые языки Amazon KDP</title>
-      <link>//localhost:1313/posts/2013-10-17-a/</link>
+      <link>/posts/2013-10-17-a/</link>
       <pubDate>Tue, 17 Sep 2013 22:16:20 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-10-17-a/</guid>
+      <guid>/posts/2013-10-17-a/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Afrikaans&lt;/li&gt;&#xA;&lt;li&gt;Alsatian&lt;/li&gt;&#xA;&lt;li&gt;Basque&lt;/li&gt;&#xA;&lt;li&gt;Bokmål Norwegian&lt;/li&gt;&#xA;&lt;li&gt;Breton&lt;/li&gt;&#xA;&lt;li&gt;Catalan&lt;/li&gt;&#xA;&lt;li&gt;Cornish&lt;/li&gt;&#xA;&lt;li&gt;Corsican&lt;/li&gt;&#xA;&lt;li&gt;Danish&lt;/li&gt;&#xA;&lt;li&gt;Dutch&lt;/li&gt;&#xA;&lt;li&gt;Eastern Frisian&lt;/li&gt;&#xA;&lt;li&gt;English&lt;/li&gt;&#xA;&lt;li&gt;Finnish&lt;/li&gt;&#xA;&lt;li&gt;French&lt;/li&gt;&#xA;&lt;li&gt;Frisian&lt;/li&gt;&#xA;&lt;li&gt;Galician&lt;/li&gt;&#xA;&lt;li&gt;German&lt;/li&gt;&#xA;&lt;li&gt;Icelandic&lt;/li&gt;&#xA;&lt;li&gt;Irish&lt;/li&gt;&#xA;&lt;li&gt;Italian&lt;/li&gt;&#xA;&lt;li&gt;Japanese&lt;/li&gt;&#xA;&lt;li&gt;Luxembourgish&lt;/li&gt;&#xA;&lt;li&gt;Manx&lt;/li&gt;&#xA;&lt;li&gt;Northern Frisian&lt;/li&gt;&#xA;&lt;li&gt;Norwegian&lt;/li&gt;&#xA;&lt;li&gt;Nynorsk Norwegian&lt;/li&gt;&#xA;&lt;li&gt;Portuguese&lt;/li&gt;&#xA;&lt;li&gt;Provençal&lt;/li&gt;&#xA;&lt;li&gt;Romansh&lt;/li&gt;&#xA;&lt;li&gt;Scots&lt;/li&gt;&#xA;&lt;li&gt;Scottish Gaelic&lt;/li&gt;&#xA;&lt;li&gt;Spanish&lt;/li&gt;&#xA;&lt;li&gt;Swedish&lt;/li&gt;&#xA;&lt;li&gt;Welsh&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;https://kdp.amazon.com/self-publishing/help?topicId=A9FDO0A3V0119&#34;&gt;Amazon.com: Kindle Direct Publishing: Help&lt;/a&gt;. Судя по этому списку, Amazon KDP планирует появиться в Южной Африке, Норвегии, Дании, Нидерландах, Финляндии, Исландии, Ирландии, Люксембурге, Швеции и Швейцарии. А где Россия-то???&lt;/p&gt;</description>
     </item>
     <item>
       <title>Итоги эксперимента Архангельского по изучению спроса на е-книги</title>
-      <link>//localhost:1313/posts/2013-04-16-b/</link>
+      <link>/posts/2013-04-16-b/</link>
       <pubDate>Tue, 16 Apr 2013 13:32:43 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-04-16-b/</guid>
+      <guid>/posts/2013-04-16-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Для подведения итогов эксперимента в Библиотеке иностранной литературы был проведен вечер «Разговор книгопродавца с поэтом». Результаты оказались следующими: электронные копии издания приобрели &lt;strong&gt;2000&lt;/strong&gt; читателей, печатную книгу купили &lt;strong&gt;3000&lt;/strong&gt; человек. Сколько людей прочитали «Музей революции» в журнале «Октябрь» подсчитать сложно, поскольку издание выходит тиражом &lt;strong&gt;4 тысячи&lt;/strong&gt; экземпляров, но поставляется в библиотеки, где каждый экземпляр могут прочитать несколько человек. Российский рынок электронных книг недавно было оценен экспертами в 250 миллионов рублей, увеличившись за год в два раза, но при этом все равно составляя всего 0,35% объема российского книжного рынка. По сравнению с этими данными почти 30% проданных электронных копий книги Архангельского выглядят настоящим успехом. Автор «Музея революции» поделился с «Ведомостями» своими размышлениями по поводу озвученных результатов: «Эксперимент показал, что пока что мы в самом начале большого пути. Когда-нибудь эти цифры покажутся нам смешными. Но для сегодняшнего рынка электронных книг, который мал и на 90% состоит из ворованного контента, это отлично. Все это указывает и на то, что наш рынок очень заинтересован в том, чтобы на него выходили авторы умеренно интеллектуальной прозы. Денег на этом они пока не заработают, но дорогу к сегодняшнему читателю найдут. Завтра это обернется и большими тиражами».&lt;/p&gt;</description>
     </item>
     <item>
       <title>Сколько денег приносят «графоманы»?</title>
-      <link>//localhost:1313/posts/2013-04-10-a/</link>
+      <link>/posts/2013-04-10-a/</link>
       <pubDate>Wed, 10 Apr 2013 12:48:07 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-04-10-a/</guid>
+      <guid>/posts/2013-04-10-a/</guid>
       <description>&lt;p&gt;Вчера Barnes &amp;amp; Noble обновил сервис самопубликации, добавив к возможности загружать файлы онлайновый редактор &lt;a href=&#34;http://www.nookpress.com&#34;&gt;Nook Press&lt;/a&gt;. Серьезное отношение к «графоманам» у B&amp;amp;N &lt;a href=&#34;http://www.digitalbookworld.com/2013/barnes-noble-launches-nook-press-replacing-pubit/?et_mid=611811&amp;amp;rid=233889817&#34;&gt;лежит на твёрдом экономическом базисе&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Customer demand for great independent content continues to dramatically increase as 30% of NOOK customers purchase self-published content each month, representing 25% of NOOK Book sales every month.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Коротко говоря, 30% покупателей интересуются книжками самопубликающихся авторов и приносят B&amp;amp;N 25% доходов от продаж электронных книг. Нехило.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Barnes &amp; Noble запустил онлайновый редактор</title>
-      <link>//localhost:1313/posts/2013-04-09-a/</link>
+      <link>/posts/2013-04-09-a/</link>
       <pubDate>Tue, 09 Apr 2013 20:43:36 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-04-09-a/</guid>
+      <guid>/posts/2013-04-09-a/</guid>
       <description>&lt;p&gt;На базе PubIt — сервиса для самопубликации, почти полностью аналогичного KDP у Amazon — B&amp;amp;N запустил онлайновый редактор &lt;a href=&#34;http://www.nookpress.com&#34;&gt;Nook Press&lt;/a&gt;: приходи и пиши книги прямо онлайн, и даже с друзьями. Выглядит незамысловато. Но, в общем, замысловато в большинстве случаев и не требуется.&lt;/p&gt;</description>
     </item>
     <item>
       <title>BiblioCrunch &#43; Wattpad = …</title>
-      <link>//localhost:1313/posts/2013-03-26-a/</link>
+      <link>/posts/2013-03-26-a/</link>
       <pubDate>Tue, 26 Mar 2013 21:50:30 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-03-26-a/</guid>
+      <guid>/posts/2013-03-26-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;BiblioCrunch, a marketplace to find quality, vetted editorial and book publishing services, is teaming up with Wattpad to enrich the offerings available to the BiblioCrunch concierge services.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.digitalbookworld.com/2013/publishing-services-marketplace-bibliocrunch-partners-with-wattpad-to-offer-authors-more-services/&#34;&gt;Publishing Services Marketplace BiblioCrunch Partners With Wattpad to Offer Authors More Services | Digital Book World&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Мне кажется, это очень интересная история. Бодрый стартап BiblioCrunch, который позволяет независимым авторам находить квалифицированных специалистов по подготовке книг, подключает как функционал продвижения текстов Wattpad, одну из самых больших в мире свалку текстов, загруженных пользователями/авторами. Вот смотрите: задача и бизнес BiblioCrunch — цивилизовать самопубликующихся авторов; задача Wattpad — просто дать возможность напечататься и получить хоть какой-то feedback (а заодно, поскольку это UGC-сервис, работающий под DMCA, распространить и не свой контент — поищите там Пелевина и Акунина, найдёте). История эта интересна не только тем, что Wattpad тем самым легитимируется как мощнейший ресурс для промо. Важнее другое — это один из первых случаев реальной совместной работы новых книжных структур. Индустрия — это ведь не только сервисы, каналы, мастерские, но и взаимодействие. Точка реального роста инфраструктуры новой книжной индустрии.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новая книжка «того самого» Гая Кавасаки: о (селф)паблишинге</title>
-      <link>//localhost:1313/posts/2012-12-03-d/</link>
+      <link>/posts/2012-12-03-d/</link>
       <pubDate>Mon, 03 Dec 2012 20:03:30 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-12-03-d/</guid>
+      <guid>/posts/2012-12-03-d/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/APE-Publisher-Entrepreneur--How-Publish-ebook/dp/B00AGFU5VS/ref=sr_1_1?s=digital-text&amp;amp;ie=UTF8&amp;amp;qid=1354564886&amp;amp;sr=1-1&#34;&gt;APE: Author, Publisher, Entrepreneur&amp;ndash;How to Publish a Book: Guy Kawasaki, Shawn Welch: Amazon.com: Kindle Store&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kobo открыла сервис самопубликации</title>
-      <link>//localhost:1313/posts/2012-07-16-a/</link>
+      <link>/posts/2012-07-16-a/</link>
       <pubDate>Mon, 16 Jul 2012 20:09:35 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-07-16-a/</guid>
+      <guid>/posts/2012-07-16-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;https://writinglife.kobobooks.com/learningCentre&#34;&gt;writinglife.kobobooks.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kobo Writing Life, велкам.&lt;/p&gt;</description>
     </item>
     <item>
       <title>К вопросу о качестве самиздата : справка Сета Година</title>
-      <link>//localhost:1313/posts/2012-04-21-a/</link>
+      <link>/posts/2012-04-21-a/</link>
       <pubDate>Sat, 21 Apr 2012 08:10:28 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-04-21-a/</guid>
+      <guid>/posts/2012-04-21-a/</guid>
       <description>&lt;p&gt;Ben Franklin, Ezra Pound, Emily Dickinson, Marcel Proust, Dave Eggers, Thomas Paine, Jane Austen, Edgar Rice Burroughs, Walt Whitman, Nathaniel Hawthorne, Stephen Crane, Nikki Giovanni, Virginia Woolf&lt;/p&gt;&#xA;&lt;p&gt;Кто такой Никки Джованни, не знаю. С остальными знаком ;-)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Альберт Венгер вложил в Wattpad 3,5 млн долларов</title>
-      <link>//localhost:1313/posts/2011-09-13-1/</link>
+      <link>/posts/2011-09-13-1/</link>
       <pubDate>Tue, 13 Sep 2011 14:50:06 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-09-13-1/</guid>
+      <guid>/posts/2011-09-13-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Other services that take a similar approach include Scribd, which began as a simple web-hosting service for documents but has expanded to try to appeal to writers and publishers. And much like other web services that rely on “user-generated content” — including YouTube — both Scribd and Wattpad have been criticized in the past for hosting copyrighted content that has been uploaded by users who don’t own the rights (Wattpad now has a system in place that allows authors and rightsholders to have content removed from the service). Co-founder Allan Lau says Wattpad’s main goal is simply to make it as easy as possible for writers of all kinds to find and connect with readers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Джон Лок — первый ПИСС-миллионник на Kindle</title>
-      <link>//localhost:1313/posts/2011-06-20-a/</link>
+      <link>/posts/2011-06-20-a/</link>
       <pubDate>Mon, 20 Jun 2011 14:14:59 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-06-20-a/</guid>
+      <guid>/posts/2011-06-20-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;John Locke has become the first self-published author to sell more than one million e-books through Amazon.&lt;/p&gt;&#xA;&lt;p&gt;The author used Amazon&amp;rsquo;s Kindle Direct Publishing platform to publish and sell his titles. He joins Stieg Larsson, James Patterson, Nora Roberts, Charlaine Harris, Lee Child, Suzanne Collins and Michael Connelly in what Amazon dub the Kindle Million Club.&lt;/p&gt;&#xA;&lt;p&gt;Locke said: &amp;ldquo;Kindle Direct Publishing has provided an opportunity for independent authors to compete on a level playing field with the giants of the book selling industry. Not only did KDP give me a chance, they helped at every turn. Quite simply, KDP is the greatest friend an author can have.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Селфпаблишинг за 40 баксов</title>
-      <link>//localhost:1313/posts/2011-06-17-b/</link>
+      <link>/posts/2011-06-17-b/</link>
       <pubDate>Fri, 17 Jun 2011 14:00:51 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-06-17-b/</guid>
+      <guid>/posts/2011-06-17-b/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://bookbrewer.com/gift/ebook#order&#34;&gt;bookbrewer.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Borders, Kobo, Amazon, Barnes and Noble, Apple iBooks, Kobo и Google eBooks. А потом ещё и роялти заплатят. Если продажи будут. ISBN включён. Сказка.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Злой Сет Годин о «Зеленом фонаре» и книгах: 1500:1</title>
-      <link>//localhost:1313/posts/2011-06-17-a/</link>
+      <link>/posts/2011-06-17-a/</link>
       <pubDate>Fri, 17 Jun 2011 12:36:56 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-06-17-a/</guid>
+      <guid>/posts/2011-06-17-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;A publisher can produce 1500 different books, great books, important books, groundbreaking books that could change the world  for what it cost to make the Green Lantern movie. The publisher could pay each author a $75,000 advance and produce the titles (enough to fill several bookshelves in thousands of homes) for the cost of one summertime clunker.&lt;/p&gt;&#xA;&lt;p&gt;Some are saying that the future of books is in the direction of apps, videos and other multimedia productions, entire experiences that express an idea.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prickly Chin — английские писатели сами выходят на российский рынок электронных книг</title>
-      <link>//localhost:1313/posts/2011-05-26-c/</link>
+      <link>/posts/2011-05-26-c/</link>
       <pubDate>Thu, 26 May 2011 10:38:33 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-05-26-c/</guid>
+      <guid>/posts/2011-05-26-c/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.pricklychin.com/about_us.html&#34;&gt;pricklychin.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Удивительное дело. Собрались два английских писателя — Джеймс Флеминг (племянник «того самого» Флеминга) и Ричард Кризи (коллега «того самого» Дугласа Адамса) — и решили, что надо бы издать свои книги на русском языке. В электронном виде. Фантастика. То есть книги их, конечно, не фантастика, а приключения, детективы и исторические романы, но решение выйти на российский рынок таким (пока ещё) нетривиальным путём заслуживает явного внимания.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Книжные UGS-сервисы растут</title>
-      <link>//localhost:1313/posts/2011-05-26-b/</link>
+      <link>/posts/2011-05-26-b/</link>
       <pubDate>Thu, 26 May 2011 10:27:24 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-05-26-b/</guid>
+      <guid>/posts/2011-05-26-b/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/rD62wcd2isM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;Вышла вторая версия Wattpad — сервиса с загружаемым пользователями контентом (книжки в простом текстовом формате). Русский, кстати, есть в интерфейсе. Есть немалое количество и книг на русском языке.&lt;/p&gt;&#xA;&lt;p&gt;Сервис в американской «безопасной гавани» под охраной DMCA, равно как и Scribd.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Миллион ПИССов</title>
-      <link>//localhost:1313/posts/2011-05-03-c/</link>
+      <link>/posts/2011-05-03-c/</link>
       <pubDate>Tue, 03 May 2011 11:42:14 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-05-03-c/</guid>
+      <guid>/posts/2011-05-03-c/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“An estimated 764,448 titles written by entrepreneurs and other nontraditional authors were published in the U.S. in 2009, including reprints. That’s more than double 2008’s figure and six times as many as in 2007.”&lt;/p&gt;&#xA;&lt;p&gt;Extrapolating the trend by far in excess of 1 million people in the United States will have written a book in the past twelve months. In other words there is an aching desire on the part of a significant and growing part of the population of educated societies to communicate something unique to them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Образцовый ПИСС выходит в &#34;Фантом Пресс&#34;</title>
-      <link>//localhost:1313/posts/2011-05-02-a/</link>
+      <link>/posts/2011-05-02-a/</link>
       <pubDate>Mon, 02 May 2011 00:20:51 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-05-02-a/</guid>
+      <guid>/posts/2011-05-02-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Фантом Пресс&amp;rdquo; приобрел права на книги Аманды Хокинг. Эту американскую барышню уже называют второй Роулинг и символом дигитальной эпохи. Со своей трилогией про мир троллей она стала самым продаваемым &amp;ldquo;электронным&amp;rdquo; автором, когда же число проданных копий ее электронных книг приблизилось к двум миллионам, началась драка между &amp;ldquo;бумажными&amp;rdquo; англоязычными издателями. Сейчас Аманда отдала свои книги профессиональным редакторам, и в июне мы должны получить финальный вариант первой книги трилогии - в том виде, в каком она выйдет на бумаге. И надеемся, уже осенью выпустим русский перевод. А затем последуют и две другие книги.&lt;/p&gt;</description>
     </item>
     <item>
       <title>28 из 100 бестселлеров для Kindle — ПИССы</title>
-      <link>//localhost:1313/posts/2011-04-26-a/</link>
+      <link>/posts/2011-04-26-a/</link>
       <pubDate>Tue, 26 Apr 2011 12:07:44 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-04-26-a/</guid>
+      <guid>/posts/2011-04-26-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;There are &lt;strong&gt;28 self-published titles in Top 100 Kindle eBooks&lt;/strong&gt;. It’s not Amanda Hocking to lead the way, but John Locke – with 8 titles. His &lt;em&gt;Vegas Moon&lt;/em&gt; is the fourth best-selling book on April 21st.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://ebookfriend.ly/2011/04/21/top-self-published-books-in-kindle-store-april-21st-2011/&#34;&gt;ebookfriend.ly&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Если кто не помнит «Маятник Фуко», ПИСС — (в прекрасном переводе Костюкович) это писатель, издающийся за собственный счёт.&lt;/p&gt;&#xA;&lt;p&gt;Времена, правда, уже не те. И издательство не «Гарамон». ПИССу на Amazon, счёт нужен, в сущности, только для того, чтобы деньги получать.&lt;/p&gt;</description>
     </item>
     <item>
       <title>BookBaby - это не книги для детей, это сервис для авторов электронных книг</title>
-      <link>//localhost:1313/posts/2011-04-12-a/</link>
+      <link>/posts/2011-04-12-a/</link>
       <pubDate>Tue, 12 Apr 2011 12:57:54 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-04-12-a/</guid>
+      <guid>/posts/2011-04-12-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.bookbaby.com/&#34;&gt;bookbaby.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Это сервис подготовки (конвертация, ISBN за $19, обложка за $99-199) электронных книг с последующим размещением в iBookStore на iPad, Amazon на Kindle, в B&amp;amp;N на NOOK и Sony Book Store для Sony Reader. И 100% денег от магазинов автору. Прямо сказка. Вот такой сервис скоро будет вполне актуален в России.&lt;/p&gt;&#xA;&lt;p&gt;Официально русский только для iPad. Странно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Книговещание — ещё одна бизнес-модель</title>
-      <link>//localhost:1313/posts/2011-04-11-d/</link>
+      <link>/posts/2011-04-11-d/</link>
       <pubDate>Mon, 11 Apr 2011 10:21:09 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-04-11-d/</guid>
+      <guid>/posts/2011-04-11-d/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;EBOOKS ARE NOT BOOKS. They&amp;rsquo;re just bits, and typically not so many, compared to a radio show. The cost of making a copy is negligible. It needn&amp;rsquo;t cost &lt;em&gt;anything&lt;/em&gt; to distribute the ebook. eBook distribution is even cheaper than radio, because you don&amp;rsquo;t have to pay for transmitter power, and you don&amp;rsquo;t have to own a frequency license. It&amp;rsquo;s the monetization machinery that costs money: the ecommerce systems and the DRM. If the producers of ebooks had some way of covering their fixed costs (with profit to make it worth their while), ebooks could work just like free radio. Three million people contributing a dime would do quite nicely. 30,000 contributing $10 would work, too.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Книгоспам и книгомусор: прямая и явная угроза</title>
-      <link>//localhost:1313/posts/2011-04-04-a/</link>
+      <link>/posts/2011-04-04-a/</link>
       <pubDate>Mon, 04 Apr 2011 05:46:51 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-04-04-a/</guid>
+      <guid>/posts/2011-04-04-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;many content farms are full of unoriginal content, often scraped from other sites, and republished under different headlines. The advent of easy self-publishing makes it incredibly simple for this process to be replicated in e-books.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.readwriteweb.com/archives/e-books_the_new_frontier_for_content_farms.php&#34;&gt;readwriteweb.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Графомания, конечно, это страшно. Но книгоспам и книгомусор, кажется, еще ужаснее. Когда стоимость публикации стремится к нулю, а возможная выгода остается ненулевой (у спама низкая, но ненулевая рекламная эффективность), угроза замусоривания автоматических систем публикации грудами становится очень реальной.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Сет Годин о бедных издателях</title>
-      <link>//localhost:1313/posts/2011-03-22-1/</link>
+      <link>/posts/2011-03-22-1/</link>
       <pubDate>Tue, 22 Mar 2011 11:32:11 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-03-22-1/</guid>
+      <guid>/posts/2011-03-22-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;It’s filled with really smart people whom I like, who don’t get paid enough and do good work. The problem is that they think their customer is the bookstore.&lt;/p&gt;&#xA;&lt;p&gt;The other problem is that bookstores demand a very slow cycle of a year to bring a book out, demand books that meet a certain expectation and demand full return privileges on those books. At the same time, that industry is stuck paying big advances to big-name authors, most of which lose money.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Шацкин комментирует Кононова</title>
-      <link>//localhost:1313/posts/2011-03-21-a/</link>
+      <link>/posts/2011-03-21-a/</link>
       <pubDate>Mon, 21 Mar 2011 20:20:22 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-03-21-a/</guid>
+      <guid>/posts/2011-03-21-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.idealog.com/blog/eislers-decision-is-a-key-benchmark-on-the-road-to-wherever-it-is-were-going&#34;&gt;I wasn’t planning to write a post this past weekend for Monday morning publication. But then Joe Konrath and Barry Eisler contacted me on Saturday to tell me what Barry is up to. I’ve read their lengthy conversation about Barry’s decision to turn down a $500,000 contract (apparently for two books) and join Joe (and many others, but none who have turned down half-a-million bucks) as a self-published author.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Не напрямую, конечно. Он комментирует переход традиционных авторов к модели «без издательства». Да, да. Это не для всех. Просто они создадут зону, свободную от традиционных издателей. И тем, если они всё же ещё не собрались на пенсию, придётся что-то придумывать.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Автор бестселлеров Аманда Хокинг ищет редактора</title>
-      <link>//localhost:1313/posts/2011-03-03-b/</link>
+      <link>/posts/2011-03-03-b/</link>
       <pubDate>Thu, 03 Mar 2011 11:38:08 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-03-03-b/</guid>
+      <guid>/posts/2011-03-03-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;I am now looking for a professional editor - as in the kind I would get if my book were to go through a publishing house. What I find most frustrating about editing and being indie is that everything else I can do myself. Writing, covers, marketing, etc. But I cannot edit properly myself. It&amp;rsquo;s just not possible.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.huffingtonpost.com/tonya-plank/meet-mega-bestselling-ind_b_804685.html&#34;&gt;huffingtonpost.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Тяжела судьба самопубликующегося автора. Ну и что, что 26 лет, а продала уже 185 тыс экз. книг через Amazon? Всё равно хочется профессионального редактора, такого, как в нормальном издательстве.&lt;/p&gt;</description>
     </item>
     <item>
       <title>&#34;Самиздат&#34; сменил домен из-за претензий Минюста</title>
-      <link>//localhost:1313/posts/2011-02-24-c/</link>
+      <link>/posts/2011-02-24-c/</link>
       <pubDate>Thu, 24 Feb 2011 08:36:05 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-02-24-c/</guid>
+      <guid>/posts/2011-02-24-c/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Электронный журнал современной литературы &amp;ldquo;Самиздат&amp;rdquo; при библиотеке Мошкова сменил домен из-за претензий Минюста. Об этом &lt;a href=&#34;http://moshkow.livejournal.com/40457.html&#34;&gt;сообщил&lt;/a&gt; в своем блоге основатель проекта Максим Мошков.&lt;/p&gt;&#xA;&lt;p&gt;Мошков заявил, что удалил весь контент, ранее размещавшийся на сайтах &lt;a href=&#34;http://www.barbos111.narod.ru&#34;&gt;www.barbos111.narod.ru&lt;/a&gt; и &lt;a href=&#34;http://www.zhurnal.lib.ru&#34;&gt;http://www.zhurnal.lib.ru&lt;/a&gt;. Эти домены попали в список экстремистских материалов Минюста согласно решению Череповецкого городского суда Вологодской области от 13 апреля 2009 года.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Без уточнения, что за материалы, кто их автор, есть ли они в данный момент на сайте, и что сейчас на &amp;lsquo;Самиздате&amp;rsquo; 56000 авторских разделов и порядка 800,000 произведений оптом зачислены в &amp;lsquo;экстремисты&amp;rsquo;. Было бы просто смешно, кабы не провайдеры, которые, руководствуясь этим списком, начали перекрывать доступ к &amp;lsquo;Самиздату&amp;rsquo;&amp;rdquo;, - написал Мошков. &amp;ldquo;Попытки разрулить эту ситуацию в неофициальном порядке к успеху не привели, по мнению знакомых юристов, юридические пути в данной ситуации перспектив не имеют&amp;rdquo;, - добавил он.&lt;/p&gt;</description>
     </item>
     <item>
       <title>PubIt! - бесплатная платформа для самопубликаций от B&amp;N</title>
-      <link>//localhost:1313/posts/2010-10-04-172/</link>
+      <link>/posts/2010-10-04-172/</link>
       <pubDate>Mon, 04 Oct 2010 21:14:30 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-10-04-172/</guid>
+      <guid>/posts/2010-10-04-172/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://pubit.barnesandnoble.com/pubit_app/bn?t=pi_reg_home&#34;&gt;pubit.barnesandnoble.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Barnes&amp;amp;Noble решил потягаться с Amazon в нише сервиса для авторов, которые хотят публиковать и продавать свои книги. Авторы просто подгружают свои книги на сервис, автоматика (видимо) их конвертирует, автор назначает цену и получает роялти с продаж (65% с цены $3–10 или 40% с цены до $3 и больше $10). Это не 70% у Aмazon, но и никаких скрытых подробностей в расчётах. Для автора — всё бесплатно. Книги доступны как для пользователей nook, так и для пользователей клиентских программ от B&amp;amp;N, которых уже вагон для разных компьютерных платформ.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Нил Стивенсон занялся экспериментами с rich format</title>
-      <link>//localhost:1313/posts/2010-09-01-123/</link>
+      <link>/posts/2010-09-01-123/</link>
       <pubDate>Wed, 01 Sep 2010 20:52:23 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-09-01-123/</guid>
+      <guid>/posts/2010-09-01-123/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The company, based in Seattle and San Francisco, has developed what it calls the PULP platform for creating digital novels. The core of the experience is still a text novel, but authors can add additional material like background articles, images, music, and video. There are also social features that allow readers to create their own profiles, earn badges for activity on the site or in the application, and interact with other readers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Рю Мураками делает книгу для iPad</title>
-      <link>//localhost:1313/posts/2010-07-16-182/</link>
+      <link>/posts/2010-07-16-182/</link>
       <pubDate>Fri, 16 Jul 2010 09:53:01 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-07-16-182/</guid>
+      <guid>/posts/2010-07-16-182/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Novelist Ryu Murakami plans to release his latest novel exclusively for digital bookworms through Apple Inc.’s iPad ahead of the print version. Mr. Murakami, the acclaimed author of over 15 novels including “Coin Locker Babies” and “In the Miso Soup”, replaced the publishers with a software company to help develop the e-book titled “A Singing Whale,” or “Utau Kujira” in Japanese. The digital package will include video content and set to music composed by Academy Award winning composer Ryuichi Sakamoto, according to the Japanese business daily Nikkei. The newspaper reports the e-book will cost 1,500 yen ($17) and will be ready to download pending Apple’s approval.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apple Reveals New Service for Authors to Sell Their Books Directly in the iBookstore | Mac|Life</title>
-      <link>//localhost:1313/posts/2010-05-27-26/</link>
+      <link>/posts/2010-05-27-26/</link>
       <pubDate>Thu, 27 May 2010 21:26:04 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-05-27-26/</guid>
+      <guid>/posts/2010-05-27-26/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.maclife.com/article/news/apple_reveals_new_service_authors_sell_their_books_directly_ibookstore&#34;&gt;maclife.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ПИССы на Espresso Book Machine</title>
-      <link>//localhost:1313/posts/2009-12-10-117/</link>
+      <link>/posts/2009-12-10-117/</link>
       <pubDate>Thu, 10 Dec 2009 20:57:06 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-12-10-117/</guid>
+      <guid>/posts/2009-12-10-117/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Self-publishing &lt;a href=&#34;http://www.publishersweekly.com/article/CA6707474.html&#34;&gt;company of the moment&lt;/a&gt; Author Solutions announced a deal today with On Demand Books, which owns the Espresso Book Machine, to provide writers with online tools to publish, distribute, print and market their books in retail locations via the Espresso Book Machine.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.publishersweekly.com/article/CA6711069.html?rssid=192&#34;&gt;publishersweekly.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

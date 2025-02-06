@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finland on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/finland/</link>
+    <link>/tags/finland/</link>
     <description>Recent content in Finland on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 21 Feb 2020 12:11:50 +0300</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/finland/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/finland/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Что там у финнов?</title>
-      <link>//localhost:1313/posts/2020-02-20/</link>
+      <link>/posts/2020-02-20/</link>
       <pubDate>Fri, 21 Feb 2020 12:11:50 +0300</pubDate>
-      <guid>//localhost:1313/posts/2020-02-20/</guid>
+      <guid>/posts/2020-02-20/</guid>
       <description>&lt;p&gt;У Северной Европы с аудиокнижками, в отличие от Америки и бóльшей части остального мира, свой особый путь. Во всём мире издатели издают, а продавцы продают. У скандинавов и примкнувших к ним всё не так: шведский Storytel покупает издательства, издательство Bonnier заводит сервис BookBeat. И вот теперь второе по величине в &lt;strong&gt;Финляндии&lt;/strong&gt; издательство Otava и книжная сеть Suomalainen Kirjakauppa завели сервис &lt;a href=&#34;https://www.suomalainen.com/pages/suomalainen-plus&#34;&gt;Suomalainen Plus&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.boktugg.se/wp-content/uploads/2020/02/Suomalainen-screen.jpg&#34; alt=&#34;Suomalainen-screen&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;При этом самым большим издательством в стране владеет как раз Bonnier, а третьим по величине — Storytel.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Чубайсу на заметку: финны помогут китайцам наладить текстовещание</title>
-      <link>//localhost:1313/posts/2011-09-15-2/</link>
+      <link>/posts/2011-09-15-2/</link>
       <pubDate>Thu, 15 Sep 2011 14:15:22 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-09-15-2/</guid>
+      <guid>/posts/2011-09-15-2/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The Helsinki Metropolia University of Applied Sciences, Aalto University and the National Engineering Center of Digital Television (NERC-DTV) plan to make a low-power, reception only device based on an E-ink screen. The screen and general hardware design are expected to cheap and require minimal power, and that should make it possible to power the e-reader completely from a solar panel.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.the-digital-reader.com/2011/09/14/new-finnish-chinese-project-aims-to-develop-solar-powered-e-reader/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+TheDigitalReader+%28The+Digital+Reader%29&#34;&gt;the-digital-reader.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;На устройства с «электронными чернилами». Видимо, китайских государственных новостей. Для России, однако, тоже актуально: вставляем в PL 100 for Education чип антенны цифрового ТВ, развозим по отдалённым уголкам нашей необъятной родины, и вот уже последний номер газеты «Голос великого и могучего утёса, сверкающего боя с ногой на небе, живущего, пока не исчезнут машины» можно прочитать в любой захудалой деревушке, над которой ещё не произвели одержание. Впрочем, «Первый канал» там и так уже есть.&lt;/p&gt;</description>
     </item>
   </channel>

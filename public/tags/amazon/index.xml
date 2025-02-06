@@ -2,906 +2,906 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amazon on Новости электронного книгоиздания</title>
-    <link>//localhost:1313/tags/amazon/</link>
+    <link>/tags/amazon/</link>
     <description>Recent content in Amazon on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 25 Jan 2019 07:23:33 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amazon и идиш</title>
-      <link>//localhost:1313/posts/2019-01-25-a/</link>
+      <link>/posts/2019-01-25-a/</link>
       <pubDate>Fri, 25 Jan 2019 07:23:33 +0000</pubDate>
-      <guid>//localhost:1313/posts/2019-01-25-a/</guid>
+      <guid>/posts/2019-01-25-a/</guid>
       <description>&lt;p&gt;Год назад Amazon решила, что зачем же ей держать отдельно Kindle Direct Publishing, сервис для самопубликации электронных книг, и CreateSpace, сервис печати по запросу книг бумажных. А пусть теперь они будут вместе! И стали они вместе. Но есть нюансы. KDP всегда довольно трепетно относился к тому, чтобы поддерживать только те языки, которые точно способен отображать Kindle (формат для электронных книг для этих читалок — немного кастрированный и подтюненный EPUB) и отрабатывать служба поддержки. Поэтому там есть практически все языки с латиницей, но нет, например, языков с письменностью на основе кириллицы. А вот CreateSpace всё это было по барабану, потому что для печати книг нужен PDF, а PDF — он, в общем, и в России PDF. Однако при слиянии языковую поддержку оставили только для тех языков, которые способен KDP, а все остальные — извините, уже нет. И вот, например, оказалось, что и &lt;a href=&#34;https://forward.com/yiddish/417902/amazon-is-dooming-new-yiddish-publications-can-it-be-stopped/&#34;&gt;не идиш&lt;/a&gt;, душу и мёд хасидим. И вот уже вижу, как хасиды прибывают в Сиэттл, находят Безоса и популярно ему объясняют, что יידיש не надо трогать, а надо правильно отображать. XXI век на дворе, Джеф. Уже на дворе, Джеф. Давай, Джеф, давай.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Подписка Amazon. Итоги 2017</title>
-      <link>//localhost:1313/posts/2018-01-12-a/</link>
+      <link>/posts/2018-01-12-a/</link>
       <pubDate>Tue, 16 Jan 2018 09:17:02 +0000</pubDate>
-      <guid>//localhost:1313/posts/2018-01-12-a/</guid>
+      <guid>/posts/2018-01-12-a/</guid>
       <description>&lt;p&gt;Amazon &lt;a href=&#34;https://the-digital-reader.com/2018/01/15/kindle-unlimited-funding-pool-grew-december-2017-per-page-rate-passed-half-cent/&#34;&gt;сообщил&lt;/a&gt;, что выплаты авторам, книги которых доступны подписчикам сервисам Kindle Unlimited, составили в декабре 2017 $19.9 млн. То есть общий фонд роялти 2017 года — $223 300 000. Плюс 20% к фонду выплат 2016-го. Прямо вижу эту картину: американские издатели, устроившие пикник по поводу росту продаж бумажных книг, отрываются от барбекю оглядываются на речную гладь и видят, как из-за поворота выплывает их кукла, вся истыканная иголками.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon KDP тестирует поддержку арабского</title>
-      <link>//localhost:1313/posts/2017-12-26-a/</link>
+      <link>/posts/2017-12-26-a/</link>
       <pubDate>Tue, 26 Dec 2017 07:02:20 +0000</pubDate>
-      <guid>//localhost:1313/posts/2017-12-26-a/</guid>
+      <guid>/posts/2017-12-26-a/</guid>
       <description>&lt;p&gt;Ого. Amazon включил поддержку арабского языка для своей платформы самиздата Kindle Direct Publishing. Для конвертации принимают только Word. Пишут, что ждут и издателей. Начало большой истории. via &lt;a href=&#34;https://kdp.amazon.com/en_US/help/topic/GUQT4C8J6RR6V8TY&#34;&gt;Arabic (Beta) | Amazon Kindle Direct Publishing&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>С наступающим праздником</title>
-      <link>//localhost:1313/posts/2017-11-14-a/</link>
+      <link>/posts/2017-11-14-a/</link>
       <pubDate>Tue, 14 Nov 2017 08:56:39 +0000</pubDate>
-      <guid>//localhost:1313/posts/2017-11-14-a/</guid>
+      <guid>/posts/2017-11-14-a/</guid>
       <description>&lt;p&gt;Да, чтобы не забыть: в ближайшее воскресенье 10 лет Kindle. И хотя Kindle, конечно, далеко не весь рынок даже в США. Но с его появлением в книжной индустрии начались перемены, заметные массам читателей. С наступающим юбилеем, коллеги 😉 The Guardian уже отметилась с подведением итогов: &lt;a href=&#34;https://www.theguardian.com/books/2017/nov/13/amazons-kindle-turns-10-have-ebooks-clicked-with-you-yet&#34;&gt;https://www.theguardian.com/books/2017/nov/13/amazons-kindle-turns-10-have-ebooks-clicked-with-you-yet&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindle Lite и цифровой разрыв</title>
-      <link>//localhost:1313/posts/2017-11-03-a/</link>
+      <link>/posts/2017-11-03-a/</link>
       <pubDate>Fri, 03 Nov 2017 13:41:35 +0000</pubDate>
-      <guid>//localhost:1313/posts/2017-11-03-a/</guid>
+      <guid>/posts/2017-11-03-a/</guid>
       <description>&lt;p&gt;Цифровым разрывом когда-то (ну, может, и до сих пор) называли неравенство, возникающее вокруг доступа к компьютерным технологиям и интернету. С тех пор какой-никакой доступ ко всему этому появился у большей части человечества. Но разный. И сеть местами хилая, и устройства для подключения слабые. Так что цифровой разрыв сместился и расположился где-то на уровне Android 4.4. Телефонами с такой слабой операционной системой и железом в развитых странах почти никто не пользуется, а вот в Индии, например — сотни миллионов пользователей. И IT-компании, понимая, что от них ускользают миллионы рупий, приспосабливаются, выпуская приложения Lite. Есть Facebook Lite и Messenger Lite, есть специальный Skype для Индии (прям завидно индийцам, потому что обычный Скайп стал похож на сарай на колёсах).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новый Kindle. Водозащищенные аудиокниги</title>
-      <link>//localhost:1313/posts/2017-10-12-a/</link>
+      <link>/posts/2017-10-12-a/</link>
       <pubDate>Thu, 12 Oct 2017 06:29:53 +0000</pubDate>
-      <guid>//localhost:1313/posts/2017-10-12-a/</guid>
+      <guid>/posts/2017-10-12-a/</guid>
       <description>&lt;p&gt;Amazon наконец сделал влагозащищенный Kindle. У &lt;a href=&#34;https://www.amazon.com/dp/B06XD5YCKX/ref=fs_ods_fs_eink_cc&#34;&gt;нового Oasis&lt;/a&gt; 7-дюймовый дисплей с разрешением 300 dpi (1680 x 1264). Больше памяти, чтобы, помимо обычных книг, можно было слушать аудиокниги: в читалке уже есть доступ к Audible и Bluetooth для подключения наушников. За $249. Для больших ценителей, вероятно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindle &#43; Kindle Unlimited</title>
-      <link>//localhost:1313/posts/2017-01-29-a/</link>
+      <link>/posts/2017-01-29-a/</link>
       <pubDate>Sun, 29 Jan 2017 18:39:39 +0000</pubDate>
-      <guid>//localhost:1313/posts/2017-01-29-a/</guid>
+      <guid>/posts/2017-01-29-a/</guid>
       <description>&lt;p&gt;Amazon наконец сообразила, что можно продавать не только Kindle и подписку на Kindle Unlimited (больше миллиона книг, по преимуществу самиздат и книги издательств-импринтов Amazon, за 9,99 долларов/месяц), но и &lt;a href=&#34;https://www.amazon.com/Kindle-E-reader-Unlimited-6-month-membership/dp/B01MSBE07W/ref=as_li_ss_tl?ie=UTF8&amp;amp;linkCode=sl1&amp;amp;tag=gooderead-20&amp;amp;linkId=c530d79627151269fe3e68ec1c557303&#34;&gt;Kindle вместе с подпиской&lt;/a&gt;. Например, с полугодовой. И даже без всякой скидки: просто старый Kindle за 79,99 и 6 месяцев подписки за 59,94 = 139,93 долларов.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новое издание Amazon Kindle Publishing Guidelines</title>
-      <link>//localhost:1313/posts/2016-10-19-a/</link>
+      <link>/posts/2016-10-19-a/</link>
       <pubDate>Wed, 19 Oct 2016 10:21:03 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-10-19-a/</guid>
+      <guid>/posts/2016-10-19-a/</guid>
       <description>&lt;p&gt;Ну, вдруг, кому надо новое издание руководства Amazon  по подготовке EPUB для дистрибуции в магазине: &lt;a href=&#34;https://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf&#34;&gt;https://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf&lt;/a&gt;. Список изменений довольно большой, но принципиально пугающего пока не заметил. И много про мангу ;)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon Prime Reading</title>
-      <link>//localhost:1313/posts/2016-10-05-a/</link>
+      <link>/posts/2016-10-05-a/</link>
       <pubDate>Wed, 05 Oct 2016 11:06:23 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-10-05-a/</guid>
+      <guid>/posts/2016-10-05-a/</guid>
       <description>&lt;p&gt;Тааак. Amazon &lt;a href=&#34;http://www.businesswire.com/news/home/20161005005433/en/&#34;&gt;добавил&lt;/a&gt; к бонусам за Prime-подписку, помимо бесплатной доставки, неограниченного доступа к своему видео и библиотки Kindle Owners’ Lending Library (самиздат по преимуществу) ещё и &lt;a href=&#34;https://www.amazon.com/kindle-dbs/fd/nonprime-pr&#34;&gt;Prime Reading&lt;/a&gt; — сливки из Kindle Unlimited типа Гарри Поттера и Хоббита (доступ к ко всей библиотеке KU — отдельная подписка), Kindle Single, несколько свежих журналов. И всё это с доступом с любых устройств. Лишь бы на Prime подписывались. К концу года половина домохозяйств в США &lt;a href=&#34;http://www.digital-books.ru/archives/4139&#34;&gt;будут&lt;/a&gt; на этой игле.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Половина населения США с доступом к библиотеке электронных книг</title>
-      <link>//localhost:1313/posts/2016-09-27-a/</link>
+      <link>/posts/2016-09-27-a/</link>
       <pubDate>Tue, 27 Sep 2016 13:32:27 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-09-27-a/</guid>
+      <guid>/posts/2016-09-27-a/</guid>
       <description>&lt;p&gt;Половина домохозяйств в США к концу 2016 года &lt;a href=&#34;http://www.cnbc.com/2016/09/26/amazon-prime-signing-up-members-at-a-faster-clip.html&#34;&gt;будут&lt;/a&gt; подписчиками Amazon Prime, то есть иметь бесплатную доставку покупок с Amazon, бесплатный видео- и аудиостриминг, и прочие радости за 99 $/год или за 11 $/месяц. А также доступ к Kindle Owners&amp;rsquo; Lending Library в качестве &lt;em&gt;бесплатного&lt;/em&gt; бонуса (подписка на Kindle Unlimited стоит немного дороже — 9.99$, но там и книги получше). Вот если бы Озон с Литрес и правда были «русским Amazon»… Но нет.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Кривая медленной революции</title>
-      <link>//localhost:1313/posts/2016-09-17-a/</link>
+      <link>/posts/2016-09-17-a/</link>
       <pubDate>Sat, 17 Sep 2016 16:46:22 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-09-17-a/</guid>
+      <guid>/posts/2016-09-17-a/</guid>
       <description>&lt;p&gt;Amazon объявил об очередном повышении фонда KDP Select Global Fund , выделенного на оплату роялти для авторов-самиздатчиков, чьи книги можно прочитать только на Kindle и они включены в библиотеку Kindle Unlimited. За авугст будет начислено 15,8 млн USD. Вроде бы немного. Но это больше 1% всех «посчитанных» доходов американской издательской индустрии от продажи электронных книг.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindle Page Flip — новая навигация электронных книг</title>
-      <link>//localhost:1313/posts/2016-06-28-a/</link>
+      <link>/posts/2016-06-28-a/</link>
       <pubDate>Tue, 28 Jun 2016 13:38:50 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-06-28-a/</guid>
+      <guid>/posts/2016-06-28-a/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/6fUKOadnt6g?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;Радикальное обновление навигации на Kindle — теперь электронные книги можно и правда перелистывать. А не только листать страницу за страницей, как раньше. Amazon, конечно, пошёл по более простому пути, чем старые эксперименты (см. ниже), но тоже хорошо.&lt;/p&gt;&#xA;&#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/rVyBwz1-AiE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>Виджеты Amazon и по-русски</title>
-      <link>//localhost:1313/posts/2016-01-23-a/</link>
+      <link>/posts/2016-01-23-a/</link>
       <pubDate>Thu, 23 Jun 2016 08:12:07 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-01-23-a/</guid>
+      <guid>/posts/2016-01-23-a/</guid>
       <description>&lt;p&gt;Виджет от Amazon — код для предпросмотра книжки (и чтения фрагмента) — на любом сайте — теперь понимает и текст на русском. В общем, ничего особенного с точки зрения кода, — ссылка  на книгу Bookmate тоже открывает обложку и пробный фрагмент, но для Amazon — полезный шаг.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новый Kindle. Дешевый и с номерами страниц</title>
-      <link>//localhost:1313/posts/2016-01-22-b/</link>
+      <link>/posts/2016-01-22-b/</link>
       <pubDate>Wed, 22 Jun 2016 15:14:08 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-01-22-b/</guid>
+      <guid>/posts/2016-01-22-b/</guid>
       <description>&lt;p&gt;Amazon анонсировала новый Kindle за 80 баксов. Там всё прекрасно. Но самое интересное: экспорт цитат по почте и — та-дам — дополнительная нумерация, соответствующая нумерации в физической книге&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;We match the pages of a Kindle book to the text in a print book to identify the corresponding page number. Easily reference and cite passages or read alongside others in a book club or class.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Надо ли объяснять, как многим это было нужно?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новый Kindle Oasis</title>
-      <link>//localhost:1313/posts/2016-04-13-a/</link>
+      <link>/posts/2016-04-13-a/</link>
       <pubDate>Wed, 13 Apr 2016 13:21:57 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-04-13-a/</guid>
+      <guid>/posts/2016-04-13-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.wired.co.uk/news/archive/2016-04/13/amazon-kindle-oasis-ereader-price-specs-features-release-date&#34;&gt;The Kindle Oasis is Amazon&amp;rsquo;s lightest, thinnest and, at £270, most expensive, ereader&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.wired.co.uk/news/archive/2016-04/13/amazon-kindle-oasis-ereader-price-specs-features-release-date&#34;&gt;Kindle Oasis: Amazon announces £270 ereader&lt;/a&gt;&lt;/em&gt; В обложке — дополнительная батарейка на семь недель чтения. Встроенный акселерометр, переворачивающий экран при перекладывании из руки в руку. А перекладывать можно, потому что несимметричный и олее эргономичный. Да! И главное — две механические кнопки. Но 310 долларов… Да же за 3 мм…&lt;/p&gt;</description>
     </item>
     <item>
       <title>Последнее амазоновское предупреждение</title>
-      <link>//localhost:1313/posts/2016-02-10-a/</link>
+      <link>/posts/2016-02-10-a/</link>
       <pubDate>Wed, 10 Feb 2016 08:50:39 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-02-10-a/</guid>
+      <guid>/posts/2016-02-10-a/</guid>
       <description>&lt;p&gt;Amazon начала рассылать письма счастья владельцам старых «киндлов» с предупреждением о том, что нужно обновить программное обеспечение, в противном случае после 22 марта 2016 их «киндлы» не смогут соединиться с амазоновскими серверами.&lt;/p&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/gp/help/customer/display.html?nodeId=201994710&amp;amp;tag=mr060-20&#34;&gt;Amazon.com Help: Critical Software Update for Kindle E-Readers&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Каждый день на Amazon продаётся 909 тысяч электронных книг. Скорее всего</title>
-      <link>//localhost:1313/posts/2016-02-09-a/</link>
+      <link>/posts/2016-02-09-a/</link>
       <pubDate>Tue, 09 Feb 2016 15:06:22 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-02-09-a/</guid>
+      <guid>/posts/2016-02-09-a/</guid>
       <description>&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://authorearnings.com/report/february-2016-author-earnings-report/&#34;&gt;February 2016 Author Earnings Report: Amazon’s Ebook, Print, and Audio Sales – Author Earnings&lt;/a&gt;&lt;/em&gt; Вышел свежий отчет Хью Хауи с анализом продаж на Amazon.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon выпустил бету KindlePreviewer 3</title>
-      <link>//localhost:1313/posts/2016-02-08-b/</link>
+      <link>/posts/2016-02-08-b/</link>
       <pubDate>Mon, 08 Feb 2016 19:24:11 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-02-08-b/</guid>
+      <guid>/posts/2016-02-08-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;New Kindle Previewer 3 (Beta) with a refreshed user interface enables content creators to preview Kindle books with Enhanced Typesetting and the Bookerly font.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Интерфейс и правда другой. И при этом бисячий. Надо было прямо суметь такое сделать. Но обещают всяческие радости (не для русского языка).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon, кажется, открывает сеть книжных магазинов</title>
-      <link>//localhost:1313/posts/2016-02-03-a/</link>
+      <link>/posts/2016-02-03-a/</link>
       <pubDate>Wed, 03 Feb 2016 06:54:51 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-02-03-a/</guid>
+      <guid>/posts/2016-02-03-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Онлайн-ритейлер Amazon намерен открыть до 400 реальных книжных магазинов. Об этом Wall Street Journal &lt;a href=&#34;http://www.wsj.com/articles/amazon-plans-hundreds-of-brick-and-mortar-bookstores-mall-ceo-says-1454449475&#34;&gt;рассказал&lt;/a&gt; Сандип Мазрани, генеральный директор General Growth Properties – компании, владеющей и управляющей торговыми центрами по всем США.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;https://slon.ru/posts/63405&#34;&gt;Amazon приписали планы открыть сотни книжных магазинов&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Если так, то американскую книжную розницу ждут весёлые времена.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ЖЗЛ в Amazon</title>
-      <link>//localhost:1313/posts/2016-01-26-a/</link>
+      <link>/posts/2016-01-26-a/</link>
       <pubDate>Tue, 26 Jan 2016 11:05:44 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-01-26-a/</guid>
+      <guid>/posts/2016-01-26-a/</guid>
       <description>&lt;p&gt;Издательство «Молодая гвардия» долго не хотело иметь никакого дела с электронными книгами. И с бумажными ему было хорошо, а электронные… Ну, что с них толку? А сегодня пришла рекламная рассылка от Amazon, что «&amp;ldquo;Жизнь Замечательных Людей&amp;rdquo; впервые в электронном формате — эксклюзивно на Amazon». Проверил — точно, 25 книг. Ну, тоже хорошо. Только непонятно, почему эксклюзивно?&lt;/p&gt;&#xA;&lt;p&gt;P. S. Полистал превью книжек, везде бросилась в глаза одна и та же ошибка конвертации — неразрывный пробел после инициалов превратился в дефис. Передайте там государю императору, что ружья не надо кирпичом чистить.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon обновила виджеты для предпросмотра книг</title>
-      <link>//localhost:1313/posts/2016-01-11-b/</link>
+      <link>/posts/2016-01-11-b/</link>
       <pubDate>Mon, 11 Jan 2016 09:43:57 +0000</pubDate>
-      <guid>//localhost:1313/posts/2016-01-11-b/</guid>
+      <guid>/posts/2016-01-11-b/</guid>
       <description>&lt;p&gt;Выглядит очень симпатично. И на порядок лучше, чем в первой инкарнации лет пять назад.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Майк Шацкин: «Лучше меньше да лучше»</title>
-      <link>//localhost:1313/posts/2015-10-26-a/</link>
+      <link>/posts/2015-10-26-a/</link>
       <pubDate>Mon, 26 Oct 2015 20:44:18 +0000</pubDate>
-      <guid>//localhost:1313/posts/2015-10-26-a/</guid>
+      <guid>/posts/2015-10-26-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Sometimes it takes a decade or more for an insight to be validated, but it is always nice when it happens. Around the turn of the century, I was developing a business called “Supply Chain Tracker”, which had a nice client base for a few years. What we did was take the data feeds — …&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;//www.idealog.com/blog/it-is-being-proven-that-smaller-bookstores-can-work-commercially/&#34;&gt;It is being proven that smaller bookstores can work commercially - The Shatzkin Files The Shatzkin Files&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>А вот это серьезно — 7&#34; Amazon Fire за $50</title>
-      <link>//localhost:1313/posts/2015-09-17-a/</link>
+      <link>/posts/2015-09-17-a/</link>
       <pubDate>Thu, 17 Sep 2015 13:37:42 +0000</pubDate>
-      <guid>//localhost:1313/posts/2015-09-17-a/</guid>
+      <guid>/posts/2015-09-17-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;(NASDAQ: AMZN)—Amazon today introduced a groundbreaking new tablet for under $50. The new Fire tablet includes a quad-core processor, 7”.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.businesswire.com/news/home/20150917005634/en/Introducing-Fire%E2%80%94Setting-Standard-Tablet-50&#34;&gt;Introducing Fire—Setting an Entirely New Standard for a Tablet under $50 | Business Wire&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;И даже 6 штук предлагают за $250 — охапками.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon: 10-дюймовый планшет за 230 баксов</title>
-      <link>//localhost:1313/posts/2015-09-17-b/</link>
+      <link>/posts/2015-09-17-b/</link>
       <pubDate>Thu, 17 Sep 2015 13:22:44 +0000</pubDate>
-      <guid>//localhost:1313/posts/2015-09-17-b/</guid>
+      <guid>/posts/2015-09-17-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;(NASDAQ: AMZN)—Amazon today introduced all-new Fire HD tablets, designed from the ground up for entertainment with a stunning 8” or 10.1”.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.businesswire.com/news/home/20150917005641/en/Introducing-All-New-Fire-HD-Powerful-Tablets-Designed&#34;&gt;Introducing the All-New Fire HD: Powerful Tablets Designed for Entertainment | Business Wire&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;И будет работать «в 2 раза дольше, чем iPad!» Да? Правда?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindle Unlimited &gt; Nook Store</title>
-      <link>//localhost:1313/posts/2015-09-16-a/</link>
+      <link>/posts/2015-09-16-a/</link>
       <pubDate>Wed, 16 Sep 2015 06:10:48 +0000</pubDate>
-      <guid>//localhost:1313/posts/2015-09-16-a/</guid>
+      <guid>/posts/2015-09-16-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Amazon has released the monthly stats on its streaming ebook service, Kindle Unlimited. The retailer hasn&amp;rsquo;t told us the number of subscribers, but we do know that in August 2015 publishers and authors were paid from a pool worth $11.8 million. According to the two authors who (quietly) sent me info, Amazon paid authors about $0.0051 per page read. That is down from the $0.0058 that Amazon paid authors in July 2015, with the decline due to the sharp increase in the number of pages read (2.23 billion, up from 2 billion pages read last month). There is little commentary on the news just yet, but I do have one interesting datum for you: In terms of revenue paid to authors and publishers, Kindle Unlimited is now larger than the Nook Store.  [&amp;hellip;]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Авторские доходы на Amazon — Cентябрь 2015</title>
-      <link>//localhost:1313/posts/2015-09-14-a/</link>
+      <link>/posts/2015-09-14-a/</link>
       <pubDate>Mon, 14 Sep 2015 18:15:19 +0000</pubDate>
-      <guid>//localhost:1313/posts/2015-09-14-a/</guid>
+      <guid>/posts/2015-09-14-a/</guid>
       <description>&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://authorearnings.com/report/september-2015-author-earnings-report/&#34;&gt;September 2015 Author Earnings Report – Author Earnings&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Собственно, вывод из очередного доклада Хауи главный — один: большая пятёрка издателей сами виноваты, задрав цены на электронные книги. Чувствительный к цене рынок отреагировал радикально — доходы традиционной издательской индустрии валятся, авторы, работающие с издателями, получают меньше, а в выигрыше (сами продажи электронных книг на Amazon-то растут) остаются независимые авторы и Amazon с его собственными книгами. Делиться надо.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Подписочный сервис Amazon открылся в Индии</title>
-      <link>//localhost:1313/posts/2015-09-02-a/</link>
+      <link>/posts/2015-09-02-a/</link>
       <pubDate>Wed, 02 Sep 2015 19:59:32 +0000</pubDate>
-      <guid>//localhost:1313/posts/2015-09-02-a/</guid>
+      <guid>/posts/2015-09-02-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Today, the American company launched Kindle Unlimited in India, a subscription service that allows its users to pick and read as much as they want from over a million books at a monthly fee of INR 199 (US$3). Early birds get it half price.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;https://www.techinasia.com/amazon-kindle-unlimited-launches-in-india/&#34;&gt;Amazon throws open a million books for Indians on Kindle at $3 a month&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Три бакса в месяц? Прям как Bookmate — по нынешнему курсу.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Электронные чернила. 300 dpi за $119</title>
-      <link>//localhost:1313/posts/2015-06-17-a/</link>
+      <link>/posts/2015-06-17-a/</link>
       <pubDate>Wed, 17 Jun 2015 13:27:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/2015-06-17-a/</guid>
+      <guid>/posts/2015-06-17-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;(NASDAQ: AMZN)—Amazon today introduced the all-new Kindle Paperwhite, updating its most popular and best-selling Kindle with the highest resolut&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.businesswire.com/news/home/20150617005738/en/Amazon-Introduces-Kindle-Paperwhite-Popular-Kindle-Better%E2%80%94Still&#34;&gt;Amazon Introduces New Kindle Paperwhite: The Most Popular Kindle, Now Even Better—Still Only $119 | Business Wire&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;В пресс-релизе написано, что у нового Kindle Paperwhite те же 300 точек на дюйм, что и у Kindle Voyage. Этот момент я в своё время пропустил ;( Потому как ведь это то самое разрешение, которое всегда было порогом для типографии. То есть теперь разницы между напечатанным текстом и демонстрируемом на таком экране уже нет. Le livre est mort. Vive le livre!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Подписка на книги для детей</title>
-      <link>//localhost:1313/posts/2015-06-04-a/</link>
+      <link>/posts/2015-06-04-a/</link>
       <pubDate>Thu, 04 Jun 2015 12:33:29 +0000</pubDate>
-      <guid>//localhost:1313/posts/2015-06-04-a/</guid>
+      <guid>/posts/2015-06-04-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Epic&amp;rsquo;s 18-month-old ebook subscription service may have a kid-friendly focus and a catalog of 10,000 titles (including titles from HarperCollins, Macmillan, and Scholastic), but it&amp;rsquo;s been missing something: support for Android. That changed this week. I was too busy with BEA 2015 to report on it, but Epic released an Android app on Thursday. [&amp;hellip;]&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://the-digital-reader.com/2015/05/30/epic-brings-its-kids-ebook-subscription-service-to-android/&#34;&gt;Epic Brings Its Kids&amp;rsquo; eBook Subscription Service to Android | Ink, Bits, &amp;amp; Pixels&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindle Unlimited пришёл во Францию и Бразилию</title>
-      <link>//localhost:1313/posts/2014-12-11-a/</link>
+      <link>/posts/2014-12-11-a/</link>
       <pubDate>Thu, 11 Dec 2014 18:26:16 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-12-11-a/</guid>
+      <guid>/posts/2014-12-11-a/</guid>
       <description>&lt;p&gt;Amazon продолжает расширять охват стран сервисом подписки Kindle Unlimited. Amazon открыл сервис подписки сначала в США, затем в Великобритании, Испании, Италии, Германии и Нидерландах, и вот теперь во Франции и Бразилии. А в России даже и Kindle Store нет ;(&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon подготовил Kindle для русского языка</title>
-      <link>//localhost:1313/posts/2014-11-20-a/</link>
+      <link>/posts/2014-11-20-a/</link>
       <pubDate>Thu, 20 Nov 2014 12:43:47 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-11-20-a/</guid>
+      <guid>/posts/2014-11-20-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;«В свежей прошивке Kindle Voyage c номером 5.5.0 русский язык присутствует в пунктах меню, также добавлена русифицированная клавиатура. Данное обновление существенно упрощает чтение русских книжек, их аннотирование и поиск по тексту. Также оно облегчает использование сервисов вроде Flibusta.net, где искать литературу без использования русского языка было крайне тяжело. Приход книжного Amazon в Россию длится уже несколько лет: компания наняла в начале 2013-го года Аркадия Витрука на пост гендира. Сейчас для русскоязычных читателей Kindle уже готова и офлайновая инфраструктура, что позволяет надеяться на близкий запуск всех сервисов Kindle для российского пользователя и появление российских книг в онлайн-магазине Amazon»,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon и Hachette договорились</title>
-      <link>//localhost:1313/posts/2014-11-13-a/</link>
+      <link>/posts/2014-11-13-a/</link>
       <pubDate>Thu, 13 Nov 2014 18:05:35 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-11-13-a/</guid>
+      <guid>/posts/2014-11-13-a/</guid>
       <description>&lt;p&gt;The Guardian &lt;a href=&#34;http://bit.ly/1v8MbAV&#34;&gt;пишет&lt;/a&gt;, что спор закончился. Hachette гордо заявило, что само будет устанавливать цены и получил лучшее продвижение. Amazon гордо заявила, что цены на электронные книги будут низкими. И что? Hachette будет самостоятельно устанавливать низкие цены? Деталей пока нет.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon забрала .book</title>
-      <link>//localhost:1313/posts/2014-11-12-a/</link>
+      <link>/posts/2014-11-12-a/</link>
       <pubDate>Wed, 12 Nov 2014 14:33:48 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-11-12-a/</guid>
+      <guid>/posts/2014-11-12-a/</guid>
       <description>&lt;p&gt;Компании &lt;a href=&#34;http://cctld.ru/ru/press_center/digest/detail.php?ID=6221&#34;&gt;удалось&lt;/a&gt; получить на закрытом аукционе право администрирование домена &lt;code&gt;.book&lt;/code&gt;. По слухам — за 5 млн долларов. А если бы отдать его агентству ISBN, чтобы он делал лендинги для каждой книги по номеру книги. Правда, Amazon тогда было бы не очень сладко.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon запускает краудсорсинг для своей издательской программы</title>
-      <link>//localhost:1313/posts/2014-09-23-b/</link>
+      <link>/posts/2014-09-23-b/</link>
       <pubDate>Tue, 23 Sep 2014 12:19:16 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-09-23-b/</guid>
+      <guid>/posts/2014-09-23-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Authors will be asked to submit their complete, never-before-published book and cover. After a few days, we will post the first pages of each book on a new website for readers to preview and nominate their favorites. Books with the most nominations will be reviewed by our team for potential publication.Should you be selected for publication you will receive benefits that include:Guaranteed advance &amp;amp; competitive royalties: You will receive a guaranteed $1,500 advance and 50% royalties on net eBook revenue.Focused formats: We acquire worldwide publication rights for eBook and audio formats in all languages. You retain all other rights, including print.5-year renewable terms, $5,000 in royalties: If your book doesn&amp;rsquo;t earn $5,000 in royalties during your initial 5-year contract term, and any 5-year renewal term after that, you can choose to stop publishing with us.Easy reversions: After two years, your rights in any format or language that remains unpublished, or all rights for any book that earns less than $500 in total royalties in the preceding 12-month period, can be reverted upon request - no questions asked.Early downloads &amp;amp; reviews: One week prior to release date, everyone who nominated your book will receive a free, early copy to help build momentum and customer reviews.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon приглашает на работу русских переводчиков интерфейсов</title>
-      <link>//localhost:1313/posts/2014-07-29-a/</link>
+      <link>/posts/2014-07-29-a/</link>
       <pubDate>Tue, 29 Jul 2014 08:52:59 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-07-29-a/</guid>
+      <guid>/posts/2014-07-29-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Job listings on the Amazon website have revealed that the retail giant is hiring translators who can localize the Kindle hardware and apps for the Dutch and Russian ebook markets.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://the-digital-reader.com/2014/07/28/know-dutch-russian-amazon-seeking-translators-kindle-apps/&#34;&gt;Do You Know Dutch or Russian? Amazon is Seeking Translators for Kindle Apps | The Digital Reader&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon тестирует подписку на электронные и аудиокниги</title>
-      <link>//localhost:1313/posts/2014-07-16-a/</link>
+      <link>/posts/2014-07-16-a/</link>
       <pubDate>Wed, 16 Jul 2014 20:27:33 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-07-16-a/</guid>
+      <guid>/posts/2014-07-16-a/</guid>
       <description>&lt;p&gt;Наблюдательные пользователи &lt;a href=&#34;http://mashable.com/2014/07/16/amazon-ebook-subscription/&#34;&gt;поймали&lt;/a&gt; Amazon на тестировании страницы с сервисом неограниченной подписки на электронные и аудиокниги с неограниченным доступом за 10 (ок, 9,99) баксов в месяц. Ещё днём при поиске KU Test можно было найти 640 тыс. книг, сейчас уже ничего. Представители Oyster и Scribd заявили, что ОК, и хорошо, оживление на рынке. Кажется, сквозь зубы. Но, и правда, вместе с продолжающейся войной с Hachette и слухами о покупке Simon &amp;amp; Schuster — такое оживление, что аж боязно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon покупает Simon &amp; Schuster?</title>
-      <link>//localhost:1313/posts/2014-07-16-b/</link>
+      <link>/posts/2014-07-16-b/</link>
       <pubDate>Wed, 16 Jul 2014 10:56:18 +0000</pubDate>
-      <guid>//localhost:1313/posts/2014-07-16-b/</guid>
+      <guid>/posts/2014-07-16-b/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://the-digital-reader.com/2014/07/15/amazon-talks-simon-schuster-acquisition/#.U8ZRoYCSw7c&#34;&gt;Amazon in Talks with Simon &amp;amp; Schuster - Acquisition? | The Digital Reader&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Идея дикая, но, ка кни странно, вполне логичная. Есть ли у Amazon своя издательская стратегия? Есть: у него уже целая рота импринтов. Может ли Amazon купить Simon &amp;amp; Schuster? Денег хватит. S&amp;amp;S — большое, но самое маленькое издательство «Большой пятёрки» со своей, хоть и скромной, дистрибуцией. Продадут ли Amazon? Владелец S&amp;amp;S медиахолдинг CBS вполне может отказаться от актива. Разрешит ли антимонопольное ведомство США? Не исключено. Захочет ли Amazon, наконец? В рамках стратегии вытеснения издателей — да. Так что, если случится, будет весело.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon о том, как издатели способствуют пиратству</title>
-      <link>//localhost:1313/posts/2013-10-08-c/</link>
+      <link>/posts/2013-10-08-c/</link>
       <pubDate>Tue, 08 Oct 2013 14:22:54 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-10-08-c/</guid>
+      <guid>/posts/2013-10-08-c/</guid>
       <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/AHQcRYK4K0mbkw&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/PublishersLaunch/launch-frankfurt2013-amazonrussgrandinetti&#34; title=&#34;Amazon on The Global Transition to Online Bookselling (Russ Grandinetti at Launch Frankfurt 2013)&#34; target=&#34;_blank&#34;&gt;Amazon on The Global Transition to Online Bookselling (Russ Grandinetti at Launch Frankfurt 2013)&lt;/a&gt; &lt;/strong&gt; de &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/PublishersLaunch&#34; target=&#34;_blank&#34;&gt;Publishers Launch Conferences&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;&#xA;&#xA;Расс Грандинетти, вице-президент Amazon по Kindle Content, конечно, рассказывал на нынешнем Publishers Lunch во Франкфурте, не столько о пиратстве, сколько вообще о бизнесе электронных книг Amazon много интересного. Но с его тезисами сложно не согласиться:&#xA;&#xA;- медленная оцифровка каталога — это уменьшение продаж и поддержка пиратства;&#xA;- отсрочка электронных продаж — это уменьшение продаж и поддержка пиратства;&#xA;- слишком высокие цены на электронные книги — это проигрыш в конкуренции с более дешевым контентом (в том числе не книжным), и поддержка пиратства.</description>
     </item>
     <item>
       <title>Та-дамм! Новый Kindle Paperwhite доступен для заказа из России</title>
-      <link>//localhost:1313/posts/2013-09-30-a/</link>
+      <link>/posts/2013-09-30-a/</link>
       <pubDate>Mon, 30 Sep 2013 17:31:47 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-09-30-a/</guid>
+      <guid>/posts/2013-09-30-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/gp/product/B00CTUKFNQ?country=RU&#34;&gt;Kindle Paperwhite Touch Screen E-Reader with Light&lt;/a&gt;. Самый дешёвый: 139 баксов + 21 бакс за доставку. В итоге чуть больше 5 тыс. руб.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Джеф Безос о DRM: «Это не я, это они»</title>
-      <link>//localhost:1313/posts/2013-09-26-a/</link>
+      <link>/posts/2013-09-26-a/</link>
       <pubDate>Thu, 26 Sep 2013 12:13:42 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-09-26-a/</guid>
+      <guid>/posts/2013-09-26-a/</guid>
       <description>&lt;p&gt;&amp;ldquo;We are agnostic to that. We do what the publisher wants. If the rights owner wants DRM, we do DRM. If the rights owner doesn&amp;rsquo;t want DRM, we don&amp;rsquo;t do DRM,&amp;rdquo; he said.&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.pcmag.com/article2/0,2817,2424829,00.asp?et_mid=638728&amp;amp;rid=241007131&#34;&gt;Bezos: Books Will Live On, So Will DRMed E-Books | News &amp;amp; Opinion | PCMag.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;И уточнил, что покупатели электронных книг покупают и много бумажных, и он не видит угрозы. Ну, если так, то урок издателям.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые языки Amazon KDP</title>
-      <link>//localhost:1313/posts/2013-10-17-a/</link>
+      <link>/posts/2013-10-17-a/</link>
       <pubDate>Tue, 17 Sep 2013 22:16:20 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-10-17-a/</guid>
+      <guid>/posts/2013-10-17-a/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Afrikaans&lt;/li&gt;&#xA;&lt;li&gt;Alsatian&lt;/li&gt;&#xA;&lt;li&gt;Basque&lt;/li&gt;&#xA;&lt;li&gt;Bokmål Norwegian&lt;/li&gt;&#xA;&lt;li&gt;Breton&lt;/li&gt;&#xA;&lt;li&gt;Catalan&lt;/li&gt;&#xA;&lt;li&gt;Cornish&lt;/li&gt;&#xA;&lt;li&gt;Corsican&lt;/li&gt;&#xA;&lt;li&gt;Danish&lt;/li&gt;&#xA;&lt;li&gt;Dutch&lt;/li&gt;&#xA;&lt;li&gt;Eastern Frisian&lt;/li&gt;&#xA;&lt;li&gt;English&lt;/li&gt;&#xA;&lt;li&gt;Finnish&lt;/li&gt;&#xA;&lt;li&gt;French&lt;/li&gt;&#xA;&lt;li&gt;Frisian&lt;/li&gt;&#xA;&lt;li&gt;Galician&lt;/li&gt;&#xA;&lt;li&gt;German&lt;/li&gt;&#xA;&lt;li&gt;Icelandic&lt;/li&gt;&#xA;&lt;li&gt;Irish&lt;/li&gt;&#xA;&lt;li&gt;Italian&lt;/li&gt;&#xA;&lt;li&gt;Japanese&lt;/li&gt;&#xA;&lt;li&gt;Luxembourgish&lt;/li&gt;&#xA;&lt;li&gt;Manx&lt;/li&gt;&#xA;&lt;li&gt;Northern Frisian&lt;/li&gt;&#xA;&lt;li&gt;Norwegian&lt;/li&gt;&#xA;&lt;li&gt;Nynorsk Norwegian&lt;/li&gt;&#xA;&lt;li&gt;Portuguese&lt;/li&gt;&#xA;&lt;li&gt;Provençal&lt;/li&gt;&#xA;&lt;li&gt;Romansh&lt;/li&gt;&#xA;&lt;li&gt;Scots&lt;/li&gt;&#xA;&lt;li&gt;Scottish Gaelic&lt;/li&gt;&#xA;&lt;li&gt;Spanish&lt;/li&gt;&#xA;&lt;li&gt;Swedish&lt;/li&gt;&#xA;&lt;li&gt;Welsh&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;https://kdp.amazon.com/self-publishing/help?topicId=A9FDO0A3V0119&#34;&gt;Amazon.com: Kindle Direct Publishing: Help&lt;/a&gt;. Судя по этому списку, Amazon KDP планирует появиться в Южной Африке, Норвегии, Дании, Нидерландах, Финляндии, Исландии, Ирландии, Люксембурге, Швеции и Швейцарии. А где Россия-то???&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новый Kindle. Заказ сегодня, поставки 30 сентября</title>
-      <link>//localhost:1313/posts/2013-09-03-b/</link>
+      <link>/posts/2013-09-03-b/</link>
       <pubDate>Tue, 03 Sep 2013 19:12:15 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-09-03-b/</guid>
+      <guid>/posts/2013-09-03-b/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/dp/B00AWH595M&#34;&gt;Kindle Paperwhite supports the display of non-Latin characters, so you can read books and documents in your favorite language, including enhanced support for Japanese and Chinese Simplified and Traditional. Kindle Paperwhite also displays Korean, Cyrillic, Latin, and Greek scripts, and provides free access to several international dictionaries&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Судя по всем приведенным на сайте Amazon характеристикам, Amazon таки решил догнать по функциональности младших конкурентов. Тут тебе и перевод на разные языки, и всяческие символические подарки за чтение, и сохранение пагинации из бумажной книги, и интеграция с Википедией, и пользовательский словарь, и интеграция с GoodReads, и экспорт заметок, и WebKit в качестве основы встроенного браузера. Основной формат файлов, правда, остался прежним, никакого перехода на EPUB, а значит и поддержки JS, но радикальное улучшение прошивки, видимо, частично компенсирует этот изъян. Доставка в Россию не предусмотрена. Но хоть официально заявлено о поддержке кириллицы, наконец.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon Kindle Store открылся в Мексике</title>
-      <link>//localhost:1313/posts/2013-08-30-b/</link>
+      <link>/posts/2013-08-30-b/</link>
       <pubDate>Fri, 30 Aug 2013 08:50:43 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-08-30-b/</guid>
+      <guid>/posts/2013-08-30-b/</guid>
       <description>&lt;p&gt;New Kindle Store offers over 2 million eBooks sold in Mexican Pesos, including the most Spanish language best sellers, more than 1,500 free books in Spanish, and hundreds of thousands of exclusive titles, including works from authors like José Emilio Pacheco, Elena Poniatowska, Sergio Pitol and Carlos Monsivais, as well as comic books from Mafalda and Familia Burrón&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://phx.corporate-ir.net/phoenix.zhtml?c=176060&amp;amp;p=irol-newsArticle&amp;amp;ID=1850669&amp;amp;highlight=&#34;&gt;Amazon Media Room: Press Releases&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Amazon зашёл на самый большой испаноязычный рынок 70 тыс испаноязычных книг, 2 млн в общем каталоге и 1399 песо (3485 руб.) за простенький Kindle. 115 млн человек. Уровень проникновения интернета, правда, не очень высокий в сравнении с другими странами Латинской Америки — &lt;a href=&#34;http://goo.gl/7YLLdH&#34;&gt;всего около 40%&lt;/a&gt;. Но и 47 млн пользователей — тоже неплохо. Когда уж в России-то?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon пришел в Россию | Forbes.ru</title>
-      <link>//localhost:1313/posts/2013-04-19-a/</link>
+      <link>/posts/2013-04-19-a/</link>
       <pubDate>Fri, 19 Apr 2013 11:30:17 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-04-19-a/</guid>
+      <guid>/posts/2013-04-19-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://therunet.com/experts/150-amazonka-u-rossiyskih-beregov&#34;&gt;Первые серьёзные слухи были ещё в декабре&lt;/a&gt;, и вот:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Крупнейший в мире интернет-магазин Amazon оборот в 2012 году составил $61 млрд открывает представительство в России, сообщили Forbes несколько источников на издательском рынке. Возглавит представительство Аркадий Витрук. До лета 2012 года он занимал пост генерального директора издательской группы «Азбука-Аттикус», принадлежащей Александру Мамуту №45 российского списка Forbes, состояние $2,3 млрд.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.forbes.ru/kompanii/potrebitelskii-rynok/237640-amazon-prishel-v-rossiyu&#34;&gt;Amazon пришел в Россию | Forbes.ru&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Теперь станет веселее. Хотя росс.читатели в большинстве своём про Amazon только слышали, но издатели всё-таки знают, что такое Amazon. А читателям Amazon сам, наверное, объяснит — денег на продвижение у неё хватит. Многое будет зависеть от ценовой политики Amazon по продаже Kindle, от политики роялти для издателей, от особенностей расчётов с ними.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon выпустил Kindle Comic Creator</title>
-      <link>//localhost:1313/posts/2013-04-17-a/</link>
+      <link>/posts/2013-04-17-a/</link>
       <pubDate>Wed, 17 Apr 2013 22:31:24 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-04-17-a/</guid>
+      <guid>/posts/2013-04-17-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/gp/feature.html?docId=1001103761&#34;&gt;Kindle Comic Creator&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Есть версия для Mac и Windows. Тихой сапой Amazon выпустил программу для подготовки комиксов, манги и графических романов для Kindle. Выглядит как несложный редактор, который позволяет делать очень простые вещи — импортировать страницы комиксов в графическом формате, распознавать границы отдельных иллюстраций, увеличивать их при просмотре, и всё это — экспортировать в формат, который понимают читалки и планшеты Kindle. 2013 год, как и было предсказано, становится годом издательских инструментов.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon запустил конструктор обложек</title>
-      <link>//localhost:1313/posts/2013-04-04-a/</link>
+      <link>/posts/2013-04-04-a/</link>
       <pubDate>Thu, 04 Apr 2013 10:01:45 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-04-04-a/</guid>
+      <guid>/posts/2013-04-04-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://kdp.amazon.com/self-publishing/help?topicId=A1DHGMW609HBI8&#34;&gt;Amazon.com: Kindle Direct Publishing: Help&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Ну, даже лучше так, чем совсем плохо.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon покупает Goodreads</title>
-      <link>//localhost:1313/posts/2013-03-28-b/</link>
+      <link>/posts/2013-03-28-b/</link>
       <pubDate>Thu, 28 Mar 2013 20:53:16 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-03-28-b/</guid>
+      <guid>/posts/2013-03-28-b/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://techcrunch.com/2013/03/28/amazon-acquires-social-reading-site-goodreads/&#34;&gt;Amazon Acquires Social Reading Site Goodreads, Which Gives The Company A Social Advantage Over Apple | TechCrunch&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Это уже вторая, если не ошибаюсь, читательская социальная сеть (после Shelfari), которую покупает Amazon. Безосу респект. Но плохой знак для издательской индустрии США, которая опять проворонила историю. Интересно, закроет ли теперь GoodReads свой открытый API?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Назначены предварительные слушания по делу магазины vs. Amazon</title>
-      <link>//localhost:1313/posts/2013-02-27-c/</link>
+      <link>/posts/2013-02-27-c/</link>
       <pubDate>Wed, 27 Feb 2013 21:14:04 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-02-27-c/</guid>
+      <guid>/posts/2013-02-27-c/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Judge Jed Rakoff, the Southern District judge named to preside over the suit filed by three independent booksellers against Amazon and the &amp;ldquo;big six&amp;rdquo; publishers, has stipulated a March 11 case management and scheduling conference among the parties. None of the parties have responded to the suit yet&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://lunch.publishersmarketplace.com/2013/02/judge-sets-march-11-meeting-date-on-booksellers-suit/?et_mid=605089&amp;amp;rid=233889817&#34;&gt;Judge Sets March 11 Meeting Date on Booksellers’ Suit | Publishers Lunch&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Ну, что ж, пора запасаться попкорном. Первая серия битвы независимых книжных магазинов против Amazon и «большой шестёрки» американских издательств, которых магазины обвиняет в «нечестном DRM», могут состояться 11 марта 2013 г.&lt;/p&gt;</description>
     </item>
     <item>
       <title>На Amazon и Big-6 подали в суд за DRM</title>
-      <link>//localhost:1313/posts/2013-02-20-a/</link>
+      <link>/posts/2013-02-20-a/</link>
       <pubDate>Wed, 20 Feb 2013 22:40:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/2013-02-20-a/</guid>
+      <guid>/posts/2013-02-20-a/</guid>
       <description>&lt;p&gt;Три независимых книжных магазина подали в суд на Amazon и «Большую шестёрку» американских издателей, обвиняя их в сговоре по внедрению проприетарного DRM в Kindle, который мешает независимым издателям тоже продавать книжки «Большой шестёрки». Иск может показаться странным и слабым, если бы не одно «но»: в американской книжной индустрии издатели и продавцы — по разные стороны баррикад, поэтому суд может и заинтересоваться, равно как и американское министерство юстиции.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.huffingtonpost.com/2013/02/20/drm-lawsuit-independent-bookstores-amazon_n_2727519.html?ncid=edlinkusaolp00000003&#34;&gt;DRM Lawsuit Filed By Independent Bookstores Against Amazon, Big Six Publishers&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon для издателя</title>
-      <link>//localhost:1313/posts/2012-12-04-a/</link>
+      <link>/posts/2012-12-04-a/</link>
       <pubDate>Tue, 04 Dec 2012 13:19:29 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-12-04-a/</guid>
+      <guid>/posts/2012-12-04-a/</guid>
       <description>&lt;p&gt;«Амазонка» решила, что автор, это всё-таки ещё не всё, и пошла навстречу с издателем (впрочем, как и с любым другим вендором) и завела &lt;a href=&#34;https://ams.amazon.com/&#34;&gt;Amazon Marketing Services&lt;/a&gt; — инструмент для продвижения бренда. Ну, хоть что-то.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Как читают эл.книги американцы</title>
-      <link>//localhost:1313/posts/2012-11-15-a/</link>
+      <link>/posts/2012-11-15-a/</link>
       <pubDate>Thu, 15 Nov 2012 08:58:08 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-11-15-a/</guid>
+      <guid>/posts/2012-11-15-a/</guid>
       <description>&lt;p&gt;По результатам Bowker Market Research, главное орудие американских читателей эл.книг — Kindle — 55%. При этом на обычный Kindle приходится 37% (48% год назад в 2Q2011), а на Kindle Fire — 18%. Потом идут устройства на iOS — 15% (12% iPad — рост с 8% год назад, и 3% iPhone, на который приходилось 5% год назад). На третьем месте Nook — 14% (15% год назад). 6% читателей эл.книг читают с компьютера. Sony Reader — в сааамом конце с 1%. Больше читают даже с прочих смартфонов (4%) или даже mp3-плейеров (2%). Sony, конечно, удивительная компания. Первая, которая начала делать ридеры с бумагоподобным экраном. Умение профукать инновацию дорогого стоит.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Лучшая сегодняшняя новость от Amazon не про Kindle, а про Диккенса</title>
-      <link>//localhost:1313/posts/2012-09-06-c/</link>
+      <link>/posts/2012-09-06-c/</link>
       <pubDate>Thu, 06 Sep 2012 20:19:19 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-09-06-c/</guid>
+      <guid>/posts/2012-09-06-c/</guid>
       <description>&lt;p&gt;Нет. Это вовсе не Kindle за $69, и не Kindle Paperwhite за $119, и не Kindle Paperwhite 3G за $179, и не обновленный Kindle Fire за $159, и не новые Kindle Fire HD старого размера и 8.9-дюймовый с LTE (хотя, в общем, куда уж круче).&lt;/p&gt;&#xA;&lt;p&gt;Лучшая новость — это переиздание романов Диккенса, но примерно в том виде, в котором они выходили, то есть по главам в журналах. За $1,99 за каждый роман. По дешёвке. И будут покупать, потому что прикольно. Я бы и сам, пожалуй, в таком виде Достоевского почитал. Почему до этого не додумались? Хех.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Goodreads: 10 млн членов и 360 млн книг</title>
-      <link>//localhost:1313/posts/2012-08-13-a/</link>
+      <link>/posts/2012-08-13-a/</link>
       <pubDate>Mon, 13 Aug 2012 13:25:11 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-08-13-a/</guid>
+      <guid>/posts/2012-08-13-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://techcrunch.com/2012/08/13/goodreads-10-million-members/&#34;&gt;techcrunch.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Правильная социальная сеть. Интересно, кто, в результате, купит. Amazon не предлагать! ;) Она и так уже купила Shelfari.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon в Великобритании: E &gt; P и другие новости</title>
-      <link>//localhost:1313/posts/2012-08-06-a/</link>
+      <link>/posts/2012-08-06-a/</link>
       <pubDate>Mon, 06 Aug 2012 08:29:41 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-08-06-a/</guid>
+      <guid>/posts/2012-08-06-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Amazon.co.uk said that so far in 2012, for every 100 print books sold on the site, it has sold 114 Kindle books, excluding free Kindle books. In the UK, Kindle readers buy four times the number of books they did before owning a Kindle.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.thebookseller.com/news/kindle-books-outselling-print-amazoncouk.html&#34;&gt;thebookseller.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Вот и в Великобритании Amazon отчитался о превышении продаж электронных книг над продажами бумажных. Важно и другое: владельцы Kindle покупают в 4 раза больше книг, чем покупали до обретения Kindle. Не знаю, как в России, но в США и Великобритании электронные книги и правда — надежда для отрасли.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindlegen обновился до 2.5</title>
-      <link>//localhost:1313/posts/2012-07-10-c/</link>
+      <link>/posts/2012-07-10-c/</link>
       <pubDate>Tue, 10 Jul 2012 19:06:34 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-07-10-c/</guid>
+      <guid>/posts/2012-07-10-c/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Kindlegen version 2.5 build 0626-3a91e28&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;https://kindlegen.s3.amazonaws.com/docs/english/Release%20Notes.html&#34;&gt;kindlegen.s3.amazonaws.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Главное «орудие» создателей книг для Amazon обновилось (вместе с Kindle Previewer и Kindle Plugin for InDesign). Прозрачные PNG конвертируются в JPG с белым фоном и пр. мелкие улучшения.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon ждут в Бразилии в конце года</title>
-      <link>//localhost:1313/posts/2012-07-02-b/</link>
+      <link>/posts/2012-07-02-b/</link>
       <pubDate>Mon, 02 Jul 2012 14:26:12 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-07-02-b/</guid>
+      <guid>/posts/2012-07-02-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Amazon thinks it could quickly dominate Brazil’s e-book market with the Kindle, boosting sales of electronic books to 15 per cent of the publishing market in the first year of operations from 0.5 per cent currently, the industry source said.&lt;/p&gt;&#xA;&lt;p&gt;Amazon hopes to grab 90 per cent of Brazil’s e-book market, the source added, in part because many Brazilians already download content from its site using readers they bought abroad.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Джефф Безос — маглам</title>
-      <link>//localhost:1313/posts/2012-05-10-a/</link>
+      <link>/posts/2012-05-10-a/</link>
       <pubDate>Thu, 10 May 2012 13:34:18 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-05-10-a/</guid>
+      <guid>/posts/2012-05-10-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/&#34;&gt;&lt;img src=&#34;http://g-ecx.images-amazon.com/images/G/01/kindle/merch/HP/kindle-HP-lending-jeff-letter._V148406585_.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/&#34;&gt;via&lt;/a&gt; &lt;a href=&#34;http://www.amazon.com/&#34;&gt;amazon.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Amazon так-таки договорился с Роулинг об аренде книжек в амазоновской библиотеке. По штуке в месяц за $79 в год.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Хотите узнать, что у Kindle/Mobi внутри?</title>
-      <link>//localhost:1313/posts/2012-04-09-b/</link>
+      <link>/posts/2012-04-09-b/</link>
       <pubDate>Mon, 09 Apr 2012 19:23:40 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-04-09-b/</guid>
+      <guid>/posts/2012-04-09-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Thankfully, there are a bunch of folks over at MobileRead who have developed an open source tool for unpacking Mobi files and looking at their innards. It&amp;rsquo;s called Mobi Unpack and the latest version (047) can be &lt;a href=&#34;http://www.mobileread.com/forums/attachment.php?attachmentid=84428&amp;amp;d=1332545649&#34;&gt;found there&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.pigsgourdsandwikis.com/2012/04/unpacking-kindlemobi-file.html&#34;&gt;pigsgourdsandwikis.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;А дальше — инструкции для ламеров по запуску волшебного скрипта. Жаль, обратно не умеет запаковывать.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Вышло руководство по новому формату Amazon KF8</title>
-      <link>//localhost:1313/posts/2012-01-12-a/</link>
+      <link>/posts/2012-01-12-a/</link>
       <pubDate>Thu, 12 Jan 2012 06:14:42 +0000</pubDate>
-      <guid>//localhost:1313/posts/2012-01-12-a/</guid>
+      <guid>/posts/2012-01-12-a/</guid>
       <description>&lt;p&gt;Брать &lt;a href=&#34;http://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf&#34;&gt;тут&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Почему iBookstore проигрывает Amazon</title>
-      <link>//localhost:1313/posts/2011-12-22-1/</link>
+      <link>/posts/2011-12-22-1/</link>
       <pubDate>Thu, 22 Dec 2011 08:40:14 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-12-22-1/</guid>
+      <guid>/posts/2011-12-22-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Our surveys have shown that only 49 percent of iPad owners read e-books on them, which suggests that although the iPad is a blockbuster device, it doesn&amp;rsquo;t necessarily lead to book reading for even a majority of its owners,&amp;quot; says James McQuivey, an analyst at Forrester Research. &amp;ldquo;And even when it does, what we know about the success of the Kindle store and app suggests that more Kindle books are being read on iPads than iBookstore books. And why not? If you&amp;rsquo;re a book lover and are predisposed to reading e-books, you are almost guaranteed to already be an Amazon customer and you are likely to continue that Amazon relationship on your iPad.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon всё-таки обновил Stanza</title>
-      <link>//localhost:1313/posts/2011-11-11-1/</link>
+      <link>/posts/2011-11-11-1/</link>
       <pubDate>Fri, 11 Nov 2011 05:17:17 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-11-11-1/</guid>
+      <guid>/posts/2011-11-11-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Fans of the Amazon-owned &lt;a href=&#34;http://www.macworld.com/appguide/app.html?id=62612&#34;&gt;Stanza&lt;/a&gt; e-reading app for iOS have been granted at least a temporary reprieve: Amazon on Thursday released an update to the app that fixes a slew of problems that affected the app when running on iOS 5.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.macworld.com/article/163524/2011/11/amazon_updates_sunse&#34;&gt;macworld.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;А то она рушилась под iOS 5. Я уже думал, что всё, типа, слушайте валенки, пользуйтесь Kindle. Но — нет, совесть есть.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Амазонка принесёт свои «Свечки» в Китай</title>
-      <link>//localhost:1313/posts/2011-10-28-1/</link>
+      <link>/posts/2011-10-28-1/</link>
       <pubDate>Fri, 28 Oct 2011 13:35:42 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-10-28-1/</guid>
+      <guid>/posts/2011-10-28-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Today a report notes that the company is in talks with the Chinese government to retail its Kindle products, including e-readers in the country.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://paidcontent.org/article/419-amazons-china-story-continues-planning-for-kindle-kindle-fire-release/&#34;&gt;paidcontent.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Китай — уже второй по величине рынок для «Амазонки» после США. А говорят, там с потреблением всё плохо. Видимо, всё не так уж плохо. Во всяком случае, лучше, чем в России, куда «Амазонка», видимо, пока и не собирается.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Сюрприз: фиксированный макет для KF будет таким же, что и для iBooks</title>
-      <link>//localhost:1313/posts/2011-10-27-1/</link>
+      <link>/posts/2011-10-27-1/</link>
       <pubDate>Thu, 27 Oct 2011 20:43:09 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-10-27-1/</guid>
+      <guid>/posts/2011-10-27-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;we now have confirmation that the fixed format books on the platform will use very similar code to that used by the iBookstore. That almost amounts to standardisation and that is a nice surprise.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.futurebook.net/content/kindle-fire-will-aid-cross-platform-publishing&#34;&gt;futurebook.net&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Для американских издателей это очень хорошая новость: им не придётся делать разные файлы для поставки в разные магазины (или с минимальными коррективами).&lt;/p&gt;&#xA;&lt;p&gt;Для России эта хорошая новость, впрочем, не имеет пока почти никакого значения ((&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindle Format 8</title>
-      <link>//localhost:1313/posts/2011-10-23-2/</link>
+      <link>/posts/2011-10-23-2/</link>
       <pubDate>Sun, 23 Oct 2011 19:23:19 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-10-23-2/</guid>
+      <guid>/posts/2011-10-23-2/</guid>
       <description>&lt;p&gt;Появление нового формата электронных книг от такого монстра, как Amazon, событие не слишком приятное для книжной индустрии.&lt;/p&gt;&#xA;&lt;p&gt;О формате известно пока не слишком много — только то, что рассказала сама «Амазонка»: поддержка CSS3, фиксированных макетов, шрифтов, буквиц, плавающих элементов, фоновых текстов, списков и пр. В общем — полный HTML5. Пока не понятно, как именно всё это будет упаковываться в файл, как именно создаваться, на чём это верстать и т. д. То есть, по сути, самое главное пока неизвестно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindle Previewer теперь отображает кириллицу</title>
-      <link>//localhost:1313/posts/2011-10-19-3/</link>
+      <link>/posts/2011-10-19-3/</link>
       <pubDate>Wed, 19 Oct 2011 13:45:20 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-10-19-3/</guid>
+      <guid>/posts/2011-10-19-3/</guid>
       <description>&lt;p&gt;Речь идёт о режиме просмотра Kindle и Kindle DX. Раньше программа могла показывать русский язык только в режимах просмотра для iOS-устройств. В &lt;a href=&#34;https://kdp.amazon.com/self-publishing/help?topicId=A3IWA2TQYMZ5J6&#34;&gt;версии 1.61&lt;/a&gt; появилась поддержка русского и для симуляции картинки в Kindle.&lt;/p&gt;&#xA;&lt;p&gt;Странно, что у Apple нет превьюера для iBooks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NYTimes: Amazon не стесняется менять правила игры</title>
-      <link>//localhost:1313/posts/2011-10-17-1/</link>
+      <link>/posts/2011-10-17-1/</link>
       <pubDate>Mon, 17 Oct 2011 07:16:43 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-10-17-1/</guid>
+      <guid>/posts/2011-10-17-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;It’s always the end of the world,” said Russell Grandinetti, one of Amazon’s top executives. “You could set your watch on it arriving.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.nytimes.com/2011/10/17/technology/amazon-rewrites-the-rules-of-book-publishing.html?_r=1&amp;amp;pagewanted=all&#34;&gt;nytimes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Этой осенью «Амазонка» выпустит 122 книжки. Сама, как издательство. Издатели в ужасе, сама «Амазонка» не скрывает своих амбиций.&lt;/p&gt;&#xA;&lt;p&gt;Самая примечательная история в этой статье — о Кайене Дэвенпорт, которая подписала с Penguin договор на новый роман и параллельно тиснула сборник старых рассказов на «Амазонке» самостоятельно. Теперь Penguin разрывает договор и требует вернуть аванс.&lt;br&gt;&#xA;Такое впечатление, что ХХ век сильно испортил издателей. Они перестали лелеять своих авторов и им стало наплевать на своих читателей. Вместе с переходом на цифру и упадком физической дистрибуции, однако, издатели утрачивают свою нужность писателям. А чем больше издатель, тем хуже у него со стратегией, кажется.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon издаст &#34;Mongoliad&#34; под своим новым импринтом 47North</title>
-      <link>//localhost:1313/posts/2011-10-11-1/</link>
+      <link>/posts/2011-10-11-1/</link>
       <pubDate>Tue, 11 Oct 2011 13:38:58 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-10-11-1/</guid>
+      <guid>/posts/2011-10-11-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The Mongoliad: Book One (The Foreworld Series) [Kindle Edition]&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.amazon.com/Mongoliad-Book-One-Foreworld-ebook/dp/B005ML3B6W/ref=sr_1_2?ie=UTF8&amp;amp;qid=1318340142&amp;amp;sr=8-2&#34;&gt;amazon.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;И сам-то &lt;a href=&#34;http://mongoliad.com/&#34;&gt;Mongoliad&lt;/a&gt; проект любопытный — книга онлайн, для читателей-абонентов.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon запускает французский Kindle Store</title>
-      <link>//localhost:1313/posts/2011-10-07-1/</link>
+      <link>/posts/2011-10-07-1/</link>
       <pubDate>Fri, 07 Oct 2011 19:47:46 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-10-07-1/</guid>
+      <guid>/posts/2011-10-07-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The French Kindle Store contains 825,000 books, of which more than 30,000 are written in French, and another 4,000 are free, French-language classics.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://mashable.com/2011/10/07/amazon-kindle-france/&#34;&gt;mashable.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Всего с 34 тысячами французских книг (остальные 800 тыс не французские). Скромное начало. То есть в России ему нужно всего лишь купить ЛитРес.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon Kindle для Испании, Франции и Нидерландов</title>
-      <link>//localhost:1313/posts/2011-09-15-1/</link>
+      <link>/posts/2011-09-15-1/</link>
       <pubDate>Thu, 15 Sep 2011 14:25:40 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-09-15-1/</guid>
+      <guid>/posts/2011-09-15-1/</guid>
       <description>&lt;p&gt;Amazon открылся в Испании, правда, без электронных книг, но, говорят, скоро.&lt;/p&gt;&#xA;&lt;p&gt;По &lt;a href=&#34;http://goo.gl/lWTFH&#34;&gt;слухам&lt;/a&gt;, скоро будут и магазинчики Kindle-книг на нидерландском. А ещё и &lt;a href=&#34;http://www.the-digital-reader.com/2011/09/12/confirmed-kindle-coming-to-france-next-month&#34;&gt;на французском&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;А там, глядишь&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Тим Кармоди (Wired) о &#34;подписке Amazon&#34;</title>
-      <link>//localhost:1313/posts/2011-09-12-1/</link>
+      <link>/posts/2011-09-12-1/</link>
       <pubDate>Mon, 12 Sep 2011 20:09:23 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-09-12-1/</guid>
+      <guid>/posts/2011-09-12-1/</guid>
       <description>&lt;p&gt;I foresee three things coming from this:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Whether they buy into Amazon’s proposal or not, publishers will be spurred to take a harder look at their existing catalogs and figure out how they can make them available digitally. This could be through sales or subscription, through Amazon or some other portal.&lt;/li&gt;&#xA;&lt;li&gt;Whether it can convince major publishers on the right price or not, Amazon will find some way to make inexpensive, high-quality reading content available for free to every Amazon Prime subscriber and everyone who buys one of its new tablets. This, plus the video catalog, will become one of the major selling points of the device and differentiate it from Apple, Google or Barnes &amp;amp; Noble.&lt;/li&gt;&#xA;&lt;li&gt;We will all be forced to endure so many hackneyed “Netflix for books? I thought that was called the library!” jokes that it will make our brains melt and our eyes bleed.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.wired.com/epicenter/2011/09/publishers-amazon-subs/all/1&#34;&gt;http://www.wired.com/epicenter/2011/09/publishers-amazon-subs/all/1&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>WSJ: Amazon ведёт переговоры с издателями о подписке</title>
-      <link>//localhost:1313/posts/2011-09-12-2/</link>
+      <link>/posts/2011-09-12-2/</link>
       <pubDate>Mon, 12 Sep 2011 08:03:45 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-09-12-2/</guid>
+      <guid>/posts/2011-09-12-2/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Amazon.com Inc. is talking with book publishers about launching a Netflix Inc.-like service for digital books, in which customers would pay an annual fee to access a library of content, according to people familiar with the matter.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://online.wsj.com/article/SB10001424053111904265504576565040210224696.html?KEYWORDS=amazon+netflix&#34;&gt;online.wsj.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ход запоздалый, но всё ещё логичный. Подписочная модель для электронных книг уже не новость: Bookmate, 24symbols. Модель доказала свою состоятельность в других медиа — хотя бы упоминающийся в заметке Netflix. Amazon рано или поздно должен был об этом задуматься.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon приходит в Испанию 15 сентября</title>
-      <link>//localhost:1313/posts/2011-09-06-1/</link>
+      <link>/posts/2011-09-06-1/</link>
       <pubDate>Tue, 06 Sep 2011 20:07:46 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-09-06-1/</guid>
+      <guid>/posts/2011-09-06-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.elpais.com/articulo/tecnologia/Amazon/llega/Espana/septiembre/elpeputec/20110906elpeputec_4/Tes&#34;&gt;Se ha hecho esperar, exactamente 16 años, pero al fin llega. El miércoles día 14, Greg Greeley, vicepresidente de la división europea presentará el lanzamiento de Amazon.es. Y al día siguiente ya estará en funcionamiento la web española, según diversas fuentas del sector.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Книга напрокат для Kindle</title>
-      <link>//localhost:1313/posts/2011-08-27-1/</link>
+      <link>/posts/2011-08-27-1/</link>
       <pubDate>Sat, 27 Aug 2011 21:02:50 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-08-27-1/</guid>
+      <guid>/posts/2011-08-27-1/</guid>
       <description>&lt;p&gt;Цены, конечно, зачудительные. Но интересно, насколько модель будет жизнеспособной.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindle vs iPad</title>
-      <link>//localhost:1313/posts/2011-08-24-2/</link>
+      <link>/posts/2011-08-24-2/</link>
       <pubDate>Wed, 24 Aug 2011 12:42:14 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-08-24-2/</guid>
+      <guid>/posts/2011-08-24-2/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Both Kindle and iPad saw a 40% increase in searches in the busy post-Christmas period around Boxing Day and 27 December 2010. Searches for iPads also increased dramatically in the first week of March 2011 when the iPad 2 was launched. However, after the launch of the iPad 2 searches have flattened out and now iPad consistently receives twice as much search volume as the Kindle.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://weblogs.hitwise.com/james-murray/2011/08/ipad_twice_as_popular_as_kindl.html&#34;&gt;weblogs.hitwise.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Во время запуска Kindle 3 его искали в 4 раза меньше, чем iPad. А теперь — всего примерно в два. Жирный намёк Apple: гигант, на котором она стоит, ещё шевелится.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Читалка Чубайса может оказаться вполне ничего себе</title>
-      <link>//localhost:1313/posts/2011-08-24-1/</link>
+      <link>/posts/2011-08-24-1/</link>
       <pubDate>Wed, 24 Aug 2011 09:41:35 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-08-24-1/</guid>
+      <guid>/posts/2011-08-24-1/</guid>
       <description>&lt;p&gt;Но только не за 400 баксов.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Честный Google</title>
-      <link>//localhost:1313/posts/2011-08-17-3/</link>
+      <link>/posts/2011-08-17-3/</link>
       <pubDate>Wed, 17 Aug 2011 11:19:17 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-08-17-3/</guid>
+      <guid>/posts/2011-08-17-3/</guid>
       <description>&lt;p&gt;С расширением Related для Chrome первая же ссылка плагина на странице Амазона честно выдаёт ссылку на торрент-трекер, где можно скачать книжку.&lt;/p&gt;&#xA;&lt;p&gt;Помнится, в своё время Амазон так раскипятилась, когда пара нидерландских гиков сделала адд-он для Firefox с похожим функционалом.&lt;/p&gt;</description>
     </item>
     <item>
       <title>5 книжных мейджоров и Apple подали в суд против Amazon</title>
-      <link>//localhost:1313/posts/2011-08-10-b/</link>
+      <link>/posts/2011-08-10-b/</link>
       <pubDate>Wed, 10 Aug 2011 15:19:11 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-08-10-b/</guid>
+      <guid>/posts/2011-08-10-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Terrified&amp;rdquo; by Amazon&amp;rsquo;s Kindle e-reader and discounted e-book pricing, five major publishers allegedly acted together to increase e-book prices and compel Amazon to abandon its discount sales strategy. That&amp;rsquo;s the gist of a new class action antitrust lawsuit &lt;a href=&#34;http://www.hbsslaw.com/file.php?id=761&amp;amp;key=ecdb5cfd51c029dd03eab73f6ccdd096&#34;&gt;filed&lt;/a&gt; in the US District Court for the Northern District of California by the &lt;a href=&#34;http://www.hbsslaw.com/cases-and-investigations/ebooks&#34;&gt;Hagens Berman litigation group&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The five book sellers named in the suit are HarperCollins, Hachette Book Group, Macmillan, Penguin Group Inc., and Simon &amp;amp; Schuster Inc, plus one more defendant: Apple.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindle Cloud Reader: читай всегда, читай везде</title>
-      <link>//localhost:1313/posts/2011-08-10-a/</link>
+      <link>/posts/2011-08-10-a/</link>
       <pubDate>Wed, 10 Aug 2011 14:31:38 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-08-10-a/</guid>
+      <guid>/posts/2011-08-10-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://read.amazon.com&#34;&gt;Kindle Cloud Reader&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Дотянулся кровавый Amazon: читаем Kindle-книжки в браузере (пока только Chrome, Safari и Safari for iOS). И даже храним их оффлайн (непонятно, правда, сколько). И покупаем, ясное дело. На любом компе и в iPad&amp;rsquo;e. Кажется, Amazon достроила свою экосистему до конца. Осталось всё нормально интегрировать и допилить. Или ей и так сойдёт? PS По слухам, пришествие Amazon в Россию запланировано уже на 2012 года. Пока, вроде бы, без Kindle. «Озону» приготовиться с вещами. Кто следующий?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon обзавёлся социальной сетью для Kindle</title>
-      <link>//localhost:1313/posts/2011-08-08-1/</link>
+      <link>/posts/2011-08-08-1/</link>
       <pubDate>Mon, 08 Aug 2011 09:38:39 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-08-08-1/</guid>
+      <guid>/posts/2011-08-08-1/</guid>
       <description>&lt;p&gt;Всё, как у людей — вы фолловите, вас фолловят, с FB и Twitter, в FB и Twitter — заметки и смена статуса чтения. Пока всё скромно.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://kindle.amazon.com&#34;&gt;kindle.amazon.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon Kindle договорился с Mondadori и Einaudi</title>
-      <link>//localhost:1313/posts/2011-07-29-1/</link>
+      <link>/posts/2011-07-29-1/</link>
       <pubDate>Fri, 29 Jul 2011 12:44:11 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-07-29-1/</guid>
+      <guid>/posts/2011-07-29-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;According to the press release, the Mondadori, Einaudi, Sperling&amp;amp;Kupfer and Piemme publishing houses are prepared to offer upwards of 2 thousand new eBooks to be sold in the US, UK, and German Kindle Stores. The selection is expected to expand by another thousand titles by the end of the year.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.mediabistro.com/ebooknewser/mondadori-to-release-italian-langauge-ebooks-on-the-kindle_b13923&#34;&gt;mediabistro.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ещё немного, и Умберто Эко придётся разрешить продавать свои книги в цифровом виде ;)&lt;/p&gt;&#xA;&lt;p&gt;Если серьёзно — шаг к Amazon Kindle Italy. И дальше на восток?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Гарри Поттер на «Амазонке»</title>
-      <link>//localhost:1313/posts/2011-07-21-1/</link>
+      <link>/posts/2011-07-21-1/</link>
       <pubDate>Thu, 21 Jul 2011 21:11:25 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-07-21-1/</guid>
+      <guid>/posts/2011-07-21-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;We’re working closely with Pottermore to make sure Kindle customers will be able to buy and read J.K. Rowling’s Harry Potter books,” Amazon told us today.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://paidcontent.org/article/419-amazon-says-harry-potter-e-books-will-be-available-on-kindle/&#34;&gt;paidcontent.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Вслед за Google с Роулинг, кажется, договорился и Amazon.&lt;br&gt;&#xA;А я уж думал, Google «выкупил» цифрового Поттера.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Амазон начал сдавать электронные учебники в аренду</title>
-      <link>//localhost:1313/posts/2011-07-18-1/</link>
+      <link>/posts/2011-07-18-1/</link>
       <pubDate>Mon, 18 Jul 2011 14:03:06 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-07-18-1/</guid>
+      <guid>/posts/2011-07-18-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Amazon.com announced the launch of Kindle Textbook Rental—now students can save up to 80% off textbook list prices by renting from the Kindle Store. Tens of thousands of textbooks are available for the 2011 school year from leading textbook publishers such as John Wiley &amp;amp; Sons, Elsevier and Taylor &amp;amp; Francis. Students can find details about the program at &lt;a href=&#34;http://cts.businesswire.com/ct/CT?id=smartlink&amp;amp;url=http%3A%2F%2Fwww.amazon.com%2Fkindletextbooks&amp;amp;esheet=6796108&amp;amp;lan=en-US&amp;amp;anchor=www.amazon.com%2Fkindletextbooks&amp;amp;index=1&amp;amp;md5=cdf129a6f80c55852b0bccd300a9eb85&#34;&gt;www.amazon.com/kindletextbooks&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.businesswire.com/news/home/20110718005937/en/Students-Save-80-Kindle-Textbook-Rental&#34;&gt;businesswire.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;на срок от месяца до года. Учитывая, что учебники в США стоят неимоверных денег (100–150 долларов), даже электронные, то взять на время за 1/5 цены — good deal.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Джон Лок — первый ПИСС-миллионник на Kindle</title>
-      <link>//localhost:1313/posts/2011-06-20-a/</link>
+      <link>/posts/2011-06-20-a/</link>
       <pubDate>Mon, 20 Jun 2011 14:14:59 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-06-20-a/</guid>
+      <guid>/posts/2011-06-20-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;John Locke has become the first self-published author to sell more than one million e-books through Amazon.&lt;/p&gt;&#xA;&lt;p&gt;The author used Amazon&amp;rsquo;s Kindle Direct Publishing platform to publish and sell his titles. He joins Stieg Larsson, James Patterson, Nora Roberts, Charlaine Harris, Lee Child, Suzanne Collins and Michael Connelly in what Amazon dub the Kindle Million Club.&lt;/p&gt;&#xA;&lt;p&gt;Locke said: &amp;ldquo;Kindle Direct Publishing has provided an opportunity for independent authors to compete on a level playing field with the giants of the book selling industry. Not only did KDP give me a chance, they helped at every turn. Quite simply, KDP is the greatest friend an author can have.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Продажи эл.книг на Amazon превысили бумажные</title>
-      <link>//localhost:1313/posts/2011-05-19-h/</link>
+      <link>/posts/2011-05-19-h/</link>
       <pubDate>Thu, 19 May 2011 13:49:07 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-05-19-h/</guid>
+      <guid>/posts/2011-05-19-h/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Today, less than four years after introducing Kindle books, Amazon.com customers are now purchasing more Kindle books than all print books - hardcover and paperback - combined.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://phx.corporate-ir.net/phoenix.zhtml?c=176060&amp;amp;p=irol-newsArticle&amp;amp;ID=1565581&amp;amp;highlight&#34;&gt;phx.corporate-ir.net&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;На 100 проданных бумажных книг приходится 105 электронных.&lt;br&gt;&#xA;Уточняется, впрочем, что в счёт бумажных идут те, у которых нет электронной версии. А ассортимент электронных составляет 950 тыс.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon&#39;у угрожают авторы</title>
-      <link>//localhost:1313/posts/2011-05-12-a/</link>
+      <link>/posts/2011-05-12-a/</link>
       <pubDate>Thu, 12 May 2011 09:59:33 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-05-12-a/</guid>
+      <guid>/posts/2011-05-12-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;My long-time friend and fellow book author, Ernie Zelinski, alerted me to the &lt;strong&gt;Amazon Kindle Swindle&lt;/strong&gt; - where Amazon.com is making out like a bandit! And providing no relief to book authors whose works are being stolen - and resold by Amazon.com.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://blog.bookmarket.com/2010/05/amazon-kindle-swindle-authors-people.html&#34;&gt;blog.bookmarket.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Вкратце суть истории. Есть книга некоего автора А, продающаяся на Amazon. Приходит некто Б, и начинает продавать на Amazon ту же самую книгу, но уже от себя. Автор А предъявляет претензии, но Amazon отмалчивается. И собирает деньги. Шум, который поднимают авторы, отчетливо напоминает российский — введение системы идентификации и пр. Скорее всего, всё закончится процедурой DMCA. Но история показательная.&lt;/p&gt;</description>
     </item>
     <item>
       <title>28 из 100 бестселлеров для Kindle — ПИССы</title>
-      <link>//localhost:1313/posts/2011-04-26-a/</link>
+      <link>/posts/2011-04-26-a/</link>
       <pubDate>Tue, 26 Apr 2011 12:07:44 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-04-26-a/</guid>
+      <guid>/posts/2011-04-26-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;There are &lt;strong&gt;28 self-published titles in Top 100 Kindle eBooks&lt;/strong&gt;. It’s not Amanda Hocking to lead the way, but John Locke – with 8 titles. His &lt;em&gt;Vegas Moon&lt;/em&gt; is the fourth best-selling book on April 21st.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://ebookfriend.ly/2011/04/21/top-self-published-books-in-kindle-store-april-21st-2011/&#34;&gt;ebookfriend.ly&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Если кто не помнит «Маятник Фуко», ПИСС — (в прекрасном переводе Костюкович) это писатель, издающийся за собственный счёт.&lt;/p&gt;&#xA;&lt;p&gt;Времена, правда, уже не те. И издательство не «Гарамон». ПИССу на Amazon, счёт нужен, в сущности, только для того, чтобы деньги получать.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon.de не только начал продавать Kindle, но и открыл KDP</title>
-      <link>//localhost:1313/posts/2011-04-25-a/</link>
+      <link>/posts/2011-04-25-a/</link>
       <pubDate>Mon, 25 Apr 2011 09:34:07 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-04-25-a/</guid>
+      <guid>/posts/2011-04-25-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The Amazon.de Kindle Store serves customers in Germany, Austria, Switzerland, Liechtenstein and Luxembourg, but we have no doubt that it&amp;rsquo;ll hit other nations shortly.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://hothardware.com/News/Amazonde-Allows-SelfPublishing-To-Kindle-EBook-Store/&#34;&gt;hothardware.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Пипец к российским издателям подбирается всё ближе. Против сервиса самопубликаций на Amazon сражаться будет не очень просто, убеждая авторов в нужности издателя.&lt;/p&gt;&#xA;&lt;p&gt;Конечно, переходить Березину Amazon будет долго — интерфейс и пр. Но рано или поздно — в течение лет трёх,— думаю, это случится.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon сегодня продает Kindle DX за $299</title>
-      <link>//localhost:1313/posts/2011-04-15-b/</link>
+      <link>/posts/2011-04-15-b/</link>
       <pubDate>Fri, 15 Apr 2011 09:46:21 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-04-15-b/</guid>
+      <guid>/posts/2011-04-15-b/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.amazon.com/Kindle-DX-Wireless-Reader-3G-Global/dp/B002GYWHSQ/ref=xs_gb_A12ANP0OVQ7VUS?_encoding=UTF8&amp;amp;m=ATVPDKIKX0DER&amp;amp;pf_rd_p=441937901&amp;amp;pf_rd_s=right-1&amp;amp;pf_rd_t=701&amp;amp;pf_rd_i=20&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=1MC8Y8H08R1HBGR49MF6&#34;&gt;amazon.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Судя по пресс-релизу — только сегодня цена на большой букридер от Amazon скинута на $80. Но, может, если верить Кевину Келли, это уже не временно?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ещё более дешовый Kindle - с рекламой</title>
-      <link>//localhost:1313/posts/2011-04-11-b/</link>
+      <link>/posts/2011-04-11-b/</link>
       <pubDate>Mon, 11 Apr 2011 22:12:16 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-04-11-b/</guid>
+      <guid>/posts/2011-04-11-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Amazon has sold loads of cheap Kindles ever since it decided to introduce a WiFi-only model and drop the price to just $139. Now, the company is taking its low-priced-Kindle initiative a step further by &lt;a href=&#34;http://www.amazon.com/Wireless-Reading-Graphite-Display-Technology/dp/B004HFS6Z0/ref=amb_link_355870602_3?pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_s=gateway-center-column&amp;amp;pf_rd_r=1E65KNRYR5WMENVCN2ST&amp;amp;pf_rd_t=101&amp;amp;pf_rd_p=1293369642&amp;amp;pf_rd_i=507846&#34;&gt;introducing on-screen ads to its lowest-price model&lt;/a&gt;, allowing the company to drop the price by another $25. The ad-supported Kindles will begin shipping on May 3.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://arstechnica.com/gadgets/news/2011/04/amazon-adds-ad-supported-kindle-to-its-lineup-for-114.ars&#34;&gt;arstechnica.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;То есть за $114 (вместо $139), но с рекламной заставкой. Тоже ход.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Кевин Келли: бесплатный Kindle к концу года</title>
-      <link>//localhost:1313/posts/2011-02-26-a/</link>
+      <link>/posts/2011-02-26-a/</link>
       <pubDate>Sat, 26 Feb 2011 22:53:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-02-26-a/</guid>
+      <guid>/posts/2011-02-26-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.kk.org/thetechnium/archives/2011/02/free_kindle_thi.php&#34;&gt;kk.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;С момента появления Kindle цена на него снижается медленно, но неуклонно. В ноябре 2011 года линия снижения упрётся в ноль.&lt;br&gt;&#xA;«Безос просто улыбнулся и сказал: &amp;ldquo;О! Вы тоже это заметили&amp;rdquo;. А потом снова улыбнулся».&lt;/p&gt;&#xA;&lt;p&gt;Келли полагает, что «бесплатный Kindle» будет не для всех, а только для премиум-клиентов, которые покупают за $79 годовой абонемент.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Почему Амазон не беспокоится по поводу новых правил Apple</title>
-      <link>//localhost:1313/posts/2011-02-23-a/</link>
+      <link>/posts/2011-02-23-a/</link>
       <pubDate>Wed, 23 Feb 2011 23:23:21 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-02-23-a/</guid>
+      <guid>/posts/2011-02-23-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Amazon has been working on &lt;a href=&#34;http://www.amazon.com/gp/feature.html/ref=amb_link_354118762_1?ie=UTF8&amp;amp;docId=1000579091&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_s=auto-sparkle&amp;amp;pf_rd_r=1Z94ZCMWPJTT7MGY9BZS&amp;amp;pf_rd_t=301&amp;amp;pf_rd_p=1275962722&amp;amp;pf_rd_i=kindle%20for%20web&#34;&gt;&lt;em&gt;Kindle for the Web&lt;/em&gt;&lt;/a&gt;, which has been in beta testing since last September. At the moment, you can only preview the first chapter from select titles on Amazon, but according to the &lt;em&gt;Kindle for the Web&lt;/em&gt; page, full text is coming soon.&lt;/p&gt;&#xA;&lt;p&gt;To test this out, I went searching through Amazon’s Top 100 list to find a title available in the &lt;em&gt;Kindle for the Web&lt;/em&gt; program. The book I stumbled upon was Abraham Verghese’s &lt;a href=&#34;http://www.amazon.com/gp/product/0375714367?ie=UTF8&amp;amp;tag=landochuck-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=0375714367&#34;&gt;Cutting for Stone&lt;/a&gt;&lt;img src=&#34;http://www.assoc-amazon.com/e/ir?t=landochuck-20&amp;amp;l=as2&amp;amp;o=1&amp;amp;a=0375714367&#34; alt=&#34;&#34;&gt;. Once there, you’ll see a green box to the right, labeled Kindle Edition, which contains a button giving you the option to “Read first chapter FREE”. When you click that button, Kindle for the Web opens in your browser (Firefox 3.6, Safari 5, or Chrome 5), allowing you to read the first chapter online. While this works seamlessly on the desktop and iPad, getting Kindle for the Web to work on an iPhone takes a little extra work, but it can be done.&lt;/p&gt;</description>
     </item>
     <item>
       <title>В новой прошивке Kindle появятся публичные заметки</title>
-      <link>//localhost:1313/posts/2011-02-07-c/</link>
+      <link>/posts/2011-02-07-c/</link>
       <pubDate>Mon, 07 Feb 2011 23:12:26 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-02-07-c/</guid>
+      <guid>/posts/2011-02-07-c/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Public Notes – This feature lets Kindle users choose to make their book notes and highlights available for others to see.  Any Kindle user – including authors, their fans, book reviewers, professors and passionate readers everywhere – can opt-in to share their thoughts on book passages and ideas with friends, family members, colleagues, and the greater Kindle community of people who love to read.  This is a new way for readers to share their excitement and knowledge about books and get more from the books they read.  To review and turn on Public Notes in your own books, view the Public Notes of people you follow, track your reading activities, see Popular Highlights and your annotations, and view your full library of books, go to &lt;a href=&#34;https://kindle.amazon.com/&#34; title=&#34;http://kindle.amazon.com&#34;&gt;http://kindle.amazon.com&lt;/a&gt;. &lt;/p&gt;</description>
     </item>
     <item>
       <title>Продажи книг для Kindle превысили продажи обложки</title>
-      <link>//localhost:1313/posts/2011-01-27-c/</link>
+      <link>/posts/2011-01-27-c/</link>
       <pubDate>Thu, 27 Jan 2011 21:40:12 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-01-27-c/</guid>
+      <guid>/posts/2011-01-27-c/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;In a statement, CEO Jeff Bezos said, “Last July we announced that Kindle books had passed hardcovers and predicted that Kindle would surpass paperbacks in the second quarter of this year, so this milestone has come even sooner than we expected – and it’s on top of continued growth in paperback sales.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://mashable.com/2011/01/27/kindle-books-outselling-paperbacks/&#34;&gt;mashable.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Если учесть, что Amazon — это один из крупнейших ритейлеров книг в США, то картинка складывается забавная.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Amazon Took Down Booksellers….Are Publishers Next?</title>
-      <link>//localhost:1313/posts/2011-01-12-b/</link>
+      <link>/posts/2011-01-12-b/</link>
       <pubDate>Wed, 12 Jan 2011 21:28:28 +0000</pubDate>
-      <guid>//localhost:1313/posts/2011-01-12-b/</guid>
+      <guid>/posts/2011-01-12-b/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://techcrunch.com/2011/01/12/first-amazon-took-down-booksellers-are-publishers-next/&#34;&gt;techcrunch.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Очень дельная статья Сары Лейси о том, как Amazon стал предоставлять авторам традиционные издательские инструменты обратной связи типа real-time данные объёмов продаж. И что из этого может выйти. Для авторов. И для издателей.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon начал продавать прессу через Kindle для Android</title>
-      <link>//localhost:1313/posts/2010-12-19-15/</link>
+      <link>/posts/2010-12-19-15/</link>
       <pubDate>Sun, 19 Dec 2010 23:32:21 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-12-19-15/</guid>
+      <guid>/posts/2010-12-19-15/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Amazon today announced that Kindle for Android is the first Kindle app to receive an update that enables users to buy, read, and sync over 100 Kindle newspapers and magazines, including &lt;em&gt;The New York Times&lt;/em&gt;, &lt;em&gt;Newsweek&lt;/em&gt;, &lt;em&gt;The Atlantic&lt;/em&gt;, and many more. Kindle for Android users can now buy a single issue or subscribe to the most popular newspapers and magazines, have them automatically delivered to their Android-powered device, and enjoy a full color reading experience optimized for the touch interface of Android-powered devices.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Относительные восторги Amazon</title>
-      <link>//localhost:1313/posts/2010-10-25-139/</link>
+      <link>/posts/2010-10-25-139/</link>
       <pubDate>Mon, 25 Oct 2010 19:22:58 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-10-25-139/</guid>
+      <guid>/posts/2010-10-25-139/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;During the past 30 days, Amazon.com customers purchased more Kindle books than print books&amp;ndash;hardcover and paperback combined&amp;ndash;for the top 10, 25, 100, and 1,000 bestselling books on Amazon.com.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;For the top 10 bestselling books on Amazon.com, customers are choosing Kindle books over hardcover and paperback books combined at a rate of greater than 2 to 1. Kindle books are also outselling print books for the top 25, 100, and 1,000 bestsellers&amp;ndash;it&amp;rsquo;s across the board,&amp;rdquo; said Kessel. &amp;ldquo;This is remarkable when you consider that we&amp;rsquo;ve been selling hardcover and paperback books for 15 years, and Kindle books for just 36 months.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon стал ближе к издателю</title>
-      <link>//localhost:1313/posts/2010-10-09-19/</link>
+      <link>/posts/2010-10-09-19/</link>
       <pubDate>Sat, 09 Oct 2010 15:28:52 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-10-09-19/</guid>
+      <guid>/posts/2010-10-09-19/</guid>
       <description>&lt;p&gt;Выпустив плагин для экспорта книг из InDesign в формат для Kindle: &lt;a href=&#34;http://www.macuser.co.uk/2757-amazon-plugs-indesign-into-kindle&#34;&gt;http://www.macuser.co.uk/2757-amazon-plugs-indesign-into-kindle&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindle for the Web</title>
-      <link>//localhost:1313/posts/2010-09-28-91/</link>
+      <link>/posts/2010-09-28-91/</link>
       <pubDate>Tue, 28 Sep 2010 13:32:02 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-09-28-91/</guid>
+      <guid>/posts/2010-09-28-91/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.amazon.com/gp/feature.html/?docId=1000579091&#34;&gt;amazon.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Онлайновые книги становятся, похоже, трендом. Amazon запустила, правда, не читалку, но превьюер фрагментов электронных книг.&lt;br&gt;&#xA;Bookmate пока может расслабиться )) Вопрос, надолго ли?&lt;/p&gt;</description>
     </item>
     <item>
       <title>AmazonCrossing - импринт для переводных книг</title>
-      <link>//localhost:1313/posts/2010-09-25-20/</link>
+      <link>/posts/2010-09-25-20/</link>
       <pubDate>Sat, 25 Sep 2010 20:12:44 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-09-25-20/</guid>
+      <guid>/posts/2010-09-25-20/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;5.&lt;/strong&gt; &lt;a href=&#34;http://www.amazon.com/Field-Work-Ukrainian-Oksana-Zabuzhko/dp/1611090083/ref=br_lf_m_1000507571_1_5_img?ie=UTF8&amp;amp;m=ATVPDKIKX0DER&amp;amp;s=books&amp;amp;pf_rd_p=1275759362&amp;amp;pf_rd_s=center-3&amp;amp;pf_rd_t=1401&amp;amp;pf_rd_i=1000507571&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=1NYBXGW9RZ48P7G8QCZ3&#34;&gt;&lt;img src=&#34;http://ecx.images-amazon.com/images/I/51ws2TX9pYL._SL110_.jpg&#34; alt=&#34;Field Work in Ukrainian Sex&#34;&gt;&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;http://www.amazon.com/Field-Work-Ukrainian-Oksana-Zabuzhko/dp/1611090083/ref=br_lf_m_1000507571_1_5_ttl?ie=UTF8&amp;amp;m=ATVPDKIKX0DER&amp;amp;s=books&amp;amp;pf_rd_p=1275759362&amp;amp;pf_rd_s=center-3&amp;amp;pf_rd_t=1401&amp;amp;pf_rd_i=1000507571&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=1NYBXGW9RZ48P7G8QCZ3&#34;&gt;Field Work in Ukrainian Sex&lt;/a&gt;&lt;br&gt;&#xA;by &lt;a href=&#34;http://www.amazon.com/-/e/B00423WOVO?pf_rd_p=1275759362&amp;amp;pf_rd_s=center-3&amp;amp;pf_rd_t=1401&amp;amp;pf_rd_i=1000507571&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=1NYBXGW9RZ48P7G8QCZ3&#34;&gt;Oksana Zabuzhko&lt;/a&gt; No customer rating available.&lt;br&gt;&#xA;&lt;a href=&#34;http://www.amazon.com/review/write-a-review.html?ie=UTF8&amp;amp;asin=1611090083&amp;amp;pf_rd_p=1275759362&amp;amp;pf_rd_s=center-3&amp;amp;pf_rd_t=1401&amp;amp;pf_rd_i=1000507571&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=1NYBXGW9RZ48P7G8QCZ3&#34;&gt;Write a review.&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Available for Pre-order&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;AmazonCrossing&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;April 30, 2011&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Paperback&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.amazon.com/gp/feature.html?ie=UTF8&amp;amp;docId=1000507571&#34;&gt;amazon.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Как я понял, на бумаге будет book-on-demand, а так - Kindle Edition. Переводная книга, теретически, и впрямь очень подходит для цифрового издания — она дороже по расходам, чем обычная (из-за выплат переводчику), но за счёт экономии на бумаге может быть всё равно выйдет дешевле.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Пропустил важное: Киндл теперь поддерживает русский язык!</title>
-      <link>//localhost:1313/posts/2010-07-29-171/</link>
+      <link>/posts/2010-07-29-171/</link>
       <pubDate>Thu, 29 Jul 2010 09:20:26 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-07-29-171/</guid>
+      <guid>/posts/2010-07-29-171/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Kindle can now display Cyrillic (such as Russian)&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.amazon.com/Kindle-Wireless-Reading-Display-Generation/dp/B003FSUDM4/ref=sa_menu_kdp33&#34;&gt;amazon.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Вот это новость! Никаких хаков не надо. Когда же появятся русские книги в Amazon?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новый Киндл: компактнее, легче, дешевле, 27 августа</title>
-      <link>//localhost:1313/posts/2010-07-29-127/</link>
+      <link>/posts/2010-07-29-127/</link>
       <pubDate>Thu, 29 Jul 2010 08:28:33 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-07-29-127/</guid>
+      <guid>/posts/2010-07-29-127/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.guardian.co.uk/business/2010/jul/29/amazon-new-kindle-uk-ebook-store&#34;&gt;guardian.co.uk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Новая модель &amp;ndash; при прежнем размере экрана, стала компактнее и легче (ок. 250 г). Лучше стала и батарея. Других новаций &amp;ndash; сенсорного или цветного экрана &amp;ndash; в новой модели нет. Вариант WiFi + 3G в США будет стоит $189, только WiFi &amp;ndash; %139. Безос высказался в том духе, что теперь Kindle сможет позволить себе каждый член семьи. Начало продаж намечено на 27 августа.&lt;br&gt;&#xA;139 долларов — это 4250 руб. Интересно, захотят ли (смогут ли) Озон или iMobilco продавать свои читалки по такой цене?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Бумага vs цифра: 100 : 180 (Amazon)</title>
-      <link>//localhost:1313/posts/2010-07-19-37/</link>
+      <link>/posts/2010-07-19-37/</link>
       <pubDate>Mon, 19 Jul 2010 20:39:48 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-07-19-37/</guid>
+      <guid>/posts/2010-07-19-37/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Over the past three months, for every 100 hardcover books Amazon.com has sold, it has sold 143 Kindle books. Over the past month, for every 100 hardcover books Amazon.com has sold, it has sold 180 Kindle books. This is across Amazon.com&amp;rsquo;s entire U.S. book business and includes sales of hardcover books where there is no Kindle edition. Free Kindle books are excluded and if included would make the number even higher.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon Media Room: News Release</title>
-      <link>//localhost:1313/posts/2010-07-0114/</link>
+      <link>/posts/2010-07-0114/</link>
       <pubDate>Thu, 01 Jul 2010 08:31:58 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-07-0114/</guid>
+      <guid>/posts/2010-07-0114/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;new latest generation Kindle DX and new lower price of $379, down from $489, and still with free 3G wireless&amp;ndash;no monthly bills or annual contracts. Kindle DX is the 9.7-inch large screen member of Amazon&amp;rsquo;s family of revolutionary portable readers. The new Kindle DX features a new graphite enclosure and an all new, high contrast electronic ink display with 50 percent better contrast for the clearest text and sharpest images. The new Kindle DX is available for pre-order starting today at &lt;a href=&#34;http://www.amazon.com&#34;&gt;http://www.amazon.com&lt;/a&gt; and it ships July 7.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon чувствует себя хорошо</title>
-      <link>//localhost:1313/posts/2010-04-22-13/</link>
+      <link>/posts/2010-04-22-13/</link>
       <pubDate>Thu, 22 Apr 2010 20:37:28 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-04-22-13/</guid>
+      <guid>/posts/2010-04-22-13/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;We remain heads-down focused on customers,” said Jeff Bezos, founder and CEO of Amazon.com. “Amazon Prime has just celebrated its fifth anniversary, adoption of Amazon Web Services continues to accelerate, Kindle remains our #1 bestselling product, and earlier this week, Kindle selection reached 500,000 titles.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.businesswire.com/portal/site/home/permalink/?ndmViewId=news_view&amp;amp;newsId=20100422006888&amp;amp;newsLang=en&#34;&gt;businesswire.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Продажи за год выросли на 46%. А электронных книг в магазине стало больше 500 тысяч.&lt;/p&gt;&#xA;&lt;p&gt;«Поручик! Про российские магазины электронных книг молчать!»&lt;/p&gt;</description>
     </item>
     <item>
       <title>The iPad, the Kindle, and the future of books : The New Yorker</title>
-      <link>//localhost:1313/posts/2010-04-19-211/</link>
+      <link>/posts/2010-04-19-211/</link>
       <pubDate>Mon, 19 Apr 2010 19:11:33 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-04-19-211/</guid>
+      <guid>/posts/2010-04-19-211/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“By the end of last year, Amazon accounted for an estimated eighty per cent of all electronic book sales, and $9.99 seemed established as the price of an e-book. Publishers were panicked,” Auletta writes. After a confrontation with Amazon, five of the “big six” publishers have agreed to sell their e-books through Apple’s iBooks store, where they will be allowed to set prices, to a certain extent. One Apple insider told Auletta, “Ultimately, Apple is in the device—not the content—business. Steve Jobs wants to make sure content people are his partner. Steve is in the I win/you win school. Jeff Bezos is in the I win/you lose school.” Auletta’s sources suggest that Amazon was making a bid to ramp up its publishing game. “What Amazon really wanted to do was make the price of e-books so low that people would no longer buy hardcover books. Then the next shoe to drop would be to cut publishers out and go right to authors,” a close associate of Jeff Bezos told Auletta. “For the time being,” Auletta writes, “Apple’s interest in the book market has given publishers a reprieve. A close associate of Bezos said, ‘Amazon was thinking of direct publishing—until the Apple thing happened.’ ” Publishers are also encouraged to know that Google will be opening Google Editions, an online e-books store, this summer. Dan Clancy, who will direct Google Editions, told Auletta that their store’s e-books will be accessible to users of any device, and that Google Editions will let publishers set prices. “Having already digitized twelve million books,” Auletta writes, “Google will have a far greater selection of books than Amazon or Apple. It will also make e-books available for bookstores to sell, giving ‘the vast majority’ of revenues to the store, Clancy said.”♦&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindle for iPad</title>
-      <link>//localhost:1313/posts/2010-03-22-89/</link>
+      <link>/posts/2010-03-22-89/</link>
       <pubDate>Mon, 22 Mar 2010 15:14:24 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-03-22-89/</guid>
+      <guid>/posts/2010-03-22-89/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://mashable.com/2010/03/22/kindle-app-ipad/&#34;&gt;http://mashable.com/2010/03/22/kindle-app-ipad/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;В биологии, кажется, это называется паразитом ;)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindle for Mac</title>
-      <link>//localhost:1313/posts/2010-03-18-90/</link>
+      <link>/posts/2010-03-18-90/</link>
       <pubDate>Thu, 18 Mar 2010 07:54:11 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-03-18-90/</guid>
+      <guid>/posts/2010-03-18-90/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.amazon.com/gp/feature.html/ref=kcp_mac_mkt_lnd?docId=1000464931&#34;&gt;amazon.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Без лишнего шума Amazon, вслед за программой Kindle for PC, выпустила Kindle for Mac — для чтения приобретенных в магазине электронных книг.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon открывает API для разработки программ для Kindle</title>
-      <link>//localhost:1313/posts/2010-01-21-1/</link>
+      <link>/posts/2010-01-21-1/</link>
       <pubDate>Thu, 21 Jan 2010 09:19:31 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-01-21-1/</guid>
+      <guid>/posts/2010-01-21-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Amazon announced that it is inviting software developers to build and upload active content that will be available in the Kindle Store later this year. The new Kindle Development Kit gives developers access to programming interfaces, tools and documentation to build active content for Kindle–the #1 bestselling, most wished for, and most gifted product across all categories on Amazon. Developers can learn more about the Kindle Development Kit today at &lt;a href=&#34;http://www.amazon.com/kdk/&#34;&gt;http://www.amazon.com/kdk/&lt;/a&gt; and sign up to be notified when the limited beta starts next month.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon предложил 70% роялти. Но с условиями</title>
-      <link>//localhost:1313/posts/2010-01-20-1/</link>
+      <link>/posts/2010-01-20-1/</link>
       <pubDate>Wed, 20 Jan 2010 22:34:03 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-01-20-1/</guid>
+      <guid>/posts/2010-01-20-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Amazon&amp;rsquo;s old system will remain in place for those who don&amp;rsquo;t want to participate in the new arrangement, but the carrot to upgrade is pretty attractive—a typical $8.99 book would pay an author $3.15 under the &amp;ldquo;standard&amp;rdquo; system, while an author or publisher would get $6.25 under the new 70 percent scheme.&lt;/p&gt;&#xA;&lt;p&gt;The catch, however, is that authors or publishers must list their books for between $2.99 and $9.99 on the Kindle. A majority of Kindle books already fall into this range, but authors are able to set prices higher if they want, and some do.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon открывает Kindle Digital Text Platform для иностранцев</title>
-      <link>//localhost:1313/posts/2010-01-15-1/</link>
+      <link>/posts/2010-01-15-1/</link>
       <pubDate>Fri, 15 Jan 2010 12:31:23 +0000</pubDate>
-      <guid>//localhost:1313/posts/2010-01-15-1/</guid>
+      <guid>/posts/2010-01-15-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://Amazon.com&#34;&gt;Amazon.com&lt;img src=&#34;http://i.ixnp.com/images/v6.19/t.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt; this morning announced that it is expanding its self-service &lt;a href=&#34;http://dtp.amazon.com&#34;&gt;Kindle Digital Text Platform&lt;img src=&#34;http://i.ixnp.com/images/v6.19/t.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt; worldwide, giving more authors and publishers the chance to upload and sell books in English, German and French to customers around the world in the &lt;a href=&#34;http://www.amazon.com/kindlestore&#34;&gt;Kindle Store&lt;img src=&#34;http://i.ixnp.com/images/v6.19/t.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Until today, DTP was only available to authors and publishers based in the United States. Amazon says additional language options with DTP will be added in the coming months.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.techcrunch.com/2010/01/15/amazon-kindle-digital-text-platform/&#34;&gt;techcrunch.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Пока только для немецкого и французского языков, но уже для издателей и авторов по всему миру. Ещё бы открыли AZW.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon - локальная революция</title>
-      <link>//localhost:1313/posts/2009-12-26-11/</link>
+      <link>/posts/2009-12-26-11/</link>
       <pubDate>Sat, 26 Dec 2009 20:52:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-12-26-11/</guid>
+      <guid>/posts/2009-12-26-11/</guid>
       <description>&lt;p&gt;According to Amazon, yesterday marked the first time that &lt;em&gt;more ebooks were sold than real books.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;a href=&#34;http://mashable.com/2009/12/26/kindle-ebook-sales/&#34;&gt;http://mashable.com/2009/12/26/kindle-ebook-sales/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Взломали DRM Kindle</title>
-      <link>//localhost:1313/posts/2009-12-22-166/</link>
+      <link>/posts/2009-12-22-166/</link>
       <pubDate>Tue, 22 Dec 2009 22:18:15 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-12-22-166/</guid>
+      <guid>/posts/2009-12-22-166/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The hacker, known only as Labba, posed a challenge on a hacker forum and was quickly aided by other programmers to discover the hack for the Kindle. They were essentially able to break the DRM protection and find a way to get the eBooks converted to an open format and into PDF files. This allows the files to be read on several eReaders, not just the Kindle. Now we have to wait and see what Amazon will do to patch things up, but Labba says whenever Amazon does release a software solution, he will be able to hack it again — just like the iPhone getting jailbroken with every software update. Or, you know, you can just buy paper books.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Автор бизнес-бестселлеров передал права Amazon</title>
-      <link>//localhost:1313/posts/2009-12-15-23/</link>
+      <link>/posts/2009-12-15-23/</link>
       <pubDate>Tue, 15 Dec 2009 10:58:33 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-12-15-23/</guid>
+      <guid>/posts/2009-12-15-23/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Ever since electronic books emerged as a major growth market, New York’s largest publishing houses have worried that big-name authors might sign deals directly with e-book retailers or other new ventures, bypassing traditional publishers entirely.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#secondParagraph&#34;&gt;Skip to next paragraph&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Now, one well-known author is doing just that.&lt;/p&gt;&#xA;&lt;p&gt;Stephen R. Covey, one of the most successful business authors of the last two decades, has moved e-book rights to two of his best-selling books from his print publisher, Simon &amp;amp; Schuster, a division of the &lt;a href=&#34;http://topics.nytimes.com/top/news/business/companies/cbs_corporation/index.html?inline=nyt-org&#34; title=&#34;More information about CBS Corp&#34;&gt;CBS Corporation&lt;/a&gt;, to a digital publisher that will sell the e-books to &lt;a href=&#34;http://topics.nytimes.com/top/news/business/companies/amazon_inc/index.html?inline=nyt-org&#34; title=&#34;More information about Amazon.com Inc&#34;&gt;Amazon.com&lt;/a&gt; for one year.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindle для iPhone 1.3</title>
-      <link>//localhost:1313/posts/2009-12-15-80/</link>
+      <link>/posts/2009-12-15-80/</link>
       <pubDate>Tue, 15 Dec 2009 01:24:41 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-12-15-80/</guid>
+      <guid>/posts/2009-12-15-80/</guid>
       <description>&lt;p&gt;Теперь электронные книги из Amazon можно покупать и так. Или читать отрывки. Выбор - хоть там и 300 тысяч - не очень велик. Много чего нет. Видимо, политика издателей + страновые ограничения. И эти люди запрещают мне ковыряться в носу? Нашёл, правда посткиберпанковскую антологию Re-Wired ;)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindle для PC — удар по будущему Google Books Store и iTunes Books Store</title>
-      <link>//localhost:1313/posts/2009-10-24-81/</link>
+      <link>/posts/2009-10-24-81/</link>
       <pubDate>Sat, 24 Oct 2009 10:49:05 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-10-24-81/</guid>
+      <guid>/posts/2009-10-24-81/</guid>
       <description>&lt;p&gt;Анонс Amazon о скором появлении бесплатной программы &lt;a href=&#34;http://www.amazon.com/gp/feature.html/ref=kcp_pc_mkt_lnd?docId=1000426311&#34;&gt;Kindle for PC&lt;/a&gt; (и для Mac), которая позволит покупать и читать электронные книги книги из онлайнового магазина — это не просто шаг на встречу тем, у кого нет амазоновского букридера. В сущности — это «iTunes для книг». Пока Apple еще собирается заводить «таблетку», а к ней — книжный ассортимент в iTunes, пока Google только пообещал завести книжный магазин с загрузкой книг «на любое устройство в браузер» — Amazon уже готов. И спрос, очевидно, будет, поскольку распространенность букридеров не идет ни в какое сравнение с распространенностью нетбуков, ноутбуков и обычных десктопов. В общем, это очень сильный и правильный шаг. Осталось только уговорить издателей и начать готовить электронный контент.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ого</title>
-      <link>//localhost:1313/posts/2009-10-18-83/</link>
+      <link>/posts/2009-10-18-83/</link>
       <pubDate>Sun, 18 Oct 2009 18:37:50 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-10-18-83/</guid>
+      <guid>/posts/2009-10-18-83/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.the-ebook.org/?p=2214&#34;&gt;Amazon ведет переговоры с МТС… | The-eBook&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Оператор сотовой связи МТС ведет переговоры с Amazon о предоставлении эксклюзивного права продажи Kindle в России.&lt;/p&gt;&#xA;&lt;p&gt;МТС предлагает не только обслуживание Kindle как средство связи, но и продажи. Если это произойдет, МТС станет первым крупным продавцом устройств для чтения, но цена на устройство возможно вырастит на 47% от цены Kindle International, или Amazon сделает свое брачное предложение таким образом, чтобы конечная цена не была выше тех же 20 долларов за доставку, тем паче МТС заработает на доступе в свою сотовую сеть.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon упорствует</title>
-      <link>//localhost:1313/posts/2009-10-08-99/</link>
+      <link>/posts/2009-10-08-99/</link>
       <pubDate>Thu, 08 Oct 2009 22:08:20 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-10-08-99/</guid>
+      <guid>/posts/2009-10-08-99/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://paidcontent.org/article/419-using-the-international-kindle-could-rack-up-fees/&#34;&gt;Using The International Kindle Could Rack Up Fees | paidContent&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;In addition to the $2 per-book fee for non-U.S. downloads, paidContent has learned from Amazon (NSDQ: AMZN) that it will cost users $5 a week to access their newspaper, magazine and blog subscriptions via Whispernet.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Кажется, Amazon упорствует, делая всё возможное, чтобы пользоваться Kindle было неудобно и дорого.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon начинает международные продажи Kindle 2 и электронных книг</title>
-      <link>//localhost:1313/posts/2009-10-07-84/</link>
+      <link>/posts/2009-10-07-84/</link>
       <pubDate>Wed, 07 Oct 2009 08:54:17 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-10-07-84/</guid>
+      <guid>/posts/2009-10-07-84/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2009/10/07/technology/companies/07amazon.html?ref=technology&#34;&gt;New Kindle Will Download Books Abroad - NYTimes.com&lt;/a&gt; Международные продажи Kindle 2 начнутся 19 октября 2009 года. Букридер будет продаваться по $279 (без цены доставки). При этом цена для внутреннего рынка опускается до $259. &amp;ldquo;Международный&amp;rdquo; Kindle будет снабжен sim-картой от AT&amp;amp;T и, таким образом, сможет загружать электронные книги из Amazon. Покупателям не из США будет пока доступен каталог из 200 тысяч книг. И еще любопытные данные, о которых сказал Безос: когда продаётся электронная книга наряду с бумажной, на электронные продажи приходится 48% (в мае доля электронных книг составляла 35%).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon опубликовал исходники Kindle</title>
-      <link>//localhost:1313/posts/2009-09-16-79/</link>
+      <link>/posts/2009-09-16-79/</link>
       <pubDate>Wed, 16 Sep 2009 22:21:28 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-09-16-79/</guid>
+      <guid>/posts/2009-09-16-79/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://techgeist.net/2009/06/amazon-releases-kindle-source-code/&#34;&gt;Amazon Releases Kindle Source Code | Techgeist&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Amazon has released the source code for all models of the Kindle. This means that we can now look at the code which makes the Kindle, Kindle 2, and the Kindle DX tick. The code can be found here on the Amazon site. So the question for all the curious minds out there is why did Amazon do this.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Просто опубликовал. Но никакого явного разрешения использовать. Никаких тебе GPL, СС и прочей опенсорсной ерундистики. Типа - знакомьтесь. Зачем — непонятно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mobipocket выходит из конкуренции ePub и Amazon</title>
-      <link>//localhost:1313/posts/2009-09-08-96/</link>
+      <link>/posts/2009-09-08-96/</link>
       <pubDate>Tue, 08 Sep 2009 22:20:09 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-09-08-96/</guid>
+      <guid>/posts/2009-09-08-96/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.mobileread.com/forums/showthread.php?t=55964&#34;&gt;Is the end near for Mobipocket? - MobileRead Forums&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The end seems to be near for the Mobipocket ebook standard. On the sign up page of Mobipocket Ebookbase, the following text is displayed:&lt;/p&gt;&#xA;&lt;p&gt;Effective September 2009, we will no longer open new accounts for publishers to sell titles through the Kindle Store or MobiPocket.com. If you have an existing account, there will be no change and you can continue to upload and sell titles using Ebookbase. New publishers with a US address and bank account can sign up to sell ebooks in the Kindle store via our self-service publishing channel at &lt;a href=&#34;http://dtp.amazon.com&#34;&gt;http://dtp.amazon.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon купил Lexcycle, производителя Stanza</title>
-      <link>//localhost:1313/posts/2009-04-27-10/</link>
+      <link>/posts/2009-04-27-10/</link>
       <pubDate>Mon, 27 Apr 2009 20:43:02 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-04-27-10/</guid>
+      <guid>/posts/2009-04-27-10/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.lexcycle.com/lexcycle_acquired_by_amazon&#34;&gt;Lexcycle has been acquired by Amazon.com! | Lexcycle&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;We are very excited to announce that Lexcycle has been acquired by Amazon.com!&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Официальный пресс-релиз от команды, которая делает (делала?) Stanza, самую популярную (и популярную заслуженно) программу для чтения книг в электронных форматах для iPhone и iPod Touch (а также для Mac и Sony Reader). В пресс-релизе говорится, что все будет по-старому и еще лучше. Судя по стремлению Amazon «закрыть технологическую песочницу», верится в это с трудом. Ну, посмотрим.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Книги Amazon теперь и в iPhone</title>
-      <link>//localhost:1313/posts/2009-03-04-87/</link>
+      <link>/posts/2009-03-04-87/</link>
       <pubDate>Wed, 04 Mar 2009 09:14:31 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-03-04-87/</guid>
+      <guid>/posts/2009-03-04-87/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://online.wsj.com/article/SB123613213822225225.html&#34;&gt;Amazon Extends Book Sales Beyond Its Kindle to iPhone - WSJ.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Amazon.com Inc. plans to release a program Wednesday for reading electronic books on Apple Inc.&amp;rsquo;s iPhone, extending Amazon&amp;rsquo;s sales of digital books to devices beyond its Kindle e-book reader. Amazon&amp;rsquo;s software application, which can be downloaded free of charge, allows iPhone and iPod Touch users to read books or periodicals purchased on the Web or through their dedicated Kindle device, usually for $9.99. Using a service that Amazon calls whispersync, the program keeps track of a readers&amp;rsquo; latest page in any given book across both a Kindle and iPhone. The iPhone application initially won&amp;rsquo;t be available for use outside of the U.S. Users will be allowed to have their books synchronized across six different devices at any one time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Бывший CEO Random House об Amazon и Google</title>
-      <link>//localhost:1313/posts/2009-02-24-35/</link>
+      <link>/posts/2009-02-24-35/</link>
       <pubDate>Tue, 24 Feb 2009 21:04:22 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-02-24-35/</guid>
+      <guid>/posts/2009-02-24-35/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://culture.compulenta.ru/404479/&#34;&gt;Рынок электронных книг ожидает дуополия Amazon и Google - Культура - Литература - Электронные книги - Компьюлента&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Корпорация согласилась платить по 60 долларов за каждую отсканированную книгу, защищенную авторским правом. Кроме того, правообладатели смогут решать, стоит ли размещать рекламу рядом со страницами книги на соответствующем сайте. Если реклама будет разрешена, правообладатели получат комиссионные. Наконец, Google поможет правообладателям с выплатой налогов. Соглашение создало еще один источник доходов для издателей и авторов — библиотеки. Они должны платить Google за доступ к полному цифровому каталогу. Основная часть этих средств будет перечисляться правообладателям. Посетители библиотек получат доступ к электронным книгам, что превращает Google в поставщика электронных книг и конкурента Amazon с его устройством Kindle. В дальнейшем планируется создание книжного интернет-магазина под эгидой Google. Купленные в такой торговой точке книги можно будет только читать, не сохраняя на компьютере пользователя.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon рассказал о Kindle 2</title>
-      <link>//localhost:1313/posts/2009-02-10-12/</link>
+      <link>/posts/2009-02-10-12/</link>
       <pubDate>Tue, 10 Feb 2009 22:09:17 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-02-10-12/</guid>
+      <guid>/posts/2009-02-10-12/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.chaskor.ru/p.php?id=3367&#34;&gt;Книга. Версия 2 :: Частный Корреспондент&lt;/a&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon продал 500 тысяч букридеров</title>
-      <link>//localhost:1313/posts/2009-02-06-a/</link>
+      <link>/posts/2009-02-06-a/</link>
       <pubDate>Fri, 06 Feb 2009 10:22:21 +0000</pubDate>
-      <guid>//localhost:1313/posts/2009-02-06-a/</guid>
+      <guid>/posts/2009-02-06-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.chaskor.ru/p.php?id=3247&#34;&gt;Amazon продал 500 тысяч букридеров :: Частный Корреспондент&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Как &lt;a href=&#34;http://mediamemo.allthingsd.com/20090203/citi-says-amazon-sold-500000-kindles-last-year-12-billion-business-next-year/&#34;&gt;пишет&lt;/a&gt; сайт MediaMemo, по оценке аналитика компании Citi Investment Research Марка Махани, в 2008 году крупнейший онлайновый магазин Amazon продал около 500 тыс. экземпляров букридера Kindle. Устройство для чтения с не требующим подсветки 6-дюймовым экраном, сделанным на основе технологии «электронных чернил», было выпущено в ноябре 2007 года.&lt;/p&gt;&#xA;&lt;p&gt;Amazon не предоставляет данные о продажах, но Махани использовал для оценки количества проданных Kindle информацию оператора связи Sprint Nextel. Через эту сеть пользователи устройства могут покупать на сайте Amazon и загружать книги в электронном формате. По данным Sprint Nextel, с июля по сентябрь 2008 года в сети оператора было активировано 210 тыс. Kindle. Марк Махани прогнозирует, что к 2010 году доход Amazon от проданных букридеров составит около 1,2 млрд долларов (примерно 4% всей выручки магазина). 9 февраля ожидается презентация новой версии Kindle.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Princeton University Press в новом учебном году начнет продавать учебники для Kindle</title>
-      <link>//localhost:1313/posts/2008-06-25-a/</link>
+      <link>/posts/2008-06-25-a/</link>
       <pubDate>Wed, 25 Jun 2008 09:26:27 +0000</pubDate>
-      <guid>//localhost:1313/posts/2008-06-25-a/</guid>
+      <guid>/posts/2008-06-25-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://features.csmonitor.com/innovation/2008/06/24/digital-college-textbooks/&#34;&gt;Digital college textbooks | Christian Science Monitor&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Так же, как Apple позволила миллионам учащихся колледжей оставить дома свои CD и взять в общаги свои iPod, Amazon пытается убедить студентов в том, что нет смысла таскать набитые учебниками рюкзаки: можно просто купить Kindle. Этой осенью Princeton University Press начнет выпускать электронные учебники в формате для Kindle. Пока это один из немногих издательских домов, которые пробуют войти в электронную воду. (За Kindle уцепились еще униеврситеты Йеля, Окфорда и Университет Калифорнии.) Издательство Принстонского университета, правда, первое решило рискнуть выпусть новый учебник по экономике в формате для букридера за две недели до начала продаж бумажной версии.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Онлайновый книжный магазин с виртуальными полками</title>
-      <link>//localhost:1313/posts/2008-06-22-31/</link>
+      <link>/posts/2008-06-22-31/</link>
       <pubDate>Sun, 22 Jun 2008 10:19:30 +0000</pubDate>
-      <guid>//localhost:1313/posts/2008-06-22-31/</guid>
+      <guid>/posts/2008-06-22-31/</guid>
       <description>&lt;p&gt;Любопытная надстройка над Amazon: &lt;a href=&#34;http://zoomii.com/#&#34;&gt;Zoomii.com - The &amp;ldquo;Real&amp;rdquo; Online Bookstore&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Полезная для тех, кто хочет «что-нибудь» купить.&lt;/p&gt;&#xA;&lt;p&gt;P.S. из 2019 года: судя по Архиву интернета, сайт был мёртв уже в 2011-м году, а за более ранние даты снэпшотов не сохранилось. Прах к праху.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Simon and Schuster добавило еще 5 тысяч книг на Amazon. Электронных</title>
-      <link>//localhost:1313/posts/2008-06-31-a/</link>
+      <link>/posts/2008-06-31-a/</link>
       <pubDate>Sat, 31 May 2008 14:36:35 +0000</pubDate>
-      <guid>//localhost:1313/posts/2008-06-31-a/</guid>
+      <guid>/posts/2008-06-31-a/</guid>
       <description>&lt;p&gt;Вчера на проходящей в Лос-Анджелесе книжной ярмарке BookExpo Кэролайн Рейди,президент и исполнительный директор &lt;a href=&#34;http://www.simonsays.com/&#34;&gt;Simon &amp;amp; Schuster&lt;/a&gt;, объявила о том, что издательство добавляют к уже продающимся в электронном виде через Amazon книгам еще 5000 наименований из бэклиста. Теперь для владельцев Kindle доступно около 10 тысяч книг этого издательства (в числе примерно 125 000, продающихся на Amazon; для сравнения: в самом большом российском магазине электронных книг читателям могут предложить всего 6346 наименований.). Рейди с удовлетворением отметила, что те из покупателей книг на Amazon, кто пользуется Kindle, покупают примерно в 2,6 раза больше книг. Подробно: &lt;a href=&#34;http://biz.yahoo.com/bw/080530/20080530005158.html?.v=1&#34;&gt;Simon &amp;amp; Schuster, Inc. to Make 5,000 Additional Books Available for Amazon Kindle: Financial News - Yahoo! Finance&lt;/a&gt; P. S. В вяло (пока) текущей войне форматов (закрытый .azw от Amazon vs. .epub от IDPF) это серьезный ход. Видимо, Amazon перешел к активной «вербовке» сторонников, с одной стороны, среди крупнейших американских издателей, с другой — среди пользователей, снизив на прошлой неделе цену на Kindle на 10% (теперь букридер стоит $359).&lt;/p&gt;</description>
     </item>
   </channel>
