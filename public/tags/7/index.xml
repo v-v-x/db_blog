@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 on Новости электронного книгоиздания</title>
-    <link>/tags/7/</link>
+    <link>//localhost:1313/tags/7/</link>
     <description>Recent content in 7 on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 05 Dec 2012 20:30:19 +0000</lastBuildDate>
-    <atom:link href="/tags/7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ошибки эл.издателей и как их избежать</title>
-      <link>/posts/2012-12-05-b/</link>
+      <link>//localhost:1313/posts/2012-12-05-b/</link>
       <pubDate>Wed, 05 Dec 2012 20:30:19 +0000</pubDate>
-      <guid>/posts/2012-12-05-b/</guid>
+      <guid>//localhost:1313/posts/2012-12-05-b/</guid>
       <description>&lt;p&gt;Небольшой полезный &lt;a href=&#34;http://vook.com/static/media/media/Ebook_Errors_Guide.pdf&#34;&gt;мануал&lt;/a&gt; от Vook по ошибкам вёрстки, дизайна, дистрибуции и маркетинга.&lt;/p&gt;</description>
     </item>
   </channel>

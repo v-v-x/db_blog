@@ -2,248 +2,248 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Report on Новости электронного книгоиздания</title>
-    <link>/tags/report/</link>
+    <link>//localhost:1313/tags/report/</link>
     <description>Recent content in Report on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 30 Nov 2016 07:51:27 +0000</lastBuildDate>
-    <atom:link href="/tags/report/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/report/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3. Электронное книгоиздание в России (2016). Итоги пятилетки</title>
-      <link>/pages/page_rreport2016/</link>
+      <link>//localhost:1313/pages/page_rreport2016/</link>
       <pubDate>Wed, 30 Nov 2016 07:51:27 +0000</pubDate>
-      <guid>/pages/page_rreport2016/</guid>
-      <description>&lt;h1 id=&#34;электронное-книгоиздание-в-россии-2016&#34;&gt;Электронное книгоиздание в России (2016)&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Производство и распространение электронных книг в России: структура, проблемы и перспективы&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Скачать обзор можно в форматах &lt;a href=&#34;/report2016.epub&#34;&gt;EPUB&lt;/a&gt; и &lt;a href=&#34;report2016.pdf&#34;&gt;PDF&lt;/a&gt;. Обзор 2011 года можно в формате &lt;a href=&#34;/report2011.epub&#34;&gt;EPUB&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ударная-пятилетка-краткие-итоги&#34;&gt;Ударная пятилетка. Краткие итоги&lt;/h2&gt;&#xA;&lt;p&gt;За пять лет, прошедших после выхода в 2011-м году первого обзора электронного книгоиздания в России &lt;a href=&#34;#fn-4251-1&#34;&gt;1&lt;/a&gt;, ситуация на этом рынке значительно изменилась: в 3 раза вырос актуальный ассортимент, продажи электронных книг в денежном выражении выросли примерно в 7 раз (розничные — в 20 раз). Выросла и аудитория электронных книг — пользуются электронными книгами примерно 1/3 всех читателей &lt;a href=&#34;#fn-4251-2&#34;&gt;2&lt;/a&gt;. При этом само потребление электронных книг всё больше переходит с экранов специализированных устройств на экраны смартфонов. Изменилась и структура рынка: успели появиться и уйти с рынка несколько крупных магазинов, крупнейший магазин и агрегатор приобрел нового совладельца, российские сервисы, связанные с электронными книгами начали успешно развиваться за рубежом. Главное — электронные книги стали значительно более привычны для читателей, а издатели, несмотря на не слишком значительные доходы от продажи электронного контента, всё более активно работают на этом рынке.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pages/page_rreport2016/</guid>
+      <description>&lt;h1 id=&#34;электронное-книгоиздание-в-россии-2016&#34;&gt;Электронное книгоиздание в России (2016)&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Производство и распространение электронных книг в России: структура, проблемы и перспективы&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Скачать обзор можно в форматах &lt;a href=&#34;//localhost:1313/report2016.epub&#34;&gt;EPUB&lt;/a&gt; и &lt;a href=&#34;report2016.pdf&#34;&gt;PDF&lt;/a&gt;. Обзор 2011 года можно в формате &lt;a href=&#34;//localhost:1313/report2011.epub&#34;&gt;EPUB&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ударная-пятилетка-краткие-итоги&#34;&gt;Ударная пятилетка. Краткие итоги&lt;/h2&gt;&#xA;&lt;p&gt;За пять лет, прошедших после выхода в 2011-м году первого обзора электронного книгоиздания в России &lt;a href=&#34;#fn-4251-1&#34;&gt;1&lt;/a&gt;, ситуация на этом рынке значительно изменилась: в 3 раза вырос актуальный ассортимент, продажи электронных книг в денежном выражении выросли примерно в 7 раз (розничные — в 20 раз). Выросла и аудитория электронных книг — пользуются электронными книгами примерно 1/3 всех читателей &lt;a href=&#34;#fn-4251-2&#34;&gt;2&lt;/a&gt;. При этом само потребление электронных книг всё больше переходит с экранов специализированных устройств на экраны смартфонов. Изменилась и структура рынка: успели появиться и уйти с рынка несколько крупных магазинов, крупнейший магазин и агрегатор приобрел нового совладельца, российские сервисы, связанные с электронными книгами начали успешно развиваться за рубежом. Главное — электронные книги стали значительно более привычны для читателей, а издатели, несмотря на не слишком значительные доходы от продажи электронного контента, всё более активно работают на этом рынке.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Электронное книгоиздание в России</title>
-      <link>/posts/2016-11-29-a/</link>
+      <link>//localhost:1313/posts/2016-11-29-a/</link>
       <pubDate>Tue, 29 Nov 2016 12:13:29 +0000</pubDate>
-      <guid>/posts/2016-11-29-a/</guid>
-      <description>&lt;p&gt;Электронное книгоиздание в России (2016) в формате &lt;a href=&#34;/report2016.epub&#34;&gt;EPUB&lt;/a&gt; и &lt;a href=&#34;/report2016.pdf&#34;&gt;PDF&lt;/a&gt;. Электронное книгоиздание в России (2011) в формате &lt;a href=&#34;/report2011.epub&#34;&gt;EPUB&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/2016-11-29-a/</guid>
+      <description>&lt;p&gt;Электронное книгоиздание в России (2016) в формате &lt;a href=&#34;//localhost:1313/report2016.epub&#34;&gt;EPUB&lt;/a&gt; и &lt;a href=&#34;//localhost:1313/report2016.pdf&#34;&gt;PDF&lt;/a&gt;. Электронное книгоиздание в России (2011) в формате &lt;a href=&#34;//localhost:1313/report2011.epub&#34;&gt;EPUB&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Бумага, конечно, жива. Но есть детали</title>
-      <link>/posts/2016-09-28-a/</link>
+      <link>//localhost:1313/posts/2016-09-28-a/</link>
       <pubDate>Wed, 28 Sep 2016 14:00:26 +0000</pubDate>
-      <guid>/posts/2016-09-28-a/</guid>
+      <guid>//localhost:1313/posts/2016-09-28-a/</guid>
       <description>&lt;p&gt;В «Секрете фирмы» вышла хорошая статья «&lt;a href=&#34;http://secretmag.ru/longread/2016/09/26/books/&#34;&gt;Бумага жива: Почему книги крупнейших издательств мира продаются всё лучше&lt;/a&gt;», в которой фиксируется история о том, что прогнозы о скорой кончине бумажных книг не сбылись, но и электронные вроде тоже живы и вот.&lt;/p&gt;&#xA;&lt;p&gt;Статья и правда хорошая, но есть детали: Шумные евангелисты у электронной книги и правда какие-то были, но к середине первого десятилетия века никто к таким шумным ребятам особо серьезно не относился. Все следили за данными продаж. Хорошо помню горячее обсуждение на BookExpo в мае 2012 года — будет или не будет плато продаж? Доросли до него или ещё нет? И вот плато есть. Книжный рынок в США и правда подрос за 2015 год на 2,8%. Но потом начал падать. У Penguin Random House падение на 10%, у Simon&amp;amp;Schuster на 3,5%. За полгода. И бумажные книги, и электронные книги — всё не очень. Бумага — потому что бестселлеров нет. Электронные книги — потому что сами издатели цены задрали в Amazon. Мировой книжный рынок растёт, конечно. Но не за счёт США, а за счёт Китая, например. Рост продаж детских книг автор связывает со склонностью детей к бумажной книге. Но эти книги покупают детям родители, которым понятнее видеть читающим ребенка бумажную книгу, чем — непонятно, чем он там занят в этом устройстве.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Извините, что к вам обращаюсь ;)</title>
-      <link>/posts/2016-09-23-c/</link>
+      <link>//localhost:1313/posts/2016-09-23-c/</link>
       <pubDate>Fri, 23 Sep 2016 11:04:17 +0000</pubDate>
-      <guid>/posts/2016-09-23-c/</guid>
+      <guid>//localhost:1313/posts/2016-09-23-c/</guid>
       <description>&lt;p&gt;Ассоциация интернет-издателей готовит обзор ситуации в электронном книгоиздании в России. (Последний &lt;a href=&#34;https://bookmate.com/books/h5QUZAei&#34;&gt;выходил&lt;/a&gt; &lt;a href=&#34;https://www.amazon.com/Digital-Publishing-Russia-2011-Russian-ebook/dp/B007KQG0HY/&#34;&gt;пять лет назад&lt;/a&gt;, так что пора и новый выпустить.) В связи с этим обращаюсь с просьбой к производителям, агрегаторам, дистрибьюторам и всем, кто так или иначе связан с электронными книгами, хотя бы кратко дать о себе знать. Ну, правда, кроме игроков крупных и известных, есть ведь и не очень известные, но, может быть, интересные? Может быть, какие-то стартапы, о которых, к сожалению, мало, кто знает? Дайте знать, пожалуйста! Разнообразные контакты для связи — в правой колонке на &lt;a href=&#34;http://www.digital-books.ru&#34;&gt;digital-books.ru&lt;/a&gt;. Или в Telegram ;)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Международный рынок электронных книг: оценка и прогноз</title>
-      <link>/posts/2014-11-12-c/</link>
+      <link>//localhost:1313/posts/2014-11-12-c/</link>
       <pubDate>Wed, 12 Nov 2014 13:46:16 +0000</pubDate>
-      <guid>/posts/2014-11-12-c/</guid>
+      <guid>//localhost:1313/posts/2014-11-12-c/</guid>
       <description>&lt;p&gt;Согласно &lt;a href=&#34;http://www.mobileworldlive.com/ereading-shifts-mobile-ebook-market-top-16bn-2020-report?et_mid=703105&amp;amp;rid=241007131&#34;&gt;отчёту&lt;/a&gt; компании Strategy Analytics, мировой рынок электронных книг составил в 2013 году $7 млрд (при уровне проникновения 10% пользователей) и к 2020 году он вырастет до $16,7 млрд (при 25% пользователей). При этом к 2020 году на подписочные сервисы будет приходиться 20% этого рынка.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Прогноз перестройки индустрии</title>
-      <link>/posts/2014-10-21-a/</link>
+      <link>//localhost:1313/posts/2014-10-21-a/</link>
       <pubDate>Tue, 21 Oct 2014 09:12:07 +0000</pubDate>
-      <guid>/posts/2014-10-21-a/</guid>
+      <guid>//localhost:1313/posts/2014-10-21-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;in five to ten years from now, 75% of the books would be self-published, 20% would be publishing assisted by agents, and only 5% traditionally published&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://publishingperspectives.com/2014/10/soon-will-majority-books-self-published/&#34;&gt;How Soon Will the Majority of Books Be Self-Published? - Publishing Perspectives&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Электронные книги на мировом рынке: 2013 — 12%, 2018 — 26%</title>
-      <link>/posts/2014-09-16-a/</link>
+      <link>//localhost:1313/posts/2014-09-16-a/</link>
       <pubDate>Tue, 16 Sep 2014 11:00:37 +0000</pubDate>
-      <guid>/posts/2014-09-16-a/</guid>
+      <guid>//localhost:1313/posts/2014-09-16-a/</guid>
       <description>&lt;p&gt;The Global e-Book market is the fastest growing segment in Global Book Publishing industry. It accounts for approximately 11.9 percent of total Book Publishing market in 2013. The segment contribution is expected to reach 26.3 percent by 2018.&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.digitaljournal.com/pr/2186673?et_mid=692347&amp;amp;rid=241007131&#34;&gt;Recent Study: Global E-Book Market 2014-2018 - Press Release - Digital Journal&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Доклад «Global Trends in Publishing 2014»</title>
-      <link>/posts/2014-07-10-b/</link>
+      <link>//localhost:1313/posts/2014-07-10-b/</link>
       <pubDate>Thu, 10 Jul 2014 21:14:47 +0000</pubDate>
-      <guid>/posts/2014-07-10-b/</guid>
+      <guid>//localhost:1313/posts/2014-07-10-b/</guid>
       <description>&lt;p&gt;Доклад &lt;a href=&#34;http://www.book-fair.com/en/businessclub/trendreport/&#34;&gt;Global Trends in Publishing 2014&lt;/a&gt; дают тут бесплатно, но после регистрации, как водится.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Распространение контентных ТНК по планете</title>
-      <link>/posts/2014-05-12-a/</link>
+      <link>//localhost:1313/posts/2014-05-12-a/</link>
       <pubDate>Mon, 12 May 2014 05:03:32 +0000</pubDate>
-      <guid>/posts/2014-05-12-a/</guid>
+      <guid>//localhost:1313/posts/2014-05-12-a/</guid>
       <description>&lt;p&gt;В процентах охват населения разными платформами по дистрибуции электронных книг выглядит так.&lt;/p&gt;&#xA;&lt;p&gt;Посмотреть &lt;a href=&#34;http://www.macstories.net/stories/mapping-the-international-availability-of-entertainment-services/&#34;&gt;интерактивные карты&lt;/a&gt; тоже любопытно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Global eBook Report / Весна 2014</title>
-      <link>/posts/2014-05-05-a/</link>
+      <link>//localhost:1313/posts/2014-05-05-a/</link>
       <pubDate>Mon, 05 May 2014 23:16:54 +0000</pubDate>
-      <guid>/posts/2014-05-05-a/</guid>
+      <guid>//localhost:1313/posts/2014-05-05-a/</guid>
       <description>&lt;p&gt;Вышел новый &lt;a href=&#34;http://www.global-ebook.com/&#34;&gt;обзор мирового рынка&lt;/a&gt; электронных книг от Рюдигера Вишенбарта.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wind of Changes: Sony уходит с рынка эл.книг, B&amp;N закрывает Nook ;-(</title>
-      <link>/posts/2014-02-10-a/</link>
+      <link>//localhost:1313/posts/2014-02-10-a/</link>
       <pubDate>Mon, 10 Feb 2014 21:27:32 +0000</pubDate>
-      <guid>/posts/2014-02-10-a/</guid>
+      <guid>//localhost:1313/posts/2014-02-10-a/</guid>
       <description>&lt;p&gt;Вслед за &lt;a href=&#34;http://goodereader.com/blog/e-book-news/sony-kobo-ebook-deal-means-readers&#34;&gt;известием&lt;/a&gt; о том, что Sony передаёт свой магазин электронных книг (вместе со всеми покупателями и пользователями Sony Readers) Kobo, &lt;a href=&#34;http://www.businessinsider.com/barnes-and-noble-hardware-engineering-staff-2014-2&#34;&gt;новость&lt;/a&gt; о сокращении инженеров, делающих Nook для Barnes &amp;amp; Noble, выглядит как начало большой расчистки. Те, кто не справился, начали с рынка уходить.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nielsen и PlayCollective о тенденциях детского электронного книгоиздания</title>
-      <link>/posts/2014-01-13-a/</link>
+      <link>//localhost:1313/posts/2014-01-13-a/</link>
       <pubDate>Mon, 13 Jan 2014 17:49:09 +0000</pubDate>
-      <guid>/posts/2014-01-13-a/</guid>
+      <guid>//localhost:1313/posts/2014-01-13-a/</guid>
       <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/GBbEQDEvvhVPAn&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/PublishersLaunch/am0910-nielsenjo-henryjonathannowell&#34; title=&#34;Kids Books Online and Off: Changing Buying Behaviors in the Digital Age (Nielsen - Jo Henry - Jonathan Nowell)&#34; target=&#34;_blank&#34;&gt;Kids Books Online and Off: Changing Buying Behaviors in the Digital Age (Nielsen - Jo Henry - Jonathan Nowell)&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/PublishersLaunch&#34; target=&#34;_blank&#34;&gt;Publishers Launch Conferences&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;&#xA;&#xA;Долгосрочные тенденции книгоиздания в США не слишком радостные — за 10 лет максимум общего объёма выпуска книг был в 2008 году (кстати, как и в России). С тех пор он только падал. Это касается и книг в целом, и fiction, и non-fiction (в меньшей степени). А вот детские книги чувствуют себя лучше: их выпуск в США вернулся к уровню 2007 года и выше, чем 10 лет назад. Рынок электронных книг рос, как известно, по другому — резко до 2012 года и очень медленно в 2013 году. И теперь составляет 22% с тенденцией к дальнейшему эволюционному росту. При этом в более узких (еще не насыщенных) нишах электронных книг рост будет продолжаться выше рынка. Особенно в нише children&#39;s non-fiction. Он будет поддерживаться как за счет уменьшения доли детей, который предпочитают читать только на бумаге, так и за счет того, что дети всё меньше читают ради развлечения, и всё больше — для пользы. &#xA;&#xA;Развлечений им и так хватает. Но пока читают. Согласно свежему исследованию &lt;a href=&#34;http://www.digitalbookworld.com/2014/new-digital-book-world-report-on-kids-and-e-reading/&#34;&gt;Kids + E-Reading Trends Study&lt;/a&gt; читают электронные книги 2/3 американских детей в возрасте до 13 лет. При этом 92% читателей электронных книг читают их по меньшей мере раз в недели, а половина — ежедневно.&#xA;&#xA;&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/2PHkjADNmiQHiT&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/PublishersLaunch/from-page-flip-to-screen-swipe-10-keys-to-ebooks-and-learning-digital-book-world-and-playcollective&#34; title=&#34;From Page Flip to Screen Swipe: 10 Keys to Ebooks and Learning (Digital Book World and PlayCollective)&#34; target=&#34;_blank&#34;&gt;From Page Flip to Screen Swipe: 10 Keys to Ebooks and Learning (Digital Book World and PlayCollective)&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/PublishersLaunch&#34; target=&#34;_blank&#34;&gt;Publishers Launch Conferences&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Сокращаются продажи букридеров? Вовсе нет. Уходят недопланшеты</title>
-      <link>/posts/2013-12-16-a/</link>
+      <link>//localhost:1313/posts/2013-12-16-a/</link>
       <pubDate>Mon, 16 Dec 2013 09:43:06 +0000</pubDate>
-      <guid>/posts/2013-12-16-a/</guid>
+      <guid>//localhost:1313/posts/2013-12-16-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.pro-books.ru/news/3/14036&#34;&gt;Объем отечественного рынка букридеров сократился на 35% | Pro-Books.ru — Книжный бизнес&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;«Евросеть» отчиталась о сокращении продаж букридеров. За 10 месяцев 2013 года продано 1,1 млн букридеров (на 3,8 млрд рублей) против 1,36 млн букридеров (на 5,9 млрд год назад). Серьезное падение. Но при этом выросли продажи букридеров на электронных чернилах. В общем объёме продаж рост с 37% до 50% в штуках и с 50% до 60% в деньгах. То есть доход от продажи eink-читалок снизился (они подешевели), но в штуках даже подрос. А что же тогда сократилось? Сократились продажи того, что называется буридеры с ЖК-экранами, то есть недопланшеты с непонятным программным обеспечением, но чуть большим количеством функций, чем у обычных читалок. И понятно—почему: их вытесняют более мощные и уже не такие дорогие, как год назад, полнофункциональные планшеты. А обычные читалки на eink пока ещё чувствуют себя вполне жизнеспособно. Потому что, несмотря ни на что, люди любят читать не только Facebook и ВКонтакте, но и книги.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новый «Global eBook report» Рюдигера Вишенбарта</title>
-      <link>/posts/2013-10-03-b/</link>
+      <link>//localhost:1313/posts/2013-10-03-b/</link>
       <pubDate>Thu, 03 Oct 2013 08:37:12 +0000</pubDate>
-      <guid>/posts/2013-10-03-b/</guid>
+      <guid>//localhost:1313/posts/2013-10-03-b/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.global-ebook.com/&#34;&gt;Обновленная — на осень 2013 года — версия&lt;/a&gt;. Про Россию по преимуществу по местным же источникам, не всегда точно и верно (среди продавцов электронных книг затесался «Лабиринт», например). Но в целом почитать полезно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Отраслевой обзор книжного рынка за 2012 год</title>
-      <link>/posts/2013-04-15-a/</link>
+      <link>//localhost:1313/posts/2013-04-15-a/</link>
       <pubDate>Mon, 15 Apr 2013 11:46:58 +0000</pubDate>
-      <guid>/posts/2013-04-15-a/</guid>
+      <guid>//localhost:1313/posts/2013-04-15-a/</guid>
       <description>Можно скачать &lt;a href=&#34;http://www.fapmc.ru/rospechat/activities/reports/2013/books-in-russia/main/custom/0/0/file.pdf&#34;&gt;тут&lt;/a&gt; или читать так:&#xA;&#xA;&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/JYesXP3rOByJle&#34; width=&#34;668&#34; height=&#34;714&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/VladimirHaritonov/2013-18847800&#34; title=&#34;Книжный рынок России в 2012&#34; target=&#34;_blank&#34;&gt;Книжный рынок России в 2012&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/VladimirHaritonov&#34; target=&#34;_blank&#34;&gt;Vladimir Haritonov&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>В ожидании новой моды</title>
-      <link>/posts/2013-01-15-a/</link>
+      <link>//localhost:1313/posts/2013-01-15-a/</link>
       <pubDate>Tue, 15 Jan 2013 13:31:17 +0000</pubDate>
-      <guid>/posts/2013-01-15-a/</guid>
+      <guid>//localhost:1313/posts/2013-01-15-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.idealog.com/blog/stats-are-often-hard-to-interpret-in-our-business/&#34;&gt;Stats are often hard to interpret in our business - The Shatzkin Files&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Проблема недостатка статданных не специфически российская. Правда, в России с ней совсем плохо, а в США получше, но всё равно реальное состояние рынка, которое во многом формируется представлениями основных игроков о нём, из статистики не получить. Поэтому Майк Шацкин и собирает впечатления своих коллег, литературных агентов, которые знакомы с распределением продаж по роялти. И получается, что в США продажи электронных книг (в экз.) составляют 50%, если не больше, художественных книг, 25% обычного nonfiction и 10% иллюстрированных изданий от всех продающихся в розницу. А значит в обычных (не интернет) книжных магазинах продаётся не больше 35% художественных книг (рять лет назад было 80%). Но, кроме того, литагенты подтверждают, что распределение на рынке стабилизируется. «Сопротивление» со стороны читателей бумажных книг даёт о себе знать. Значит теперь график роста доли электронных продаж будет медленно подниматься, отъедая понемногу у бумаги каждый год. Не исключено, что уже в этом году в США заведётся хипстерская мода на бумажные книги.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Итоги и перспективы 2012/2013</title>
-      <link>/posts/2012-12-21-a/</link>
+      <link>//localhost:1313/posts/2012-12-21-a/</link>
       <pubDate>Fri, 21 Dec 2012 23:18:06 +0000</pubDate>
-      <guid>/posts/2012-12-21-a/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Via &lt;a href=&#34;http://ebookfriendly.com/2011/12/24/books-for-christmas-cartoon/&#34;&gt;Ebook Friendly&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Промежуточные итоги по России уже, в общем, &lt;a href=&#34;/posts/2012-09-13-a&#34;&gt;подведены&lt;/a&gt;. К ним можно добавить, что серьезный поворот в голове издателей и заметный сдвиг в их бизнесе в 2012 году явно произошёл: большое количество издателей, которые год назад были «ни в epub ногой», уже более или менее начинают разбираться с технологиями, а те, кто начал заниматься и электронной розницей ещё пару лет назад, сегодня имеют их оборот в 9–10% (не считаю доходов от ЭБС — тут и год назад было 15%, но с тех пор цифры не поменялись, и это отдельная история).&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/2012-12-21-a/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Via &lt;a href=&#34;http://ebookfriendly.com/2011/12/24/books-for-christmas-cartoon/&#34;&gt;Ebook Friendly&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Промежуточные итоги по России уже, в общем, &lt;a href=&#34;//localhost:1313/posts/2012-09-13-a&#34;&gt;подведены&lt;/a&gt;. К ним можно добавить, что серьезный поворот в голове издателей и заметный сдвиг в их бизнесе в 2012 году явно произошёл: большое количество издателей, которые год назад были «ни в epub ногой», уже более или менее начинают разбираться с технологиями, а те, кто начал заниматься и электронной розницей ещё пару лет назад, сегодня имеют их оборот в 9–10% (не считаю доходов от ЭБС — тут и год назад было 15%, но с тех пор цифры не поменялись, и это отдельная история).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Доклад об индустрии эл.книг в развивающихся странах</title>
-      <link>/posts/2012-10-19-a/</link>
+      <link>//localhost:1313/posts/2012-10-19-a/</link>
       <pubDate>Fri, 19 Oct 2012 12:44:47 +0000</pubDate>
-      <guid>/posts/2012-10-19-a/</guid>
+      <guid>//localhost:1313/posts/2012-10-19-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://monoskop.org/log/?p=6047#&#34;&gt;Octavio Kulesz: Digital Publishing in Developing Countries (2011) [English/French/Spanish] at Monoskop Log&lt;/a&gt;. Да, Россия там тоже есть ;) Доклад, правда, по довольно старым материалам.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bowker рекомендует перспективные рынки для эл. книг</title>
-      <link>/posts/2012-03-30-a/</link>
+      <link>//localhost:1313/posts/2012-03-30-a/</link>
       <pubDate>Fri, 30 Mar 2012 09:56:46 +0000</pubDate>
-      <guid>/posts/2012-03-30-a/</guid>
+      <guid>//localhost:1313/posts/2012-03-30-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.digitalbookworld.com/2012/world-catching-up-to-u-s-in-e-book-buying-habits-study-says/&#34;&gt;digitalbookworld.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;В январе-феврале 2012 г. Bowker опросил по 1–2 тыс. респондентов в Австралии, Бразилии, Франции, Германии, Индии, Японии, Южной Корее, Испании, Великобритании и США на предмет чтения и покупок книг. При том, что распространенность эл. книг больше всего в США, Великобритании и Австралии, более перспективными для развития представляются рынки Бразилии и Индии, где есть высокая потребность на такой контент (в отличие, например, от консервативной Франции и Японии).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Шацкин о возможной стабилизации рынка эл.книг</title>
-      <link>/posts/2012-03-26-b/</link>
+      <link>//localhost:1313/posts/2012-03-26-b/</link>
       <pubDate>Mon, 26 Mar 2012 19:46:32 +0000</pubDate>
-      <guid>/posts/2012-03-26-b/</guid>
+      <guid>//localhost:1313/posts/2012-03-26-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;One Big Six executive told me that ebook sales in their shop had reached the mid-30s as a percentage of units sold. That broke down to about 50% of fiction units and 25% of non-fiction.&lt;/p&gt;&#xA;&lt;p&gt;Nonetheless, that same executive noted a real slowdown in the rate of ebook growth. This is to be expected as the base of sales grows, of course, but it slowed down faster than this house expected. They had seen a 120% increase in ebook units in 2010 and figured they’d see an 80% growth in 2011; it came in at 60%. In short, the rate of increase was cut in half.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Global eBook Market: Current Conditions &amp; Future Projections - обзор O&#39;Reilly (бесплатно)</title>
-      <link>/posts/2011-10-10-3/</link>
+      <link>//localhost:1313/posts/2011-10-10-3/</link>
       <pubDate>Mon, 10 Oct 2011 14:23:18 +0000</pubDate>
-      <guid>/posts/2011-10-10-3/</guid>
+      <guid>//localhost:1313/posts/2011-10-10-3/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The Global eBook Market: Current Conditions &amp;amp; Future Projections&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://shop.oreilly.com/product/0636920022954.do&#34;&gt;shop.oreilly.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;TWIMC, как говорится.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Европа: 15% к 2015 году</title>
-      <link>/posts/2011-08-24-b/</link>
+      <link>//localhost:1313/posts/2011-08-24-b/</link>
       <pubDate>Wed, 24 Aug 2011 12:24:01 +0000</pubDate>
-      <guid>/posts/2011-08-24-b/</guid>
+      <guid>//localhost:1313/posts/2011-08-24-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.futuresource-consulting.com/&#34; title=&#34;Futuresource Consulting&#34;&gt;Futuresource Consulting&lt;/a&gt;, a UK-based consulting firm, published the research on e-books and e-readers. “Despite all this rapid growth in demand for e-books in Western Europe, the market is still in its infancy, representing less than 1 percent of total consumer spending on books,” Futuresource market analyst Fiona Hoy said. “Moving forward, there are enormous opportunities within the market and our forecasts show Western European e-book revenues will reach €1.6 billion by 2015, accounting for 15% of total book spend and representing one out of every five books sold in the region.”&lt;/p&gt;</description>
     </item>
     <item>
       <title>2011 год - 27 млн &#34;бумажных&#34; экранов</title>
-      <link>/posts/2011-08-24-a/</link>
+      <link>//localhost:1313/posts/2011-08-24-a/</link>
       <pubDate>Wed, 24 Aug 2011 12:18:32 +0000</pubDate>
-      <guid>/posts/2011-08-24-a/</guid>
+      <guid>//localhost:1313/posts/2011-08-24-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;E Ink says that displays for e-book readers are in such high demand that its tripling every year. They say that the number of e-readers sold in 2011 could reach 25-30 million, 3 times the number sold in 2010. DisplaySearch estimates that about 27 million units will be shipped in 2011.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.e-reader-info.com/e-ink-e-reader-market-tripling-every-year&#34;&gt;e-reader-info.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;EInk, видимо, знает, что говорит.&lt;/p&gt;&#xA;&lt;p&gt;К этому правда, видимо, надо добавить какое-то количество экранов от SiPix — тоже «бумага».&lt;/p&gt;</description>
     </item>
     <item>
       <title>Международный обзор &#34;Цифровое книгоиздание в развивающихся странах&#34;</title>
-      <link>/posts/2011-06-10-b/</link>
+      <link>//localhost:1313/posts/2011-06-10-b/</link>
       <pubDate>Fri, 10 Jun 2011 19:36:49 +0000</pubDate>
-      <guid>/posts/2011-06-10-b/</guid>
+      <guid>//localhost:1313/posts/2011-06-10-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;E-books, print on demand, online sales sites, the boom in mobile phones… new technologies are profoundly transforming the way texts circulate. Developing countries, however, which face serious limitations in infrastructure, have a considerable challenge ahead of them.&lt;/p&gt;&#xA;&lt;p&gt;What new actors are emerging in the countries of the South, outside of the powerful platforms already existing in the US, Europe and Japan? Is it conceivable that there may be an autonomous evolution of digital publications in developing countries, entirely independent of the richest nations? What support policies could be implemented to promote the growth of this new industry and accompany traditional actors in the process of adapting to the changes involved?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Электронное книгоиздание: двигатель перемен</title>
-      <link>/posts/2011-05-23-a/</link>
+      <link>//localhost:1313/posts/2011-05-23-a/</link>
       <pubDate>Mon, 23 May 2011 10:33:52 +0000</pubDate>
-      <guid>/posts/2011-05-23-a/</guid>
+      <guid>//localhost:1313/posts/2011-05-23-a/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Осваиваю SlideShare. Scribd, оказывается, тут же начинает монетизировать ;)&lt;/p&gt;</description>
     </item>
     <item>
       <title>76% рынка электронных книг - профессиональная литература</title>
-      <link>/posts/2011-04-26-b/</link>
+      <link>//localhost:1313/posts/2011-04-26-b/</link>
       <pubDate>Tue, 26 Apr 2011 12:03:00 +0000</pubDate>
-      <guid>/posts/2011-04-26-b/</guid>
+      <guid>//localhost:1313/posts/2011-04-26-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Although consumer trade books get a majority of the attention, &lt;a href=&#34;http://ctt.marketwire.com/?release=746794&amp;amp;id=261070&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.simbainformation.com%2fredirect.asp%3fprogid%3d81438%26productid%3d2523106&#34;&gt;professional and scholarly books&lt;/a&gt;, which include the legal, scientific/technical, medical and business segments, hold 75.9% of the $1.76 billion U.S. E-book market. The latest market research report from media and publishing forecast firm Simba Information, &lt;strong&gt;&amp;quot;&lt;a href=&#34;http://ctt.marketwire.com/?release=746794&amp;amp;id=261073&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.simbainformation.com%2fredirect.asp%3fprogid%3d81438%26productid%3d2523106&#34;&gt;Professional Publishing in the Digital Age: E-Books in Libraries&lt;/a&gt;,&amp;quot;&lt;/strong&gt; predicts library collection managers will set aside more of their budget for &lt;a href=&#34;http://ctt.marketwire.com/?release=746794&amp;amp;id=261076&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.simbainformation.com%2fredirect.asp%3fprogid%3d81438%26productid%3d2523106&#34;&gt;E-books&lt;/a&gt; over the next few years.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Доля электронных книг на рынке разных стран</title>
-      <link>/posts/2011-03-14-a/</link>
+      <link>//localhost:1313/posts/2011-03-14-a/</link>
       <pubDate>Mon, 14 Mar 2011 10:52:26 +0000</pubDate>
-      <guid>/posts/2011-03-14-a/</guid>
+      <guid>//localhost:1313/posts/2011-03-14-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://futurebook.net/content/charting-global-e-book-market-exclusive-data&#34;&gt;futurebook.net&lt;/a&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Франция&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;0,5%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Германия&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;1%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Япония&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;1,1%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Нидерладнды&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;0,3%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Южная Африка, Испания&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;1,6%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Италия&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;0,1-0,2%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Англия&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;1-9%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;США&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;8%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;Ясно, что учтены только прямые продажи.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Объем российского рынка букридеров в 2010 году составил 539000 штук | Pro-Books.ru</title>
-      <link>/posts/2011-03-05-c/</link>
+      <link>//localhost:1313/posts/2011-03-05-c/</link>
       <pubDate>Sat, 05 Mar 2011 08:56:57 +0000</pubDate>
-      <guid>/posts/2011-03-05-c/</guid>
+      <guid>//localhost:1313/posts/2011-03-05-c/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;По итогам 2010 года общий объем продаж устройств для чтения цифровых книг на российском рынке оказался значительно больше, нежели &lt;a href=&#34;http://pro-books.ru/news/3/6257&#34;&gt;указывалось&lt;/a&gt; в предварительных данных, и составил 539000 штук (с учетом ридеров с дисплеем на основе технологии «электронных чернил», а также «псевдоридеров» – устройств с TFT-дисплеем). Годовой рост рынка, таким образом, составил 285%.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://pro-books.ru/news/3/6503&#34;&gt;pro-books.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;То есть весь рынок букридеров можно оценить по меньшей мере в 700-800 тыс. Скромно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Прогнозы Price Waterhouse Coopers по рынку электронных книг</title>
-      <link>/posts/2011-01-12-a/</link>
+      <link>//localhost:1313/posts/2011-01-12-a/</link>
       <pubDate>Wed, 12 Jan 2011 21:36:46 +0000</pubDate>
-      <guid>/posts/2011-01-12-a/</guid>
+      <guid>//localhost:1313/posts/2011-01-12-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The analysis reported that in 2010 e-book sales in the UK represented 1.5% of the overall market, or $52m (£33.1m), but that by 2015 they would represent 14.2% of the market, or $534m (£339.9m), amounting to growth of 59.3%. E-book sales in the US were estimated at $1.5bn (£955.1m) in 2010, 7.2%, of the overall books market, and were expected to grow to $5.6bn (£3.56bn) by 2015, 22.5% of the overall market, representing growth of 30%.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новый отчёт про электронные книги от Forrester</title>
-      <link>/posts/2010-11-08-128/</link>
+      <link>//localhost:1313/posts/2010-11-08-128/</link>
       <pubDate>Mon, 08 Nov 2010 21:34:05 +0000</pubDate>
-      <guid>/posts/2010-11-08-128/</guid>
+      <guid>//localhost:1313/posts/2010-11-08-128/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Consider it an inauguration of sorts, a celebration of the eBook industry becoming a member of the major media club just as digital music and online video have before them. When you influence a billion dollars, people have to take you seriously. In the book business, it means that traditional publishers can no longer live in deny-and-delay mode; meanwhile, digital publishers get invited to better parties and people in other media businesses like TV and magazines look over and wonder if they could cut a slice of this new pie just for them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>iPad кроет букридеры, как бык овцу (отчёт IMS)</title>
-      <link>/posts/2010-09-30-a/</link>
+      <link>//localhost:1313/posts/2010-09-30-a/</link>
       <pubDate>Thu, 30 Sep 2010 11:13:41 +0000</pubDate>
-      <guid>/posts/2010-09-30-a/</guid>
+      <guid>//localhost:1313/posts/2010-09-30-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;AUSTIN, TEXAS, September 28, 2010 – IMS Research has released the second issue of its &lt;em&gt;Quarterly eBook and iPad Shipment and Forecast Service&lt;/em&gt; which provides actual shipments on eBook frontplanes, eBook displays, eBook readers, iPads and iPad displays along with a rolling 6-quarter forecast.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.fpdmarketresearch.com/press-details.php?eID=OA==&#34;&gt;fpdmarketresearch.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;За 2-й квартал 2010 года продажи Apple iPad составили 3,3 млн штук против 2,4 млн букридеров (учитывалось 40 марок устройств).&lt;br&gt;&#xA;Буркидеры продолжают продваться неплохо — рост на 28% в сравнении с 2-м кварталом 2009 года.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Российский рынок электронных «читалок»: итоги 2009 г. | SmartMarketing.ru</title>
-      <link>/posts/2010-03-23-179/</link>
+      <link>//localhost:1313/posts/2010-03-23-179/</link>
       <pubDate>Tue, 23 Mar 2010 15:05:37 +0000</pubDate>
-      <guid>/posts/2010-03-23-179/</guid>
+      <guid>//localhost:1313/posts/2010-03-23-179/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;h1 id=&#34;российский-рынок-электронных-читалок-итоги-2009-г&#34;&gt;Российский рынок электронных «читалок»: итоги 2009 г.&lt;/h1&gt;&#xA;&lt;p&gt;Аналитическая группа SmartMarketing публикует основные результаты исследования российского рынка устройств чтения электронных книг (e-book readers, EBR) за 2009 г.&lt;/p&gt;&#xA;&lt;p&gt;По итогам периода общий объем продаж устройств чтения электронных книг на российском рынке, согласно оценкам SmartMarketing составил 189000 штук (с учетом устройств всех типов и категорий, включая читалки с экранами на базе «электронных чернил», e-Ink, и ЖК-технологии)1, 2.&lt;/p&gt;&#xA;&lt;p&gt;«В данном сегменте отмечена чрезвычайно высокая динамика роста, от квартала к кварталу объемы продаж увеличивались в полтора–два раза. Думаю, не будет преувеличением сказать, что, несмотря на кризис и общеизвестные экономические сложности первой половины года, 2009 г. стал годом бума электронных книг, — отметила Светлана Завьялова, менеджер по маркетингу SmartMarketing, — И следует отметить чрезвычайно важное обстоятельство: основную массу покупателей ридеров составляют люди, ранее очень далекие от сектора гаджетов, обычные пользователи, те самые, которые и составляют становой хребет массового рынка. Это позволяет уверенно прогнозировать значимый рост сегмента в течение ближайших двух–трех лет и сохранение текущих темпов роста еще минимум в течение года».&lt;/p&gt;</description>
     </item>
     <item>
       <title>comScore о покупателях iPad и читалок</title>
-      <link>/posts/2010-03-23-43/</link>
+      <link>//localhost:1313/posts/2010-03-23-43/</link>
       <pubDate>Tue, 23 Mar 2010 12:53:24 +0000</pubDate>
-      <guid>/posts/2010-03-23-43/</guid>
+      <guid>//localhost:1313/posts/2010-03-23-43/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Younger consumers indicated a high willingness to pay for news and magazines specially formatted for e-readers. 68 percent of 25-34 year olds and 59 percent of 35-44 year olds said they were willing to pay for this content, representing substantially higher percentages than people age 45 and older.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.prnewswire.com/news-releases/comscore-releases-results-of-study-on-apple-ipad-and-e-reader-consumer-attitudes-behaviors-and-purchase-intent-88856612.html&#34;&gt;prnewswire.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Там ещё немного разной не очень важной информации.&lt;/p&gt;</description>
     </item>
     <item>
       <title>On Demand vs. обычного книгоиздания</title>
-      <link>/posts/2009-05-19-108/</link>
+      <link>//localhost:1313/posts/2009-05-19-108/</link>
       <pubDate>Tue, 19 May 2009 16:20:06 +0000</pubDate>
-      <guid>/posts/2009-05-19-108/</guid>
+      <guid>//localhost:1313/posts/2009-05-19-108/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://bowker.com/index.php/press-releases/563-bowker-reports-us-book-production-declines-3-in-2008-but-qon-demandq-publishing-more-than-doubles&#34;&gt;Bowker Reports U.S. Book Production Declines 3% in 2008, but &amp;ldquo;On Demand&amp;rdquo; Publishing More than Doubles&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Bowker, the global leader in bibliographic information management solutions, today released statistics on U.S. book publishing for 2008, compiled from its Books In Print® database. Based on preliminary figures from U.S. publishers, Bowker is projecting that U.S. title output in 2008 decreased by 3.2%, with 275,232 new titles and editions, down from the 284,370 that were published in 2007. Despite this decline in traditional book publishing, there was another extraordinary year of growth in the reported number of “On Demand” and short-run books produced in 2008. Bowker projects that 285, 394 On Demand books were produced last year, a staggering 132% increase over last year’s final total of 123,276 titles. This is the second consecutive year of triple-digit growth in the On Demand segment, which in 2008 was 462% above levels seen as recently as 2006.&lt;/p&gt;</description>
     </item>
   </channel>

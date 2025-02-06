@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archive on Новости электронного книгоиздания</title>
-    <link>/tags/archive/</link>
+    <link>//localhost:1313/tags/archive/</link>
     <description>Recent content in Archive on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Sun, 12 Jan 2020 01:30:06 +0300</lastBuildDate>
-    <atom:link href="/tags/archive/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/archive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>База знаний по архивированию веба</title>
-      <link>/posts/2020-01-12-1/</link>
+      <link>//localhost:1313/posts/2020-01-12-1/</link>
       <pubDate>Sun, 12 Jan 2020 01:30:06 +0300</pubDate>
-      <guid>/posts/2020-01-12-1/</guid>
+      <guid>//localhost:1313/posts/2020-01-12-1/</guid>
       <description>&lt;p&gt;Исключительно полезная база знаний по архивированию веба (по пре&#xA;имущественно — личному): &lt;a href=&#34;https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community&#34;&gt;https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Архив в Архиве: &lt;a href=&#34;https://web.archive.org/web/20200111222928/https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community&#34;&gt;https://web.archive.org/web/20200111222928/https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Долой 404</title>
-      <link>/posts/2017-01-13-a/</link>
+      <link>//localhost:1313/posts/2017-01-13-a/</link>
       <pubDate>Fri, 13 Jan 2017 15:02:25 +0000</pubDate>
-      <guid>/posts/2017-01-13-a/</guid>
+      <guid>//localhost:1313/posts/2017-01-13-a/</guid>
       <description>&lt;p&gt;Признаюсь, нежно люблю &lt;a href=&#34;https://archive.org/index.php&#34;&gt;Internet Archive&lt;/a&gt; и его &lt;a href=&#34;https://archive.org/web/&#34;&gt;Wayback Machine&lt;/a&gt;. Уже больше 20 лет они сохраняют «снимки» веб-сайтов, то есть если вам нужна история веба — вам сюда. Последние 10 лет они ещё собирают и книги, и новостное видео, и записи радио — всё, что может пригодится историкам и любопытствующим. Вебсайты ведь смертны. Каждый год «умирает» примерно 2% ссылок. Проект умер, хостинг закончился, всё. Или вебсайт кто-нибудь купил, всё переделал, старого контента не осталось. Или пришли спецслужбы… (С приходом Трампа, кстати, Internet Archive перепугался и продублировал все базы данных в Канаде — от любителей «постправды» подальше.) И вот уже вам открывается не живой сайт, а «ошибка 404».&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ура! Books in Browsers VII</title>
-      <link>/posts/2016-02-19-a/</link>
+      <link>//localhost:1313/posts/2016-02-19-a/</link>
       <pubDate>Fri, 19 Feb 2016 21:22:30 +0000</pubDate>
-      <guid>/posts/2016-02-19-a/</guid>
+      <guid>//localhost:1313/posts/2016-02-19-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://booksinbrowsers.org/submit-your-proposal-vii/&#34;&gt;http://booksinbrowsers.org/submit-your-proposal-vii/&lt;/a&gt; Конференция Интернет-архива &amp;ldquo;Книги в браузерах&amp;rdquo; опять будет. 3-4 ноября 2016 в Сан-Франциско. Про короткие истории, не только книжные. Очень рекомендую.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Почему не может быть российского archive.org</title>
-      <link>/posts/2013-12-05-a/</link>
+      <link>//localhost:1313/posts/2013-12-05-a/</link>
       <pubDate>Thu, 05 Dec 2013 14:19:17 +0000</pubDate>
-      <guid>/posts/2013-12-05-a/</guid>
+      <guid>//localhost:1313/posts/2013-12-05-a/</guid>
       <description>&lt;p&gt;Нужно ли сохранять цифровую информацию? Да! Можно ли это делать в России? Однозначного ответа на это нет.&lt;/p&gt;&#xA;&lt;p&gt;Задача сохранения цифрового контента — для академических и исследовательских нужд, в качестве основы памяти о современности для потомков — предельна актуальна. Если ещё полвека назад культура наука и медиа существовали только в физической форме, то во втором десятилетии XXI века даже тот контент, который так или иначе привязан к физической форме, рано или поздно обретает цифровую форму и попадает в цифровую дистрибуцию в интернете.&lt;/p&gt;</description>
     </item>
     <item>
       <title>А Google-то и не знает, или Ирония интернет-истории</title>
-      <link>/posts/2011-08-17-1/</link>
+      <link>//localhost:1313/posts/2011-08-17-1/</link>
       <pubDate>Wed, 17 Aug 2011 11:50:55 +0000</pubDate>
-      <guid>/posts/2011-08-17-1/</guid>
+      <guid>//localhost:1313/posts/2011-08-17-1/</guid>
       <description>&lt;p&gt;Есть такой отличный писатель, Нил Стивенсон. И есть у него (как бы) исторический роман &amp;ldquo;Ртуть&amp;rdquo;. И был такой сайт, где читатели романа совокупно писали комментарии. И я даже этот сайт когда-то видел, и думал - вот крутизна какая - только индекс из нескольких сот вхождений.&lt;/p&gt;&#xA;&lt;p&gt;Но в 2005 году, оказывается, если верить archive.org, сайт романа c красивым названием metaweb.com перешёл к компании, профилем которой стал Semantic Web. А потом компанию купил Google. А проект вокруг романа канул в Архиве. Жаль. На месте Google я бы его восстановил. Если уж Semantic Web откуда-то и пошёл, так именно из таких проектов, как этот.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Стыдная история</title>
-      <link>/posts/2011-02-07-b/</link>
+      <link>//localhost:1313/posts/2011-02-07-b/</link>
       <pubDate>Mon, 07 Feb 2011 17:01:13 +0000</pubDate>
-      <guid>/posts/2011-02-07-b/</guid>
+      <guid>//localhost:1313/posts/2011-02-07-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;В нашей Отчизне сапожник оказался без сапог: стране, породившей лучшие в мире технологии распознавания языков, такие инструменты особо не нужны. «В России у нас был только один проект по оцифровке библиотечных фондов. Там требовалось распознавание русского языка XIX века, — замечает Григорий Липич. — Этот алфавит отличается от современного лишь несколькими символами, а вот поддержка более старых видов письма и алфавитов кириллицы пока даже не планируется». И это при том, что отечественные лингвисты продолжают защищать диссертации по старорусским текстам, которые явно пригодились бы в работе с архаичной кириллицей.&lt;/p&gt;</description>
     </item>
     <item>
       <title>НП &#34;ИнфоРост&#34; - новый игрок на рынке оцифровки</title>
-      <link>/posts/2009-12-25-a/</link>
+      <link>//localhost:1313/posts/2009-12-25-a/</link>
       <pubDate>Fri, 25 Dec 2009 23:43:46 +0000</pubDate>
-      <guid>/posts/2009-12-25-a/</guid>
+      <guid>//localhost:1313/posts/2009-12-25-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://inforost.org/about/index.html&#34;&gt;Некоммерческое Партнерство «ИнфоРост»&lt;/a&gt; занимается распространением и популяризацией инновационных Интернет технологий среди организаций культуры, науки и образования путем их обеспечения современными средствами по размещению цифровых коллекций и каталогов в свободный онлайн доступ для широкой аудитории Интернет пользователей.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://inforost.org/&#34;&gt;inforost.org&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Internet Archive: открытая архитектура хранения и дистрибуции электронных книг</title>
-      <link>/posts/2009-10-19-29/</link>
+      <link>//localhost:1313/posts/2009-10-19-29/</link>
       <pubDate>Mon, 19 Oct 2009 20:05:54 +0000</pubDate>
-      <guid>/posts/2009-10-19-29/</guid>
+      <guid>//localhost:1313/posts/2009-10-19-29/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.archive.org/bookserver&#34;&gt;Internet Archive: A Future for Books &amp;ndash; BookServer&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The BookServer is a growing open architecture for vending and lending digital books over the Internet. Built on open catalog and open book formats, the BookServer model allows a wide network of publishers, booksellers, libraries, and even authors to make their catalogs of books available directly to readers through their laptops, phones, netbooks, or dedicated reading devices. BookServer facilitates pay transactions, borrowing books from libraries, and downloading free, publicly accessible books.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Российские издатели против обязательного электронного экземпляра</title>
-      <link>/posts/2008-07-03-44/</link>
+      <link>//localhost:1313/posts/2008-07-03-44/</link>
       <pubDate>Thu, 03 Jul 2008 18:36:17 +0000</pubDate>
-      <guid>/posts/2008-07-03-44/</guid>
+      <guid>//localhost:1313/posts/2008-07-03-44/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.kommersant.ru/doc.aspx?DocsID=908315&#34;&gt;Ъ - Госдума цифруется на случай буквоедства&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Сегодня Госдума в первом чтении должна рассмотреть поправки к закону &amp;ldquo;О библиотечном деле&amp;rdquo;, легализующие деятельность электронных библиотек. В целях &amp;ldquo;сохранности фондов&amp;rdquo; национальные библиотеки предлагается наделить правом оцифровывания книг, видеофильмов и других произведений, что позволит им создавать электронные копии документов без согласия авторов и без выплаты им вознаграждения &amp;lt;&amp;hellip;&amp;gt;&lt;br&gt;&#xA;&amp;ldquo;Издатели захотят зафиксировать защиту своего авторского права, и читатели будут оплачивать вот этот бесплатный доступ&amp;rdquo;,— прогнозирует гендиректор &amp;ldquo;Олма Медиа Групп&amp;rdquo; Дмитрий Иванов. &amp;ldquo;Мне будет трудно объяснить авторам, что я не контролирую электронную судьбу их творений. Это приведет к росту цен на книги&amp;rdquo;,— соглашается с ним главный редактор издательской группы &amp;ldquo;Аттикус&amp;rdquo; (включает издательства &amp;ldquo;Иностранка&amp;rdquo;, &amp;ldquo;Колибри&amp;rdquo; и &amp;ldquo;Махаон&amp;rdquo;) Сергей Пархоменко. &amp;ldquo;Сегодня нет надежной системы контроля учета и оплаты авторского права при электронном распространении, и пока это так, автор будет спрашивать с издателя&amp;rdquo;,— добавляет господин Пархоменко. &amp;ldquo;Даже защищенные базы вроде налоговой уже лежат в интернете. Посмотрите, что случилось с базами банков и мобильных телефонов. То же самое будет, если выдавать электронные экземпляры книг сразу в Ленинку,— говорит Вадим Усков.— Это крайне вредная для индустрии затея. Возведение в ранг госполитики безвозмездной раздачи всем всего — это недальновидно и направлено против авторов&amp;rdquo;.&lt;/p&gt;</description>
     </item>
   </channel>

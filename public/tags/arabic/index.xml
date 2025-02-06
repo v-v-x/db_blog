@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arabic on Новости электронного книгоиздания</title>
-    <link>/tags/arabic/</link>
+    <link>//localhost:1313/tags/arabic/</link>
     <description>Recent content in Arabic on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 26 Dec 2017 07:02:20 +0000</lastBuildDate>
-    <atom:link href="/tags/arabic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/arabic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amazon KDP тестирует поддержку арабского</title>
-      <link>/posts/2017-12-26-a/</link>
+      <link>//localhost:1313/posts/2017-12-26-a/</link>
       <pubDate>Tue, 26 Dec 2017 07:02:20 +0000</pubDate>
-      <guid>/posts/2017-12-26-a/</guid>
+      <guid>//localhost:1313/posts/2017-12-26-a/</guid>
       <description>&lt;p&gt;Ого. Amazon включил поддержку арабского языка для своей платформы самиздата Kindle Direct Publishing. Для конвертации принимают только Word. Пишут, что ждут и издателей. Начало большой истории. via &lt;a href=&#34;https://kdp.amazon.com/en_US/help/topic/GUQT4C8J6RR6V8TY&#34;&gt;Arabic (Beta) | Amazon Kindle Direct Publishing&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Операционная система исламской электронной книги eAlim EL1000</title>
-      <link>/posts/2011-06-14-c/</link>
+      <link>//localhost:1313/posts/2011-06-14-c/</link>
       <pubDate>Tue, 14 Jun 2011 13:47:56 +0000</pubDate>
-      <guid>/posts/2011-06-14-c/</guid>
+      <guid>//localhost:1313/posts/2011-06-14-c/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Operating System Core: ENMAC Islamic Software&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://store.dar-us-salam.com/NW/E55.html&#34;&gt;store.dar-us-salam.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Вот и киберислам.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Проект бесплатного электронного издательства в Египте</title>
-      <link>/posts/2009-12-23-125/</link>
+      <link>//localhost:1313/posts/2009-12-23-125/</link>
       <pubDate>Wed, 23 Dec 2009 10:30:00 +0000</pubDate>
-      <guid>/posts/2009-12-23-125/</guid>
+      <guid>//localhost:1313/posts/2009-12-23-125/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Marwa Rakha’s free e-publishing does not censor and does not have any guidelines for manuscript acceptance whatsoever.&lt;/p&gt;&#xA;&lt;p&gt;Rakha says that “if you think you are a writer, if you think you want people to hear your voice, if you do not want to be at the mercy of a publisher who will make you pay, will not print the number of copies he promised, will not distribute the book properly, and will not market the book or author, then… you have a home with me.”&lt;/p&gt;</description>
     </item>
   </channel>

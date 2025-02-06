@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game on Новости электронного книгоиздания</title>
-    <link>/tags/game/</link>
+    <link>//localhost:1313/tags/game/</link>
     <description>Recent content in Game on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Sun, 31 Jul 2016 20:37:35 +0000</lastBuildDate>
-    <atom:link href="/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EPUB-редактор для геймеров</title>
-      <link>/posts/2016-07-31-a/</link>
+      <link>//localhost:1313/posts/2016-07-31-a/</link>
       <pubDate>Sun, 31 Jul 2016 20:37:35 +0000</pubDate>
-      <guid>/posts/2016-07-31-a/</guid>
+      <guid>//localhost:1313/posts/2016-07-31-a/</guid>
       <description>&lt;p&gt;Каких только ни бывает редакторов EPUB. Однако этот значительно отличается от других. Не столько своими возможностями (ничего необычного или потрясающего), сколько маркетингом и продуманными с точки зрения целевой аудитории опциями. &lt;a href=&#34;https://nimble.tools/writer&#34;&gt;Nimble Writer&lt;/a&gt; создан для геймеров.&lt;/p&gt;&#xA;&lt;p&gt;Даже если вы не геймер или не родитель геймера, то вы всё равно, уверен, слышали о &lt;a href=&#34;http://store.steampowered.com/&#34;&gt;Steam&lt;/a&gt; — крупнейшем магазине компьютерных игр, созданном компанией Valve. В Steam по преимуществу продаются игры независимых издателей, а также игры самой компании. (Вы ничего не слышали о &lt;a href=&#34;http://store.steampowered.com/app/400/&#34;&gt;Portal&lt;/a&gt; и &lt;a href=&#34;http://store.steampowered.com/app/570/&#34;&gt;Dota 2&lt;/a&gt;? В каком мире вы живёте?) А кроме игр — разнообразное видео, программы и даже некоторое железо, включая VR-очки HTC Vive.&lt;/p&gt;</description>
     </item>
   </channel>

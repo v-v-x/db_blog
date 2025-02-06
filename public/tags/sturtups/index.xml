@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sturtups on Новости электронного книгоиздания</title>
-    <link>/tags/sturtups/</link>
+    <link>//localhost:1313/tags/sturtups/</link>
     <description>Recent content in Sturtups on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 08 Feb 2013 21:09:16 +0000</lastBuildDate>
-    <atom:link href="/tags/sturtups/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/sturtups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The People&#39;s E-Book — проект программы для epub на Kickstarter</title>
-      <link>/posts/2013-02-08-a/</link>
+      <link>//localhost:1313/posts/2013-02-08-a/</link>
       <pubDate>Fri, 08 Feb 2013 21:09:16 +0000</pubDate>
-      <guid>/posts/2013-02-08-a/</guid>
+      <guid>//localhost:1313/posts/2013-02-08-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.kickstarter.com/projects/1371597318/the-peoples-e-book&#34;&gt;The People&amp;rsquo;s E-Book by Hol Art Books — Kickstarter&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Можно помочь людям сделать бесплатный инструмент для производства epub.&lt;/p&gt;</description>
     </item>
   </channel>

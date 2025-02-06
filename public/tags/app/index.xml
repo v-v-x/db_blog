@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>App on Новости электронного книгоиздания</title>
-    <link>/tags/app/</link>
+    <link>//localhost:1313/tags/app/</link>
     <description>Recent content in App on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 10 Mar 2016 06:50:09 +0000</lastBuildDate>
-    <atom:link href="/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Новая Adobe Digital Editions 4.5.1</title>
-      <link>/posts/2016-03-10-a/</link>
+      <link>//localhost:1313/posts/2016-03-10-a/</link>
       <pubDate>Thu, 10 Mar 2016 06:50:09 +0000</pubDate>
-      <guid>/posts/2016-03-10-a/</guid>
+      <guid>//localhost:1313/posts/2016-03-10-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Release Notes&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.adobe.com/solutions/ebook/digital-editions/release-notes.html&#34;&gt;Release Notes | Adobe Digital Editions&lt;/a&gt;&lt;/em&gt; Главное новшество — автозагрузка книг на синхронизированные мобильные устройства на Android и iOS.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ADE для iPad</title>
-      <link>/posts/2015-01-30-a/</link>
+      <link>//localhost:1313/posts/2015-01-30-a/</link>
       <pubDate>Fri, 30 Jan 2015 06:56:30 +0000</pubDate>
-      <guid>/posts/2015-01-30-a/</guid>
+      <guid>//localhost:1313/posts/2015-01-30-a/</guid>
       <description>&lt;p&gt;И 5 лет не прошло, как Adobe сосредоточилась и &lt;a href=&#34;https://itunes.apple.com/us/app/adobe-digital-editions/id952977781?mt=8&#34;&gt;выпустила&lt;/a&gt; программу Adobe Digital Editions — свою дефолтную читалку для EPUB — на iPad. Судя по описанию — поддерживаются те же функции, что и в последней версии ADE для компов (аудио и видео, более/менее fixed layout, математические формулы). Лучше поздно, чем никогда? Или уже поздно?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Удачный пример rich media — Мета Морфоз</title>
-      <link>/posts/2014-12-05-a/</link>
+      <link>//localhost:1313/posts/2014-12-05-a/</link>
       <pubDate>Fri, 05 Dec 2014 10:06:56 +0000</pubDate>
-      <guid>/posts/2014-12-05-a/</guid>
+      <guid>//localhost:1313/posts/2014-12-05-a/</guid>
       <description>&lt;p&gt;Я скептически отношусь к книгам-приложениям. Они редко бывают действительно хорошими, оригинальными и отличаются от «Алисы в Стране чудес», из которой все они родились. Анимация в них часто предсказуема, повествование — банально, а интерактивность — вымучена. Но есть и удачные исключения, которые вселяют надежду на то, что у этого вида книг есть своё интересное будущее. Например, &lt;a href=&#34;http://meta-morfoss-app.com/ru/en&#34;&gt;Мета Морфоз Апп&lt;/a&gt; — книга, которую сделали для iPad Николай Барабанов и Анна Бурк.&lt;/p&gt;&#xA;&lt;p&gt;В основу приложения положен симпатичный рассказ Петер Хааса, а мультик, сопровождающий текст, сделан в очень весёлой манере. Всё это было бы уже недурно, но у приложения, судя по ролику на сайте, есть ещё две фишки — мультиязычность (можно переключать текст между тремя языками — английским, русским и немецким) и интерактивность видеоряда. Выбирая ключевые слова, пользователь (очевидно — ребёнок, который начинает читать) меняет и сценарий мультика. Хорошая работа. В общем, с такими аппами у книг-приложений есть перспектива.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Вслед за Akunin Book — Akunin App</title>
-      <link>/posts/2014-06-16-b/</link>
+      <link>//localhost:1313/posts/2014-06-16-b/</link>
       <pubDate>Mon, 16 Jun 2014 13:08:48 +0000</pubDate>
-      <guid>/posts/2014-06-16-b/</guid>
+      <guid>//localhost:1313/posts/2014-06-16-b/</guid>
       <description>&lt;p&gt;Идея с &lt;a href=&#34;http://www.digital-books.ru/archives/2795&#34;&gt;отдельным букридером для чтения книг Акунина&lt;/a&gt; и от Акунина  показалась мне несколько диковатой. Но вот подоспело целое «&lt;a href=&#34;https://itunes.apple.com/ru/app/akunin-book/id865263023?mt=8&#34;&gt;приложение от Акунина&lt;/a&gt;». В таком виде выглядит более симпатично.&lt;/p&gt;</description>
     </item>
     <item>
       <title>dotdotdot - читалка для книг и вебконтента</title>
-      <link>/posts/2012-11-21-a/</link>
+      <link>//localhost:1313/posts/2012-11-21-a/</link>
       <pubDate>Wed, 21 Nov 2012 21:53:44 +0000</pubDate>
-      <guid>/posts/2012-11-21-a/</guid>
+      <guid>//localhost:1313/posts/2012-11-21-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.dotdotdot.me/&#34;&gt;dotdotdot - Your free digital reading app.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Выглядит очень симпатично. Смесь ридера epub и Instapaper + возможность заметок, шаринга, social reading и пр. Если к ней добавить ещё и редактор для создания текстов&amp;hellip; Но даже и в таком виде — оч. круто.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon всё-таки обновил Stanza</title>
-      <link>/posts/2011-11-11-1/</link>
+      <link>//localhost:1313/posts/2011-11-11-1/</link>
       <pubDate>Fri, 11 Nov 2011 05:17:17 +0000</pubDate>
-      <guid>/posts/2011-11-11-1/</guid>
+      <guid>//localhost:1313/posts/2011-11-11-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Fans of the Amazon-owned &lt;a href=&#34;http://www.macworld.com/appguide/app.html?id=62612&#34;&gt;Stanza&lt;/a&gt; e-reading app for iOS have been granted at least a temporary reprieve: Amazon on Thursday released an update to the app that fixes a slew of problems that affected the app when running on iOS 5.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.macworld.com/article/163524/2011/11/amazon_updates_sunse&#34;&gt;macworld.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;А то она рушилась под iOS 5. Я уже думал, что всё, типа, слушайте валенки, пользуйтесь Kindle. Но — нет, совесть есть.&lt;/p&gt;</description>
     </item>
   </channel>

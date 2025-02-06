@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital Humanities on Новости электронного книгоиздания</title>
-    <link>/tags/digital-humanities/</link>
+    <link>//localhost:1313/tags/digital-humanities/</link>
     <description>Recent content in Digital Humanities on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Sat, 21 May 2022 14:11:47 +0300</lastBuildDate>
-    <atom:link href="/tags/digital-humanities/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/digital-humanities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Нюрнбергский трибунал и digital humanities</title>
-      <link>/posts/2022-05-21-1/</link>
+      <link>//localhost:1313/posts/2022-05-21-1/</link>
       <pubDate>Sat, 21 May 2022 14:11:47 +0300</pubDate>
-      <guid>/posts/2022-05-21-1/</guid>
+      <guid>//localhost:1313/posts/2022-05-21-1/</guid>
       <description>&lt;p&gt;Вчера в &lt;a href=&#34;https://twitter.com/liza/status/1527718405763121152&#34;&gt;твиттере у Лайзы Дейли&lt;/a&gt; прочитал, что она теперь Technologist in Residence в Library Innovation Lab в Гарвардском университете. Лайза Дейли — совершенно чудная. По её лекциям в IBM я когда-то учился делать EPUB. В своё время она сделала первую онлайн-читалку EPUB. И CSS Zen Garden, чтобы показать тормознутым издателям: электронные книги могут быть не просто сплошным текстом (как до сих пор, кстати, в основных русских читалках). Она построила онлайн-сервис для известного американского компьютерного издательства O&amp;rsquo;Reilly (мануалы с животными на обложках видели же? ну, вот, это оно). Она сделала CC Search — поиск графики, распространяемой на условиях Creative Commons. И вообще — развлекалась с книгами, литературой, нарративами, интерактивами и пр. в сети  &lt;a href=&#34;https://lizadaly.com/&#34;&gt;всячески&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Поверить гармонию посредством Wolfram|Alpha, или Арифметика литературного текста</title>
-      <link>/posts/2012-04-11-b/</link>
+      <link>//localhost:1313/posts/2012-04-11-b/</link>
       <pubDate>Wed, 11 Apr 2012 12:33:43 +0000</pubDate>
-      <guid>/posts/2012-04-11-b/</guid>
+      <guid>//localhost:1313/posts/2012-04-11-b/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://blog.wolframalpha.com/2012/04/10/to-compute-or-not-to-compute-wolframalpha-analyzes-shakespeares-plays/&#34;&gt;blog.wolframalpha.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;У сервисе Стивена Вольфрама появилась новая функция — анализ литературного произведения. Сухо, с цифрами, по делу: Брут сказал столько-то слов, Кассий — столько-то, во «Сне в летнюю ночь» предлог the составляет 3,42% текста, союз and 3,28%, а самые длинные слова в «Гамлете» — transformation и unproportion&amp;rsquo;d. И можно посмотреть таймлайны персонажей (похоже на функцию X-Ray в новых Kindle).&lt;/p&gt;&#xA;&lt;p&gt;Сервис работает далеко не со всем корпусом классической литературы. Поэтому вопрос, которым я пытался в детстве замучить игроков «Что? Где? Когда?», о самом длинном предложении в «Винни-Пухе» так и остался пока без строгого математического ответа.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manga on Новости электронного книгоиздания</title>
-    <link>/tags/manga/</link>
+    <link>//localhost:1313/tags/manga/</link>
     <description>Recent content in Manga on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 25 Jan 2012 11:19:31 +0000</lastBuildDate>
-    <atom:link href="/tags/manga/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/manga/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Круче всех французские пираты манги</title>
-      <link>/posts/2012-01-25-b/</link>
+      <link>//localhost:1313/posts/2012-01-25-b/</link>
       <pubDate>Wed, 25 Jan 2012 11:19:31 +0000</pubDate>
-      <guid>/posts/2012-01-25-b/</guid>
+      <guid>//localhost:1313/posts/2012-01-25-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The MOTif report reveals that of the 50 best-selling comics, 58% of these are not available as e-books. Pirated mangas are often streamed, whereas comic books are scanned. These generally good quality files, either PDFs or images, sell for an average of $15, slightly below the price of the equivalent paper book.&lt;/p&gt;&#xA;&lt;p&gt;It is also interesting to note that these pirating teams are well organized and able to scan new mangas that are released in Japan. They even provide professional quality translations (including footnotes). The pirated comics are then sold online until the legal version appears in France, at which point they are removed. (After Japan, France is the country where the most mangas are sold.)&lt;/p&gt;</description>
     </item>
   </channel>

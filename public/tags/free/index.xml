@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Free on Новости электронного книгоиздания</title>
-    <link>/tags/free/</link>
+    <link>//localhost:1313/tags/free/</link>
     <description>Recent content in Free on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Sun, 16 Oct 2016 21:09:54 +0000</lastBuildDate>
-    <atom:link href="/tags/free/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/free/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Новый DeDRM</title>
-      <link>/posts/2016-10-16-b/</link>
+      <link>//localhost:1313/posts/2016-10-16-b/</link>
       <pubDate>Sun, 16 Oct 2016 21:09:54 +0000</pubDate>
-      <guid>/posts/2016-10-16-b/</guid>
+      <guid>//localhost:1313/posts/2016-10-16-b/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://apprenticealf.wordpress.com/2016/10/11/dedrm-tools-6-5-2-released/&#34;&gt;Обновился&lt;/a&gt; набор утилит для снятия &lt;a href=&#34;https://goo.gl/foaCrk&#34;&gt;DRM&lt;/a&gt; с книг, приобретённых вами в магазинах, которые DRM используют (Amazon, Kobo, B&amp;amp;N и Adobe). Apprentice Alf позволяет ровно это — снять защиту с купленных &lt;em&gt;лично вами&lt;/em&gt; книг, а не каких-то других. Поэтому, например, чтобы снять защиту с книги, купленной в Amazon, вам надо будет зайти в личный кабинет на Amazon и найти серийный номер вашего Kindle. Снять защиту с книги, купленной для какого-то постороннего Kindle, не получится.&lt;/p&gt;</description>
     </item>
   </channel>

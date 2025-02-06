@@ -2,255 +2,255 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reading on Новости электронного книгоиздания</title>
-    <link>/tags/reading/</link>
+    <link>//localhost:1313/tags/reading/</link>
     <description>Recent content in Reading on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 06 Mar 2020 15:13:46 +0300</lastBuildDate>
-    <atom:link href="/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Как пропаганду чтения делают в Великобритании</title>
-      <link>/posts/2020-03-06-3/</link>
+      <link>//localhost:1313/posts/2020-03-06-3/</link>
       <pubDate>Fri, 06 Mar 2020 15:13:46 +0300</pubDate>
-      <guid>/posts/2020-03-06-3/</guid>
+      <guid>//localhost:1313/posts/2020-03-06-3/</guid>
       <description>&lt;p&gt;Всё-таки каждый раз, когда слушаю невразумительный пафос наших чиновников и начальников книжной индустрии по поводу пропаганды чтения, недоумеваю. Если уж очень хочется &lt;em&gt;прпгндировать&lt;/em&gt; чтение, но своих мыслей не хватает, то можно напрячься и просто сделать хотя бы так, как делает &lt;strong&gt;Национальный фонд грамотности&lt;/strong&gt; в Великобритании.&lt;/p&gt;&#xA;&lt;p&gt;То есть &lt;a href=&#34;https://www.worldbookday.com/about-us/who-we-work-with/&#34;&gt;найти спонсоров, договориться с издательствами и книжными магазинами&lt;/a&gt;, раздать хотя бы миллион, а лучше — десяток, ваучеров (их печатает Макдональдс на коробочках Happy Meals), которые дети могут бесплатно обменять на книги в книжных магазинах? Деньги за книги идут книжным и издательствам от спонсоров, в продвижении программы участвует премьер-министр.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Никакого спада чтения в Америке нет (Gallup)</title>
-      <link>/posts/2017-01-12-a/</link>
+      <link>//localhost:1313/posts/2017-01-12-a/</link>
       <pubDate>Thu, 12 Jan 2017 14:03:25 +0000</pubDate>
-      <guid>/posts/2017-01-12-a/</guid>
+      <guid>//localhost:1313/posts/2017-01-12-a/</guid>
       <description>&lt;p&gt;Старый добрый Gallup проснулся и впервые за 14 лет спросил у американцев о том, сколько книг они читают. И внезапно &lt;a href=&#34;http://www.gallup.com/poll/201644/rumors-demise-books-greatly-exaggerated.aspx&#34;&gt;выяснил&lt;/a&gt;, что слухи о снижении чтения сильно преувеличены. Более того, пенсионеры стали читать даже существенно больше. Во всяком случае, данные лонгитюдного мониторинга Gallup отличаются от ежегодных опросов Pew Research. Что, конечно, напрягает, но вселяет надежду.&lt;/p&gt;&#xA;&lt;p&gt;Возможно, это объясняется разными методиками проведения опросов. У Gallup и выборка меньше. Gallup, кстати, спросил и о том, книги в какой форме американцы предпочитают читать. 73% ответили, что бумажные книги, 16% — электронные, 6% — аудиокниги.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Слухи о смерти электронных книг изрядно преувеличены</title>
-      <link>/posts/2016-09-06-a/</link>
+      <link>//localhost:1313/posts/2016-09-06-a/</link>
       <pubDate>Tue, 06 Sep 2016 21:13:57 +0000</pubDate>
-      <guid>/posts/2016-09-06-a/</guid>
+      <guid>//localhost:1313/posts/2016-09-06-a/</guid>
       <description>&lt;p&gt;Хорошее резюме &lt;a href=&#34;http://www.pewinternet.org/2016/09/01/book-reading-2016/&#34;&gt;последнего исследования PewInternet о чтении в США&lt;/a&gt; на Bloomberg:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The survey didn&amp;rsquo;t show any real sign of a print resurgence either, though. Overall, the percentage of Americans consuming books in any form appears to be trending modestly downward. By holding steady, e-books are thus gaining a bit of ground over print.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;В общем, и правда: 28% американцев читают электронные книги. Хуже того — 35% молодежи (18—29 лет). А плачут только крупные издатели, попавшиеся в ловушку Amazon, которая предоставила им возможность задрать цены на свои книги, а сама стала продавать больше своих книг и книг независимых авторов. О чём, кстати, сегодня &lt;a href=&#34;http://www.idealog.com/blog/ebook-pricing-resembles-three-dimensional-chess/&#34;&gt;написал и Майк Шацкин&lt;/a&gt;. Задирая цены, издатели получают меньше продаж. Опустить все цены они тоже не могут, потому что получат ещё большее снижение оборота. Шацкин, правда, предлагает рецепт — промоцены на определенный период и более внимательное отслеживание спроса и более гибкое ценообразование.&lt;/p&gt;</description>
     </item>
     <item>
       <title>«Почему я не буду читать электронные книги в этом году» (Майкл Хайят)</title>
-      <link>/posts/2016-01-15-b/</link>
+      <link>//localhost:1313/posts/2016-01-15-b/</link>
       <pubDate>Fri, 15 Jan 2016 11:09:10 +0000</pubDate>
-      <guid>/posts/2016-01-15-b/</guid>
+      <guid>//localhost:1313/posts/2016-01-15-b/</guid>
       <description>&lt;p&gt;Потому что…&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Электронные книги ускользают из внимания, а бумажные —нет, потому что тупо занимают место.&lt;/em&gt; (Это смотря сколько книг в библиотеке, у меня они тоже выпадают из внимания, попав во второй ряд. Да даже и в первый.)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Электронные книги задействуют меньше органов чувств&lt;/em&gt;. (А уж аудиокниги-то вообще.)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;При чтении электронных книг внимание легко рассеивается&lt;/em&gt;. (Не забудьте, взяв бумажную книгу, отключить телефон.)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Чтение электронных книг мешает следить за сюжетом и понимать происходящее&lt;/em&gt;. (Особенно актуально при чтении постмодернистсвой литературы.)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Бумага &amp; цифра — опрос Wexler QuadLab</title>
-      <link>/posts/2015-07-29-a/</link>
+      <link>//localhost:1313/posts/2015-07-29-a/</link>
       <pubDate>Wed, 29 Jul 2015 10:53:01 +0000</pubDate>
-      <guid>/posts/2015-07-29-a/</guid>
+      <guid>//localhost:1313/posts/2015-07-29-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://vk.com/wexlerelectronics?w=wall-20797477_18144&#34;&gt;А как Вы считаете должна ли электронная книга повторять оформление бумажной?&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Результаты любопытные. Получается, что большинство всё-таки за epub, а не «просто читать».&lt;/p&gt;</description>
     </item>
     <item>
       <title>Книги для «игреков». Белая книга от Publishing Perspectives</title>
-      <link>/posts/2015-04-02-a/</link>
+      <link>//localhost:1313/posts/2015-04-02-a/</link>
       <pubDate>Thu, 02 Apr 2015 12:48:35 +0000</pubDate>
-      <guid>/posts/2015-04-02-a/</guid>
+      <guid>//localhost:1313/posts/2015-04-02-a/</guid>
       <description>&lt;p&gt;Коротко и понятно о том, как читают, где покупают, к кому прислушиваются при выборе книг те, кто родились в 1982–2004 гг.: &lt;a href=&#34;http://publishingperspectives.com/wp-content/uploads/2015/04/White-Paper-How-Millennials-Consume-Content.pdf&#34;&gt;DESIGNING BOOKS FOR TOMORROW’S READERS: HOW MILLENNIALS CONSUME CONTENT&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Великий Боб Штайн о коллективном чтении</title>
-      <link>/posts/2015-02-26-a/</link>
+      <link>//localhost:1313/posts/2015-02-26-a/</link>
       <pubDate>Thu, 26 Feb 2015 09:00:49 +0000</pubDate>
-      <guid>/posts/2015-02-26-a/</guid>
+      <guid>//localhost:1313/posts/2015-02-26-a/</guid>
       <description>&lt;p&gt;Его статья «&lt;a href=&#34;http://quod.lib.umich.edu/j/jep/3336451.0018.204?view=text;rgn=main&#34;&gt;Back to the Future&lt;/a&gt;» в The Journal of Electronic Publishing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Платформы для чтения кое-что знают о том, кто, что и сколько</title>
-      <link>/posts/2015-01-26-a/</link>
+      <link>//localhost:1313/posts/2015-01-26-a/</link>
       <pubDate>Mon, 26 Jan 2015 14:01:44 +0000</pubDate>
-      <guid>/posts/2015-01-26-a/</guid>
+      <guid>//localhost:1313/posts/2015-01-26-a/</guid>
       <description>&lt;h4 id=&#34;использование-устройств&#34;&gt;Использование устройств&lt;/h4&gt;&#xA;&lt;p&gt;Половина пользователей использует 2 или больше устройства для чтения, 10% — три и больше (данные Scribd). 15–20% используют несколько устройств. Есть различия по странам — в Японии нет букридеров, а только смартфоны и планшеты (Kobo). 40% пользователей используют несколько устройств (Bluefire).&lt;/p&gt;&#xA;&lt;h4 id=&#34;жанры&#34;&gt;Жанры&lt;/h4&gt;&#xA;&lt;p&gt;Женские романы чаще покупают летом, на Новый год — нонфикшн, но активность читателей книг основных жанровых категорий всё же стабильна (Kobo).&lt;/p&gt;&#xA;&lt;h4 id=&#34;дочитывание&#34;&gt;Дочитывание&lt;/h4&gt;&#xA;&lt;p&gt;Только 5% читателей книг по здоровью, фитнесу дочитывают эти книги до конца. Хуже всего йоге (Scribd). Только 6–11% читателей Топ-3 дочитывают их до конца, 30% — до половины (OverDrive). Только 10% читателей художественной литературы, забросившие книгу на месяц, вернутся к ней снова (Scribd).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Breaking the Page Петера Мейерса</title>
-      <link>/posts/2014-12-01-a/</link>
+      <link>//localhost:1313/posts/2014-12-01-a/</link>
       <pubDate>Mon, 01 Dec 2014 09:46:34 +0000</pubDate>
-      <guid>/posts/2014-12-01-a/</guid>
+      <guid>//localhost:1313/posts/2014-12-01-a/</guid>
       <description>&lt;p&gt;Петер Майерс наконец-то дописал «&lt;a href=&#34;http://www.amazon.com/Breaking-Page-Transforming-Reading-Experience-ebook/dp/B00PQ83VD4/ref=asap_B003XT7H9W_1_2?s=books&amp;amp;ie=UTF8&amp;amp;qid=1417417924&amp;amp;sr=1-2&#34;&gt;Breaking the Page&lt;/a&gt;», книгу о том, что происходит с культурой книги, когда книга переходит с бумаги на экран, что происходит с тем, как мы читаем, делимся прочитанным и ищем, что бы ещё почитать. В отличие от заметок Мерковского, смело могу рекомендовать всем, кто занимается электронными книгами. Да и бумажными тоже.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Кто что как читает? Android vs. iOS на Oyster</title>
-      <link>/posts/2014-07-02-b/</link>
+      <link>//localhost:1313/posts/2014-07-02-b/</link>
       <pubDate>Wed, 02 Jul 2014 13:24:31 +0000</pubDate>
-      <guid>/posts/2014-07-02-b/</guid>
+      <guid>//localhost:1313/posts/2014-07-02-b/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://blog.oysterbooks.com/post/90448778350/game-of-phones-the-battle-of-ios-vs-android&#34;&gt;Взято у Oyster&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Электронным книгам ещё далеко до бумажных</title>
-      <link>/posts/2014-04-16-a/</link>
+      <link>//localhost:1313/posts/2014-04-16-a/</link>
       <pubDate>Wed, 16 Apr 2014 21:06:12 +0000</pubDate>
-      <guid>/posts/2014-04-16-a/</guid>
+      <guid>//localhost:1313/posts/2014-04-16-a/</guid>
       <description>&lt;p&gt;По крайней мере в одном отношении: налаженного процесса их производства. Может быть, ждать этого в эпоху перехода и не нужно. Но хочется, а пока всё так, как &lt;a href=&#34;http://www.economist.com/blogs/babbage/2014/04/book-production&#34;&gt;пишет The Economist&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;As we worked through the underbrush of our own making, and cut a clear path from the source file form which the print book and PDF were made to export an EPUB, we faced a &amp;ldquo;fork&amp;rdquo; in the road. Should we create an almost-done EPUB from InDesign and then twiddle it further? Doing so would break the chain, and require any typos or other fixes to the source document to be made separately in the EPUB file, which increased the chance of other errors. In the end, InDesign proved malleable enough. (Pedants may tut-tut your correspondent, and note there are many paths to an EPUB. Yet, having consulted with many experts, they all have their own zigs and zags.) As toil proceeded intermittently on the EPUB across a period of three weeks of frustration and revision, the printer rendered our files into billions of dots and sent page and colour proofs; produced printing plates and slapped ink on tens of thousands of sheets of paper; folded, sewed, cut and bound editions; &lt;a href=&#34;http://www.economist.com/blogs/babbage/2010/10/letterpress_revived&#34;&gt;debossed&lt;/a&gt; a cloth cover and pushed white foil into some of it; packed up boxes and piled pallets; and shipped over a tonne of books to four warehouses, whence 1,200 books were wrapped individually and sent on their way to backers. (Attentive readers will note 300 remain for sale.) While hundreds (or thousands, counting warehouse and postal workers) were involved in nearly perfect production and distribution of these hardcover books, Babbage hardly broke a sweat. The production of a book has changed drastically in all the particulars of how words and images move from the mind through intermediaries onto a page. But in the larger scheme, a printed book remains an object of the 1500s, with all the advantages of a process perfected across the centuries. E-books will get there. Just not today.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Электронные книги и их читатель</title>
-      <link>/posts/2013-06-07-a/</link>
+      <link>//localhost:1313/posts/2013-06-07-a/</link>
       <pubDate>Fri, 07 Jun 2013 18:27:13 +0000</pubDate>
-      <guid>/posts/2013-06-07-a/</guid>
+      <guid>//localhost:1313/posts/2013-06-07-a/</guid>
       <description>Презентация к лекции на книжном фестивале&#xA;&#xA;&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/nPv8oii0iuD17C&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/VladimirHaritonov/ss-22617409&#34; title=&#34;Электронные книги и их читатель&#34; target=&#34;_blank&#34;&gt;Электронные книги и их читатель&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/VladimirHaritonov&#34; target=&#34;_blank&#34;&gt;Vladimir Haritonov&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Пользователи мобильных устройств читают по преимуществу на телефонах</title>
-      <link>/posts/2013-04-04-c/</link>
+      <link>//localhost:1313/posts/2013-04-04-c/</link>
       <pubDate>Thu, 04 Apr 2013 10:48:15 +0000</pubDate>
-      <guid>/posts/2013-04-04-c/</guid>
+      <guid>//localhost:1313/posts/2013-04-04-c/</guid>
       <description>&lt;p&gt;Согласно &lt;a href=&#34;http://blog.flurry.com/bid/95652/Size-Matters-for-Connected-Devices-Phablets-Don-t&#34;&gt;данным&lt;/a&gt; агентства Flurry, специализируещегося на внедрении трекинга в мобильные устройства, «мобильное» чтение электронных книг (сюда, естественно, не входят ни букридеры, ни десктопные браузеры) происходит по преимуществу с обычных смартфонов — 83% времени. А не с планшетов, на которые по преимуществу ориентированы издатели электронных книг. Капитан Очевидность посказыввает, что телефон, в отличие от планшетника, всегда с собой, и можно почитать между делом или в транспорте. Вроде бы — да, очевидно. Но всё равно неожидагнно. Казалось бы, размер экрана должен иметь значение. Ан нет, важнее другие факторы — прежде всего, быстрая и простая доступность.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The ABCs of Kids and E-books</title>
-      <link>/posts/2013-02-01-a/</link>
+      <link>//localhost:1313/posts/2013-02-01-a/</link>
       <pubDate>Fri, 01 Feb 2013 17:39:30 +0000</pubDate>
-      <guid>/posts/2013-02-01-a/</guid>
+      <guid>//localhost:1313/posts/2013-02-01-a/</guid>
       <description>&lt;p&gt;Еще одно исследование детского чтения электронных книг. На этот раз - от Digital Books World. И за деньги. Если купите, дадите почитать? ;)&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://store.digitalbookworld.com/abcs-of-kids-and-ebooks?lid=JGdbFbs013113-ABCsReport&#34;&gt;http://store.digitalbookworld.com/abcs-of-kids-and-ebooks?lid=JGdbFbs013113-ABCsReport&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Что и как читают дети</title>
-      <link>/posts/2013-01-16-a/</link>
+      <link>//localhost:1313/posts/2013-01-16-a/</link>
       <pubDate>Wed, 16 Jan 2013 23:55:21 +0000</pubDate>
-      <guid>/posts/2013-01-16-a/</guid>
+      <guid>//localhost:1313/posts/2013-01-16-a/</guid>
       <description>&lt;p&gt;Американские, конечно. Чтением российских детей и отношением к чтению их родителей всерьёз, кажется, никто особенно не интересуется (снять рекламный ролик, сорри, с Пушкиным и Гоголем в роли спортсменов значительно прикольнее, я всё понимаю). А вот издательство Scholastic который год опрашивает детей и их родителей на тему чтения, особенно — электронных книг. Данные последнего (предыдущий был в 2010 году, с ним и идёт сравнение в тексте) опроса &lt;a href=&#34;http://mediaroom.scholastic.com/files/kfrr2013-noappendix.pdf&#34;&gt;опубликованы&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;В выборку попали 1074 ребёнка и подростка (и их родители) в возрасте 6–17 лет. Вкратце результаты таковы: Дети стали больше читать электронных книг — 46% (ср. 25% в 2010 г.). Вокруг этой цифры, замечу, в американских околоиздательских СМИ случилась настоящая история со стаканом: кто-то выдаёт заголовком эти самые проценты, а кто-то — «54% детей не читают электронные книги»! При этом читают электронные книги 41% родителей (14% в 2010 г.).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Как читают эл.книги американцы</title>
-      <link>/posts/2012-11-15-a/</link>
+      <link>//localhost:1313/posts/2012-11-15-a/</link>
       <pubDate>Thu, 15 Nov 2012 08:58:08 +0000</pubDate>
-      <guid>/posts/2012-11-15-a/</guid>
+      <guid>//localhost:1313/posts/2012-11-15-a/</guid>
       <description>&lt;p&gt;По результатам Bowker Market Research, главное орудие американских читателей эл.книг — Kindle — 55%. При этом на обычный Kindle приходится 37% (48% год назад в 2Q2011), а на Kindle Fire — 18%. Потом идут устройства на iOS — 15% (12% iPad — рост с 8% год назад, и 3% iPhone, на который приходилось 5% год назад). На третьем месте Nook — 14% (15% год назад). 6% читателей эл.книг читают с компьютера. Sony Reader — в сааамом конце с 1%. Больше читают даже с прочих смартфонов (4%) или даже mp3-плейеров (2%). Sony, конечно, удивительная компания. Первая, которая начала делать ридеры с бумагоподобным экраном. Умение профукать инновацию дорогого стоит.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Так-таки 22 млн</title>
-      <link>/posts/2012-05-25-a/</link>
+      <link>//localhost:1313/posts/2012-05-25-a/</link>
       <pubDate>Fri, 25 May 2012 14:26:43 +0000</pubDate>
-      <guid>/posts/2012-05-25-a/</guid>
+      <guid>//localhost:1313/posts/2012-05-25-a/</guid>
       <description>&lt;p&gt;Внимательно ещё раз перед BookExpo почитал индустриальный доклад ФАПСМИ по книжной индустрии за 2011 год. Посчитал доли читающих и читающих электронные книги по докладу ВЦИОМ и Левада-центра. И так-таки получается около 22 000 000 человек старше 18 лет, которые читают (или только, или наряду с бумажными) электронные книги.&lt;/p&gt;&#xA;&lt;p&gt;Что же все они читают, если объём рынка электронных книг — всего 0.25% от всего книжного рынка? Только не рассказывайте, что все они ходят на lib.rus.ec или flibusta.ru — там столько скачиваний не наберётся, что несложно проверить по публичным мониторам посещаемости. Думаю, запасы в другом месте: вовсю работает дружеский обмен.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Громадный отчет Pew Internet об электронном чтении в США</title>
-      <link>/posts/2012-04-05-a/</link>
+      <link>//localhost:1313/posts/2012-04-05-a/</link>
       <pubDate>Thu, 05 Apr 2012 20:50:58 +0000</pubDate>
-      <guid>/posts/2012-04-05-a/</guid>
+      <guid>//localhost:1313/posts/2012-04-05-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://libraries.pewinternet.org/2012/04/04/the-rise-of-e-reading/&#34;&gt;libraries.pewinternet.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Много разных интересных подробностей, о которых позже.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Что-то не так с социологами ВЦИОМ</title>
-      <link>/posts/2011-11-28-1/</link>
+      <link>//localhost:1313/posts/2011-11-28-1/</link>
       <pubDate>Mon, 28 Nov 2011 11:13:43 +0000</pubDate>
-      <guid>/posts/2011-11-28-1/</guid>
+      <guid>//localhost:1313/posts/2011-11-28-1/</guid>
       <description>&lt;p&gt;Внимательно изучил презентации исследований ВЦИОМ, &lt;a href=&#34;http://fapmc.ru/magnoliaPublic/rospechat/newsandevents/newsagency/2011/11/item11.html&#34;&gt;выложенные&lt;/a&gt; на сайте Фед. агентства по печати по итогам конференции «Национальная программа поддержки и развития чтения: проблемы и перспективы». И пребываю в разочаровании.&lt;/p&gt;&#xA;&lt;p&gt;Вроде бы всё ок, и данные любопытные: 28% опрошенных городских жителей (непонятно, правда, сколько это) читают электронные книги. Скачивают, правда, немного — в среднем чуть больше 1 книги в месяц (непонятно — сколько читают, потому что данных о том, сколько читают бумажных и электронных в презентациях нет: только «покупка» или «скачивание»). Но прогресс явно налицо — 4/5 знают, что такое электронная книга.&lt;/p&gt;</description>
     </item>
     <item>
       <title>От рождения до 8-ми лет: смартфон-поколение американцев</title>
-      <link>/posts/2011-10-28-3/</link>
+      <link>//localhost:1313/posts/2011-10-28-3/</link>
       <pubDate>Fri, 28 Oct 2011 11:52:56 +0000</pubDate>
-      <guid>/posts/2011-10-28-3/</guid>
+      <guid>//localhost:1313/posts/2011-10-28-3/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;TOTAL DIGITAL MEDIA USE.&lt;/strong&gt; Today a substantial proportion of the time that young children spend with screen media is spent with digital media — including computers, handheld and console video game players, and other interactive mobile devices such as cell phones, video iPods, and iPad-style tablet devices. Among 0- to 8-year-olds as a whole, a quarter (27%) of all screen time is spent with these digital devices.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;MOBILE MEDIA.&lt;/strong&gt; Half (52%) of all children now have access to one of the newer mobile devices at home: either a smartphone (41%), a video iPod (21%), or an iPad or other tablet device (8%).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Сет Годин о реальных ценностях</title>
-      <link>/posts/2011-08-28-1/</link>
+      <link>//localhost:1313/posts/2011-08-28-1/</link>
       <pubDate>Sun, 28 Aug 2011 19:39:13 +0000</pubDate>
-      <guid>/posts/2011-08-28-1/</guid>
+      <guid>//localhost:1313/posts/2011-08-28-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;I think we’ll always be willing to pay extra for the benefits we get from getting something first, getting it curated or getting it customized. But for most of what gets purchased in pop culture, none of those three are at work.&lt;/p&gt;&#xA;&lt;p&gt;Prepare for a continuous erosion of what you pay for digital content, at the same time we’ll see a sticky and upward trend for what you might be charged for the collectible stuff and the scarce or custom. I think producers are going to fight mightily for a second (higher) tier of pricing for amazing work, but while this might work for the frontlist new stuff, I have a hard time seeing it sustained for the backlist titles.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Сколько букв можно прочитать за 6 минут?</title>
-      <link>/posts/2011-06-07-f/</link>
+      <link>//localhost:1313/posts/2011-06-07-f/</link>
       <pubDate>Tue, 07 Jun 2011 11:44:57 +0000</pubDate>
-      <guid>/posts/2011-06-07-f/</guid>
+      <guid>//localhost:1313/posts/2011-06-07-f/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;РИА Новый Регион приводит выдержки из первого исследования Федеральной службы государственной статистики, посвященного использованию времени гражданами РФ в семи городах-миллионниках. Выяснилось, что жители крупных городов тратят на чтение книг от 2 до 7 минут в будний день. Самым читающим городом оказался Ростов, жители которого уделяют книгам 7 минут. Сразу за ним следует Екатеринбург – 6 минут в день. Для москвичей средний показатель составляет 4 минуты. Самыми малочитающими оказались жители Нижнего Новгорода, где книги отнимают у взрослого, работающего человека лишь 2 минуты в день.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Мобильное чтение (от Магеллан Медиа)</title>
-      <link>/posts/2011-05-24-b/</link>
+      <link>//localhost:1313/posts/2011-05-24-b/</link>
       <pubDate>Tue, 24 May 2011 14:55:53 +0000</pubDate>
-      <guid>/posts/2011-05-24-b/</guid>
+      <guid>//localhost:1313/posts/2011-05-24-b/</guid>
       <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/legb9AuBX1ylv4&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/bfoleary/mobile-reading-comes-of-age-niso-forum&#34; title=&#34;Mobile reading comes of age (NISO Forum)&#34; target=&#34;_blank&#34;&gt;Mobile reading comes of age (NISO Forum)&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/bfoleary&#34; target=&#34;_blank&#34;&gt;Brian O&amp;#x27;Leary&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;&#xA;&#xA;Интересная американская статистика.</description>
     </item>
     <item>
       <title>Чтение с точки зрения цифровой антропологии</title>
-      <link>/posts/2011-05-22-a/</link>
+      <link>//localhost:1313/posts/2011-05-22-a/</link>
       <pubDate>Sun, 22 May 2011 08:04:26 +0000</pubDate>
-      <guid>/posts/2011-05-22-a/</guid>
+      <guid>//localhost:1313/posts/2011-05-22-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.ireadwhereiam.com/&#34;&gt;Сборник эссе голландских академиков-хипстеров во главе с Гиртом Лёвинком&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;P. S. &lt;a href=&#34;http://web.archive.org/web/20110526033854/http://www.ireadwhereiam.com/&#34;&gt;Архив&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Хроника объявленной смерти</title>
-      <link>/posts/2011-05-12-e/</link>
+      <link>//localhost:1313/posts/2011-05-12-e/</link>
       <pubDate>Thu, 12 May 2011 20:21:19 +0000</pubDate>
-      <guid>/posts/2011-05-12-e/</guid>
+      <guid>//localhost:1313/posts/2011-05-12-e/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Пользователи стали читать с электронных носителей столько же, сколько и с бумажных, говорится в результатах исследования компании Gartner.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.bbc.co.uk/russian/rolling_news/2011/05/110512_rn_gartner_reading.shtml&#34;&gt;bbc.co.uk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Кажется так назывался роман Маркеса?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Доля активно читающих россиян – 23%, и она снижается</title>
-      <link>/posts/2011-05-05-a/</link>
+      <link>//localhost:1313/posts/2011-05-05-a/</link>
       <pubDate>Thu, 05 May 2011 13:52:22 +0000</pubDate>
-      <guid>/posts/2011-05-05-a/</guid>
+      <guid>//localhost:1313/posts/2011-05-05-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;«Ну и наконец, нельзя не сказать о «постоянно действующем» факторе – падении интереса населения к чтению, – добавили в Роспечати. – По данным ВЦИОМ, доля россиян, не читающих книги, с 1996 г. по 2010 г. увеличилась на 17% – с 20% до 37%. Доля же россиян, активно читающих книги, составила в 2010 г. только 23%, и эта цифра продолжает снижаться».&lt;/p&gt;&#xA;&lt;p&gt;Большую роль среди факторов, оказывающих влияние на интерес к чтению, а следовательно, и на динамику книжных продаж, играют другие медиа, которые ведут ожесточенную борьбу за свободное время человека. Так, по данным исследовательской компании «TNS Россия», общее медиапотребление российских граждан в возрасте от 16 лет и старше сегодня составляет около 8 часов в сутки. Из них чтению книг в общем объеме медиапотребления отводится 1,9% (около 9 минут в день), чтению газет – 2% (около 10 минут) и чтению журналов – 1,2% (около 6 минут). Сопоставление этих данных с результатами аналогичного исследования 2008 г. показывает, что за последние три года доля времени, отводимого среднестатистическим гражданином России на чтение всех видов печатных источников информации, снизилась почти на 7%, в том числе книг – на 2,1%, газет – на 3% и журналов – на 1,8%.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Запойные читатели перестают ходить в книжные магазины</title>
-      <link>/posts/2011-04-14-c/</link>
+      <link>//localhost:1313/posts/2011-04-14-c/</link>
       <pubDate>Thu, 14 Apr 2011 06:19:50 +0000</pubDate>
-      <guid>/posts/2011-04-14-c/</guid>
+      <guid>//localhost:1313/posts/2011-04-14-c/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;HarperCollins president and c.e.o. Brian Murray said the number of US e-readers—grown from 15m a year ago to 40m today—was having a disproportionately large effect on the market because they had reached &amp;ldquo;core&amp;rdquo; readers, those buying over 12 books a year. He said: “Some of the heaviest book buyers no longer visit bookstores.” He said some e-books had a 50% share of total sales during the first few months, a “watershed” for the trade.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Readum и ReadSocial: социальная платформа для читателей</title>
-      <link>/posts/2011-04-11-f/</link>
+      <link>//localhost:1313/posts/2011-04-11-f/</link>
       <pubDate>Mon, 11 Apr 2011 10:33:54 +0000</pubDate>
-      <guid>/posts/2011-04-11-f/</guid>
+      <guid>//localhost:1313/posts/2011-04-11-f/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;In an unusual social media venture that brings together Google and Facebook, BookGlutton.com founder Travis Alber is releasing Readum, a new social media application that allows readers to add comments and notes to books in their Google eBooks library and easily post them on Facebook for the general public or to specific groups.&lt;/p&gt;&#xA;&lt;p&gt;Alber called Readum “a proof of concept” project to create a social media connection for readers across different e-reading platforms and devices. “You can’t set up a reading group with someone on an iPhone and someone else on the Kindle,” Alber said, “we’re creating a layer of social connection. Why should we divide our friends and fellow readers up by the devices they use?” Albers said Readum makes use of the &lt;a href=&#34;http://www.readsocialapi.com/&#34;&gt;ReadSocial API&lt;/a&gt;, an application developed by her company to create a single layer of commentary and social connection across multiple device platforms and software reading systems. “We started with Google eBooks which hasn’t got any social media turned on yet; we said let’s get it on there and start seeing what kind of use patterns we get.”&lt;/p&gt;</description>
     </item>
     <item>
       <title>Отличный постер про чтение!</title>
-      <link>/posts/2011-03-11-1/</link>
+      <link>//localhost:1313/posts/2011-03-11-1/</link>
       <pubDate>Fri, 11 Mar 2011 20:50:46 +0000</pubDate>
-      <guid>/posts/2011-03-11-1/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/z_4ccf8d15.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://socialism-vk.livejournal.com/1589308.html&#34;&gt;socialism-vk.livejournal.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Блеск.&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/2011-03-11-1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/z_4ccf8d15.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://socialism-vk.livejournal.com/1589308.html&#34;&gt;socialism-vk.livejournal.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Блеск.&lt;/p&gt;</description>
     </item>
     <item>
       <title>58% английских подростков читают книги в электронном виде</title>
-      <link>/posts/2011-03-09-a/</link>
+      <link>//localhost:1313/posts/2011-03-09-a/</link>
       <pubDate>Wed, 09 Mar 2011 12:41:08 +0000</pubDate>
-      <guid>/posts/2011-03-09-a/</guid>
+      <guid>//localhost:1313/posts/2011-03-09-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Nearly six in ten teenagers are reading books electronically.&lt;/p&gt;&#xA;&lt;p&gt;40.8% of teenagers have used computers to read books, with a further 17.2% reading on a mobile, says a survey of reading habits released to celebrate World Book Day 2011. 13.3% of teens have used tablet gadgets such as Apple’s iPad, ahead of 9.3% who read using e-Readers, including the Amazon Kindle and the Sony Reader.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.telegraph.co.uk/culture/books/booknews/8359520/Print-books-hold-their-own-over-digital-media.html&#34;&gt;telegraph.co.uk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Видимо, для английских подростков tipping point уже пройден.&lt;/p&gt;</description>
     </item>
     <item>
       <title>30% пользователей Рунета не готовы платить за цифровые книги | Pro-Books.ru</title>
-      <link>/posts/2011-02-15-a/</link>
+      <link>//localhost:1313/posts/2011-02-15-a/</link>
       <pubDate>Tue, 15 Feb 2011 10:09:44 +0000</pubDate>
-      <guid>/posts/2011-02-15-a/</guid>
+      <guid>//localhost:1313/posts/2011-02-15-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;По сравнению с результатами исследования, проведенного &lt;strong&gt;«Гласом Рунета»&lt;/strong&gt; в 2003 году, доля пользователей, регулярно читающих художественные тексты в электронном виде, выросла в 2 раза (с 19,9% до 41%). Нон-фикшн в электронном формате сегодня читают около трети опрошенных. Еще треть аудитории редко обращается к электронным текстам, 6-9% игнорируют этот формат.&lt;/p&gt;&#xA;&lt;p&gt;За минувшие восемь лет радикально изменились способы чтения электронных текстов. В 6 раз (с 30% до 5%) сократилась доля читателей, распечатывающих тексты. В 4 раза (с 56% до 14%) стало меньше тех, кто читает электронные тексты с экрана ЭЛТ-монитора. Напротив, в разы больше людей читают электронные тексты с ЖК-мониторов (с 7% до 37%), с помощью ноутбука, нетбука (с 4% до 23%), КПК, смартфона, мобильного телефона (с 2% до 12%), планшетного ПК или букридера (с 1% до 7%). В течение ближайшего года около 18% пользователей Рунета «безусловно» и 22% «скорее» рассматривают возможность покупки букридера.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Презентация Питера Коллингриджа</title>
-      <link>/posts/2010-12-19-164/</link>
+      <link>//localhost:1313/posts/2010-12-19-164/</link>
       <pubDate>Sun, 19 Dec 2010 09:25:51 +0000</pubDate>
-      <guid>/posts/2010-12-19-164/</guid>
+      <guid>//localhost:1313/posts/2010-12-19-164/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.enhanced-editions.com/blog/2010/12/russian-digital-publishing-industry-talk-non-fiction-fair-moscow/&#34;&gt;enhanced-editions.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Питер выложил слайды к своему выступлению про электронное книгоиздание на семинаре в ЦДХ на non/fiction.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Кевин Келли о чтении (перевод liberty.ru)</title>
-      <link>/posts/2010-07-17-88/</link>
+      <link>//localhost:1313/posts/2010-07-17-88/</link>
       <pubDate>Sat, 17 Jul 2010 13:06:59 +0000</pubDate>
-      <guid>/posts/2010-07-17-88/</guid>
+      <guid>//localhost:1313/posts/2010-07-17-88/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Америка была основана при помощи зафиксированного на бумаге слова. Ее корни восходят к письменным источникам: к Конституции, Декларации о Независимости, а косвенно и к Библии. Успех этой страны стал возможен благодаря высокому уровню грамотности, свободной прессе, приверженности законам (закрепленным в книгах), а также общему языку, распространившегося на целом континенте с востока на запад. Американское благосостояние и свобода выросли из культуры чтения и письма.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://liberty.ru/Themes/CHitat-sovsem-po-novomu&#34;&gt;liberty.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Оперативно. Молодцы.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Хорошая статья Келли о чтении и книгах</title>
-      <link>/posts/2010-07-15-231/</link>
+      <link>//localhost:1313/posts/2010-07-15-231/</link>
       <pubDate>Thu, 15 Jul 2010 20:57:43 +0000</pubDate>
-      <guid>/posts/2010-07-15-231/</guid>
+      <guid>//localhost:1313/posts/2010-07-15-231/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;But reading and writing, like all technologies, are dynamic.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.smithsonianmag.com/specialsections/40th-anniversary/Reading-in-a-Whole-New-Way.html&#34;&gt;smithsonianmag.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>1% американцев читает книги на iPhone</title>
-      <link>/posts/2009-09-01-1/</link>
+      <link>//localhost:1313/posts/2009-09-01-1/</link>
       <pubDate>Tue, 01 Sep 2009 20:53:45 +0000</pubDate>
-      <guid>/posts/2009-09-01-1/</guid>
+      <guid>//localhost:1313/posts/2009-09-01-1/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.teleread.org/2009/09/01/perhaps-1-of-the-us-population-using-iphone-ebook-apps/&#34;&gt;Perhaps 1% of the US population using iPhone ebook apps | TeleRead: Bring the E-Books Home&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.teleread.org/wp-content/uploads/2009/09/flurry-julypulse-ebookactiveusers-resized-600.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;… Examining active user sessions tracked by Flurry within the eBooks category, the chart above shows steep growth, over 300% from April to July. In July, Flurry tracked nearly three million active users in the eBooks category, or 1% of the US population.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Кажется, это по меньшей мере в 3 раза больше, чем пользователей Kindle.&lt;/p&gt;</description>
     </item>
   </channel>

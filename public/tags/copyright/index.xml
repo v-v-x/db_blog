@@ -2,528 +2,528 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Copyright on Новости электронного книгоиздания</title>
-    <link>/tags/copyright/</link>
+    <link>//localhost:1313/tags/copyright/</link>
     <description>Recent content in Copyright on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 26 Dec 2018 14:28:24 +0000</lastBuildDate>
-    <atom:link href="/tags/copyright/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/copyright/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Некоторые итоги 2018</title>
-      <link>/posts/2018-12-26-a/</link>
+      <link>//localhost:1313/posts/2018-12-26-a/</link>
       <pubDate>Wed, 26 Dec 2018 14:28:24 +0000</pubDate>
-      <guid>/posts/2018-12-26-a/</guid>
+      <guid>//localhost:1313/posts/2018-12-26-a/</guid>
       <description>&lt;p&gt;На «&lt;a href=&#34;https://gorky.media/context/nastuplenie-robotov-i-povod-dlya-ostorozhnogo-optimizma/&#34;&gt;Горьком&lt;/a&gt;» про индустрию. В &lt;a href=&#34;https://republic.ru/posts/92742&#34;&gt;Republic&lt;/a&gt; про авторские права. В &lt;a href=&#34;http://t.me/words_and_money/1470&#34;&gt;Telegram&lt;/a&gt; про прочитанные книги.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Брайан Адамс против</title>
-      <link>/posts/2018-12-25-a/</link>
+      <link>//localhost:1313/posts/2018-12-25-a/</link>
       <pubDate>Tue, 25 Dec 2018 09:50:11 +0000</pubDate>
-      <guid>/posts/2018-12-25-a/</guid>
+      <guid>//localhost:1313/posts/2018-12-25-a/</guid>
       <description>&lt;p&gt;Известный канадский музыкант &lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B0%D0%BC%D1%81,_%D0%91%D1%80%D0%B0%D0%B9%D0%B0%D0%BD&#34;&gt;Брайан Адамс&lt;/a&gt; &lt;a href=&#34;http://www.michaelgeist.ca/2018/12/bryan-adamscopyrightwarning/&#34;&gt;выступил&lt;/a&gt; перед комитетом парламента, занимающимся проблемами авторского права, и предложил исправить дисбаланс, возникающий между авторами и посредниками. С точки зрения Адамса, продление срока охраны (Канада подписала договор с США и Мексикой и теперь должна увеличить срок охраны с 50 лет после смерти автора до 70-ти), очевидно, не приносит авторам ни копейки и не стимулирует их творчество. Чтобы сделать ситуацию более справедливой, Адамс предлагает ввести обязательный возврат переданных исключительных прав от посредников к авторам хотя бы через 25 лет. Желание Адамса понятно: звукозаписывающие компании (как и издатели-мейджоры) на Западе стремятся выкупить исключительные права у молодых авторов «на весь срок действия авторского права». А начинающий автор готов, как правило, на всё, что угодно, лишь бы его напечатали. Нельзя сказать, что жадные посредники ничего не делают для автора. Иногда делают, продвигая его творчество и раскручивая его личный бренд. И всё же авторы спохватываются потом, а уже поздняк метаться. Во всей этой истории примечательно два момента: известный автор против продления срока охраны и очень внятно проводит границу между авторами и издателями-посредниками. А то ведь издатели обычно криком кричат, что есть одни только правообладатели, и не надо тут вбивать клин между издателями и авторами. А ведь и вбивать ничего не надо. Где Адамс, а где Universal Music? И не все такие продуманные, как Роулинг, как-то сумевшая сохранить контроль за своими правами.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Искусственные фанфики</title>
-      <link>/posts/2017-12-13-a/</link>
+      <link>//localhost:1313/posts/2017-12-13-a/</link>
       <pubDate>Wed, 13 Dec 2017 15:49:07 +0000</pubDate>
-      <guid>/posts/2017-12-13-a/</guid>
+      <guid>//localhost:1313/posts/2017-12-13-a/</guid>
       <description>&lt;p&gt;Хорошо, что Роулинг не запрещает фанфики. Иначе не было бы вот этой прелести: &lt;a href=&#34;http://botnik.org/content/harry-potter.html&#34;&gt;http://botnik.org/content/harry-potter.html&lt;/a&gt;. Четыре странички фанфика по мотивам Гарри Поттера, созданного предсказательным алгоритмом. «Скайнет» всё-таки появится и будет писать фанфики.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Блокчейн в электронных книгах</title>
-      <link>/posts/2017-10-25-a/</link>
+      <link>//localhost:1313/posts/2017-10-25-a/</link>
       <pubDate>Wed, 25 Oct 2017 11:24:43 +0000</pubDate>
-      <guid>/posts/2017-10-25-a/</guid>
+      <guid>//localhost:1313/posts/2017-10-25-a/</guid>
       <description>&lt;p&gt;Биткойн и (в меньшей степени) технология блокчейна, на которой биткойн базируется, — у всех на слуху. Не прошло это поветрие и мимо книжной индустрии. Особенно мимо самой бодрой её части — самиздатчиков, которые, кажется, очень воодушевились, что теперь как-то смогут избавиться от олигополии дистрибуционных платформ, а продаваемые электронные книжки и правда будут продаваться, а не даваться «в пользование», как сейчас. То есть их можно будет легально давать почитать, дарить, завещать и пр. В общем,  Американский Альянс независимых авторов &lt;a href=&#34;https://www.allianceindependentauthors.org/blockchain-for-books/&#34;&gt;обсуждает&lt;/a&gt;, как бы это всё приспособить к нуждам авторов, сервисы &lt;a href=&#34;https://medium.com/streetlib/blockchain-and-books-digital-content-property-revolution-a52bf5d6e2f5&#34;&gt;рисуют светлое будущее…&lt;/a&gt; Только одно НО — никто пока не придумал, чем новый DRM на блокчейне будет удобнее того, которым покупатель пользуется, не слишком замечая этого, когда покупает книги на Amazon. Или, тем более, удобнее скачивания книг через Genesis Library, например. Впрочем, всё равно интересно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>EPUB — «интеллектуальная собственность»?</title>
-      <link>/posts/2017-01-13-c/</link>
+      <link>//localhost:1313/posts/2017-01-13-c/</link>
       <pubDate>Fri, 13 Jan 2017 13:59:17 +0000</pubDate>
-      <guid>/posts/2017-01-13-c/</guid>
+      <guid>//localhost:1313/posts/2017-01-13-c/</guid>
       <description>&lt;p&gt;Крайне неприятная история внезапно стала разворачиваться вокруг «интеллектуальной собственности на EPUB». Дело в том, что International Digital Publishing Forum, поддерживавший этот формат, все эти годы работал так что, просто ожидал от своих членов, чтобы они, если бы и регистрировали патенты по поводу формата EPUB, то на «разумной и недискриминационной основе». Никто, впрочем, этим и не баловался. Но вот приближается слияние IDPF и W3C, которое, понятно, предполагает, что все наработки по EPUB (в том числе последняя спецификация 3.1, буквально на днях рекомендованная к использованию) тоже должны быть переданы в W3C (после подписания окончательных документов о слиянии) на условиях бесплатного и открытого использования.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Пиратство в Google Play Books — проблема не Google, а Бернской конвенции</title>
-      <link>/posts/2015-05-19-a/</link>
+      <link>//localhost:1313/posts/2015-05-19-a/</link>
       <pubDate>Tue, 19 May 2015 09:25:59 +0000</pubDate>
-      <guid>/posts/2015-05-19-a/</guid>
+      <guid>//localhost:1313/posts/2015-05-19-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Google has a serious problem with piracy in Google Play Books. It lets just about anyone set up ebook shops in Google Play Books, and stock them with pirated ebooks. The pirates are allowed to upload copy after copy after copy of a pirated ebook, secure in the knowledge that Google won&amp;rsquo;t do anything more than&amp;hellip; Read More »&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://the-digital-reader.com/2015/05/18/google-play-books-rep-throws-up-hands-tells-dutch-publisher-that-nothing-can-be-done-about-obvious-ebook-pirate/&#34;&gt;Google Play Books Rep Throws Up Hands, Tells Dutch Publisher That Nothing Can be Done About Obvious eBook Pirate | Ink, Bits, &amp;amp; Pixels&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Защитники интеллектуальной собственности</title>
-      <link>/posts/2012-06-13-a/</link>
+      <link>//localhost:1313/posts/2012-06-13-a/</link>
       <pubDate>Wed, 13 Jun 2012 13:41:34 +0000</pubDate>
-      <guid>/posts/2012-06-13-a/</guid>
+      <guid>//localhost:1313/posts/2012-06-13-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Л.В. Агронов (Директор Национальной федерации производителей фонограмм), И.А. Близнец (Ректор Российской государственной академии интеллектуальной собственности), Р.Ф. Давлетьяров (Президент Гильдии кинопродюсеров России), П.А.Катков (Председатель Совета РГАИС по проблемам правовой охраны ИС в сети Интернет), Д.В. Казуто (Директор НП «Сообщество национальных кино-театральных организаций «КИНОАЛЬЯНС»), О.Е. Новиков (Вице-президент Российского книжного союза), Ю.М. Поляков (Президент АНО «Национальный библиотечный ресурс»), Е.В. Савостьянов (Председатель Координационного совета по защите интеллектуальной собственности), Э.М. Сагалаев (Президент Национальной ассоциации Телерадиовещателей), С.М. Сельянов (Председатель Ассоциации теле- и кинопродюсеров), Е.А. Сизова (Руководитель аппарата Комитета по культуре Государственной Думы РФ), Д.М. Якобашвили (Российский участник BASCAP).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Сервис Bookworm и правда работает</title>
-      <link>/posts/2012-05-04-a/</link>
+      <link>//localhost:1313/posts/2012-05-04-a/</link>
       <pubDate>Fri, 04 May 2012 10:33:06 +0000</pubDate>
-      <guid>/posts/2012-05-04-a/</guid>
+      <guid>//localhost:1313/posts/2012-05-04-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Bookworm is a free webservice to download Google books.&lt;/p&gt;&#xA;&lt;p&gt;A legal and free webservice to save PDFs of any viewable book on books.google.com even with a limited preview.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://bookworm.evil.so/home&#34;&gt;bookworm.evil.so&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Проверил — медленно, но верно вытаскивает из Google Books книжки, доступные для «ограниченного» просмотра, в полный PDF. Особенно актуально для книг out-of-print.&lt;/p&gt;</description>
     </item>
     <item>
       <title>К вопросу о том, кому нужны книги-сироты и что с ними делать</title>
-      <link>/posts/2012-04-18-b/</link>
+      <link>//localhost:1313/posts/2012-04-18-b/</link>
       <pubDate>Wed, 18 Apr 2012 13:02:34 +0000</pubDate>
-      <guid>/posts/2012-04-18-b/</guid>
+      <guid>//localhost:1313/posts/2012-04-18-b/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.law.berkeley.edu/11731.htm&#34;&gt;law.berkeley.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Забавная штука: в России обсудить эту проблему фиг кого соберешь. Пока, во всяком случае.&lt;br&gt;&#xA;По ссылке — программа конференции и ссылки на скачивание презентаций.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Почему Франция оцифрует книги, не спрашивая писателей</title>
-      <link>/posts/2012-04-12-a/</link>
+      <link>//localhost:1313/posts/2012-04-12-a/</link>
       <pubDate>Thu, 12 Apr 2012 10:11:41 +0000</pubDate>
-      <guid>/posts/2012-04-12-a/</guid>
+      <guid>//localhost:1313/posts/2012-04-12-a/</guid>
       <description>&lt;h3 id=&#34;реформа-копирайта-как-это-делается-во-франции&#34;&gt;Реформа копирайта: Как это делается во Франции&lt;/h3&gt;&#xA;&lt;h4 id=&#34;государство-само-оцифрует-все-тексты&#34;&gt;Государство само оцифрует все тексты&lt;/h4&gt;&#xA;&lt;p&gt;Пару лет назад новости из Франции обошли весь интернет. Ещё бы! Там вступил в силу закон, позволяющий отключать от интернета пользователей, трижды замеченных в скачивании из сети нелегального контента. Однако времена меняются. Теперь Франция рискнула потеснить авторов.&lt;/p&gt;&#xA;&lt;p&gt;Согласно принятому в марте 2012 г. Национальным собранием и одобренному Сенатом закону «Закон о недоступных книгах ХХ века» ( «&lt;a href=&#34;http://goo.gl/fK8AM&#34;&gt;La loi sur les livres indisponibles du XXème siècle&lt;/a&gt;»), французское государство решило приступить к оцифровке сотен тысяч книг французских писателей, не спрашивая на то их разрешения. Принудительной оцифровке для начала будут подвергнуты около полумиллиона книг, изданных до начала ХХ в. Речь идёт не обо всех книгах, но только о тех, которых уже нет в прямой (букинисты не в счёт) книжной продаже. После оцифровки книги окажутся в продаже, но уже в электронном виде. Список изданий, который должны пойти в работу, должна подготовить крупнейшая французская государственная Bibliothèque Nationale. Заниматься этим проектом будет не само государство и не Национальная библиотека, но специальная компания, которая будет не только оцифровывать книги, но и заниматься их дистрибуцией для онлайновых книжных магазинов электронных книг и собирать отчисления от их продаж. Компания будет на 40% контролироваться государством, а на 60% — издателями. Проект получит грант от французского правительства на 30 млн евро, при этом роялти от продаж будет делиться на паритетных началах между компанией и правообладателями.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Александр Иличевский: Монолог про электронный контент</title>
-      <link>/posts/2012-01-25-c/</link>
+      <link>//localhost:1313/posts/2012-01-25-c/</link>
       <pubDate>Wed, 25 Jan 2012 19:56:51 +0000</pubDate>
-      <guid>/posts/2012-01-25-c/</guid>
+      <guid>//localhost:1313/posts/2012-01-25-c/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Как писатель я даже заинтересован в том, чтобы мои тексты выходили в электронном виде. Мои книжки продаются за 300—400 рублей. А в электронной версии — за 70—80. «Упадет доход, лучше продавать на бумаге», — говорят мне. Разумеется, доход поначалу будет падать. Но держась за бумажные копии, вы препятствуете изменению мира. А мир меняется к лучшему. Сейчас происходит реальное воплощение мечты Михаила Бакунина, великого русского анархиста, который мечтал об умном союзе автономных личностей. Вся структура мира уже пронизана горизонтальными связями, на основе которых и могла бы появиться прекрасная умная анархия. Сеть — основа сегодняшнего мироустройства.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Долой наследников: случай Стивена Джойса</title>
-      <link>/posts/2012-01-18-b/</link>
+      <link>//localhost:1313/posts/2012-01-18-b/</link>
       <pubDate>Wed, 18 Jan 2012 10:58:16 +0000</pubDate>
-      <guid>/posts/2012-01-18-b/</guid>
+      <guid>//localhost:1313/posts/2012-01-18-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Единственный оставшийся в живых потомок писателя, Джойс-внук, которому сегодня уже под восемьдесят, попортил исследователям творчества деда немало крови, пишет в британской газете Independent биограф Джойса Джордж Боукер. По его словам, агрессивное неприятие Стивеном Джойсом всех интересующихся архивами деда и его семьи сформировались к середине 1970-х годов, после того как известный биограф Джойса, Ричард Эллманн, опубликовал несколько «порнографических» писем автора «Улисса» своей жене Норе, а также ряд рискованных посланий писателя его тайной любовнице в Цюрихе. Став главным распорядителем литературного наследия Джойса, Стивен решил не допустить публикации материалов, наносящих вред репутации своей семьи.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Как надо останавливать SOPA</title>
-      <link>/posts/2012-01-15-a/</link>
+      <link>//localhost:1313/posts/2012-01-15-a/</link>
       <pubDate>Sun, 15 Jan 2012 21:29:12 +0000</pubDate>
-      <guid>/posts/2012-01-15-a/</guid>
+      <guid>//localhost:1313/posts/2012-01-15-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;This site has gone dark today in protest of the U.S. Stop Online Piracy Act (SOPA) and PROTECT-IP Act (PIPA). The U.S. Congress is about censor the internet, even though the vast majority of Americans are opposed. We need to kill these bills to protect our rights to free speech, privacy, and prosperity. Learn more at &lt;a href=&#34;http://americancensorship.org/&#34;&gt;AmericanCensorship.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.zachstronaut.com/lab/text-shadow-box/stop-sopa.html&#34;&gt;zachstronaut.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Симпатичный дизайн протеста ))&lt;/p&gt;</description>
     </item>
     <item>
       <title>Дмитрий Бутрин: «Писателей второго ряда больше не существует»</title>
-      <link>/posts/2012-01-13-b/</link>
+      <link>//localhost:1313/posts/2012-01-13-b/</link>
       <pubDate>Fri, 13 Jan 2012 10:23:02 +0000</pubDate>
-      <guid>/posts/2012-01-13-b/</guid>
+      <guid>//localhost:1313/posts/2012-01-13-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Мы живем в очень хорошем мире, в котором писать — это занятие для сумасшедших. Жаль только, что у нас их мало — недостаточно, чтобы великих сумасшедших было пять, а не три, — но что поделаешь.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.openspace.ru/literature/events/details/33327/page2/&#34;&gt;openspace.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Интересное интервью с Бутриным. Левый либерал как он есть. В том числе и по поводу «Флибусты».&lt;/p&gt;</description>
     </item>
     <item>
       <title>Сет Годин: Кто хочет сломать Интернет через SOPA</title>
-      <link>/posts/2011-12-13-2/</link>
+      <link>//localhost:1313/posts/2011-12-13-2/</link>
       <pubDate>Tue, 13 Dec 2011 14:25:43 +0000</pubDate>
-      <guid>/posts/2011-12-13-2/</guid>
+      <guid>//localhost:1313/posts/2011-12-13-2/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;ABC&lt;br&gt;&#xA;AFTRA – American Federation of Television and Radio Artists&lt;br&gt;&#xA;AFM – American Federation of Musicians&lt;br&gt;&#xA;AAP – Association of American Publishers&lt;br&gt;&#xA;ASCAP&lt;br&gt;&#xA;BMG Chrysalis&lt;br&gt;&#xA;BMI&lt;br&gt;&#xA;CBS Corporation&lt;br&gt;&#xA;Cengage Learning&lt;br&gt;&#xA;DGA – Directors Guild of America&lt;br&gt;&#xA;Disney Publishing Worldwide, Inc.&lt;br&gt;&#xA;EMI Music Publishing&lt;br&gt;&#xA;ESPN&lt;br&gt;&#xA;Graphic Artists Guild&lt;br&gt;&#xA;Hachette Book Group&lt;br&gt;&#xA;HarperCollins Publishers L.L.C.&lt;br&gt;&#xA;Hyperion&lt;br&gt;&#xA;IATSE – International Alliance of Theatrical Stage Employees, Moving Picture Technicians, Artists and Allied Crafts of the United States, its Territories and Canada&lt;br&gt;&#xA;International Brotherhood of Teamsters&lt;br&gt;&#xA;Kaufman Astoria Studios&lt;br&gt;&#xA;Macmillan&lt;br&gt;&#xA;Major League Baseball&lt;br&gt;&#xA;Marvel Entertainment, LLC&lt;br&gt;&#xA;McGraw-Hill Education&lt;br&gt;&#xA;MPA – The Association of Magazine Media&lt;br&gt;&#xA;NFL – National Football League&lt;br&gt;&#xA;National Music Publishers’ Association&lt;br&gt;&#xA;NBCUniversal&lt;br&gt;&#xA;News Corporation&lt;br&gt;&#xA;New York Production Alliance&lt;br&gt;&#xA;New York State AFL-CIO&lt;br&gt;&#xA;Pearson Education&lt;br&gt;&#xA;Penguin Group (USA), Inc.&lt;br&gt;&#xA;The Perseus Books Group&lt;br&gt;&#xA;Producers Guild of America East&lt;br&gt;&#xA;Random House&lt;br&gt;&#xA;Reed Elsevier&lt;br&gt;&#xA;SAG – Screen Actors Guild&lt;br&gt;&#xA;Scholastic, Inc.&lt;br&gt;&#xA;Silvercup Studios&lt;br&gt;&#xA;Simon &amp;amp; Schuster, Inc.&lt;br&gt;&#xA;Sony Music Entertainment&lt;br&gt;&#xA;Sony/ATV Music Publishing&lt;br&gt;&#xA;Time Warner Inc.&lt;br&gt;&#xA;United States Tennis Association&lt;br&gt;&#xA;Universal Music Group&lt;br&gt;&#xA;Universal Music Publishing Group&lt;br&gt;&#xA;Viacom&lt;br&gt;&#xA;Warner Music Group&lt;br&gt;&#xA;W.W. Norton &amp;amp; Company&lt;br&gt;&#xA;Wolters Kluwer&lt;/p&gt;</description>
     </item>
     <item>
       <title>Кори Доктороу: «Пора заканчивать болтовню про копирайт» | webpublishers•ru</title>
-      <link>/posts/2011-11-25-2/</link>
+      <link>//localhost:1313/posts/2011-11-25-2/</link>
       <pubDate>Fri, 25 Nov 2011 14:52:06 +0000</pubDate>
-      <guid>/posts/2011-11-25-2/</guid>
+      <guid>//localhost:1313/posts/2011-11-25-2/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;И пока мы будем и дальше вести споры об авторстве, творчестве и публике, вместо того, чтобы говорить о свободе слова, неприкосновенности частной жизни и добросовестности, тем больше мы будем подчинять будущее всего общества бизнес-интересам и провалам одной-единственной индустрии.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.webpublishers.ru/?p=209&#34;&gt;webpublishers.ru&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google может покинуть Торговую палату США из-за SOPA</title>
-      <link>/posts/2011-11-08-1/</link>
+      <link>//localhost:1313/posts/2011-11-08-1/</link>
       <pubDate>Tue, 08 Nov 2011 05:18:17 +0000</pubDate>
-      <guid>/posts/2011-11-08-1/</guid>
+      <guid>//localhost:1313/posts/2011-11-08-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Yahoo recently &lt;a href=&#34;http://www.techdirt.com/articles/20111013/11270216337/yahoo-dumps-us-chamber-commerce-over-its-extremist-position-protect-ip.shtml&#34;&gt;refused to renew its membership&lt;/a&gt; out of disgust over the Chamber&amp;rsquo;s position on PROTECT IP/SOPA. And now there are reports saying that &lt;a href=&#34;http://www.politico.com/news/stories/1111/67603.html&#34;&gt;both Google and the Consumer Electronics Association are considering dropping out of the Chamber&lt;/a&gt; over its support of PROTECT IP/SOPA.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.techdirt.com/articles/20111106/23002616649/us-chamber-commerce-quickly-showing-that-its-out-touch-as-google-cea-consider-dropping-out.shtml&#34;&gt;techdirt.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Yahoo уже заявила, что не будет возобновлять своё членство. Причина — поддержка палатой законопроекта SOPA, направленного на абсурдное ужесточение копирайтного регулирования интернета, угрожающее его функционированию.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Википедистам и блоггерам на заметку: фото с Wired.com теперь Creative Commons</title>
-      <link>/posts/2011-11-08-2/</link>
+      <link>//localhost:1313/posts/2011-11-08-2/</link>
       <pubDate>Tue, 08 Nov 2011 04:55:07 +0000</pubDate>
-      <guid>/posts/2011-11-08-2/</guid>
+      <guid>//localhost:1313/posts/2011-11-08-2/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.wired.com/rawfile/2011/11/creative-commons/?pid=1369&#34;&gt;wired.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;В том числе этот смешной Цукерберг. CC-NY, не для коммерческого использования, но с ремиксом — фотожабь в своё удовольствие. Ну, или просто сразу в Википедию.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Медведев посоветовал G20 принять поправки к Бернской конвенции</title>
-      <link>/posts/2011-11-03-1/</link>
+      <link>//localhost:1313/posts/2011-11-03-1/</link>
       <pubDate>Thu, 03 Nov 2011 12:06:44 +0000</pubDate>
-      <guid>/posts/2011-11-03-1/</guid>
+      <guid>//localhost:1313/posts/2011-11-03-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;В настоящее время в ряде стран пользователи преследуются по закону за использование для личных целей Контента, незаконно введённого в сеть Интернет третьими лицами. Такой подход является чрезмерно жёстким.&lt;/p&gt;&#xA;&lt;p&gt;Целесообразно установить &lt;em&gt;квазисвободное&lt;/em&gt; использование Контента пользователями сети Интернет в личных целях.&lt;/p&gt;&#xA;&lt;p&gt;Юридически такая модель может быть реализована путём установления презумпции согласия правообладателя на использование Контента пользователем для личных целей. При этом указанное согласие может быть «отозвано» правообладателем путём направления пользователю соответствующего уведомления. Для соответствующего уведомления правообладатель вправе использовать различные технические средства, включая внедрение электронных меток в эталонные образцы Контента.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Суд постановил: Пиратство не только не вредно, но и полезно</title>
-      <link>/posts/2011-11-03-2/</link>
+      <link>//localhost:1313/posts/2011-11-03-2/</link>
       <pubDate>Thu, 03 Nov 2011 11:14:41 +0000</pubDate>
-      <guid>/posts/2011-11-03-2/</guid>
+      <guid>//localhost:1313/posts/2011-11-03-2/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;it is not possible to determine the damage and corresponding compensation due to loss of benefits to the rightsholder, for the simple reason that customers of pirated copies of music and movies, when making the purchase of pirated copies, externalize their decision not to be customers of music and movies as originals, so there is no profit that could have been gained. In other words, those customers either buy a pirated copy at a low price or they don&amp;rsquo;t buy an original at a price between 15 and 20 Euros.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Первый иск издателя против пользователей торрент-трекеров</title>
-      <link>/posts/2011-10-31-1/</link>
+      <link>//localhost:1313/posts/2011-10-31-1/</link>
       <pubDate>Mon, 31 Oct 2011 20:31:45 +0000</pubDate>
-      <guid>/posts/2011-10-31-1/</guid>
+      <guid>//localhost:1313/posts/2011-10-31-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Interestingly, the popular “&lt;a href=&#34;http://www.dummies.com/store/product/BitTorrent-For-Dummies.productCd-076459981X.html&#34;&gt;BitTorrent for Dummies&lt;/a&gt;” is not included.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://torrentfreak.com/major-book-publisher-files-mass-bittorrent-lawsuit-111031/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+Torrentfreak+%28Torrentfreak%29&#34;&gt;torrentfreak.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;John Wiley and Sons подал иск против 27 пользователей трекеров, участвовавших в раздаче книг из серии «Для чайников». Точная сумма требуемой компенсации не называется, но «ущерб огромен».&lt;br&gt;&#xA;Как ехидно замечает обозреватель TorrentFreak, в списке книг почему-то не оказалось весьма популярной книжки от John Wiley and Sons «BitTorrent для чайников». Странно, не правда ли?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Полку неавторизованной дистрибуции прибыло</title>
-      <link>/posts/2011-10-25-1/</link>
+      <link>//localhost:1313/posts/2011-10-25-1/</link>
       <pubDate>Tue, 25 Oct 2011 09:12:31 +0000</pubDate>
-      <guid>/posts/2011-10-25-1/</guid>
+      <guid>//localhost:1313/posts/2011-10-25-1/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://lithub.ru/&#34;&gt;lithub.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Между прочим, lithub довольно нахально перепёр стиль вьюера у Bookmate. Да и сама идея текстового стриминга уже не нова ))&lt;br&gt;&#xA;Ребята бодрые, но с доменом в зоне .ru — это они, конечно, ошиблись.&lt;/p&gt;</description>
     </item>
     <item>
       <title>И ещё о проекте Московской конвенции по авторскому праву | webpublishers•ru</title>
-      <link>/posts/2011-10-19-2/</link>
+      <link>//localhost:1313/posts/2011-10-19-2/</link>
       <pubDate>Wed, 19 Oct 2011 21:37:03 +0000</pubDate>
-      <guid>/posts/2011-10-19-2/</guid>
+      <guid>//localhost:1313/posts/2011-10-19-2/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Д.МЕДВЕДЕВ: Я Вам, Иван, рассказывал или нет? Меня, когда я эту тему озвучивал на «восьмерке», которая была во Франции, поддержал только Кэмерон, и то, наверное, по неопытности. Его совсем недавно сделали премьер-министром. (&lt;em&gt;Смех&lt;/em&gt;.) А все остальные отмалчивались или говорили о том, что нужно все сохранить, как есть, все нормально. Там были мэтры, так сказать, и взрослые, и совсем молодые. Но тем не менее.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.webpublishers.ru/?p=185&#34;&gt;webpublishers.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Но тем не менее.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Тезисы Московской коневенции по авторскому праву (презентация)</title>
-      <link>/posts/2011-10-18-1/</link>
+      <link>//localhost:1313/posts/2011-10-18-1/</link>
       <pubDate>Tue, 18 Oct 2011 20:29:40 +0000</pubDate>
-      <guid>/posts/2011-10-18-1/</guid>
+      <guid>//localhost:1313/posts/2011-10-18-1/</guid>
       <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/GIaK3c9j7VLczd&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/juliaeydel/ss-9746977&#34; title=&#34;Московская конвенция по авторскому праву&#34; target=&#34;_blank&#34;&gt;Московская конвенция по авторскому праву&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/juliaeydel&#34; target=&#34;_blank&#34;&gt;Julia Eydel&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;&#xA;&#xA;View more [presentations](http://www.slideshare.net/) from [Julia Eydel](http://www.slideshare.net/juliaeydel)&#xA;&#xA;[Отсюда](http://www.webpublishers.ru/?page_id=166#)</description>
     </item>
     <item>
       <title>Breaking, однако, news: Минкульт хочет стать &#34;авторской полицией&#34;</title>
-      <link>/posts/2011-08-30-1/</link>
+      <link>//localhost:1313/posts/2011-08-30-1/</link>
       <pubDate>Tue, 30 Aug 2011 14:50:53 +0000</pubDate>
-      <guid>/posts/2011-08-30-1/</guid>
+      <guid>//localhost:1313/posts/2011-08-30-1/</guid>
       <description>&lt;p&gt;По &lt;a href=&#34;http://www.economy.gov.ru/wps/wcm/connect/d0296380482345668673ff0b17164af7/adm_reg.pdf?MOD=AJPERES&amp;amp;CACHEID=d0296380482345668673ff0b17164af7&#34;&gt;ссылке&lt;/a&gt; можно прочитать проект административного регламента, описывающий, как Минкульт будет проводить проверки юридических лиц, использующих объекты авторского права. Поскольку &amp;ldquo;объектами авторского права&amp;rdquo; является, в сущности, всё, то ждать «культур-полицейских» можно кому угодно. И, как всякие полицейские, что-нибудь да найдут.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Какая прелесть! ЛДПР покусилась на михаловский 1%</title>
-      <link>/posts/2011-08-25-1/</link>
+      <link>//localhost:1313/posts/2011-08-25-1/</link>
       <pubDate>Thu, 25 Aug 2011 10:55:15 +0000</pubDate>
-      <guid>/posts/2011-08-25-1/</guid>
+      <guid>//localhost:1313/posts/2011-08-25-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;В Госдуму в среду внесен законопроект, который отменяет &lt;a href=&#34;http://www.newsru.com/cinema/15oct2010/nikita1proc.html&#34;&gt;компенсационные сборы&lt;/a&gt; за воспроизведение аудиовизуальных произведений уже после их покупки в личных целях. Авторами выступили депутаты от ЛДПР во главе с руководителем фракции Игорем Лебедевым, сообщает ИТАР-ТАСС со ссылкой на аппарат нижней палаты парламента.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.newsru.com/cinema/24aug2011/no1proc.html&#34;&gt;newsru.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Иногда госчиновники обретают разум. Английские</title>
-      <link>/posts/2011-08-03-1/</link>
+      <link>//localhost:1313/posts/2011-08-03-1/</link>
       <pubDate>Wed, 03 Aug 2011 11:43:56 +0000</pubDate>
-      <guid>/posts/2011-08-03-1/</guid>
+      <guid>//localhost:1313/posts/2011-08-03-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Plans to block websites alleged to facilitate copyright infringement are to be dropped by the UK government. The announcement was made by Business secretary Vince Cable following a review by communications regulator OFCOM which found that blocking provisions in the Digital Economy Act would not be effective. Nevertheless, website blocking will be attempted, just by other means.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://torrentfreak.com/uk-government-abandons-file-sharing-website-blocking-plans-110803/&#34;&gt;torrentfreak.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Примечательная история с iMobilco</title>
-      <link>/posts/2011-07-18-2/</link>
+      <link>//localhost:1313/posts/2011-07-18-2/</link>
       <pubDate>Mon, 18 Jul 2011 15:02:07 +0000</pubDate>
-      <guid>/posts/2011-07-18-2/</guid>
+      <guid>//localhost:1313/posts/2011-07-18-2/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Так вот - ответственно заявляю: я НЕ ЗАКЛЮЧАЛ ЕЩЕ ни каких договоров с вами, либо с какими бы то ни было вашими представителями, дающих вам право на торговлю моим произведением.&lt;/p&gt;&#xA;&lt;p&gt;Знаете, ребята, я не страдаю копирастией головного мозга, и не имею ничего против выкладывания моего произведения в открытый доступ. Это сеть и писал я для людей.&lt;/p&gt;&#xA;&lt;p&gt;С другой стороны - я так же, не имею ничего против того, что бы заработать на своем творчестве какие-то деньги.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Акт против цифровой экономики</title>
-      <link>/posts/2011-07-12-2/</link>
+      <link>//localhost:1313/posts/2011-07-12-2/</link>
       <pubDate>Tue, 12 Jul 2011 09:20:51 +0000</pubDate>
-      <guid>/posts/2011-07-12-2/</guid>
+      <guid>//localhost:1313/posts/2011-07-12-2/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://polit.ru/article/2011/07/12/dea/&#34;&gt;polit.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Хороший обзор ситуации вокруг английского Digital Economy Act.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Creative Commons об их поддержке в России</title>
-      <link>/posts/2011-07-11-b/</link>
+      <link>//localhost:1313/posts/2011-07-11-b/</link>
       <pubDate>Mon, 11 Jul 2011 14:53:29 +0000</pubDate>
-      <guid>/posts/2011-07-11-b/</guid>
+      <guid>//localhost:1313/posts/2011-07-11-b/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;https://creativecommons.org/weblog/entry/28133&#34;&gt;creativecommons.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;В CC-обкоме инициативы РИАН заметили, а слова Медведева услышали. Одобряют. А то. Но всё равно смешно, что такие вещи решаются правильными знакомствами и удачным стечением обстоятельств.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Европейский проект Доступных регистров правовой информации и работ-сирот</title>
-      <link>/posts/2011-06-14-a/</link>
+      <link>//localhost:1313/posts/2011-06-14-a/</link>
       <pubDate>Tue, 14 Jun 2011 11:40:44 +0000</pubDate>
-      <guid>/posts/2011-06-14-a/</guid>
+      <guid>//localhost:1313/posts/2011-06-14-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Developed by a European consortium coordinated by the Italian Publishers Association (AIE), ARROW — Accessible Registries of Rights Information and Orphan Works — is a system to help libraries with the identification of rights status and rightsholders in digital library programs. ARROW is based on a pro-active search of rightsholders for works eligible for inclusion in any digitization program, and indirectly is a tool for the identification of so-called “orphan works.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Казалось бы, причём здесь музыка?</title>
-      <link>/posts/2011-06-08-a/</link>
+      <link>//localhost:1313/posts/2011-06-08-a/</link>
       <pubDate>Wed, 08 Jun 2011 10:26:09 +0000</pubDate>
-      <guid>/posts/2011-06-08-a/</guid>
+      <guid>//localhost:1313/posts/2011-06-08-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;h2 id=&#34;krichevskiy-andrey&#34;&gt;KRICHEVSKIY Andrey&lt;/h2&gt;&#xA;&lt;p&gt;General Director of federal state unitary enterprise “Firma Melodiya”&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://focus2011.org/?s=Russia&#34;&gt;focus2011.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Второй Международный форум культуры и индустрии культуры Focus 2011 с темой «Книга завтра: будущее письменного слова».&lt;br&gt;&#xA;А Россию представляет г-н Андрей Кричевский, гендиректор фирмы «Мелодия», он же первый зам. гендиректора Российского союза правообладателей («михалковского»). Участвовал там в семинаре по Creative Commons и добросовестному использованию. В ЮНЕСКО такие весельчаки. У.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2% — продолжение концерта</title>
-      <link>/posts/2011-05-31-a/</link>
+      <link>//localhost:1313/posts/2011-05-31-a/</link>
       <pubDate>Tue, 31 May 2011 13:24:51 +0000</pubDate>
-      <guid>/posts/2011-05-31-a/</guid>
+      <guid>//localhost:1313/posts/2011-05-31-a/</guid>
       <description>&lt;p&gt;По слухам, правительству поручено разработать систему «налогообложения интернет-трафика» для перераспределения денег в пользу правообладателей.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Знакомый по российским копирайтным спорам типаж</title>
-      <link>/posts/2011-05-26-a/</link>
+      <link>//localhost:1313/posts/2011-05-26-a/</link>
       <pubDate>Thu, 26 May 2011 10:00:15 +0000</pubDate>
-      <guid>/posts/2011-05-26-a/</guid>
+      <guid>//localhost:1313/posts/2011-05-26-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Scribd, is less than 3 years old, hosts over 10 million digital documents which it defines as ‘books’ if they run to more than 100 pages. So we even have some issues in defining a book! It now claims some 2 million visitors a day and what it sees as the number one position. Obviously it has been seen by many as an attractive channel and some 150 publishers have joined Scribd and now Scribd has also moved into newsprint and is become the home for journalists to post their documents.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Патентный тролль угрожает разработчикам программ для iOS</title>
-      <link>/posts/2011-05-23-f/</link>
+      <link>//localhost:1313/posts/2011-05-23-f/</link>
       <pubDate>Mon, 23 May 2011 09:43:09 +0000</pubDate>
-      <guid>/posts/2011-05-23-f/</guid>
+      <guid>//localhost:1313/posts/2011-05-23-f/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;It turns out that &lt;a href=&#34;http://www.wired.com/gadgetlab/2011/05/lodsys-response/&#34;&gt;Apple actually &lt;em&gt;has&lt;/em&gt; licensed the technology from Lodsys for its own uses&lt;/a&gt;—but the license does not transfer to developers using it, who have to make their own licensing arrangements. Lodsys wants a bit over half a percent of any in-app purchase revenue until the patent expires, which isn’t really large by itself but could represent only a drop in the bucket.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.teleread.com/chris-meadows/ios-developers-could-be-vulnerable-to-patent-trolls/&#34;&gt;teleread.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Оказывается, процедура покупок через приложения для iOS запатентована некоей Lodsys. И Apple получила лицензию на использование, но только на себя. Так что разработчики, возможно, без защиты.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ударим глобализацией по недальновидности и жадности. Даёшь глобальный фронт за свободу контента!</title>
-      <link>/posts/2011-05-21-a/</link>
+      <link>//localhost:1313/posts/2011-05-21-a/</link>
       <pubDate>Sat, 21 May 2011 10:28:11 +0000</pubDate>
-      <guid>/posts/2011-05-21-a/</guid>
+      <guid>//localhost:1313/posts/2011-05-21-a/</guid>
       <description>&lt;p&gt;Вот забавно: в США начинают обсуждать PROTECT IP, который позволит закрывать сайты, наплевав на национальную юрисдикцию, минкульт Норвегии предлагает начать фильтровать &amp;ldquo;нелегальный&amp;rdquo; трафик, Новая Зеландия корячится, обживаясь с новым IP-законодательством, Великобритания начала обсуждать изменения в копирайтные законы, и местное копирайтное лобби уже сучит ножками.&lt;/p&gt;&#xA;&lt;p&gt;Антиглобалисты молчат, а пиратские партии, выбрав себе провокационное название, вряд ли смогут организовать международную акцию протеста.&lt;/p&gt;&#xA;&lt;p&gt;Конечно, что можно ничего не делать. «Не пишите законы — пишите код!» Оно, понятно, так, и что бы борцы за окостеневшие формы копирайта не придумали, на их хитрые фильтры найдётся код с винтом — альтернативные DNS, усовершенствованный TOR, VPN, Independent WiFi-Net и мало ли что ещё придумают талантливые люди с С++ (Go или Ruby on Rail) в голове, которым противна слежка и ограничения.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google против блокировки веб-сайтов</title>
-      <link>/posts/2011-05-19-c/</link>
+      <link>//localhost:1313/posts/2011-05-19-c/</link>
       <pubDate>Thu, 19 May 2011 13:11:20 +0000</pubDate>
-      <guid>/posts/2011-05-19-c/</guid>
+      <guid>//localhost:1313/posts/2011-05-19-c/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Google&amp;rsquo;s executive chairman, Eric Schmidt, warned on Wednesday that government plans to block access to illicit &lt;a href=&#34;http://www.guardian.co.uk/technology/file-sharing&#34; title=&#34;More from guardian.co.uk on Filesharing&#34;&gt;filesharing&lt;/a&gt; websites could set a &amp;ldquo;disastrous precedent&amp;rdquo; for freedom of speech.&lt;/p&gt;&#xA;&lt;p&gt;Speaking to journalists after his keynote speech at Google&amp;rsquo;s Big Tent conference in London, Schmidt said the online search giant would challenge &lt;a href=&#34;http://www.guardian.co.uk/technology/2011/mar/22/isps-urged-to-block-filesharing-sites&#34; title=&#34;attempts to restrict access to the Pirate Bay and other so-called cyberlocker sites&#34;&gt;attempts to restrict access to the Pirate Bay and other so-called &amp;ldquo;cyberlocker&amp;rdquo; sites&lt;/a&gt; that encourage illegal downloading – part of government plans to fight online &lt;a href=&#34;http://www.guardian.co.uk/technology/piracy&#34; title=&#34;More from guardian.co.uk on Piracy&#34;&gt;piracy&lt;/a&gt; through controversial measures included in the Digital Economy Act.&lt;/p&gt;</description>
     </item>
     <item>
       <title>И на борцов за копирайт бывает управа</title>
-      <link>/posts/2011-05-19-d/</link>
+      <link>//localhost:1313/posts/2011-05-19-d/</link>
       <pubDate>Thu, 19 May 2011 09:51:48 +0000</pubDate>
-      <guid>/posts/2011-05-19-d/</guid>
+      <guid>//localhost:1313/posts/2011-05-19-d/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;http://www.teleread.com/copy-right/colorado-judge-unimpressed-by-business-model-of-copyright-troll-righthaven/&#34;&gt;commotion&lt;/a&gt; surrounding &lt;a href=&#34;http://www.teleread.com/copy-right/righthaven-lawsuit-could-end-up-weakening-newspaper-copyright-protections/&#34;&gt;copyright troll Righthaven’s lawsuits&lt;/a&gt; just keeps getting better. One of the defendants, news aggregator &lt;a href=&#34;http://buzzfeed.com&#34;&gt;Buzzfeed.com&lt;/a&gt;, has filed a class-action counterclaim against the company on behalf of all sites sued by Righthaven, alleging Righthaven is abusing legal process, does not actually own the copyrights it is claiming, and is suing in bad faith by not sending a takedown notice first or investigating if the use might be a fair use.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.teleread.com/copy-right/buzzfeed-files-class-action-complaint-against-righthaven/&#34;&gt;teleread.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Вот, кстати, и сам доклад</title>
-      <link>/posts/2011-05-18-c/</link>
+      <link>//localhost:1313/posts/2011-05-18-c/</link>
       <pubDate>Wed, 18 May 2011 20:10:57 +0000</pubDate>
-      <guid>/posts/2011-05-18-c/</guid>
+      <guid>//localhost:1313/posts/2011-05-18-c/</guid>
       <description>&lt;p  style=&#34;   margin: 12px auto 6px auto;   font-family: Helvetica,Arial,Sans-serif;   font-style: normal;   font-variant: normal;   font-weight: normal;   font-size: 14px;   line-height: normal;   font-size-adjust: none;   font-stretch: normal;   -x-system-font: none;   display: block;&#34;   &gt;&lt;a title=&#34;View Ipreview Final Report on Scribd&#34; href=&#34;https://www.scribd.com/document/55713184/Ipreview-Final-Report#from_embed&#34;  style=&#34;text-decoration: underline;&#34;&gt;Ipreview Final Report&lt;/a&gt; by &lt;a title=&#34;View Vladimir Haritonov&#39;s profile on Scribd&#34; href=&#34;https://www.scribd.com/user/37245838/Vladimir-Haritonov#from_embed&#34;  style=&#34;text-decoration: underline;&#34;&gt;Vladimir Haritonov&lt;/a&gt; on Scribd&lt;/p&gt;&lt;iframe class=&#34;scribd_iframe_embed&#34; title=&#34;Ipreview Final Report&#34; src=&#34;https://www.scribd.com/embeds/55756243/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=false&amp;access_key=key-29vrpo8due418r5x9mdl&#34; data-auto-height=&#34;false&#34; data-aspect-ratio=&#34;0.7080062794348508&#34; scrolling=&#34;no&#34; width=&#34;600&#34; height=&#34;800&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Влияние пиратства на экономику не так ужасно, как иногда кажется</title>
-      <link>/posts/2011-05-18-b/</link>
+      <link>//localhost:1313/posts/2011-05-18-b/</link>
       <pubDate>Wed, 18 May 2011 20:07:34 +0000</pubDate>
-      <guid>/posts/2011-05-18-b/</guid>
+      <guid>//localhost:1313/posts/2011-05-18-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Estimates of the scale of illegal digital downloads in the UK ranges between 13 per cent and 65 per cent in two studies published last year. A detailed survey of UK and international data finds that very little of it is supported by transparent research criteria. Meanwhile sales and profitability levels in most creative business sectors appear to be holding up reasonably well. We conclude that many creative businesses are experiencing turbulence from digital copyright infringement, but that at the level of the whole economy, measurable impacts are not as stark as is sometimes suggested.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Сиротских книг больше, чем ожидалось</title>
-      <link>/posts/2011-05-17-s/</link>
+      <link>//localhost:1313/posts/2011-05-17-s/</link>
       <pubDate>Tue, 17 May 2011 15:07:26 +0000</pubDate>
-      <guid>/posts/2011-05-17-s/</guid>
+      <guid>//localhost:1313/posts/2011-05-17-s/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The body of orphan works—works whose rights holders we cannot locate—is likely to be extremely large, and perhaps the largest body of materials. If the guesses made here are right, 50% of the volumes will be orphan works. This 50% is comprised as follows:  12.6% will come from the years 1923-1963, 13.6% from 1964-1977, and 23.8% from 1978 and years that follow. (The percentage of orphan works relative to all works decreases as time passes; the &lt;em&gt;number&lt;/em&gt; of orphan works increases in more recent years because more works are published in later years.) Indeed, if this speculation is right, our &lt;em&gt;incomplete&lt;/em&gt; collection today includes more 2.5 million orphan works, of which more than 800,000 are US orphans.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Авторское право и интернет: между Сциллой и свободой</title>
-      <link>/posts/2011-04-25-b/</link>
+      <link>//localhost:1313/posts/2011-04-25-b/</link>
       <pubDate>Mon, 25 Apr 2011 07:19:36 +0000</pubDate>
-      <guid>/posts/2011-04-25-b/</guid>
+      <guid>//localhost:1313/posts/2011-04-25-b/</guid>
       <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/hVaB9FOCqAOWDK&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/VladimirHaritonov/ss-7724691&#34; title=&#34;Авторское право и интернет&#34; target=&#34;_blank&#34;&gt;Авторское право и интернет&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/VladimirHaritonov&#34; target=&#34;_blank&#34;&gt;Vladimir Haritonov&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;&#xA;&#xA;Доклад на РИФ&#39;2011</description>
     </item>
     <item>
       <title>Книги Александра Беляева так-таки в общественном достоянии</title>
-      <link>/posts/2011-04-15-d/</link>
+      <link>//localhost:1313/posts/2011-04-15-d/</link>
       <pubDate>Fri, 15 Apr 2011 09:52:59 +0000</pubDate>
-      <guid>/posts/2011-04-15-d/</guid>
+      <guid>//localhost:1313/posts/2011-04-15-d/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;В материалах ФАСМО указано, что срок охраны наследия писателя-фантаста вступил в силу 1 января 1943 года и истек 31 декабря 1992 года, а не после 1993 года, как постановил апелляционный суд, приплюсовав к имеющимся пятидесяти годам еще четыре. Таким образом, «произведения перешли в общественное достояние и в настоящее время охране не подлежат, в связи с чем, нарушение ответчиком прав истца отсутствует. Учитывая, что произведения А. Беляева перешли в разряд произведений общественного достояния, размер компенсации, который оспаривается сторонами, значения не имеет».&lt;/p&gt;</description>
     </item>
     <item>
       <title>А вот и исправленные поправки к ГК. Теперь официально</title>
-      <link>/posts/2011-04-15-a/</link>
+      <link>//localhost:1313/posts/2011-04-15-a/</link>
       <pubDate>Fri, 15 Apr 2011 08:26:33 +0000</pubDate>
-      <guid>/posts/2011-04-15-a/</guid>
+      <guid>//localhost:1313/posts/2011-04-15-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.economy.gov.ru/minec/activity/sections/corpmanagment/civil_code/full_text_civil_code/140411_gk&#34;&gt;economy.gov.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Всё примерно так, как и рассказывал Центр частного права: госрегистрации Creative Commons, снятие ответственности с инфопосредника, введение авторского права на интернет-сайт (аналогично сборнику и базе данных), запрет на воспроизведение книги в личных целях (!), но при этом — оцифровка книг библиотеками.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Китайские писатели обвиняют Baidu в нарушении авторских прав</title>
-      <link>/posts/2011-03-31-1/</link>
+      <link>//localhost:1313/posts/2011-03-31-1/</link>
       <pubDate>Thu, 31 Mar 2011 15:25:05 +0000</pubDate>
-      <guid>/posts/2011-03-31-1/</guid>
+      <guid>//localhost:1313/posts/2011-03-31-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Сервис Google Books неоднократно становился головной болью Google из-за проблем с авторами произведений, протестовавших против бесплатного выкладывания оцифрованных копий их книг. Сейчас с такой же проблемой столкнулся китайский поисковый сервис Baidu. Более сорока авторов обвинили компанию в нарушении авторских прав из-за предоставления возможности бесплатно скачать произведения через онлайн-библиотеку Baidu Wenku. В своем открытом письме авторы назвали Baidu насквозь коррумпированной воровской компанией.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://news.techlabs.by/img/news/229249/2_2.jpg&#34; alt=&#34;Пиратство книг&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Baidu Wenku был запущен в 2009 году, На сервисе можно читать, скачивать и делиться книгами, а также приобретать их по более низкой стоимости, чем в магазинах. Проблема в том, что в отличие от Google, Baidu лишь создала место для загрузки контента самими пользователями, то есть они самостоятельно выкладывают произведения. Согласно данным Baidu, набранные 10 миллионов файлов и книг составляют 70% файлообменного рынка в Китае. Нельзя сказать, что Baidu сидит сложа руки – удаляются десятки тысяч загрузок, но этого явно недостаточно для озабоченных авторов.&lt;/p&gt;</description>
     </item>
     <item>
       <title>3000000 за &#34;Национализацию рубля&#34;</title>
-      <link>/posts/2011-03-30-a/</link>
+      <link>//localhost:1313/posts/2011-03-30-a/</link>
       <pubDate>Wed, 30 Mar 2011 19:48:43 +0000</pubDate>
-      <guid>/posts/2011-03-30-a/</guid>
+      <guid>//localhost:1313/posts/2011-03-30-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;В Арбитражный суд Москвы неделю назад поступил иск от издательства &lt;strong&gt;«Питер»&lt;/strong&gt;, которое намерено защитить права на произведение одного из своих авторов. Ответчиком по делу выступает ретейлер цифрового контента &lt;strong&gt;«Аймобилко»&lt;/strong&gt;, а заявленная сумма компенсации составляет 3 миллиона рублей.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://pro-books.ru/sitearticles/6921&#34;&gt;pro-books.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Почему именно столько, интересно? «Аймобилко», конечно, пираты, но сумма какая-то непонятная.&lt;/p&gt;&#xA;&lt;p&gt;Впрочем, чем сильнее будут падать продажи книг, тем больше будет копирайтного рейдерства. Местный бизнесмен ведь что делает, когда продажи падают? Прааавильно! Цены повышает.&lt;/p&gt;</description>
     </item>
     <item>
       <title>О! New York Times со мной согласна ;)</title>
-      <link>/posts/2011-03-22-3/</link>
+      <link>//localhost:1313/posts/2011-03-22-3/</link>
       <pubDate>Tue, 22 Mar 2011 21:45:40 +0000</pubDate>
-      <guid>/posts/2011-03-22-3/</guid>
+      <guid>//localhost:1313/posts/2011-03-22-3/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Judge Chin suggested that substantial objections would be eliminated if the settlement applied only to books whose authors or copyright owners would “opt-in” to its terms. &lt;strong&gt;That would leave millions of orphan works out of the agreement, and potentially, out of Google’s digital library&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.nytimes.com/2011/03/23/technology/23google.html?_r=1&amp;amp;ref=technology&#34;&gt;nytimes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ну, практически согласна ;)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Нью-Йоркский суд отменил соглашение Google с Гильдией авторов и Ассоциацией издателей</title>
-      <link>/posts/2011-03-22-2/</link>
+      <link>//localhost:1313/posts/2011-03-22-2/</link>
       <pubDate>Tue, 22 Mar 2011 20:39:48 +0000</pubDate>
-      <guid>/posts/2011-03-22-2/</guid>
+      <guid>//localhost:1313/posts/2011-03-22-2/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Judge Denny Chin said the agreement &amp;ldquo;would simply go too far&amp;rdquo; and would give Google a significant advantage over its competitors.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.reuters.com/article/2011/03/22/us-google-books-antitrust-idUSTRE72L6D920110322&#34;&gt;reuters.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;И пусть теперь они сидят со своими книгами, а сиротские книжки так и вообще пусть тухнут. Отличное решение. Нафиг вообще книги? Фтопку их.&lt;/p&gt;&#xA;&lt;p&gt;Плохой знак для любых начинаний, которые могли бы преодолеть вязкое status quo и сократить паразитные издержки.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Интересно, а издательство Просвещение получило разрешение у наследников?</title>
-      <link>/posts/2011-03-03-%D1%81/</link>
+      <link>//localhost:1313/posts/2011-03-03-%D1%81/</link>
       <pubDate>Thu, 03 Mar 2011 13:04:00 +0000</pubDate>
-      <guid>/posts/2011-03-03-%D1%81/</guid>
+      <guid>//localhost:1313/posts/2011-03-03-%D1%81/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://lib.prosv.ru/info.aspx?ob_no=17730&#34;&gt;lib.prosv.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Все ведь так бьются за авторские права. Особенно издатели. А тут - гляньте: Мастер и Маргарита, Собачье сердце, стихотворения Ахматовой и Гумилева, Мандельштам и Бернард Шоу! Они с разрешения наследников это всё размещают?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Авторские права на Культуре. Сам не смотрел - ящика нет</title>
-      <link>/posts/2011-03-01-a/</link>
+      <link>//localhost:1313/posts/2011-03-01-a/</link>
       <pubDate>Tue, 01 Mar 2011 20:00:36 +0000</pubDate>
-      <guid>/posts/2011-03-01-a/</guid>
+      <guid>//localhost:1313/posts/2011-03-01-a/</guid>
       <description>&lt;p&gt;Только на днях пришла мне в голову это вполне корректное сравнение. Период &amp;ldquo;стабильности&amp;rdquo; сформировал у определенной части общества представление о том, что нефтяное благополучие будет всегда. Или очень долго. Другая часть общества построила себе такую же &amp;ldquo;нефтяную экономику&amp;rdquo;, только из авторских прав. Семьдесят лет — это же практически всегда. Поэтому сейчас, когда закон могут поправить (и при том, что их все эти поправки, в сущности, никак не касаются), новые &amp;ldquo;нефтяники&amp;rdquo; страшно нервничают — а вдруг? Трещинка, другая, а там и скважину поведёт, бур сломается…&lt;/p&gt;</description>
     </item>
     <item>
       <title>Комментарий автора поправок к ГК Е.А. Павловой на заключение Кафедры ЮНЕСКО</title>
-      <link>/posts/2011-03-01-b/</link>
+      <link>//localhost:1313/posts/2011-03-01-b/</link>
       <pubDate>Tue, 01 Mar 2011 06:57:06 +0000</pubDate>
-      <guid>/posts/2011-03-01-b/</guid>
+      <guid>//localhost:1313/posts/2011-03-01-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Начальник отдела законодательства об интеллектуальных правах Исследовательского центра частного права при Президенте РФ Е.А. Павлова прокомментировала Юридическое заключение Кафедры ЮНЕСКО ГУ ВШЭ на проект федерального закона о внесении изменений в раздел VII Гражданского кодекса Российской Федерации.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.aselibrary.ru/blogs/archives/552/&#34;&gt;aselibrary.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Похоже на избиение младенцев.&lt;/p&gt;&#xA;&lt;p&gt;Эти младенцы, правда, охраняют права не граждан, а издателей.&lt;/p&gt;</description>
     </item>
     <item>
       <title>&#34;Самиздат&#34; сменил домен из-за претензий Минюста</title>
-      <link>/posts/2011-02-24-c/</link>
+      <link>//localhost:1313/posts/2011-02-24-c/</link>
       <pubDate>Thu, 24 Feb 2011 08:36:05 +0000</pubDate>
-      <guid>/posts/2011-02-24-c/</guid>
+      <guid>//localhost:1313/posts/2011-02-24-c/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Электронный журнал современной литературы &amp;ldquo;Самиздат&amp;rdquo; при библиотеке Мошкова сменил домен из-за претензий Минюста. Об этом &lt;a href=&#34;http://moshkow.livejournal.com/40457.html&#34;&gt;сообщил&lt;/a&gt; в своем блоге основатель проекта Максим Мошков.&lt;/p&gt;&#xA;&lt;p&gt;Мошков заявил, что удалил весь контент, ранее размещавшийся на сайтах &lt;a href=&#34;http://www.barbos111.narod.ru&#34;&gt;www.barbos111.narod.ru&lt;/a&gt; и &lt;a href=&#34;http://www.zhurnal.lib.ru&#34;&gt;http://www.zhurnal.lib.ru&lt;/a&gt;. Эти домены попали в список экстремистских материалов Минюста согласно решению Череповецкого городского суда Вологодской области от 13 апреля 2009 года.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Без уточнения, что за материалы, кто их автор, есть ли они в данный момент на сайте, и что сейчас на &amp;lsquo;Самиздате&amp;rsquo; 56000 авторских разделов и порядка 800,000 произведений оптом зачислены в &amp;lsquo;экстремисты&amp;rsquo;. Было бы просто смешно, кабы не провайдеры, которые, руководствуясь этим списком, начали перекрывать доступ к &amp;lsquo;Самиздату&amp;rsquo;&amp;rdquo;, - написал Мошков. &amp;ldquo;Попытки разрулить эту ситуацию в неофициальном порядке к успеху не привели, по мнению знакомых юристов, юридические пути в данной ситуации перспектив не имеют&amp;rdquo;, - добавил он.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Копирайт: библиотекари против библиотекарей</title>
-      <link>/posts/2011-01-24-a/</link>
+      <link>//localhost:1313/posts/2011-01-24-a/</link>
       <pubDate>Mon, 24 Jan 2011 23:53:32 +0000</pubDate>
-      <guid>/posts/2011-01-24-a/</guid>
+      <guid>//localhost:1313/posts/2011-01-24-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Московский арбитражный суд снял обвинения в контрафакте с АНО «Руниверс», факсимильной электронной библиотеки, разместившей на собственном сайте тексты «Полного собрания законов Российской империи».&lt;/p&gt;&#xA;&lt;p&gt;«Руниверс» добился через суд права свободного использования электронных копий текстов российских законов. Представители Государственной публичной исторической библиотеки (ГПИБ) России настаивали, что само по себе сканирование какой-либо книги - в данном случае «Полного собрания законов Российской империи» - дает право поставить на нее копирайт, и запрещать ее свободное распространение. Суд счел абсурдными доводы ГПИБ. Сканирование книги не формирует авторского права, для копирайта необходима какая-либо творческая деятельность, к примеру, создание сборника комментариев к законам.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Коммерс в своём репертуаре</title>
-      <link>/posts/2011-01-20-c/</link>
+      <link>//localhost:1313/posts/2011-01-20-c/</link>
       <pubDate>Thu, 20 Jan 2011 10:06:55 +0000</pubDate>
-      <guid>/posts/2011-01-20-c/</guid>
+      <guid>//localhost:1313/posts/2011-01-20-c/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Революционная поправка, позволяющая библиотекам обмениваться бесплатно оцифрованными книгами, не войдет в новую редакцию Гражданского кодекса. Совет по кодификации при президенте согласился с доводами издателей, опасавшихся, что их бизнес пострадает от неконтролируемого распространения электронных копий.&lt;/p&gt;&#xA;&lt;p&gt;Совет по кодификации и совершенствованию гражданского законодательства при президенте России исключил из итогового проекта изменений Гражданского кодекса (ГК) поправку, позволяющую общедоступным библиотекам бесплатно оцифровывать книги для межбиблиотечного обмена, сообщила &amp;ldquo;Ъ&amp;rdquo; член совета, начальник отдела законодательства об интеллектуальных правах Исследовательского центра частного права Елена Павлова.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Правообладатели судятся с PocketBook из-за пиратских книг</title>
-      <link>/posts/2010-12-30-161/</link>
+      <link>//localhost:1313/posts/2010-12-30-161/</link>
       <pubDate>Thu, 30 Dec 2010 08:30:05 +0000</pubDate>
-      <guid>/posts/2010-12-30-161/</guid>
+      <guid>//localhost:1313/posts/2010-12-30-161/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Как сообщают пресс-службы истцов, компания &lt;strong&gt;«Книга по требованию»&lt;/strong&gt; совместно с литературным агентством &lt;strong&gt;«ФТМ»&lt;/strong&gt; обратились в суд с иском к компании &lt;strong&gt;PocketBook&lt;/strong&gt;, обвиняя ее в грубом нарушении авторских прав. Согласно иску, в мультимедийные планшеты украинского производителя были незаконно, без согласия правообладателей, закачаны электронные тексты 79 произведений, права на которые принадлежат агентству «ФТМ» и «Книге по Требованию». В свое время представители PocketBook отказались вести переговоры, дабы уладить дело миром.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://pro-books.ru/sitearticles/6155&#34;&gt;pro-books.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Какой интересный сюжет. Интересно, к чему именно претензии? Судя по стандартным подборкам для букридеров — к переводам.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Центр частного права тихонько выложил проект реформы авторского права</title>
-      <link>/posts/2010-12-07-38/</link>
+      <link>//localhost:1313/posts/2010-12-07-38/</link>
       <pubDate>Tue, 07 Dec 2010 10:06:36 +0000</pubDate>
-      <guid>/posts/2010-12-07-38/</guid>
+      <guid>//localhost:1313/posts/2010-12-07-38/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.privlaw.ru/files/pr_t7.doc&#34;&gt;http://www.privlaw.ru/files/pr_t7.doc&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Мои поздравления библиотекам—там, кажется, именно то, что они хотели. Есть и скромная основа для CC, но очень скоромная. Что с этим делать—пока не пойму.&lt;/p&gt;</description>
     </item>
     <item>
       <title>При необходимости и исключительно в личных целях. Про поправки к ГК</title>
-      <link>/posts/2010-09-24-165/</link>
+      <link>//localhost:1313/posts/2010-09-24-165/</link>
       <pubDate>Fri, 24 Sep 2010 07:53:43 +0000</pubDate>
-      <guid>/posts/2010-09-24-165/</guid>
+      <guid>//localhost:1313/posts/2010-09-24-165/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.chaskor.ru&#34;&gt;&lt;img src=&#34;http://www.chaskor.ru/images/logo5.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;пятница, 24 сентября 2010 года, 09.59&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.chaskor.ru/article/pri_neobhodimosti_i_isklyuchitelno_v_lichnyh_tselyah_20049&#34;&gt;&lt;img src=&#34;http://www.chaskor.ru/posts_images_201009/392_300_20049_trakbigjpg&#34; alt=&#34;При необходимости и исключительно в личных целях&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Владимир Харитонов&lt;/strong&gt;  При необходимости и исключительно в личных целях&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Госдума собралась поправить ГК и поставить всех нас вне закона&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Приходилось ли вам посещать электронные библиотеки? Смотреть дома фильмы на DVD? Или смотреть их в онлайне (даже скачивать их из Сети)? Слушать музыку? Думаю, неоднократно. Приходило ли вам в голову, зачем вы всё это делаете? В чём необходимость? Наверное, никогда. Напрасно. Теперь придётся. Госдума уже правит Гражданский кодекс. &lt;a href=&#34;http://www.chaskor.ru/article/pri_neobhodimosti_i_isklyuchitelno_v_lichnyh_tselyah_20049&#34;&gt;Подробнее&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Всё же наши законотворцы удивительные люди</title>
-      <link>/posts/2010-09-24-226/</link>
+      <link>//localhost:1313/posts/2010-09-24-226/</link>
       <pubDate>Fri, 24 Sep 2010 00:13:34 +0000</pubDate>
-      <guid>/posts/2010-09-24-226/</guid>
+      <guid>//localhost:1313/posts/2010-09-24-226/</guid>
       <description>&lt;p&gt;«Допускается без согласия автора или иного правообладателя и без выплаты вознаграждения воспроизведение гражданином &lt;strong&gt;при необходимости&lt;/strong&gt; и исключительно в личных целях правомерно обнародованного произведения». Неужто так и будет? Чушь ведь. Как «необходимость»?&lt;/p&gt;&#xA;&lt;p&gt;Написал статью. Сегодня будет в ЧасКоре.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Это ошибка, её нужно исправить</title>
-      <link>/posts/2010-08-31-68/</link>
+      <link>//localhost:1313/posts/2010-08-31-68/</link>
       <pubDate>Tue, 31 Aug 2010 21:07:05 +0000</pubDate>
-      <guid>/posts/2010-08-31-68/</guid>
+      <guid>//localhost:1313/posts/2010-08-31-68/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Понятно, что библиотеки сейчас существуют реальные и виртуальные, электронные. Но проблемы реальных библиотек понятны: закупка книг, новых, современных, книгообмен. Что касается проблем электронных библиотек, то посмотрите, как они зачастую выглядят в университетах: каждый университет запирает свою библиотеку на ключ. То есть если я, например, не отношусь к соответствующей студенческой части или не отношусь к преподавателям этого университета, то я туда зайти не могу зачастую. Вообще-то, это плохо. Эти библиотеки, если уж так разобраться, в государственных университетах – это наше с вами национальное достояние. И то, что университеты запрещают к ним доступ, это неправильно. Я хотел бы обратить ваше внимание как руководителей субъектов и обратить внимание ректоров университетов. Надо делать свободный доступ. Я понимаю, это ещё нагрузка на серверы, вопрос закупки правильного оборудования. Это можно решить. Но закрывать свои библиотеки для студентов и вообще всех заинтересованных наших людей, которые хотели бы, допустим, посмотреть книги из того или иного университета, а они всё-таки разные в разных местах, – это ошибка, её нужно исправить.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Деятельность регионального управления РАО по Свердловской области признана незаконной</title>
-      <link>/posts/2010-08-02-51/</link>
+      <link>//localhost:1313/posts/2010-08-02-51/</link>
       <pubDate>Mon, 02 Aug 2010 17:51:22 +0000</pubDate>
-      <guid>/posts/2010-08-02-51/</guid>
+      <guid>//localhost:1313/posts/2010-08-02-51/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;h1 id=&#34;деятельность-регионального-управления-рао-признана-незаконной&#34;&gt;Деятельность регионального управления РАО признана незаконной&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.e1.ru/news/images/331/957/331957/200x133_kinozal.jpg&#34; alt=&#34;&#34;&gt;Прокуратура Свердловской области признала незаконной деятельность Регионального управления Российского авторского общества, сообщает АПИ.&lt;/p&gt;&#xA;&lt;p&gt;В конце апреля этого года по результатам рассмотрения обращения Общероссийской общественной организации &amp;ldquo;Российское авторское общество&amp;rdquo; прокурором Каменска-Уральского было возбуждено дело об административном правонарушении по ч. 1 ст. 7.12 КоАП РФ (нарушение авторских и смежных прав). Мировой судья, рассматривавший дело об административном правонарушении, признал виновным ООО &amp;ldquo;КиноFOX&amp;rdquo; в совершении правонарушения, предусмотренного ч. 1 ст. 7.12 КоАП РФ. У кинотеатра было изъято оборудование, с помощью которого осуществлялся показ фильмов. Кроме того, организации назначен штраф в размере 30 тысяч рублей.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Легализованы некоторые виды обхода DRM</title>
-      <link>/posts/2010-07-26-107/</link>
+      <link>//localhost:1313/posts/2010-07-26-107/</link>
       <pubDate>Mon, 26 Jul 2010 20:21:53 +0000</pubDate>
-      <guid>/posts/2010-07-26-107/</guid>
+      <guid>//localhost:1313/posts/2010-07-26-107/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Specifically, today&amp;rsquo;s exemptions include the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Permission for cell phone owners to break access controls on their phones in order to switch wireless carriers or &amp;ldquo;jailbreak&amp;rdquo; their device&lt;/li&gt;&#xA;&lt;li&gt;Permission to break technical protections on video games to investigate or correct security flaws&lt;/li&gt;&#xA;&lt;li&gt;Permission for college professors, film students and documentary filmmakers to break copy-protection measures on DVDs so they can embed clips for educational purposes, criticism, commentary and noncommercial videos&lt;/li&gt;&#xA;&lt;li&gt;Permission to enable an e-book&amp;rsquo;s read-aloud function or use a screen reader with the e-book, even when built-in access controls prevent this&lt;/li&gt;&#xA;&lt;li&gt;Permission for computer owners to bypass the need for external security devices called dongles if the dongle no longer works and cannot be replaced&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.readwriteweb.com/archives/fair_use_legalized_says_eff.php&#34;&gt;readwriteweb.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Про израильское РАО - оч. смешно</title>
-      <link>/posts/2010-06-02-166/</link>
+      <link>//localhost:1313/posts/2010-06-02-166/</link>
       <pubDate>Wed, 02 Jun 2010 11:16:24 +0000</pubDate>
-      <guid>/posts/2010-06-02-166/</guid>
+      <guid>//localhost:1313/posts/2010-06-02-166/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Как известно царь Соломон славился умением принимать правильные и понятные всем гражданам решения по различным сложным делам.&lt;br&gt;&#xA;Потомки царя Соломона тоже не ударили в грязь лицом и продемонстрировали всему миру ряд интересных и понятных решений в сфере контроля за деятельностью своих ОКУПов.&lt;/p&gt;&#xA;&lt;p&gt;Первое решение было принято 30 марта 2004 года. В этот &amp;ldquo;черный&amp;rdquo; для израильских ОКУПов день Генеральный директор антимонопольного органа Израиля принял судьбоносное &lt;a href=&#34;http://www.oecd.org/dataoecd/36/44/34720615.pdf&#34;&gt;постановление об авторском обществе ACUM&lt;/a&gt; (Общество Израильских Композиторов, Авторов и Издателей). Сие авторское общество ОФИЦИАЛЬНО было объявлено МОНОПОЛИЕЙ И КАРТЕЛЕМ. И ему как монополии и картелю было выдано ВРЕМЕННОЕ РАЗРЕШЕНИЕ В ОПРЕДЕЛЕННЫХ ПРАВОВЫХ РАМКАХ ОСУЩЕСТВЛЯТЬ СВОЮ ДЕЯТЕЛЬНОСТЬ.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Только не библиотеки! Только не библиотеки!</title>
-      <link>/posts/2010-04-18-215/</link>
+      <link>//localhost:1313/posts/2010-04-18-215/</link>
       <pubDate>Sun, 18 Apr 2010 15:49:17 +0000</pubDate>
-      <guid>/posts/2010-04-18-215/</guid>
+      <guid>//localhost:1313/posts/2010-04-18-215/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Участники встречи были единодушны в вопросе соблюдения существующих норм законодательства об авторском праве в части электронных изданий. Они высказались против идеи оцифровки и предоставления библиотеками доступа к электронному контенту без согласия правообладателей.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.bookind.ru/index.php?option=com_content&amp;amp;task=view&amp;amp;id=326&amp;amp;&#34;&gt;bookind.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Библиотеки — как враг бизнеса. Какой забавный поворот истории.&lt;/p&gt;</description>
     </item>
     <item>
       <title>17 мая в ИНСОРе будет выступать Лессиг</title>
-      <link>/posts/2010-03-24-3/</link>
+      <link>//localhost:1313/posts/2010-03-24-3/</link>
       <pubDate>Wed, 24 Mar 2010 09:59:16 +0000</pubDate>
-      <guid>/posts/2010-03-24-3/</guid>
+      <guid>//localhost:1313/posts/2010-03-24-3/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;В мероприятии примет участие и выступит с ключевым докладом профессор права Гарвардской юридической школы Лоуренс Лессиг, являющийся одним из основателей Creative Commons.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.iis.ru/content/view/472/91/&#34;&gt;iis.ru&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Измерения в экономике авторского права. Стенограмма круглого стола в ЦЭМИ РАН 16 марта 2010 года</title>
-      <link>/posts/2010-03-21-84/</link>
+      <link>//localhost:1313/posts/2010-03-21-84/</link>
       <pubDate>Sun, 21 Mar 2010 21:31:30 +0000</pubDate>
-      <guid>/posts/2010-03-21-84/</guid>
+      <guid>//localhost:1313/posts/2010-03-21-84/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Одно я называю условно «письмо библиотекарей», где на первом месте стоит Иван Засурский, на втором Вислый – это директор РГБ, и далее еще несколько товарищей, которые направили в Думу письмо с предложением рассмотреть возможность изменений в законодательстве по ряду пунктов, причем достаточно, на мой взгляд, разумные предложения. Может быть, они где-то что-то перегибают, но, в принципе, всё это имеет под собой основания.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.labrate.ru/20100316/stenogramma.htm&#34;&gt;labrate.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Это академик Макаров.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Петиция в Госдуму и реакция «интеллектуальной элиты» / Копирайт / Хабрахабр</title>
-      <link>/posts/2010-03-04-146/</link>
+      <link>//localhost:1313/posts/2010-03-04-146/</link>
       <pubDate>Thu, 04 Mar 2010 23:30:59 +0000</pubDate>
-      <guid>/posts/2010-03-04-146/</guid>
+      <guid>//localhost:1313/posts/2010-03-04-146/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Вполне нормальные и разумные требования, не правда ли? Многие из них реализованы в разных странах мира, например свобода панорамы или свободные лицензии. Однако очень скоро последовала реакция нашей «творческой элиты».&lt;/p&gt;&#xA;&lt;p&gt;Описывается она &lt;a href=&#34;http://kommersant.ru/doc.aspx?DocsID=1331400&#34;&gt;тут&lt;/a&gt;. Журналист, писавший её проявил просто чудеса неангажированности.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://habrahabr.ru/blogs/copyright/86415/&#34;&gt;habrahabr.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Подробный разбор полётов.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Крупная артиллерия против &#34;Открытого письма&#34; Ассоциации интернет-издателей</title>
-      <link>/posts/2010-03-04-105/</link>
+      <link>//localhost:1313/posts/2010-03-04-105/</link>
       <pubDate>Thu, 04 Mar 2010 00:20:10 +0000</pubDate>
-      <guid>/posts/2010-03-04-105/</guid>
+      <guid>//localhost:1313/posts/2010-03-04-105/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Группа руководителей крупнейших творческих союзов и глав медиакомпаний вчера направила обращение президенту Дмитрию Медведеву с протестом против попыток &amp;ldquo;принудительной передачи в общественное достояние всех&amp;hellip; авторских произведений, созданных в СССР и России при господдержке&amp;rdquo;. Авторы письма (среди них кинорежиссер Никита Михалков и гендиректор &amp;ldquo;Первого канала&amp;rdquo; Константин Эрнст) возмущены обращением в Госдуму группы лиц, которые выступают за аннуляцию авторских прав на все советские книги и кинофильмы, а также наделение библиотек возможностью оцифровывать и размещать в интернете книги без согласия правообладателей.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Когда РАО уже нарвётся? Ирреальный идиотизм</title>
-      <link>/posts/2010-03-04-99/</link>
+      <link>//localhost:1313/posts/2010-03-04-99/</link>
       <pubDate>Thu, 04 Mar 2010 00:04:29 +0000</pubDate>
-      <guid>/posts/2010-03-04-99/</guid>
+      <guid>//localhost:1313/posts/2010-03-04-99/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Соглашение с Российским авторским обществом станет обязательным условием вещания зарубежных телеканалов в России, утверждают в РАО. Организация требует 5% от дохода у телевещателей и собирается направить обращение в Генпрокуратуру. Инициатива РАО вызывает недоумение как у телеканалов, так и у кабельных операторов — снятые за рубежом программы не имеют отношения к российским авторам. Срок легального запуска каналов в России может быть сдвинут.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://infox.ru/business/net/2010/03/02/Zarubyezhnyyye_tyely.phtml&#34;&gt;infox.ru&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Открытый регистр книг в public domain. Есть и русские авторы</title>
-      <link>/posts/2010-01-14-3/</link>
+      <link>//localhost:1313/posts/2010-01-14-3/</link>
       <pubDate>Thu, 14 Jan 2010 21:49:00 +0000</pubDate>
-      <guid>/posts/2010-01-14-3/</guid>
+      <guid>//localhost:1313/posts/2010-01-14-3/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.publicdomainworks.net/&#34;&gt;Public Domain Works&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Открытое письмо в Государственную Думу | WEBPUBLISHERS•RU</title>
-      <link>/posts/2010-01-12-1/</link>
+      <link>//localhost:1313/posts/2010-01-12-1/</link>
       <pubDate>Tue, 12 Jan 2010 21:43:28 +0000</pubDate>
-      <guid>/posts/2010-01-12-1/</guid>
+      <guid>//localhost:1313/posts/2010-01-12-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Считаем необходимым обратить Ваше внимание на непреодолимые сложности, связанные со спецификой российского законодательства в области авторских прав, которые способны поставить крест на попытках модернизации и существенно ограничить потенциал развития общества в условиях перехода к информационной экономике.&lt;/p&gt;&#xA;&lt;p&gt;В частности, на опыте многих членов нашей ассоциации, других организаций и физических лиц, которые присоединяются к нашей просьбе изменить ситуацию, мы убедились, что существующее законодательство создаёт помехи всем: от Министерства культуры и Администрации Президента России до библиотек и новых медиа.&lt;/p&gt;</description>
     </item>
     <item>
       <title>В защиту копирования</title>
-      <link>/posts/2009-02-08-163/</link>
+      <link>//localhost:1313/posts/2009-02-08-163/</link>
       <pubDate>Sun, 08 Feb 2009 21:40:34 +0000</pubDate>
-      <guid>/posts/2009-02-08-163/</guid>
+      <guid>//localhost:1313/posts/2009-02-08-163/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.netadvocate.org/node/544&#34;&gt;Обращение в Высший арбитражный и Верховный суды (сбор подписей) | NET/Адвокат&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Будущее копирайта</title>
-      <link>/posts/2008-06-11-14/</link>
+      <link>//localhost:1313/posts/2008-06-11-14/</link>
       <pubDate>Wed, 11 Jun 2008 10:24:57 +0000</pubDate>
-      <guid>/posts/2008-06-11-14/</guid>
+      <guid>//localhost:1313/posts/2008-06-11-14/</guid>
       <description>&lt;p&gt;По версии Расмуса Фляйшера, одного из основателей The Piracy Bureau и The Pirate Bay. Эссе на сайте Института Катона, кстати, где старшим научным сотрудником трудится Илларионов: &lt;a href=&#34;http://www.cato-unbound.org/2008/06/09/rasmus-fleischer/the-future-of-copyright/&#34;&gt;http://www.cato-unbound.org/2008/06/09/rasmus-fleischer/the-future-of-copyright/&lt;/a&gt; Via &lt;a href=&#34;http://www.boingboing.net/2008/06/10/swedish-pirate-burea.html&#34;&gt;Swedish Pirate Bureau founder&amp;rsquo;s essay on copyright for Cato - Boing Boing&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Книга про «пиратов» для свободного скачивания</title>
-      <link>/posts/2008-06-09-54/</link>
+      <link>//localhost:1313/posts/2008-06-09-54/</link>
       <pubDate>Mon, 09 Jun 2008 11:42:15 +0000</pubDate>
-      <guid>/posts/2008-06-09-54/</guid>
+      <guid>//localhost:1313/posts/2008-06-09-54/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://thepiratesdilemma.com/download-the-book&#34;&gt;&lt;em&gt;The Pirate&amp;rsquo;s Dilemma&lt;/em&gt; by Matt Mason&lt;/a&gt;. Обозреватель Publishers Weekly &lt;a href=&#34;http://www.publishersweekly.com/article/CA6499059.html?q=matt+mason&#34;&gt;пишет о книге&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Музыкальный критик Мейсон, когда-то работавший диджеем на пиратском радио в разных клубах, исследует изменения, которые осуществляет культура свободных источников на распространение и управление информацией, разрушая старую систему панк-капитализма и создавая новые рыночные условия, которые контролирует уже общество. По мнению Мейсона, это движение художников, действующих с пиратской тактикой, меняет саму природу нашей экономики&amp;hellip;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Оплата при скачивании в режиме donationware, то есть вы можете просто поставить ноль в поле цены. Ну, или заплатите автору через PayPal, сколько пожелаете.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Две новости</title>
-      <link>/posts/2008-05-21-3/</link>
+      <link>//localhost:1313/posts/2008-05-21-3/</link>
       <pubDate>Wed, 21 May 2008 15:09:54 +0000</pubDate>
-      <guid>/posts/2008-05-21-3/</guid>
+      <guid>//localhost:1313/posts/2008-05-21-3/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://litres.ru/&#34;&gt;ЛитРес :: Новости сайта&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Впервые в России электронная версия книги выходит раньше печатного издания! Издательство «Эксмо» начала продажи электронных книг на LitRes.ru, лидер российского книжного рынка, выпускает книгу Алекса Лесли «Новая ЖЖизнь без трусов»в электронной версии значительно раньше выхода книги из печати. Этот шаг призван удовлетворить горячий читательский интерес к творчеству широко известного в рунете автора бестселлера «ЖЖизнь без трусов: жесть как она есть» Алекса Лесли. Издательство «Эксмо», используя свой обширный инновационный потенциал, будет и впредь активно проявлять заботу о своих читателях. &lt;strong&gt;25.04.2008&lt;/strong&gt; 20:00&lt;/p&gt;</description>
     </item>
   </channel>

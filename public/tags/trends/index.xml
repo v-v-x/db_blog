@@ -2,423 +2,423 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trends on Новости электронного книгоиздания</title>
-    <link>/tags/trends/</link>
+    <link>//localhost:1313/tags/trends/</link>
     <description>Recent content in Trends on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 10 Jan 2020 11:59:33 +0300</lastBuildDate>
-    <atom:link href="/tags/trends/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/trends/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Прогнозы на десятилетие</title>
-      <link>/posts/2020-01-10-1/</link>
+      <link>//localhost:1313/posts/2020-01-10-1/</link>
       <pubDate>Fri, 10 Jan 2020 11:59:33 +0300</pubDate>
-      <guid>/posts/2020-01-10-1/</guid>
+      <guid>//localhost:1313/posts/2020-01-10-1/</guid>
       <description>&lt;p&gt;Самые интересные тексты с итогами и прогнозами по книжной индустрии, в отличие от желания СМИ, появляются не до, а после наступления нового года.&lt;/p&gt;&#xA;&lt;p&gt;Вот, например, &lt;a href=&#34;https://www.forbes.com/sites/billrosenblatt/2020/01/03/why-ebook-subscription-services-will-finally-succeed-in-the-coming-decade/#69596f1b5dba&#34;&gt;статья в Forbes&lt;/a&gt; о том, почему и как в грядущем десятилетии модель подписки на цифровые книги победит розничную. (Спойлер—потому что владельцы издательств сдадутся из-за невысокого или вообще нулевого роста продаж в расчёте на дополнительную прибыль. А также может придти какой-нибудь крупный игрок.)&lt;/p&gt;&#xA;&lt;p&gt;Или &lt;a href=&#34;https://www.idealog.com/blog/2020-zero-year-thoughts-about-the-changes-in-book-publishing/&#34;&gt;статья мудрейшего Майка Шацкина&lt;/a&gt;, в которой он довольно внятно описывает нынешнюю ситуацию на рынке США с его гиперразвитым принт-он-демандом и потенциально неограниченным доступом к ассортименту, многократно превышающему актуальное производство книг (примерно 18 млн против 300 тыс.). С одной стороны, это снижает издержки издателей и позволяет зарабатывать даже на малых тиражах, но, с другой стороны, приводит к сокращению ассортимента у крупных издателей, концентрации на бестселлерах и скупке бэклистов, которые уже дают почти бесплатный доход (аудиокниги).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Шацкин: эл.книги – это дешевый массмаркет XXI века</title>
-      <link>/posts/2011-03-21-c/</link>
+      <link>//localhost:1313/posts/2011-03-21-c/</link>
       <pubDate>Mon, 21 Mar 2011 20:17:11 +0000</pubDate>
-      <guid>/posts/2011-03-21-c/</guid>
+      <guid>//localhost:1313/posts/2011-03-21-c/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.idealog.com/blog/ebooks-are-making-me-recall-the-history-of-mass-market-publishing&#34;&gt;The ebook revolution is really beginning to remind me of the mass-market papeback revolution.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Весьма познавательная история «книжек в обложках».&lt;/p&gt;</description>
     </item>
     <item>
       <title>99 центов за любую книгу</title>
-      <link>/posts/2011-03-08-a/</link>
+      <link>//localhost:1313/posts/2011-03-08-a/</link>
       <pubDate>Tue, 08 Mar 2011 19:46:21 +0000</pubDate>
-      <guid>/posts/2011-03-08-a/</guid>
+      <guid>//localhost:1313/posts/2011-03-08-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;I am having trouble convincing myself why digital books will not cost 99 cents within 5 years. All books, on average. Just as the price of music does not in general change on the length or quality.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a reason why they&amp;rsquo;ll be as inexpensive as music. The other day &lt;a href=&#34;http://jakonrath.blogspot.com/&#34;&gt;Joe Konrath&lt;/a&gt;, a genre writer, and avid self-publisher of ebooks, said:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Eighteen days ago, I dropped the price of my ebook, The List, from $2.99 to 99 cents on Amazon. I was selling 40 copies a day prior to that.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Выступление Кевина Келли на TOC</title>
-      <link>/posts/2011-02-21-a/</link>
+      <link>//localhost:1313/posts/2011-02-21-a/</link>
       <pubDate>Mon, 21 Feb 2011 10:35:39 +0000</pubDate>
-      <guid>/posts/2011-02-21-a/</guid>
+      <guid>//localhost:1313/posts/2011-02-21-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;What Technology Wants&lt;/em&gt;, Kevin’s new book.  He says it’s the last paper book he’ll write because he is learning so much about digital publishing.&lt;/p&gt;&#xA;&lt;p&gt;Kevin’s keynote discussed “What’s Next” in his view and he offered 6 trends (verbs), screening, interacting, sharing, accessing, flowing, generating.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Screening&lt;/strong&gt; – screens everywhere, we are moving from people of the book, where author/authority go hand in hand, to people of the screen.  We are surrounded by screens, screens are becoming cheap enough to put anywhere.  This will be the context where we will publish books.  eInk, could it become bound into a flexible book? Screens are the portals into the machine for everything – books, TV, video, radio, web, etc..  One screen for all.  Orality – Literacy – Visuality.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Сервис сканирования книг</title>
-      <link>/posts/2011-02-08-b/</link>
+      <link>//localhost:1313/posts/2011-02-08-b/</link>
       <pubDate>Tue, 08 Feb 2011 12:31:39 +0000</pubDate>
-      <guid>/posts/2011-02-08-b/</guid>
+      <guid>//localhost:1313/posts/2011-02-08-b/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.wired.com/gadgetlab/2011/02/japanese-book-scanning-services-fueled-by-ipad-e-readers/&#34;&gt;wired.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Интересно, а в России такое сервис есть? И почему нет? Доллар за книжку — совсем не дорого. Я бы с удовольствием заказал оцифровку своей библиотеки. Пока можно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>O&#39;Reilly о том, что делать издателям</title>
-      <link>/posts/2011-01-10-c/</link>
+      <link>//localhost:1313/posts/2011-01-10-c/</link>
       <pubDate>Mon, 10 Jan 2011 22:04:14 +0000</pubDate>
-      <guid>/posts/2011-01-10-c/</guid>
+      <guid>//localhost:1313/posts/2011-01-10-c/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Books give people information, entertainment, and education. If publishers focus on how those three elements can be performed better online and through mobile, innovation and business models will follow. If we don&amp;rsquo;t innovate to do those jobs better for our customers, it&amp;rsquo;s only a matter of time before someone else steps in.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://radar.oreilly.com/2010/12/2011-publishing.html&#34;&gt;radar.oreilly.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;А то воспоследует шумпетеровское «творческое разрушение».&lt;/p&gt;</description>
     </item>
     <item>
       <title>Newstweek - круто</title>
-      <link>/posts/2011-01-09-a/</link>
+      <link>//localhost:1313/posts/2011-01-09-a/</link>
       <pubDate>Sun, 09 Jan 2011 14:08:39 +0000</pubDate>
-      <guid>/posts/2011-01-09-a/</guid>
+      <guid>//localhost:1313/posts/2011-01-09-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://newstweek.com/2011-01-07-device-distorts-news-on-wireless-neworks&#34;&gt;newstweek.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Киберанархизм в действии.&lt;/p&gt;&#xA;&lt;p&gt;P. S. &lt;a href=&#34;http://web.archive.org/web/20190629181816/http://newstweek.com/2011-01-07-device-distorts-news-on-wireless-neworks&#34;&gt;Archive&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Предсказание погоды машиной ответов</title>
-      <link>/posts/2010-11-30-162/</link>
+      <link>//localhost:1313/posts/2010-11-30-162/</link>
       <pubDate>Tue, 30 Nov 2010 23:16:14 +0000</pubDate>
-      <guid>/posts/2010-11-30-162/</guid>
+      <guid>//localhost:1313/posts/2010-11-30-162/</guid>
       <description>&lt;p&gt;Вот Wolfram|Alpha &lt;a href=&#34;http://www.wolframalpha.com/input/?i=moscow%20weather&#34;&gt;предсказывает&lt;/a&gt; на завтра –20, на четверг –20 –15, на пятницу –14 –12, на субботу –9 –2 (с повышением аж до +1), на воскресенье –7 –5, а на понедельник –6. Вот и посмотрим.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The printed book is not dead yet</title>
-      <link>/posts/2010-10-10-212/</link>
+      <link>//localhost:1313/posts/2010-10-10-212/</link>
       <pubDate>Sun, 10 Oct 2010 22:17:20 +0000</pubDate>
-      <guid>/posts/2010-10-10-212/</guid>
+      <guid>//localhost:1313/posts/2010-10-10-212/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;So long as the ebook continues to pay it the compliment of mimicry, I suspect that the printed book need not fear for its life just yet.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.guardian.co.uk/commentisfree/2010/oct/10/printed-book-not-dead-ebook&#34;&gt;guardian.co.uk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Пора собирать заметки консерваторов.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Books: The Liquid Version — Кевин Келли и другие</title>
-      <link>/posts/2010-09-29-35/</link>
+      <link>//localhost:1313/posts/2010-09-29-35/</link>
       <pubDate>Wed, 29 Sep 2010 13:11:10 +0000</pubDate>
-      <guid>/posts/2010-09-29-35/</guid>
+      <guid>//localhost:1313/posts/2010-09-29-35/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Kevin Kelly’s long NY Times article in 2006 (&lt;a href=&#34;http://www.nytimes.com/2006/05/14/magazine/14publishing.html&#34;&gt;Scan this Book!&lt;/a&gt;) on Google Book Search has some elegant words on the transformative effect of digital books in general, beyond GBS. His words are echoed in several recent commentaries that I’ve written about — I’ll precede excerpts from Kelly with connecting ideas from these recent articles:&lt;/p&gt;&#xA;&lt;p&gt;Kelly’s comments parallel the &lt;a href=&#34;http://blog.lib.uiowa.edu/hardinmd/2009/05/20/rushdies-stream-library-borges-print-library/&#34;&gt;static print libary of Borges and the flowing, connected library of Rushdie&lt;/a&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Началась каннибализация? Или электронные книги - это другой рынок?</title>
-      <link>/posts/2010-09-23-117/</link>
+      <link>//localhost:1313/posts/2010-09-23-117/</link>
       <pubDate>Thu, 23 Sep 2010 15:08:07 +0000</pubDate>
-      <guid>/posts/2010-09-23-117/</guid>
+      <guid>//localhost:1313/posts/2010-09-23-117/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The data, released as part of a seminar held yesterday with Enders Analysis, &amp;lsquo;Digital Seminar: e-books and their impact on the market&amp;rsquo;, showed genres such as science fiction and romance are “overperforming” thanks to the tastes of early adopters of e-books. For example, the e-book market share of the science fiction and fantasy sector globally for the 10 weeks since June was 10%, more than treble the genre’s market share of print book sales. The share taken by romance and saga books was 14%, seven times its print market share. Julie Meynink, business development director of Nielsen BookScan, said though it was early days, data from Nielsen BookScan US, which globally represents the biggest share of e-book sales, showed a decline in print sales within these two sectors. In the year to date sales of romance books in the US are down 7.5%, while science-fiction and fantasy sales are down, even when the effect of Stephenie Meyer is stripped out. Estimated e-book sales from the Association of American Publishers show that the e-book market has risen 10-times since 2008, with sales accelerating this year with sales over the first two quarters up 180% on 2009.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Будущее цифровых книг: видео от IDEO</title>
-      <link>/posts/2010-09-23-36/</link>
+      <link>//localhost:1313/posts/2010-09-23-36/</link>
       <pubDate>Thu, 23 Sep 2010 15:06:24 +0000</pubDate>
-      <guid>/posts/2010-09-23-36/</guid>
+      <guid>//localhost:1313/posts/2010-09-23-36/</guid>
       <description>&lt;p&gt;Очень симпатичная фантазия. И хорошая попытка разобраться с тем, что такое книга вообще, и чем она может стать. Важно, что визионеры из IDEO правильно поняли, что книги нужны для разного. Они выделили три сценария, назвав их условно Nelson, Coupland и Alice.&lt;/p&gt;&#xA;&lt;p&gt;Первый — книга как узел знаний и смысла, в сети контекста, к которому она отсылает и который отсылает к ней. О чём-то подобном говорил Александр Иванов на круглом столе в БГ в своё время. Плюс к этому — обсуждение, рецензии, возражения, дополнения и т. д.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Андрей Архангельский: «Бумага убивает»</title>
-      <link>/posts/2010-09-23-22/</link>
+      <link>//localhost:1313/posts/2010-09-23-22/</link>
       <pubDate>Thu, 23 Sep 2010 14:50:37 +0000</pubDate>
-      <guid>/posts/2010-09-23-22/</guid>
+      <guid>//localhost:1313/posts/2010-09-23-22/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Бумажное книгоиздание – это институт рабства: мы в любом случае зависели от каких-то людей, которые по идеологическим или экономическим причинам решали за нас – что нам читать или не читать. Электронную книгу, в отличие от бумажной, нельзя уничтожить или сделать дефицитом. Электронная книга – это освобождение от деспотии печатного станка, который тоже когда-то считался средством от деспотии. Благодаря электронному формату, сегодня мы сами можем копировать и печатать нужные нам книги – и в этом смысле мы все являемся новыми Гутенбергами.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Thriller Sells More E-Books Than Hardcovers - WSJ</title>
-      <link>/posts/2010-08-27-120/</link>
+      <link>//localhost:1313/posts/2010-08-27-120/</link>
       <pubDate>Fri, 27 Aug 2010 10:03:13 +0000</pubDate>
-      <guid>/posts/2010-08-27-120/</guid>
+      <guid>//localhost:1313/posts/2010-08-27-120/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Laura Lippman’s thriller, “I’d Know You Anywhere,” went on sale Aug. 17, and in its first five days sold 4,739 e-books and 4,000 physical hardcovers, said News Corp.’s HarperCollins Publishers.&lt;/p&gt;&#xA;&lt;p&gt;“This is the first book of ours of any consequence that has sold more e-books than hardcovers in the first week,” said Frank Albanese, a senior vice president at HarperCollins. “What we’re seeing now is that if a book gets a good review, it gets a faster lift on the digital side than it does on the physical side because people who have e-readers can buy and read it immediately.”&lt;/p&gt;</description>
     </item>
     <item>
       <title>Сет Годин больше не собирается печатать бумажных книг</title>
-      <link>/posts/2010-08-23-186/</link>
+      <link>//localhost:1313/posts/2010-08-23-186/</link>
       <pubDate>Mon, 23 Aug 2010 08:06:19 +0000</pubDate>
-      <guid>/posts/2010-08-23-186/</guid>
+      <guid>//localhost:1313/posts/2010-08-23-186/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;New York Times&lt;/em&gt; bestselling author and marketing guru, &lt;a href=&#34;http://sethgodin.typepad.com/&#34;&gt;Seth Godin&lt;/a&gt; vows to never publish traditionally again. After over &lt;a href=&#34;http://sethgodin.com/sg/books.asp&#34;&gt;12 books&lt;/a&gt; with a legacy publisher, Godin says he&amp;rsquo;s had enough.&lt;/p&gt;&#xA;&lt;p&gt;In my interview with him today for an upcoming &lt;a href=&#34;http://www.mediabistro.com/content/archives/interviews.asp&#34;&gt;Mediabistro feature&lt;/a&gt;, Godin says, &amp;ldquo;I&amp;rsquo;ve decided not to publish any more books in the traditional way. 12 for 12 and I&amp;rsquo;m done. I like the people, but I can&amp;rsquo;t abide the long wait, the filters, the big push at launch, the nudging to get people to go to a store they don&amp;rsquo;t usually visit to buy something they don&amp;rsquo;t usually buy, to get them to pay for an idea in a form that&amp;rsquo;s hard to spread &amp;hellip; I really don&amp;rsquo;t think the process is worth the effort that it now takes to make it work. I can reach 10 or 50 times as many people electronically. No, it&amp;rsquo;s not &amp;lsquo;better&amp;rsquo;, but it&amp;rsquo;s different. So while I&amp;rsquo;m not sure what format my writing will take, I&amp;rsquo;m not planning on it being the 1907 version of hardcover publishing any longer.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Случай Уайли: почему издатели в панике?</title>
-      <link>/posts/2010-07-23-195/</link>
+      <link>//localhost:1313/posts/2010-07-23-195/</link>
       <pubDate>Fri, 23 Jul 2010 10:25:07 +0000</pubDate>
-      <guid>/posts/2010-07-23-195/</guid>
+      <guid>//localhost:1313/posts/2010-07-23-195/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/gp/feature.html/ref=amb_link_353564082_3/176-1675311-1884214?ie=UTF8&amp;amp;docId=1000528381&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_s=auto-sparkle&amp;amp;pf_rd_r=0VKNZ4AFMDEV1E2J87ZE&amp;amp;pf_rd_t=301&amp;amp;pf_rd_p=1270168602&amp;amp;pf_rd_i=roth&#34;&gt;Publishers came face to face with their own vision of apocalypse yesterday&lt;/a&gt;, as Andrew Wylie announced that he and &lt;a href=&#34;http://www.wylieagency.com/CLIENT%20LIST.htm&#34;&gt;his authors&lt;/a&gt; would be cutting &lt;a href=&#34;http://www.guardian.co.uk/books/publishing&#34; title=&#34;More from guardian.co.uk on Publishing&#34;&gt;publishing&lt;/a&gt; houses out of the future and teaming up with Amazon to sell their own electronic editions.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.guardian.co.uk/books/booksblog/2010/jul/23/authors-amazon-deal-publishing&#34;&gt;guardian.co.uk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Потому что он показал, что издатели авторам могут быть нафиг не нужны. Их функцию в цифровом workflow могут исполнять литагенты, агрегирующие права, и распространители контента. Это если издатели не удосужились купить электронные права &amp;ndash; как раз случай России.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Десять заповедей современного издателя</title>
-      <link>/posts/2010-06-30-50/</link>
+      <link>//localhost:1313/posts/2010-06-30-50/</link>
       <pubDate>Wed, 30 Jun 2010 08:12:09 +0000</pubDate>
-      <guid>/posts/2010-06-30-50/</guid>
+      <guid>//localhost:1313/posts/2010-06-30-50/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;h3 id=&#34;ten-more-commandments-publishing-edition&#34;&gt;Ten More Commandments, Publishing Edition&lt;/h3&gt;&#xA;&lt;p&gt;Posted by Mike Shatzkin on June 27, 2010 at 10:27 am · Under &lt;a href=&#34;http://www.idealog.com/blog/category/chuckles&#34; title=&#34;View all posts in Chuckles&#34;&gt;Chuckles&lt;/a&gt;, &lt;a href=&#34;http://www.idealog.com/blog/category/community&#34; title=&#34;View all posts in Community&#34;&gt;Community&lt;/a&gt;, &lt;a href=&#34;http://www.idealog.com/blog/category/general-trade-publishing&#34; title=&#34;View all posts in General Trade Publishing&#34;&gt;General Trade Publishing&lt;/a&gt;, &lt;a href=&#34;http://www.idealog.com/blog/category/new-models&#34; title=&#34;View all posts in New Models&#34;&gt;New Models&lt;/a&gt;, &lt;a href=&#34;http://www.idealog.com/blog/category/publishing&#34; title=&#34;View all posts in Publishing&#34;&gt;Publishing&lt;/a&gt;, &lt;a href=&#34;http://www.idealog.com/blog/category/supply-chain&#34; title=&#34;View all posts in Supply-Chain&#34;&gt;Supply-Chain&lt;/a&gt;, &lt;a href=&#34;http://www.idealog.com/blog/category/vertical&#34; title=&#34;View all posts in Vertical&#34;&gt;Vertical&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;The following post is a collaboration with my friend &lt;a href=&#34;http://www.giantchair.com/&#34;&gt;Joe Esposito, the CEO of GiantChair&lt;/a&gt;. The post was Joe’s idea, but I contributed enough to its completion to justify a claim of shared authorship. Joe has kindly agreed to allow this received wisdom to be delivered to the world through The Shatzkin Files.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tesla Motors вышла на открытый рынок. Выглядит не стыдно</title>
-      <link>/posts/2010-06-29-203/</link>
+      <link>//localhost:1313/posts/2010-06-29-203/</link>
       <pubDate>Tue, 29 Jun 2010 16:26:26 +0000</pubDate>
-      <guid>/posts/2010-06-29-203/</guid>
+      <guid>//localhost:1313/posts/2010-06-29-203/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The company was able to price the shares above its $14 to $16 range, and will collect $202 million from the IPO Tesla is selling 13.3 million shares, 11,880,600 through the company and 1,419,400 through selling stockholders, i&lt;a href=&#34;http://techcrunch.com/2010/06/28/tesla-ipo-musk-shares/&#34;&gt;ncluding founder Elon Musk&lt;/a&gt;. This is the first time an automotive company has gone public in more than 50 years.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://techcrunch.com/2010/06/29/tesla-ipo-1-7-billion/&#34;&gt;techcrunch.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Рыночная капитализация - $1,7 млрд.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The iPad, the Kindle, and the future of books : The New Yorker</title>
-      <link>/posts/2010-04-19-211/</link>
+      <link>//localhost:1313/posts/2010-04-19-211/</link>
       <pubDate>Mon, 19 Apr 2010 19:11:33 +0000</pubDate>
-      <guid>/posts/2010-04-19-211/</guid>
+      <guid>//localhost:1313/posts/2010-04-19-211/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“By the end of last year, Amazon accounted for an estimated eighty per cent of all electronic book sales, and $9.99 seemed established as the price of an e-book. Publishers were panicked,” Auletta writes. After a confrontation with Amazon, five of the “big six” publishers have agreed to sell their e-books through Apple’s iBooks store, where they will be allowed to set prices, to a certain extent. One Apple insider told Auletta, “Ultimately, Apple is in the device—not the content—business. Steve Jobs wants to make sure content people are his partner. Steve is in the I win/you win school. Jeff Bezos is in the I win/you lose school.” Auletta’s sources suggest that Amazon was making a bid to ramp up its publishing game. “What Amazon really wanted to do was make the price of e-books so low that people would no longer buy hardcover books. Then the next shoe to drop would be to cut publishers out and go right to authors,” a close associate of Jeff Bezos told Auletta. “For the time being,” Auletta writes, “Apple’s interest in the book market has given publishers a reprieve. A close associate of Bezos said, ‘Amazon was thinking of direct publishing—until the Apple thing happened.’ ” Publishers are also encouraged to know that Google will be opening Google Editions, an online e-books store, this summer. Dan Clancy, who will direct Google Editions, told Auletta that their store’s e-books will be accessible to users of any device, and that Google Editions will let publishers set prices. “Having already digitized twelve million books,” Auletta writes, “Google will have a far greater selection of books than Amazon or Apple. It will also make e-books available for bookstores to sell, giving ‘the vast majority’ of revenues to the store, Clancy said.”♦&lt;/p&gt;</description>
     </item>
     <item>
       <title>Очень хороший текст Гатова, в т. ч. о местной прессе</title>
-      <link>/posts/2010-03-24-132/</link>
+      <link>//localhost:1313/posts/2010-03-24-132/</link>
       <pubDate>Wed, 24 Mar 2010 12:47:46 +0000</pubDate>
-      <guid>/posts/2010-03-24-132/</guid>
+      <guid>//localhost:1313/posts/2010-03-24-132/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;И угрозу развитию «новых СМИ» (не обязательно целиком  на интернет-платформе) вижу не в недостаточной численности интернет-россиян. Подключенные – возьмите любую цифру: хоть 10, хоть 20 процентов – это уже десятки миллионов, ознакомленных с концепцией интерактивных, открытых, «в-любую-минуту-обновляемых» СМИ. Каждый год в обсчитываемое маркетологами взрослое большинство (12 или 14 плюс, как они говорят) добавляется очередной почти миллион, рожденный и выращенный в эпоху, когда само понятие «интернет» столь же естественно, как и понятие «телевидение» или «радио» или «газета». Ни одно крупное федеральное издание, будь оно государственным или частным, принадлежащим публичной или «закрытой» компании, не занимается проблемой, будет ли это очередное микропоколение их читать. На вопросе «наши отношения с молодым читателем» поставлен жирный крест – вместе с общей уверенностью, что не будет.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Книги и журналы. Форсайт для индустрии</title>
-      <link>/posts/2010-03-11-a/</link>
+      <link>//localhost:1313/posts/2010-03-11-a/</link>
       <pubDate>Thu, 11 Mar 2010 22:35:20 +0000</pubDate>
-      <guid>/posts/2010-03-11-a/</guid>
+      <guid>//localhost:1313/posts/2010-03-11-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;In next 5 years magazine industry will loose 35% of its revenue but by 2020 the industry will recover because of digital delivery. By then industry will be changed completely and will be 58% digital, as opposed to 10% now. Digital will overtake magazine print by 2016 and this will make it easier to enter the market.&lt;/p&gt;&#xA;&lt;p&gt;Book industry will continue to grow slowly through 2020. Digital will grow 36% in 2014 and end up at 60% by 2020. Revenues from digital will eventually surpass revenues from print and see many more small players as barriers to entry are removed. Ereaders in use: 2010 15m unit installed base forecast, by 2020 861 million installed base. Unit prices of ereaders will fall to under $100 by 2015 and this is when the market will really take off. Expect this price point to be reached for all forms of ereaders. In 2020 expect to spend $80/ereader for digital content per year.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Букридеры и электронные книги в 2020. Что-то типа форсайта</title>
-      <link>/posts/2010-03-11-b/</link>
+      <link>//localhost:1313/posts/2010-03-11-b/</link>
       <pubDate>Thu, 11 Mar 2010 22:30:23 +0000</pubDate>
-      <guid>/posts/2010-03-11-b/</guid>
+      <guid>//localhost:1313/posts/2010-03-11-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Expect prices to drop to $50 by 2020. Color display technology development will be especially important and will replace black and white displays by 2015 and by 2020 95% of all displays will be color. Flexible displays will replace rigid displays and will allow the reader to be rolled or folded. Will fall into 3 categories: rigid displays; bendable displays, which will be seen this year; rollable and foldable displays, and will take 7% of the market by 2020. 30% ereaders will use multiple wireless communication technologies. Ereaders will begin to communicate among themselves as well as to content systems. Input technology will move to multi-touch display and expect it to be standard interface by 2020.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Text 2.0: книги с обратной связью</title>
-      <link>/posts/2010-03-08-204/</link>
+      <link>//localhost:1313/posts/2010-03-08-204/</link>
       <pubDate>Mon, 08 Mar 2010 12:29:22 +0000</pubDate>
-      <guid>/posts/2010-03-08-204/</guid>
+      <guid>//localhost:1313/posts/2010-03-08-204/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.pcpro.co.uk/news/356128/text-2-0-the-book-that-knows-its-being-read&#34;&gt;pcpro.co.uk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Вы их читаете, а они следят за тем, как вы это делаете и меняются в зависимости от этого.&lt;/p&gt;&#xA;&lt;p&gt;Via &lt;a href=&#34;http://goo.gl/Q5uw&#34;&gt;Buzz by Max Nemtsov&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Books in the Age of the iPad — Craig Mod</title>
-      <link>/posts/2010-03-07-34/</link>
+      <link>//localhost:1313/posts/2010-03-07-34/</link>
       <pubDate>Sun, 07 Mar 2010 14:48:10 +0000</pubDate>
-      <guid>/posts/2010-03-07-34/</guid>
+      <guid>//localhost:1313/posts/2010-03-07-34/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://craigmod.com/journal/ipad_and_books/&#34;&gt;craigmod.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Точка зрения дизайнера. Весьма взвешенная и позитивная.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Итоги TOC&#39;2010 с точки зрения библиотекаря</title>
-      <link>/posts/2010-03-02-a/</link>
+      <link>//localhost:1313/posts/2010-03-02-a/</link>
       <pubDate>Tue, 02 Mar 2010 14:43:08 +0000</pubDate>
-      <guid>/posts/2010-03-02-a/</guid>
+      <guid>//localhost:1313/posts/2010-03-02-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.libraries.wright.edu/noshelfrequired/wp-content/uploads/2010/02/toccon-bug.gif&#34;&gt;&lt;img src=&#34;http://www.libraries.wright.edu/noshelfrequired/wp-content/uploads/2010/02/toccon-bug.gif&#34; alt=&#34;&#34; title=&#34;toccon-bug&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Earlier this week I attended the O%u2019Reilly Tools of Change (TOC) Conference for the first time.  Over 1250 attendees gathered in New York City to discuss and network   about issues and trends in publishing, in particular, digital publishing.  While much of the information presented was for the publishing industry, I did manage to find several great ideas and concepts that relate to libraries.  I%u2019d like to share these with you, in no apparent order.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Продавать не книги, а сеть контента</title>
-      <link>/posts/2010-03-01-168/</link>
+      <link>//localhost:1313/posts/2010-03-01-168/</link>
       <pubDate>Mon, 01 Mar 2010 21:31:18 +0000</pubDate>
-      <guid>/posts/2010-03-01-168/</guid>
+      <guid>//localhost:1313/posts/2010-03-01-168/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;I downloaded the &lt;a href=&#34;http://www.logos.com/iphone&#34;&gt;Logos iPhone app&lt;/a&gt; during Bob&amp;rsquo;s talk so that I could have a better feel for what he was describing.  You might think it&amp;rsquo;s nothing more than an ebook reader like Stanza but there&amp;rsquo;s more to it than that.  It comes with a number of books built in, including a few Bibles.  If you&amp;rsquo;re using one translation and you wonder what the same verse looks like in another translation, just touch the verse number, select one of your other Bibles and the app takes you right to that same verse.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Future of Money: It’s Flexible, Frictionless and (Almost) Free</title>
-      <link>/posts/2010-02-23-207/</link>
+      <link>//localhost:1313/posts/2010-02-23-207/</link>
       <pubDate>Tue, 23 Feb 2010 22:25:06 +0000</pubDate>
-      <guid>/posts/2010-02-23-207/</guid>
+      <guid>//localhost:1313/posts/2010-02-23-207/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.wired.com/magazine/2010/02/ff_futureofmoney/all/1&#34;&gt;wired.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Электронные книги: скоро все изменится — OpenSpace.ru</title>
-      <link>/posts/2010-02-18-1/</link>
+      <link>//localhost:1313/posts/2010-02-18-1/</link>
       <pubDate>Thu, 18 Feb 2010 21:34:56 +0000</pubDate>
-      <guid>/posts/2010-02-18-1/</guid>
+      <guid>//localhost:1313/posts/2010-02-18-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Пару слов о личном. В прошлом году я совершил в своей жизни научно-техническую революцию: перешел на букридер. Трудно было первые три часа: смена страниц в букридере происходит через черное поле, к этому надо привыкнуть. Зато в остальном — одни плюсы: в сто грамм веса помещается примерно этаж Публичной библиотеки, синхронизация проста, можно менять размер шрифтов, к тому же без подзарядки мой украинско-тайваньский &lt;a href=&#34;http://pocketbook.com.ua/&#34;&gt;&lt;em&gt;Pocketbook 301&lt;/em&gt;&lt;/a&gt; работает больше месяца. Он был выбран по совету &lt;a href=&#34;http://digital-books.livejournal.com&#34;&gt;специалиста&lt;/a&gt; за неприхотливость и форматную всеядность. Теперь читать обычную книгу мне труднее, чем электронную. Из своих 37 лет я провел в обнимку с бумагами 32. И это время закончилось.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Шатцкин по поводу будущей «яблочной таблетки»</title>
-      <link>/posts/2010-01-20-5/</link>
+      <link>//localhost:1313/posts/2010-01-20-5/</link>
       <pubDate>Wed, 20 Jan 2010 23:17:45 +0000</pubDate>
-      <guid>/posts/2010-01-20-5/</guid>
+      <guid>//localhost:1313/posts/2010-01-20-5/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Although I’m as excited as the next guy by the coming Apple Tablet, I really don’t think it will change the world for ebooks. It’s too big, too heavy, too expensive, and likely to be too consumptive of battery power to be a better ereader for most people than a Kindle, a Sony Reader, an iPhone, or one of the many other devices announced last week at CES. My own hunch is that the Tablet won’t be as powerful a catalyst for ebooks as the Kindle was or the iPhone has been. (That’s okay: &lt;a href=&#34;http://www.ereads.com/2010/01/november-09-e-book-sales-triple-over-09.html&#34;&gt;year-on-year ebook sales are up 300% through November&lt;/a&gt; so they don’t actually need a lot of extra impetus…)&lt;/p&gt;</description>
     </item>
     <item>
       <title>PocketBook и Освiта уже двигают в школы</title>
-      <link>/posts/2010-01-20-4/</link>
+      <link>//localhost:1313/posts/2010-01-20-4/</link>
       <pubDate>Wed, 20 Jan 2010 09:42:39 +0000</pubDate>
-      <guid>/posts/2010-01-20-4/</guid>
+      <guid>//localhost:1313/posts/2010-01-20-4/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://osvitapublish.com.ua/pocketbook.html&#34;&gt;osvitapublish.com.ua&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;В общем — логично. Чем беднее страна, тем более она готова к восприятию новых технологий. Примерно так же, как с VoIP в &amp;ldquo;третьем мире&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Январские тезисы Данилкина. Местами дурные, но отличные</title>
-      <link>/posts/2010-01-11-1/</link>
+      <link>//localhost:1313/posts/2010-01-11-1/</link>
       <pubDate>Mon, 11 Jan 2010 23:33:15 +0000</pubDate>
-      <guid>/posts/2010-01-11-1/</guid>
+      <guid>//localhost:1313/posts/2010-01-11-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Ридеры, напоминаем: устройства для чтения книг специальные. Смысл их в том, что читать с них — не то же самое, что с компьютера: глаза не устают, другая технология.&lt;br&gt;&#xA;Курьез с ридерами состоит вот в чем — ридеры не убивают обычные книги.&lt;br&gt;&#xA;Есть статистика: покупатели ридеров не только не отказываются от обычных книг, но начинают покупать больше&lt;br&gt;&#xA;Т е больше ридеров — больше читателей, больше интереса к книгам&lt;/p&gt;&#xA;&lt;p&gt;Сейчас ридеры резко дешевеют, и особенно выигрывают те компании-книготорговцы, которые сами же их и выпускают. Бум ридеров обсуждается как новый тип бизнеса, нечто, на чем можно зарабатывать не меньшие, а большие деньги, чем на бумажных книгах.&lt;/p&gt;</description>
     </item>
     <item>
       <title>eb00k.ru : Электронная книга для читателей и издателей</title>
-      <link>/posts/2010-01-01-1/</link>
+      <link>//localhost:1313/posts/2010-01-01-1/</link>
       <pubDate>Fri, 01 Jan 2010 00:28:45 +0000</pubDate>
-      <guid>/posts/2010-01-01-1/</guid>
+      <guid>//localhost:1313/posts/2010-01-01-1/</guid>
       <description>&lt;p&gt;Никогда не давал &amp;ldquo;новогодних зароков&amp;rdquo;. Но пора сделать исключение. И написать книжку об электронной книге, её эволюции и будущем. И адресовать её и читателям, которые всё ещё или радуются запаху бумажной пыли, или считают, что это просто текст; и издателям, которые чуют свою беду, но вовсе не оттуда.&lt;br&gt;&#xA;Я придумал и начало. Точнее, придумывать его и не надо было: прогуливаясь в 1997 году (я тогда был начинающим издателем) с Александром Генисом по саду Эрмитаж, меня сильно тронула его фраза о том, что он &amp;ldquo;пережил смерть своей профессии&amp;rdquo;. Он был метранпажем. Фраза меня растревожила. Когда семь лет спустя мне попалась новость о букридере Librie от Sony, я понял, что обратный отсчёт пошёл. Эпоха Гутенберга начала заканчиваться раньше, чем появились букридеры. Её провозвестником стал стало массовое распространение DTP. С точки зрения вечности до электронной книг, в сущности, было уже рукой подать.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Полезная статья на не такое уж отдалённое будущее: Forget E-Books: The Future of the Book Is Far More Interesting</title>
-      <link>/posts/2009-12-28-120/</link>
+      <link>//localhost:1313/posts/2009-12-28-120/</link>
       <pubDate>Mon, 28 Dec 2009 22:36:27 +0000</pubDate>
-      <guid>/posts/2009-12-28-120/</guid>
+      <guid>//localhost:1313/posts/2009-12-28-120/</guid>
       <description>&lt;p&gt;The first battlefield tanks looked like heavily armored tractors equipped with cannons; early automobiles were called &amp;ldquo;horseless carriages&amp;rdquo; for a reason; the first motorcycles were based on bicycles; the first satellite phones were as clunky as your household telephone. A decade ago, when newspapers began serving up stories over the Web, the content mirrored what was offered in the print edition. What the tank, car and newspaper have in common is they blossomed into something far beyond their initial prototypes. In the same way that an engineer wouldn&amp;rsquo;t dream of starting with the raw materials for a carriage to design a rad new sports car today, newspapers won&amp;rsquo;t use paper or ink anymore. Neither will books. But mere text on a screen, the stuff that e-books are made of, won&amp;rsquo;t be enough.&lt;/p&gt;</description>
     </item>
     <item>
       <title>С Новым годом! Encryption Code for 80% of the World&#39;s Mobile Calls Cracked</title>
-      <link>/posts/2009-12-28-133/</link>
+      <link>//localhost:1313/posts/2009-12-28-133/</link>
       <pubDate>Mon, 28 Dec 2009 22:19:34 +0000</pubDate>
-      <guid>/posts/2009-12-28-133/</guid>
+      <guid>//localhost:1313/posts/2009-12-28-133/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;A German software engineer and encryption expert named Karsten Nohl told a group of hackers at the Chaos Communication Congress that he and a group of enlisted contributors had broken the primary encryption code protecting GSM phone calls.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://mashable.com/2009/12/28/gsm-encryption-cracked/&#34;&gt;mashable.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Будущее становится всё более похожим на киберпанк.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Хорошее интервью с Борисом Куприяновым о книгах, POD, электронных книгах и многом другом</title>
-      <link>/posts/2009-12-28-169/</link>
+      <link>//localhost:1313/posts/2009-12-28-169/</link>
       <pubDate>Mon, 28 Dec 2009 12:06:32 +0000</pubDate>
-      <guid>/posts/2009-12-28-169/</guid>
+      <guid>//localhost:1313/posts/2009-12-28-169/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;книга доказала свою универсальность в качестве источника информации. Сам формат бумажной книги как носителя информации очень удобен.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://liberty.ru/Themes/Knigi-dolzhny-prorvat-sya-za-predely-Sadovogo-kol-ca-.-Itogi-knizhnogo-goda-s-Borisom-Kupriyanovym&#34;&gt;liberty.ru&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Медведев перешёл на букридер, а вы? ;)</title>
-      <link>/posts/2009-12-24-94/</link>
+      <link>//localhost:1313/posts/2009-12-24-94/</link>
       <pubDate>Thu, 24 Dec 2009 13:35:50 +0000</pubDate>
-      <guid>/posts/2009-12-24-94/</guid>
+      <guid>//localhost:1313/posts/2009-12-24-94/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://pda.kremlin.ru/news/6450&#34;&gt;У меня сейчас в числе читаемых книг лежит Ключевский, его &amp;gt;. Как ни странно, я до этого не смотрел этот труд, и он мне очень нравится. Я сейчас достаточно медленно и вдумчиво его просматриваю, причём в электронной версии. Я впервые стал читать электронную книгу, раньше мне казалось, это всё-таки не очень приятно, но ничего, привык, нормально.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Спаси дерево — купи букридер :: Частный Корреспондент</title>
-      <link>/posts/2009-12-23-146/</link>
+      <link>//localhost:1313/posts/2009-12-23-146/</link>
       <pubDate>Wed, 23 Dec 2009 10:20:55 +0000</pubDate>
-      <guid>/posts/2009-12-23-146/</guid>
+      <guid>//localhost:1313/posts/2009-12-23-146/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;2009 год во многом стал переломным для отрасли. В электронные книги «поверили» практически все крупные мировые издатели. На рынок пришли и крупные игроки из IT-отрасли.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.chaskor.ru/article/spasi_derevo_-_kupi_bukrider_13785&#34;&gt;chaskor.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Всё, о чём стоило бы написать, однако, не вместилось - и про Open Archive Library, и про дискуссии по поводу цен и ISBN, и про новые дисплеи для букридеров, и про азиатский рынок…&lt;/p&gt;</description>
     </item>
     <item>
       <title>Отличный текст Кори Доктороу о настоящих пиратах</title>
-      <link>/posts/2009-12-18-113/</link>
+      <link>//localhost:1313/posts/2009-12-18-113/</link>
       <pubDate>Fri, 18 Dec 2009 00:05:50 +0000</pubDate>
-      <guid>/posts/2009-12-18-113/</guid>
+      <guid>//localhost:1313/posts/2009-12-18-113/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;These pirates would destroy copyright, and they have no respect for our property. They dress up their thievery in high-minded rhetoric about how they are the true defenders and inheritors of creativity, and they have sold this claim around the world to regulators and lawmakers alike. There are members of Parliament and Congress-people who are unduly influenced by them. They say they’re only trying to preserve the way it’s always been. They claim that their radical agenda is somehow conservative. But what they really see is a future in which the electronic culture market grows by leaps and bounds and they get to be at the centre of it. They claim that this is about ethics, but anyone who thinks about it for a minute can see that it’s about profit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>600 dpi для букридера к 2015 году и закат бумажного книгоиздания?</title>
-      <link>/posts/2009-12-15-b/</link>
+      <link>//localhost:1313/posts/2009-12-15-b/</link>
       <pubDate>Tue, 15 Dec 2009 13:35:38 +0000</pubDate>
-      <guid>/posts/2009-12-15-b/</guid>
+      <guid>//localhost:1313/posts/2009-12-15-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;As you may know, the current generation of book readers uses the E-Ink technology, which currently does B&amp;amp;W 800 x 640 on a flexible substrate. They project that color E-Ink devices will become available no earlier than 2011. Hi-res is important: readability studies shows that paper with 600 dpi is the gold standard. a 600 dpi 8 x 10 page is 4800 x 6000 pixels, which is still a pretty big image even for today’s computers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Unicorn Will Not Save Publishing</title>
-      <link>/posts/2009-12-15-154/</link>
+      <link>//localhost:1313/posts/2009-12-15-154/</link>
       <pubDate>Tue, 15 Dec 2009 00:09:24 +0000</pubDate>
-      <guid>/posts/2009-12-15-154/</guid>
+      <guid>//localhost:1313/posts/2009-12-15-154/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;For your reading enjoyment, I have compiled a list of about a dozen things that will not save publishing. I have also created a brief list of things that will save publishing. As always, neither list is comprehensive, and I reserve the right to add items if I think of something while I’m in the shower.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://booksquare.com/the-unicorn-will-not-save-publishing/&#34;&gt;booksquare.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Довольно ясный взгляд.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Доклад датского Института исследований будущего №3 за 2009 год «Anarconomy»</title>
-      <link>/posts/2009-12-13-41/</link>
+      <link>//localhost:1313/posts/2009-12-13-41/</link>
       <pubDate>Sun, 13 Dec 2009 23:23:08 +0000</pubDate>
-      <guid>/posts/2009-12-13-41/</guid>
+      <guid>//localhost:1313/posts/2009-12-13-41/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://www.cifs.dk/gfx/anarconomy.en.gif&#34; alt=&#34;Medlemsrapport #3/2009: Anarconomy&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;переведён, однако, на русский язык (оригинал тут: &lt;a href=&#34;http://www.cifs.dk/scripts/artikel.asp?id=1979&#34;&gt;http://www.cifs.dk/scripts/artikel.asp?id=1979&lt;/a&gt;). Его надо отредактировать, конечно, и нормально верстать. Есть идеи, как его распространить пошире? For free, естественно - он под такой лицензией.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The End of Book Publishing As We Know It</title>
-      <link>/posts/2009-12-11-153/</link>
+      <link>//localhost:1313/posts/2009-12-11-153/</link>
       <pubDate>Fri, 11 Dec 2009 23:26:34 +0000</pubDate>
-      <guid>/posts/2009-12-11-153/</guid>
+      <guid>//localhost:1313/posts/2009-12-11-153/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://michaelhyatt.com/2009/12/the-end-of-book-publishing-as-we-know-it.html&#34;&gt;The line between newspapers, magazines, and books is about to become blurred. Publishers will need to envision multimedia content from the beginning. Consumer expectations are going to skyrocket. The cost of producing digital books will get more expensive. Digital content creation and distribution will become our primary focus. People will be reading more than ever.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Запись выступления Джереми Эттингхаузена, digital director в Penguin UK, на non-fiction: http://drop.io/penguinuk</title>
-      <link>/posts/2009-12-10-172/</link>
+      <link>//localhost:1313/posts/2009-12-10-172/</link>
       <pubDate>Thu, 10 Dec 2009 22:44:42 +0000</pubDate>
-      <guid>/posts/2009-12-10-172/</guid>
+      <guid>//localhost:1313/posts/2009-12-10-172/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://drop.io/penguinuk&#34;&gt;http://drop.io/penguinuk&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>«Грядущее наваждение» Майка Шацкина</title>
-      <link>/posts/2009-10-25-62/</link>
+      <link>//localhost:1313/posts/2009-10-25-62/</link>
       <pubDate>Sun, 25 Oct 2009 19:19:05 +0000</pubDate>
-      <guid>/posts/2009-10-25-62/</guid>
+      <guid>//localhost:1313/posts/2009-10-25-62/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.idealog.com/blog/a-coming-new-obsession-how-to-handle-a-smaller-print-book-business&#34;&gt;A coming new obsession: how to handle a smaller print-book business – The Shatzkin Files&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;B&amp;amp;N may have realized what all the big publishers know: that when the customer shifts to ebooks, it threatens all their business models, sunk investments, and longtime marketplace advantages.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Полезная статья для всех издателей и книготорговцев.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Сет Годин: будущее за изданиями для сообществ</title>
-      <link>/posts/2009-09-27-139/</link>
+      <link>//localhost:1313/posts/2009-09-27-139/</link>
       <pubDate>Sun, 27 Sep 2009 19:10:13 +0000</pubDate>
-      <guid>/posts/2009-09-27-139/</guid>
+      <guid>//localhost:1313/posts/2009-09-27-139/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://personanondata.blogspot.com/2009/09/seth-godin-rethinking-publishing.html&#34;&gt;PersonaNonData: Seth Godin: Rethinking the Publishing Industry: Publishing Strategy&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Электронная лихорадка</title>
-      <link>/posts/2009-09-17-44/</link>
+      <link>//localhost:1313/posts/2009-09-17-44/</link>
       <pubDate>Thu, 17 Sep 2009 10:38:41 +0000</pubDate>
-      <guid>/posts/2009-09-17-44/</guid>
+      <guid>//localhost:1313/posts/2009-09-17-44/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.chaskor.ru&#34;&gt;&lt;img src=&#34;http://www.chaskor.ru/images/logo5.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;четверг, 17 сентября 2009 года, 10.14&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.chaskor.ru/posts_images_200909/392_300_10360_ebk2big.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Владимир Харитонов&lt;/strong&gt; Электронная лихорадка&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Электронный Дэн Браун продаётся лучше бумажного: книжную отрасль ждут перемены&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Рынок электронного книгоиздания, кажется, подходит к точке кипения. В США первые продажи бестселлера — новой книги Дэна Брауна — в бумажном виде отстали от продаж электронной версии, чему не помешали даже пираты. Amazon открывает код своего букридера Kindle. Правительство Тайваня собирается поддержать своих производителей объёмными инвестициями, чтобы сохранить за собой рынок букридеров. &lt;a href=&#34;http://www.chaskor.ru/p.php?id=10360&#34;&gt;Подробнее&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Американские журналы подумывают о букридере</title>
-      <link>/posts/2009-09-10-156/</link>
+      <link>//localhost:1313/posts/2009-09-10-156/</link>
       <pubDate>Thu, 10 Sep 2009 22:32:38 +0000</pubDate>
-      <guid>/posts/2009-09-10-156/</guid>
+      <guid>//localhost:1313/posts/2009-09-10-156/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.nbcbayarea.com/news/tech/Time-Inc-Time-for-a-New-E-Reader-58563707.html&#34;&gt;Time Inc.: Time for a New E-Reader | NBC Bay Area&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Time Inc. executives have discussed the new venture with other magazine publishers, including Conde Nast, Meredith, and Hearst.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;За каждым из фирм — с десяток журналов. Все вместе — это очень существенный кусок рынка американских периодических изданий. Если они и впрямь объединятся, то такой проект с букридером (журридером?) будет вполне жизнеспособен. Пока, правда, это только слухи.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Университет Виктории перевел в ePub новозеландскую классику</title>
-      <link>/posts/2009-09-09-98/</link>
+      <link>//localhost:1313/posts/2009-09-09-98/</link>
       <pubDate>Wed, 09 Sep 2009 13:28:41 +0000</pubDate>
-      <guid>/posts/2009-09-09-98/</guid>
+      <guid>//localhost:1313/posts/2009-09-09-98/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.nbr.co.nz/article/1000-new-zealand-classics-released-ebooks-110297&#34;&gt;1000 New Zealand classics released as ebooks | The National Business Review - New Zealand - business, markets, finance, politics, property, technology and more&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;New Zealanders can now freely download - and store in their pockets - hundreds of our most well-known books, courtesy of Victoria University’s New Zealand Electronic Text Centre (NZETC). More than 1000 New Zealand electronic books (eBooks) are now available for download on the NZETC &lt;a href=&#34;http://www.nzetc.org/&#34;&gt;website&lt;/a&gt;. The New Zealand eBooks, made available using the major emerging ePub standard, represent many of the texts already accessible for online browsing on the NZETC website, and are suited to viewing on modern eBook devices such as the iPhone, Sony Reader, and IRex ILiad.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Financial Times о букридерах</title>
-      <link>/posts/2009-09-08-50/</link>
+      <link>//localhost:1313/posts/2009-09-08-50/</link>
       <pubDate>Tue, 08 Sep 2009 22:16:13 +0000</pubDate>
-      <guid>/posts/2009-09-08-50/</guid>
+      <guid>//localhost:1313/posts/2009-09-08-50/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://blogs.ft.com/techblog/2009/09/how-electronic-paper-displays-are-stacking-up/#&#34;&gt;FT.com | Tech Blog | How electronic paper displays are stacking up&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;there are now more than 45 e-reader models available worldwide, according to E Ink, the dominant technology provider for their displays.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“This year, we’ve already seen a $199 product, I wouldn’t be surprised if next year someone launched a product at around $159 and, three or four years from now, a $99 product.” (Sriram Peruvemba, marketing vice president at E Ink) Colour is coming next year, with E Ink laying a colour filter over its monochrome display.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Директор Hachette считает, что $10 за электронную книгу и Google убьют традиционное книгоиздание</title>
-      <link>/posts/2009-08-31-63/</link>
+      <link>//localhost:1313/posts/2009-08-31-63/</link>
       <pubDate>Mon, 31 Aug 2009 19:14:11 +0000</pubDate>
-      <guid>/posts/2009-08-31-63/</guid>
+      <guid>//localhost:1313/posts/2009-08-31-63/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.readwriteweb.com/archives/does_amazons_999_price_for_ebooks_spell_the_end_of.php&#34;&gt;World&amp;rsquo;s Second Largest Publisher: $9.99 eBooks Will Kill Hardcover Books&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Arnaud Nourry, the CEO of the world&amp;rsquo;s second largest book publisher, Hachette Livre, says that the current pricing trends for eBooks may soon kill the hardcover book as we know it. In an interview with the Financial Times, Nourry says that he worries that the combination of the $9.99 price for bestsellers and the fact that Google now offers millions of out-of-copyright books for free could destroy profits for traditional publishing houses. Nourry is especially worried about the fact that Amazon is currently selling eBooks at a loss and that the company will soon demand that publishers will lower their prices so that it can actually make a profit from selling eBooks in its Kindle store.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Будущее книжной индустрии (обзор-прогноз)</title>
-      <link>/posts/2009-07-28-95/</link>
+      <link>//localhost:1313/posts/2009-07-28-95/</link>
       <pubDate>Tue, 28 Jul 2009 10:23:00 +0000</pubDate>
-      <guid>/posts/2009-07-28-95/</guid>
+      <guid>//localhost:1313/posts/2009-07-28-95/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://ivanov.mann-ivanov-ferber.ru/2009/07/the-future-of-book-publishing/&#34;&gt;Будущее книжной индустрии | Блог Михаила Иванова&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;И только традиционные издатели потеряют свое былое влияние и большие деньги. Произойдет редистрибуция ценности на этом рынке. От издательств и традиционных книжных магазинов ценность перейдет к создателям платформы, читателям и авторам.&lt;/p&gt;&#xA;&lt;p&gt;Вероятно, в России этот переход займет больше времени, но он неизбежен.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Автор - руководитель издательства «Манн, Иванов и Фербер».&lt;/p&gt;</description>
     </item>
     <item>
       <title>Хороший обзор о книгоиздании: какой будет эта смерть?</title>
-      <link>/posts/2009-07-17-170/</link>
+      <link>//localhost:1313/posts/2009-07-17-170/</link>
       <pubDate>Fri, 17 Jul 2009 12:45:00 +0000</pubDate>
-      <guid>/posts/2009-07-17-170/</guid>
+      <guid>//localhost:1313/posts/2009-07-17-170/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.readwriteweb.com/archives/bits_of_destruction_hit_book_publishing_part1.php&#34;&gt;Bits Of Destruction Hit the Book Publishing Business: Part 1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.readwriteweb.com/archives/bits_of_destruction_hit_book_publishing_part2.php&#34;&gt;Bits of Destruction Hit the Book Publishing Business: Part 2&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindle в каждый ранец</title>
-      <link>/posts/2009-07-15-82/</link>
+      <link>//localhost:1313/posts/2009-07-15-82/</link>
       <pubDate>Wed, 15 Jul 2009 13:27:55 +0000</pubDate>
-      <guid>/posts/2009-07-15-82/</guid>
+      <guid>//localhost:1313/posts/2009-07-15-82/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://bits.blogs.nytimes.com/2009/07/14/democratic-groups-proposal-give-each-student-a-kindle/&#34;&gt;Democratic Group’s Proposal: Give Each Student a Kindle - Bits Blog - NYTimes.com&lt;/a&gt;&lt;br&gt;&#xA;Несколько влиятельных членов Демократической партии США &lt;a href=&#34;http://bits.blogs.nytimes.com/2009/07/14/democratic-groups-proposal-give-each-student-a-kindle/&#34;&gt;выступили&lt;/a&gt; с инициативой раздать устройства для чтения электронных книг (типа Amazon Kindle) каждому учащемуся в стране. Главный довод в пользу такого решения — значительная экономия на печати учебников , а также забота об окружающей среде. «Не нужно ждать 10-20 лет, чтобы приступить к реализации программы будущего, которой все равно или поздно придется заняться. Нужно, чтобы каждый школьник имел подобное устройство. Это позволит в будущем существенно поднять качество образования с съэкономить серьезные деньги», — говорится в &lt;a href=&#34;http://www.dlc.org/documents/DLC_Freedman_Kindle_0709.pdf&#34;&gt;документе&lt;/a&gt; Демократической партии.&lt;/p&gt;</description>
     </item>
     <item>
       <title>О чем я и говорил</title>
-      <link>/posts/2009-04-15-106/</link>
+      <link>//localhost:1313/posts/2009-04-15-106/</link>
       <pubDate>Wed, 15 Apr 2009 20:22:16 +0000</pubDate>
-      <guid>/posts/2009-04-15-106/</guid>
+      <guid>//localhost:1313/posts/2009-04-15-106/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.blackplasticglasses.com/2009/03/30/why-ebooks-must-fail/&#34;&gt;Why Ebooks Must Fail « Black Plastic Glasses&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;unless a very different model evolves, ebooks can never become the dominant version of content sold by book publishers. It means that ebooks will always be priced to sell, but sold as an afterthought, not as the primary version of a work. It means that the need for blended e plus p models will evolve, in order to take advantage of all the great qualities of ebooks, while providing the financial support and structure that print offers. It means that consumer ebooks, as a stand-alone version of an intellectual property, must fail.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Тим О&#39;Рейли об закрытости Amazon</title>
-      <link>/posts/2009-02-24-155/</link>
+      <link>//localhost:1313/posts/2009-02-24-155/</link>
       <pubDate>Tue, 24 Feb 2009 21:07:30 +0000</pubDate>
-      <guid>/posts/2009-02-24-155/</guid>
+      <guid>//localhost:1313/posts/2009-02-24-155/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://culture.compulenta.ru/404510/&#34;&gt;Платформу Amazon Kindle сметет волна бесплатных электронных книг - Культура - Литература - Электронные книги - Компьюлента&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Культура / Литература / Электронные книги / Платформу Amazon Kindle сметет волна бесплатных электронных книг 24 февраля 2009 года, 16:45 | Текст: Дмитрий Целиков Основатель крупного книжного издательства O’Reilly Media Тим О’Рейли предупреждает: корпорация Amazon должна предлагать свои электронные книги в общедоступном формате (к примеру, *.epub), иначе ридер Kindle уйдет с рынка в течение ближайших трех лет. С одной стороны, устройство для чтения электронных книг Kindle очень популярно и фактически создало рынок благодаря сотням тысяч электронных книг, находящихся на расстоянии одного нажатия кнопки. В то же время, однако, издателям невыгодно связывать себя только с одним ридером. Тим О’Рейли напоминает, что в 1994 году была предложена всемирная сеть Microsoft Network (ныне MSN) для глобального обмена информацией. Издатель должен был заплатить 50 тысяч долларов и затем выплачивать определенный процент с последующих доходов. Взамен он получал электронную платформу для размещения своей продукции, которая была бы доступной всем пользователям операционной системы Windows. И недоступна всем остальным. В итоге роль Microsoft Network взял на себя Интернет — бесплатный и общедоступный, несмотря на то что в то время MSN предлагала более совершенные инструменты и интерфейс, чем примитивная сеть World Wide Web. В 2007 году корпорация Amazon предложила новую платформу для электронных книг. Хотя от издателей уже не требовали входной платы, ограничения все равно были: электронные книги поставляются в эксклюзивном формате, недоступном другим ридерам, и продаются исключительно в интернет-магазине Amazon.com. Тим О’Рейли отмечает, что предложенный формат файлов не поддерживал таблицы и так называемые моноширинные шрифты, которые активно используются в технической литературе. В то же время организация International Digital Publishing Forum предложила общедоступный формат *.epub, базирующийся на языке HTML. Несмотря на то что сейчас Amazon Kindle и Sony Reader доминируют на рынке устройств для чтения электронных книг, начинают поднимать голову независимые платформы. Так, для iPhone и прочих мобильных телефонов с выходом в Интернет представлено приложение Stanza. По словам разработчиков, программу скачали 1,3 млн раз, загружено свыше пяти миллионов книг. Большинство этих изданий — бесплатные, ставшие общественным достоянием. Тем не менее издательство O’Reilly Media выпустило на этой платформе один из мануалов к iPhone. В течение шести недель выручка от продаж электронной версии, которая стоит на 20% дешевле печатного издания, превзошла доход от сбыта последнего. И это притом, что бумажная версия стала бестселлером, превзойдя тираж ближайшего конкурента в три раза. Примерно то же самое происходило и с Интернетом, отмечает Тим О’Рейли. Сначала он был бесплатным. Но затем стал приносить фантастический доход. Бизнес-план, разработанный для устройств Kindle, сильно напоминает пример корпорации Apple с ее магазином iTunes: весь контент, купленный в этом интернет-магазине, доступен только пользователям коммуникатора iPhone и плеера iPod touch. Однако, подчеркивает Тим О’Рейли, в «Амазоне» явно забыли, с чего началась популярность музыкальных устройств Apple: в iPod можно было перекачивать содержимое компакт-дисков, превращать в MP3-файлы и слушать, слушать, слушать&amp;hellip; Пользователи Kindle могут загружать в устройство электронные документы, но не книги. В то же время на платформе *.epub доступны миллионы бесплатных книг. Кроме того, издатели еще имеют время для того, чтобы поэкспериментировать с бизнес-моделью: купи книгу — получи электронную копию бесплатно; купи книгу и электронную копию одновременно по льготной цене; купи все равно что — второй экземпляр получишь бесплатно; купи несколько форматов сразу&amp;hellip; Эта волна, по мнению известного издателя, должна смести платную платформу Amazon Kindle.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Тенденции на рынке электронных книг</title>
-      <link>/posts/2008-07-14-53/</link>
+      <link>//localhost:1313/posts/2008-07-14-53/</link>
       <pubDate>Mon, 14 Jul 2008 07:58:28 +0000</pubDate>
-      <guid>/posts/2008-07-14-53/</guid>
+      <guid>//localhost:1313/posts/2008-07-14-53/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://blog.mann-ivanov-ferber.ru/2008/07/14/tendentsii-na-ryinke-elektronnyih-knig/&#34;&gt;&lt;img src=&#34;http://mann-ivanov-ferber.ru/i/logo.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt; &lt;a href=&#34;http://blog.mann-ivanov-ferber.ru/2008/07/14/tendentsii-na-ryinke-elektronnyih-knig/&#34;&gt;Обзорная статья в блоге издательства «Манн, Иванов и Фербер»&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Приход на рынок всех значимых издательств неизбежен, т.к. все до смерти боятся потерять свой бизнес, прошляпив трансформацию рынка […] Что же до перспектив электронных книг в России, я считаю, что до тех пор, пока у нас не появится «популяризатор» по масштабам сравнимый с Амазоном, рынок будет оставаться очень небольшим […]&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Последняя книга</title>
-      <link>/posts/2008-07-09-39/</link>
+      <link>//localhost:1313/posts/2008-07-09-39/</link>
       <pubDate>Wed, 09 Jul 2008 08:02:19 +0000</pubDate>
-      <guid>/posts/2008-07-09-39/</guid>
+      <guid>//localhost:1313/posts/2008-07-09-39/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://www.research.ibm.com/journal/sj/363/jacob1.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Еще в 1997 году в журнале IBM Systems Journal была опубликована статья Джозефа Джекобсона из MIT Media Lab «&lt;a href=&#34;http://www.research.ibm.com/journal/sj/363/jacobson.html&#34;&gt;The last book&lt;/a&gt;», в которой автор излагает концепцию устройства, выполненного в виде книга со страницами из электронной бумаги. Надо отметить, что прогнозы автора по поводу будущего снижения стоимости комплектующих оказались вполне реалистичными. Не исключено, что именно такой концепт станет одной из основных разновидностей будущих электронных книг. Впрочем, и сами книги станут другими — автор отмечает, что «уже сейчас обращение к электронным чернилам возможно с частотой до 20 Гц, что позволяет сделать страницы анимированными».&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ложное чувство безопасности</title>
-      <link>/posts/2008-06-24-24/</link>
+      <link>//localhost:1313/posts/2008-06-24-24/</link>
       <pubDate>Tue, 24 Jun 2008 08:41:14 +0000</pubDate>
-      <guid>/posts/2008-06-24-24/</guid>
+      <guid>//localhost:1313/posts/2008-06-24-24/</guid>
       <description>&lt;p&gt;TOC цитирует Майкла Кейрнса из Information Media Partners: &lt;a href=&#34;http://toc.oreilly.com/2008/06/ebooks-false-sense-of-security.html&#34;&gt;Ebooks: False Sense of Security for Publishers? - Tools of Change for Publishing&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Сегодняшние издатели впервые в истории не могут быть уверены в том, что поколение детей будет интересоваться результатами их труда.&lt;br&gt;&#xA;…Перевод контента в электронные книги создает ложное чувство безопасности у издателей, которые верят в то, что достаточно «перезапустить» книгу, [чтобы она была востребована] новым поколением [читателей].&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>PWC о книгах и электронных книгах в России</title>
-      <link>/posts/2008-06-23-41/</link>
+      <link>//localhost:1313/posts/2008-06-23-41/</link>
       <pubDate>Mon, 23 Jun 2008 08:20:33 +0000</pubDate>
-      <guid>/posts/2008-06-23-41/</guid>
+      <guid>//localhost:1313/posts/2008-06-23-41/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.interfax.ru/business/news.asp?id=18126&#34;&gt;Российский рынок развлечений становится одним из самых крупных в мире - Интерфакс&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Российский рынок развлечений и СМИ становится одним из самых крупных в мире с объемом почти в $30 млрд в год. Это показало исследование &lt;a href=&#34;http://www.pwc.com/extweb/pwcpublications.nsf/docid/5AC172F2C9DED8F5852570210044EEA7?opendocument&amp;amp;vendor=none&#34;&gt;PricewaterhouseCoopers «Всемирная индустрия развлечений и СМИ: прогноз на 2008–2012 годы» (Global Entertainment and Media Outlook: 2008–2012)&lt;/a&gt;&amp;lt;…&amp;gt; Согласно исследованию, российский рынок книжной продукции (не включая профессиональную литературу) в 2007 году в России составил около $2 млрд. Специалисты ожидают, что к 2012 году он достигнет $2,85 млрд. Сегмент профессиональной литературы в 2007 году составил около $300 млн. &lt;strong&gt;Эксперты ожидают, что расцвет формата электронной литературы придется на 2011-2012 годы, в частности, рынок электронной учебной литературы будет расти в среднем на 120% в год.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

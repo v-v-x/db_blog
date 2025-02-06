@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bookshops on Новости электронного книгоиздания</title>
-    <link>/tags/bookshops/</link>
+    <link>//localhost:1313/tags/bookshops/</link>
     <description>Recent content in Bookshops on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 03 Feb 2016 06:54:51 +0000</lastBuildDate>
-    <atom:link href="/tags/bookshops/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/bookshops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amazon, кажется, открывает сеть книжных магазинов</title>
-      <link>/posts/2016-02-03-a/</link>
+      <link>//localhost:1313/posts/2016-02-03-a/</link>
       <pubDate>Wed, 03 Feb 2016 06:54:51 +0000</pubDate>
-      <guid>/posts/2016-02-03-a/</guid>
+      <guid>//localhost:1313/posts/2016-02-03-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Онлайн-ритейлер Amazon намерен открыть до 400 реальных книжных магазинов. Об этом Wall Street Journal &lt;a href=&#34;http://www.wsj.com/articles/amazon-plans-hundreds-of-brick-and-mortar-bookstores-mall-ceo-says-1454449475&#34;&gt;рассказал&lt;/a&gt; Сандип Мазрани, генеральный директор General Growth Properties – компании, владеющей и управляющей торговыми центрами по всем США.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;https://slon.ru/posts/63405&#34;&gt;Amazon приписали планы открыть сотни книжных магазинов&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Если так, то американскую книжную розницу ждут весёлые времена.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Майк Шацкин: «Лучше меньше да лучше»</title>
-      <link>/posts/2015-10-26-a/</link>
+      <link>//localhost:1313/posts/2015-10-26-a/</link>
       <pubDate>Mon, 26 Oct 2015 20:44:18 +0000</pubDate>
-      <guid>/posts/2015-10-26-a/</guid>
+      <guid>//localhost:1313/posts/2015-10-26-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Sometimes it takes a decade or more for an insight to be validated, but it is always nice when it happens. Around the turn of the century, I was developing a business called “Supply Chain Tracker”, which had a nice client base for a few years. What we did was take the data feeds — …&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;//www.idealog.com/blog/it-is-being-proven-that-smaller-bookstores-can-work-commercially/&#34;&gt;It is being proven that smaller bookstores can work commercially - The Shatzkin Files The Shatzkin Files&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ищешь книги онлайн? Всё равно можешь помочь книжному. В Англии</title>
-      <link>/posts/2015-07-13-b/</link>
+      <link>//localhost:1313/posts/2015-07-13-b/</link>
       <pubDate>Mon, 13 Jul 2015 13:34:01 +0000</pubDate>
-      <guid>/posts/2015-07-13-b/</guid>
+      <guid>//localhost:1313/posts/2015-07-13-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Technology is giving UK booksellers hope in their battle against Amazon, including a new web extension, Bookindy, that finds a local book price for you. By Edward Nawotka, Editor-in-Chief Independent bookstores have been thriving in…&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://publishingperspectives.com/2015/07/innovation-offers-hope-to-uk-indie-bookstores/&#34;&gt;Bookindy Offers Hope to UK Indie Bookstores&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Конкурентная альтернатива большому онлайновому книжному и поддержка любимого независимого книжного? Примерно так это делается в Англии: расширение, который каждый может поставить в Chrome, показывает цену в ближайшем книжном (и расстояние до него) при вашем заходе на Amazon.co.uk. И это только надстройка на очень грамотным &lt;a href=&#34;http://hive.co.uk&#34;&gt;Hive.co.uk&lt;/a&gt;, помогающим и читателям, и независимым книжным.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Возвращение книжного магазина</title>
-      <link>/posts/2013-01-07-a/</link>
+      <link>//localhost:1313/posts/2013-01-07-a/</link>
       <pubDate>Mon, 07 Jan 2013 11:30:14 +0000</pubDate>
-      <guid>/posts/2013-01-07-a/</guid>
+      <guid>//localhost:1313/posts/2013-01-07-a/</guid>
       <description>&lt;p&gt;Ричард Кертис, известный американский литагент, о возвращении (точнее, реинкарнации) книжного магазина: Borders умер и конкуренты получили остатки его покупателей + книжный магазин как шоурум, тусовка и книжки в любых форматах. К тому же, бумажные можно даже подержать в руках! И еще в них можно найти &amp;ldquo;human friendly assistant&amp;rdquo;. Всё это, правда, уже не очень похоже на старый книжный. Но направление понятное.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Books Coming Back to Bricks?&lt;/strong&gt; &lt;a href=&#34;http://www.digitalbookworld.com/2013/books-coming-back-to-bricks/&#34;&gt;http://www.digitalbookworld.com/2013/books-coming-back-to-bricks/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Вниманию @falanster: продажи эл.книг независимыми книжными магазинами растёт. В США</title>
-      <link>/posts/2012-01-27-a/</link>
+      <link>//localhost:1313/posts/2012-01-27-a/</link>
       <pubDate>Fri, 27 Jan 2012 12:01:27 +0000</pubDate>
-      <guid>/posts/2012-01-27-a/</guid>
+      <guid>//localhost:1313/posts/2012-01-27-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Matt reported that the percentage of ebook sales to total sales on ABA member web sites rose from 0.7% to 5.2% in 2011. That’s a 750% increase, which is impressive even though the Google eBook capability kicked in during that year. But it is also actually understated, because the total volume of business on these sites rose by 82%. So the share increase of 750% is in an environment where total sales nearly doubled.&lt;/p&gt;</description>
     </item>
     <item>
       <title>5 идей для издателей электронных книг. Одна из идей — явно для Альянса независимых издателей и книготорговцев</title>
-      <link>/posts/2012-01-11-a/</link>
+      <link>//localhost:1313/posts/2012-01-11-a/</link>
       <pubDate>Wed, 11 Jan 2012 19:27:45 +0000</pubDate>
-      <guid>/posts/2012-01-11-a/</guid>
+      <guid>//localhost:1313/posts/2012-01-11-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The book business is not changing fast enough, though. Most of the changes still involve readers paying a publisher for one book, written by an author. Digital formats can enable more creative and reader-friendly innovations.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.chron.com/business/silverman/article/5-ways-to-revolutionize-the-book-business-2452506.php&#34;&gt;chron.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;«Подписка на автора». Быть в курсе выхода книг, а ещё — его статей, выступлений, интервью и т. д. (А что? Есть же фанаты Акунина, «Метро» и «Сталкера». И даже Жижека.)&lt;/li&gt;&#xA;&lt;li&gt;Подписка на «апдейты книг».&lt;/li&gt;&#xA;&lt;li&gt;Покупка бумажной и электронной копии в одном флаконе. (Ну, эта идея уже носится в воздухе. См. статью про FutureBook 2011 в пилотном номере «Bookmate Publishers Review» — идея Шнитмана.)&lt;/li&gt;&#xA;&lt;li&gt;Дать больше денег авторам, коль скоро электронные книги стоят (ну, это касается Запада) почти столько же, сколько книжки в мягкой обложке.&lt;/li&gt;&#xA;&lt;li&gt;Независимым книжным магазинам стоит продавать электронные книги. Мы же всё равно туда ходим.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Последняя мне особенно нравится. заходя в «Фаланстер», например, хочется купить сразу пару-тройку дюжин томов. Но понимаю, что дело даже не в деньгах, а в том, что тогда надо бы купить ещё и полок. Но ставить-вешать их всё равно некуда. А вот в электронном виде купил бы с превеликим удовольствием. причём, в общем, хоть за ту же цену. Но пока никто не продаёт. Смешная история.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ночь в книжном магазине в Торонто (видео). А в Фаланстере?</title>
-      <link>/posts/2012-01-10-a/</link>
+      <link>//localhost:1313/posts/2012-01-10-a/</link>
       <pubDate>Tue, 10 Jan 2012 09:44:17 +0000</pubDate>
-      <guid>/posts/2012-01-10-a/</guid>
+      <guid>//localhost:1313/posts/2012-01-10-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://flavorwire.com/247875/video-of-the-day-books-alive-at-night&#34;&gt;flavorwire.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Хипстерское Торонто, поэтому и и такое веселье.&lt;/p&gt;&#xA;&lt;p&gt;Даже боюсь представить, что творится в «Фаланстере» ;) Столик с анархистами воюет со столиком с охранителями. Художка с ужасом выглядывает из соседнего зала. Книжки по архитектуре строят башню Татлина, книжки по христианству сбиваются в уголок и молятся, а на них с иронией глядит столик с научпопом…&lt;/p&gt;</description>
     </item>
     <item>
       <title>«Топ-Книга»: вырождение</title>
-      <link>/posts/2011-09-05-2/</link>
+      <link>//localhost:1313/posts/2011-09-05-2/</link>
       <pubDate>Mon, 05 Sep 2011 13:39:19 +0000</pubDate>
-      <guid>/posts/2011-09-05-2/</guid>
+      <guid>//localhost:1313/posts/2011-09-05-2/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;«Понимаете, я вчерашний вечер провел, скачивая тексты с «Либрусека», а Юлия Бунина готовила презентацию по стратегии развития компании. Я не могу возглавлять компанию, если она не будет книжной, а Бунина пришла из розницы и на данном этапе отлично понимает, чем необходимо заниматься»&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://pro-books.ru/sitearticles/7793#.TmTMBpZWzTA.twitter&#34;&gt;pro-books.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;От всей Топ-книги останется 350 небольших магазинов «КнигоМир», к которых только 30% ассортимента будет книгами, да и то «топовыми».&lt;/p&gt;&#xA;&lt;p&gt;Вырождение — это иногда даже хуже, чем смерть.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Магазин Гумбольдт и Гумбольдт закрывается</title>
-      <link>/posts/2011-06-10-a/</link>
+      <link>//localhost:1313/posts/2011-06-10-a/</link>
       <pubDate>Fri, 10 Jun 2011 17:31:44 +0000</pubDate>
-      <guid>/posts/2011-06-10-a/</guid>
+      <guid>//localhost:1313/posts/2011-06-10-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://dva-humboldta.livejournal.com/46268.html&#34;&gt;dva-humboldta.livejournal.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Жаль.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Как назначили нового главу Waterstone</title>
-      <link>/posts/2011-06-07-b/</link>
+      <link>//localhost:1313/posts/2011-06-07-b/</link>
       <pubDate>Tue, 07 Jun 2011 15:27:54 +0000</pubDate>
-      <guid>/posts/2011-06-07-b/</guid>
+      <guid>//localhost:1313/posts/2011-06-07-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Mamut, who has a house in Kensington, is a regular customer at Daunt&amp;rsquo;s Holland Park branch. So far, so comradely – but the future may not be so cosy.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.guardian.co.uk/books/2011/jun/03/james-daunt-waterstones-interview?cat=books&amp;amp;type=article&#34;&gt;guardian.co.uk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;По-домашнему так. Просто Мамут захаживал в его книжный магазин.&lt;br&gt;&#xA;Дядька, однака, вполне симпатичный.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Borders подал на банкротство</title>
-      <link>/posts/2011-02-16-a/</link>
+      <link>//localhost:1313/posts/2011-02-16-a/</link>
       <pubDate>Wed, 16 Feb 2011 14:31:08 +0000</pubDate>
-      <guid>/posts/2011-02-16-a/</guid>
+      <guid>//localhost:1313/posts/2011-02-16-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Brick-and-mortar booksellers like Borders, second in size only to &lt;a href=&#34;http://online.wsj.com/public/quotes/main.html?type=djn&amp;amp;symbol=BKS&#34;&gt;Barnes &amp;amp; Noble&lt;/a&gt; Inc., have battled competition from Internet-only retailers such as &lt;a href=&#34;http://online.wsj.com/public/quotes/main.html?type=djn&amp;amp;symbol=AMZN&#34;&gt;Amazon.com&lt;/a&gt; Inc. and the advent of digital books and e-readers.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://online.wsj.com/article/SB10001424052748703373404576147922340434998.html?mod=WSJ_hp_LEFTTopStories&#34;&gt;online.wsj.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;644 магазина. Вторая по величине книготорговая сеть США.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Добраться до каждого, кто покупает хотя бы 2 книги в год</title>
-      <link>/posts/2009-12-17-40/</link>
+      <link>//localhost:1313/posts/2009-12-17-40/</link>
       <pubDate>Thu, 17 Dec 2009 23:52:33 +0000</pubDate>
-      <guid>/posts/2009-12-17-40/</guid>
+      <guid>//localhost:1313/posts/2009-12-17-40/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Borders Group, told me that the company wants to reach “readers who buy a couple of books a year and we hope to offer a product for that market.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://bits.blogs.nytimes.com/2009/12/15/borders-and-kobo-will-develop-new-e-reader/&#34;&gt;bits.blogs.nytimes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Благородно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Печать по запросу в книжных магазинах</title>
-      <link>/posts/2008-06-21-34/</link>
+      <link>//localhost:1313/posts/2008-06-21-34/</link>
       <pubDate>Sat, 21 Jun 2008 10:11:11 +0000</pubDate>
-      <guid>/posts/2008-06-21-34/</guid>
+      <guid>//localhost:1313/posts/2008-06-21-34/</guid>
       <description>&lt;p&gt;Британская книготорговая сеть Blackwell&amp;rsquo;s планирует осенью этого года начать установку Espresso Book Machine — принтеров «print-on-demand» — во всех 60-ти магазинах сети. Производством принтеров занимается компания On Demand, уже имеющая опыт установки машин в крупнейших библиотеках мира. Принтеры EBM способны печатать книги со скоростью 40 страниц в минуту. С помощью EBM посетители книжных магазинов смогут быстро распечать готовую книгу в обложке из каталога машины, насчитывающего 400 тыс названий. Каталог составлен по преимуществу из книг, права на которых перешли в общественное пользование, а также из книг, тираж которых давно закончился (эту часть каталога обсдуживает компания Lighting Source, один из крупнейших POD-компаний США и Великобритании). Контракт с Blackwell&amp;rsquo;s — первый крупный проект такого рода.&lt;/p&gt;</description>
     </item>
   </channel>

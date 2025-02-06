@@ -2,206 +2,206 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Library on Новости электронного книгоиздания</title>
-    <link>/tags/library/</link>
+    <link>//localhost:1313/tags/library/</link>
     <description>Recent content in Library on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Sun, 11 Jun 2017 18:49:03 +0000</lastBuildDate>
-    <atom:link href="/tags/library/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/library/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Книги исчезают</title>
-      <link>/posts/2017-06-11-b/</link>
+      <link>//localhost:1313/posts/2017-06-11-b/</link>
       <pubDate>Sun, 11 Jun 2017 18:49:03 +0000</pubDate>
-      <guid>/posts/2017-06-11-b/</guid>
+      <guid>//localhost:1313/posts/2017-06-11-b/</guid>
       <description>&lt;p&gt;На неделе стал участником программы спасения списываемых из московских библиотек книг. Любой желающий может зайти на &lt;a href=&#34;http://knigi.bibliogorod.ru/&#34;&gt;knigi.bibliogorod.ru&lt;/a&gt;, поискать что-нибудь интересное, забронировать и забрать.&lt;/p&gt;&#xA;&lt;p&gt;Я так и сделал. Полистал каталог списываемых книг в ближайшей от дома библиотеке. Завис надолго, потому что всё время натыкался на книги, которые читал в детстве и юности, которые помню до сих пор, которые уже и забыл, что читал. И все они что-то для меня значили. Переживания, все дела.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Издатели против библиотек</title>
-      <link>/posts/2016-10-05-b/</link>
+      <link>//localhost:1313/posts/2016-10-05-b/</link>
       <pubDate>Wed, 05 Oct 2016 14:12:05 +0000</pubDate>
-      <guid>/posts/2016-10-05-b/</guid>
+      <guid>//localhost:1313/posts/2016-10-05-b/</guid>
       <description>&lt;p&gt;Примечательная &lt;a href=&#34;http://www.digitalbookworld.com/2016/library-loans-double-edged-sword/&#34;&gt;статья&lt;/a&gt; о битве издателей с библиотеками в Скандинавии. Там привязанность читателей к библиотекам и развитию проката напрямую сказывается на рынке розничных продаж и развитии подписочных сервисов.&lt;/p&gt;&#xA;&lt;p&gt;В Дании, например, издатели сначала радовались новому источнику дохода от библиотек, но к середине 2015-го года это стало угрожать рознице. А подписочный сервис Mofibo потерял чувствительную долю подписчиков именно потому, что в сервисе &lt;a href=&#34;https://ereolen.dk&#34;&gt;eReolen&lt;/a&gt;, бесплатно обслуживающем читателей датских библиотек, стали легко доступны книги с коммерческого рынка. В Дании издатели спохватились и начали отзывать книги из библиотек. Но всё равно библиотечный прокат электронных книг занимает 1/3 датского рынка.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Электронные книги в американских научных библиотеках</title>
-      <link>/posts/2016-09-30-a/</link>
+      <link>//localhost:1313/posts/2016-09-30-a/</link>
       <pubDate>Fri, 30 Sep 2016 14:40:11 +0000</pubDate>
-      <guid>/posts/2016-09-30-a/</guid>
+      <guid>//localhost:1313/posts/2016-09-30-a/</guid>
       <description>&lt;p&gt;Вышел &lt;a href=&#34;https://s3.amazonaws.com/WebVault/research/LJ_2016_EbookUsage_AcademicLibraries.pdf&#34;&gt;отчет Library Journal&lt;/a&gt; по материалам исследования использования электронных книг в американских научных и университетских библиотеках в 2015 году (в ср. с данными 2012 года).&lt;/p&gt;&#xA;&lt;p&gt;Результаты тем более примечательные, что на &lt;a href=&#34;http://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/63225-college-students-prefer-a-mix-of-print-and-digital-textbooks.html&#34;&gt;похожее исследование 2014-го года&lt;/a&gt; ссылается автор хорошей &lt;a href=&#34;http://secretmag.ru/longread/2016/09/26/books/&#34;&gt;статьи&lt;/a&gt; в «Секрете фирмы» о том, что бумага жива. В ней, частности, речь идёт о том, что бумага жива за счет детской и учебной литературы. Год прошёл, а результаты уже другие.&lt;/p&gt;&#xA;&lt;p&gt;По результатам опроса HP в 2014 году 57% учащихся хотели бумагу, и только 21% — электронные учебники. В 2015 году библиотекари говорят, что за бумажные учебники 42% студентов, а электронные учебники предпочитают 31% учащихся—посетителей библиотек. При этом монографии в бумажном виде хотят читать 47%, в электронном — 19%. А со справочниками примерно то же, что и в мире за стенами библиотек: 16% vs. 56% в пользу электронных справочников. И много чего ещё любопытного. Если лень читать 100-страничный отчёт — есть &lt;a href=&#34;http://lj.libraryjournal.com/2016/09/technology/ebooks/academic-ebook-sales-flat-preference-for-e-reference-up/&#34;&gt;краткое резюме&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Американка в библиотеке</title>
-      <link>/posts/2016-09-13-a/</link>
+      <link>//localhost:1313/posts/2016-09-13-a/</link>
       <pubDate>Tue, 13 Sep 2016 20:03:27 +0000</pubDate>
-      <guid>/posts/2016-09-13-a/</guid>
+      <guid>//localhost:1313/posts/2016-09-13-a/</guid>
       <description>&lt;p&gt;По &lt;a href=&#34;http://www.pewinternet.org/2016/09/09/libraries-2016/&#34;&gt;данным&lt;/a&gt; PewResearch, 48% опрошенных институтом американцев страше 16 лет были в библиотеке хотя бы раз за прошедший год. Среди американок — 57%. Интересно, как в России?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Завораживает</title>
-      <link>/posts/2015-03-29-a/</link>
+      <link>//localhost:1313/posts/2015-03-29-a/</link>
       <pubDate>Sun, 29 Mar 2015 20:28:44 +0000</pubDate>
-      <guid>/posts/2015-03-29-a/</guid>
+      <guid>//localhost:1313/posts/2015-03-29-a/</guid>
       <description>&lt;p&gt;Лог возврата книг в British Library:&lt;/p&gt;&#xA;&#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/3b5J9-lW8kg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>Вот это новость. Rakuten покупает OverDrive</title>
-      <link>/posts/2015-03-19-a/</link>
+      <link>//localhost:1313/posts/2015-03-19-a/</link>
       <pubDate>Thu, 19 Mar 2015 08:44:14 +0000</pubDate>
-      <guid>/posts/2015-03-19-a/</guid>
+      <guid>//localhost:1313/posts/2015-03-19-a/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Rakuten&lt;/strong&gt;, японский «магазин магазинов» и владелец книжной платформы &lt;strong&gt;Kobo&lt;/strong&gt;, &lt;a href=&#34;http://techcrunch.com/2015/03/19/rakuten-ovedrive/&#34;&gt;покупает&lt;/a&gt; компанию &lt;strong&gt;OverDrive&lt;/strong&gt;, крупнейшего дистрибьютора книжного контента (прежде всего, для библиотек) за 410 млн USD. Если учесть, что Rakuten контролирует российский «Озон», а «Озон»—«Литрес», то конкуренция на вялом рынке электронных книг в библиотеках может стать интереснее.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Электронная библиотека в метро Бухареста</title>
-      <link>/posts/2013-02-14-a/</link>
+      <link>//localhost:1313/posts/2013-02-14-a/</link>
       <pubDate>Thu, 14 Feb 2013 15:29:35 +0000</pubDate>
-      <guid>/posts/2013-02-14-a/</guid>
+      <guid>//localhost:1313/posts/2013-02-14-a/</guid>
       <description>&lt;p&gt;Бухареста!!! Страна инновационной модернизации выше этой ерунды. &lt;strong&gt;A Pop-Up Digital Library In A Subway Station, Lets Commuters Download eBooks&lt;/strong&gt; &lt;a href=&#34;http://designtaxi.com/news/355798/A-Pop-Up-Digital-Library-In-A-Subway-Station-Lets-Commuters-Download-eBooks/&#34;&gt;http://designtaxi.com/news/355798/A-Pop-Up-Digital-Library-In-A-Subway-Station-Lets-Commuters-Download-eBooks/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sent from &lt;a href=&#34;http://www.zite.com/?ref=email&#34;&gt;Zite&lt;/a&gt;, available for free in the &lt;a href=&#34;http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=419752338&amp;amp;mt=8&#34;&gt;App Store&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Гарри Поттер пойдет в библиотеки</title>
-      <link>/posts/2012-02-27-a/</link>
+      <link>//localhost:1313/posts/2012-02-27-a/</link>
       <pubDate>Mon, 27 Feb 2012 14:28:27 +0000</pubDate>
-      <guid>/posts/2012-02-27-a/</guid>
+      <guid>//localhost:1313/posts/2012-02-27-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;J. K. Rowling’s Pottermore still has not officially launched, but the Harry Potter e-books and digital audiobooks sold exclusively through the site will also be available in public and school libraries, in a distribution agreement with OverDrive announced today.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://paidcontent.org/article/419-harry-potter-e-books-will-be-in-libraries/&#34;&gt;paidcontent.org&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ЛитРес -&gt; MintRight -&gt; OverDrive</title>
-      <link>/posts/2012-01-19-a/</link>
+      <link>//localhost:1313/posts/2012-01-19-a/</link>
       <pubDate>Thu, 19 Jan 2012 11:17:59 +0000</pubDate>
-      <guid>/posts/2012-01-19-a/</guid>
+      <guid>//localhost:1313/posts/2012-01-19-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Russian:&lt;/strong&gt; MintRight (&lt;a href=&#34;http://www.rumvi.com&#34;&gt;www.rumvi.com&lt;/a&gt;), the leading distributor of Russian language eBooks, has chosen OverDrive to distribute popular and bestselling fiction and nonfiction EPUB titles, including Stieg Larsson’s &lt;em&gt;The Girl with the Dragon Tattoo&lt;/em&gt; and Cecilia Ahern’s &lt;em&gt;P.S. I Love You&lt;/em&gt;.  Other notable Russian authors include Vasily Aksenov, Konstantin Dushenko, Alexander Green, Alexander Skryagin, Vladimir Voinovich and Roman Kartsev. Genres range from Russian folklore to modern literature. All titles boast worldwide rights, so Russian speaking populations across the world can enjoy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ЭБС уже может сделать 15% оборота российского издательства</title>
-      <link>/posts/2011-11-21-a/</link>
+      <link>//localhost:1313/posts/2011-11-21-a/</link>
       <pubDate>Mon, 21 Nov 2011 08:47:23 +0000</pubDate>
-      <guid>/posts/2011-11-21-a/</guid>
+      <guid>//localhost:1313/posts/2011-11-21-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.prlib.ru/events/Pages/Item.aspx?itemid=180&#34;&gt;prlib.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Провёл 18 ноября круглый стол в Президентской библиотеке им. Ельцина про электронные книги. Главная новость: Александр Никифоров, директор издательства «Лань», рассказал, что 15% оборота издательства уже составляют поступления от собственной ЭБС и, более того, он ожидает, что к 2014 году доля бумажных книг в обороте опустится до 30–40%. Это важный момент — российские издатели, наконец, почувствовали, что и от электронной книге есть толк. При этом любопытна позиция издателя по отношению к «пиратам» — самая здравая: по барабану. Понятно, что «Лань» с её профилем публикации монографий и учебников в относительно более выгодном положении, хотя бы потому, что для такой литературы имеет смысл ЭБС. И всё же&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Отличная Сета Година о библиотеках и библиотекарях</title>
-      <link>/posts/2011-07-28-2/</link>
+      <link>//localhost:1313/posts/2011-07-28-2/</link>
       <pubDate>Thu, 28 Jul 2011 10:03:43 +0000</pubDate>
-      <guid>/posts/2011-07-28-2/</guid>
+      <guid>//localhost:1313/posts/2011-07-28-2/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://pro-books.ru/node/7627#.TjExtvvvoTI.twitter&#34;&gt;pro-books.ru&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Запойные читатели перестают ходить в книжные магазины</title>
-      <link>/posts/2011-04-14-c/</link>
+      <link>//localhost:1313/posts/2011-04-14-c/</link>
       <pubDate>Thu, 14 Apr 2011 06:19:50 +0000</pubDate>
-      <guid>/posts/2011-04-14-c/</guid>
+      <guid>//localhost:1313/posts/2011-04-14-c/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;HarperCollins president and c.e.o. Brian Murray said the number of US e-readers—grown from 15m a year ago to 40m today—was having a disproportionately large effect on the market because they had reached &amp;ldquo;core&amp;rdquo; readers, those buying over 12 books a year. He said: “Some of the heaviest book buyers no longer visit bookstores.” He said some e-books had a 50% share of total sales during the first few months, a “watershed” for the trade.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Звериный оскал американских агрегаторов контента</title>
-      <link>/posts/2011-04-13-a/</link>
+      <link>//localhost:1313/posts/2011-04-13-a/</link>
       <pubDate>Wed, 13 Apr 2011 11:36:06 +0000</pubDate>
-      <guid>/posts/2011-04-13-a/</guid>
+      <guid>//localhost:1313/posts/2011-04-13-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The Kansas State Library&amp;rsquo;s contract with OverDrive expires this December. In September 2010, the library&amp;rsquo;s director, Jo Budler, received an initial renewal proposal from OverDrive that would have raised the annual administrative fee from its current $10,800 to $25,000 in 2012, $50,000 in 2013, and $75,000 in 2014 and 2015, a 694 percent increase in just three years.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;My own budget has been cut 26 percent and to expect that kind of increase is unreasonable. This is unsustainable pricing,&amp;rdquo; Budler told &lt;em&gt;LJ&lt;/em&gt;, saying she refused to accept the proposal, which she called &amp;ldquo;astronomical.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Копирайт: библиотекари против библиотекарей</title>
-      <link>/posts/2011-01-24-a/</link>
+      <link>//localhost:1313/posts/2011-01-24-a/</link>
       <pubDate>Mon, 24 Jan 2011 23:53:32 +0000</pubDate>
-      <guid>/posts/2011-01-24-a/</guid>
+      <guid>//localhost:1313/posts/2011-01-24-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Московский арбитражный суд снял обвинения в контрафакте с АНО «Руниверс», факсимильной электронной библиотеки, разместившей на собственном сайте тексты «Полного собрания законов Российской империи».&lt;/p&gt;&#xA;&lt;p&gt;«Руниверс» добился через суд права свободного использования электронных копий текстов российских законов. Представители Государственной публичной исторической библиотеки (ГПИБ) России настаивали, что само по себе сканирование какой-либо книги - в данном случае «Полного собрания законов Российской империи» - дает право поставить на нее копирайт, и запрещать ее свободное распространение. Суд счел абсурдными доводы ГПИБ. Сканирование книги не формирует авторского права, для копирайта необходима какая-либо творческая деятельность, к примеру, создание сборника комментариев к законам.&lt;/p&gt;</description>
     </item>
     <item>
       <title>British Library сделала app для iOS и Android</title>
-      <link>/posts/2011-01-10-a/</link>
+      <link>//localhost:1313/posts/2011-01-10-a/</link>
       <pubDate>Mon, 10 Jan 2011 15:16:18 +0000</pubDate>
-      <guid>/posts/2011-01-10-a/</guid>
+      <guid>//localhost:1313/posts/2011-01-10-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://moconews.net/article/419-british-library-goes-for-apps-as-uk-preps-to-close-20-pct-of-local-bran/&#34;&gt;moconews.net&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Общественное достояние - для всех. Но немножко за деньги.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Министерский доклад по электронным библиотекам</title>
-      <link>/posts/2010-09-23-112/</link>
+      <link>//localhost:1313/posts/2010-09-23-112/</link>
       <pubDate>Thu, 23 Sep 2010 15:02:31 +0000</pubDate>
-      <guid>/posts/2010-09-23-112/</guid>
+      <guid>//localhost:1313/posts/2010-09-23-112/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Отраслевой доклад «Электронная книга и электронно-библиотечные системы России». Федеральное агентство по печати и массовым коммуникациям, 2010 год&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.fapmc.ru/activities/reports/item1824.html&#34;&gt;fapmc.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Готовимся к ОКУПу?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Похоже на рай: Публичная библиотека Амстердама</title>
-      <link>/posts/2010-09-01-158/</link>
+      <link>//localhost:1313/posts/2010-09-01-158/</link>
       <pubDate>Wed, 01 Sep 2010 21:03:19 +0000</pubDate>
-      <guid>/posts/2010-09-01-158/</guid>
+      <guid>//localhost:1313/posts/2010-09-01-158/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://zyalt.livejournal.com/293759.html#cutid1&#34;&gt;zyalt.livejournal.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Я туда хочу.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Это ошибка, её нужно исправить</title>
-      <link>/posts/2010-08-31-68/</link>
+      <link>//localhost:1313/posts/2010-08-31-68/</link>
       <pubDate>Tue, 31 Aug 2010 21:07:05 +0000</pubDate>
-      <guid>/posts/2010-08-31-68/</guid>
+      <guid>//localhost:1313/posts/2010-08-31-68/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Понятно, что библиотеки сейчас существуют реальные и виртуальные, электронные. Но проблемы реальных библиотек понятны: закупка книг, новых, современных, книгообмен. Что касается проблем электронных библиотек, то посмотрите, как они зачастую выглядят в университетах: каждый университет запирает свою библиотеку на ключ. То есть если я, например, не отношусь к соответствующей студенческой части или не отношусь к преподавателям этого университета, то я туда зайти не могу зачастую. Вообще-то, это плохо. Эти библиотеки, если уж так разобраться, в государственных университетах – это наше с вами национальное достояние. И то, что университеты запрещают к ним доступ, это неправильно. Я хотел бы обратить ваше внимание как руководителей субъектов и обратить внимание ректоров университетов. Надо делать свободный доступ. Я понимаю, это ещё нагрузка на серверы, вопрос закупки правильного оборудования. Это можно решить. Но закрывать свои библиотеки для студентов и вообще всех заинтересованных наших людей, которые хотели бы, допустим, посмотреть книги из того или иного университета, а они всё-таки разные в разных местах, – это ошибка, её нужно исправить.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Маленькая электронная революция: детям - эл. учебники, библиотекам - оцифровку</title>
-      <link>/posts/2010-08-26-111/</link>
+      <link>//localhost:1313/posts/2010-08-26-111/</link>
       <pubDate>Thu, 26 Aug 2010 21:59:52 +0000</pubDate>
-      <guid>/posts/2010-08-26-111/</guid>
+      <guid>//localhost:1313/posts/2010-08-26-111/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Дмитрий Медведев утвердил перечень поручений по итогам &lt;a href=&#34;http://www.kremlin.ru/news/8295&#34;&gt;заседания&lt;/a&gt; Совета при Президенте Российской Федерации по развитию информационного общества в Российской Федерации от 8 июля 2010 года.&lt;/p&gt;&#xA;&lt;h3 id=&#34;смотрите-также&#34;&gt;&lt;strong&gt;Смотрите также:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://kremlin.ru/news/8295&#34; title=&#34;Заседание Совета по развитию информационного общества в России&#34;&gt;Заседание Совета по развитию информационного общества в России&lt;/a&gt; 8 июля 2010 года, 15:30 → &lt;a href=&#34;http://kremlin.ru/news&#34;&gt;Новости&lt;/a&gt;, &lt;a href=&#34;http://state.kremlin.ru/&#34;&gt;Государство&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Полный текст документа:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;1. Правительству Российской Федерации:&lt;/p&gt;&#xA;&lt;p&gt;а) обеспечить масштабное внедрение электронных образовательных ресурсов в учебный процесс и принять меры по методической и технической поддержке педагогов на местах.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Андрей Васильев покинет ИД «Коммерсант», чтобы заняться библиотеками — Газета «Маркер»</title>
-      <link>/posts/2010-06-25-23/</link>
+      <link>//localhost:1313/posts/2010-06-25-23/</link>
       <pubDate>Fri, 25 Jun 2010 19:50:09 +0000</pubDate>
-      <guid>/posts/2010-06-25-23/</guid>
+      <guid>//localhost:1313/posts/2010-06-25-23/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Один из таких проектов — компания «Книгофонд», которая занимается созданием электронных библиотек на базе университетских фондов. Васильев сообщил, что является в «Книгофонде» младшим партнером и будет развивать этот бизнес вместе с холдингом «Проф-Медиа».&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://marker.ru/news/1132&#34;&gt;marker.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Можно ли надеяться, что «Книгафонд» с Васильевым не будет таким УГ?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Только не библиотеки! Только не библиотеки!</title>
-      <link>/posts/2010-04-18-215/</link>
+      <link>//localhost:1313/posts/2010-04-18-215/</link>
       <pubDate>Sun, 18 Apr 2010 15:49:17 +0000</pubDate>
-      <guid>/posts/2010-04-18-215/</guid>
+      <guid>//localhost:1313/posts/2010-04-18-215/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Участники встречи были единодушны в вопросе соблюдения существующих норм законодательства об авторском праве в части электронных изданий. Они высказались против идеи оцифровки и предоставления библиотеками доступа к электронному контенту без согласия правообладателей.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.bookind.ru/index.php?option=com_content&amp;amp;task=view&amp;amp;id=326&amp;amp;&#34;&gt;bookind.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Библиотеки — как враг бизнеса. Какой забавный поворот истории.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Бесплатная! Библиотека! Детских! Книг!</title>
-      <link>/posts/2010-04-06-29/</link>
+      <link>//localhost:1313/posts/2010-04-06-29/</link>
       <pubDate>Tue, 06 Apr 2010 21:18:57 +0000</pubDate>
-      <guid>/posts/2010-04-06-29/</guid>
+      <guid>//localhost:1313/posts/2010-04-06-29/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://en.childrenslibrary.org/&#34;&gt;en.childrenslibrary.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ни одной на русском языке не нашёл.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Итоги TOC&#39;2010 с точки зрения библиотекаря</title>
-      <link>/posts/2010-03-02-a/</link>
+      <link>//localhost:1313/posts/2010-03-02-a/</link>
       <pubDate>Tue, 02 Mar 2010 14:43:08 +0000</pubDate>
-      <guid>/posts/2010-03-02-a/</guid>
+      <guid>//localhost:1313/posts/2010-03-02-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.libraries.wright.edu/noshelfrequired/wp-content/uploads/2010/02/toccon-bug.gif&#34;&gt;&lt;img src=&#34;http://www.libraries.wright.edu/noshelfrequired/wp-content/uploads/2010/02/toccon-bug.gif&#34; alt=&#34;&#34; title=&#34;toccon-bug&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Earlier this week I attended the O%u2019Reilly Tools of Change (TOC) Conference for the first time.  Over 1250 attendees gathered in New York City to discuss and network   about issues and trends in publishing, in particular, digital publishing.  While much of the information presented was for the publishing industry, I did manage to find several great ideas and concepts that relate to libraries.  I%u2019d like to share these with you, in no apparent order.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Европейский библиотека растёт</title>
-      <link>/posts/2009-12-17-a/</link>
+      <link>//localhost:1313/posts/2009-12-17-a/</link>
       <pubDate>Thu, 17 Dec 2009 22:09:05 +0000</pubDate>
-      <guid>/posts/2009-12-17-a/</guid>
+      <guid>//localhost:1313/posts/2009-12-17-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Europeana’s collection of online European heritage passed the 5 million mark in early December, taking the multilingual digital library, museum and archive over halfway to its target of 10 million searchable items in 2010.&lt;/p&gt;&#xA;&lt;p&gt;Portraits of notable Polish figures, including astronomer Copernicus and composer Frederic Chopin are among the newest additions to Europeana – part of some 257,000 images, texts, videos and sounds that were submitted by regional groups across Poland. The influx takes the proportion of Polish items on Europeana from 0.4 percent of the total to 5.5 percent.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Минкульт обещает сделать библиотеки цифровыми</title>
-      <link>/posts/2009-12-08-22/</link>
+      <link>//localhost:1313/posts/2009-12-08-22/</link>
       <pubDate>Tue, 08 Dec 2009 08:30:37 +0000</pubDate>
-      <guid>/posts/2009-12-08-22/</guid>
+      <guid>//localhost:1313/posts/2009-12-08-22/</guid>
       <description>&lt;p&gt;Авдеев также заявил, что видит решение проблемы стремительно ветшающего библиотечного фонда в срочном проведении оцифровки книг и переводу их в электронный вид.&lt;/p&gt;&#xA;&lt;p&gt;По его словам, в России планируется развивать такое направление, как внедрение в библиотеках так называемых &amp;ldquo;ридеров&amp;rdquo; - электронных книг. Такие ридеры, пояснил министр, содержат до 2 тыс. произведений, и их можно читать практически как книгу, перелистывая электронные страницы.&lt;/p&gt;&#xA;&lt;p&gt;Авдеев отметил, что экономически ридеры выгоднее, чем книга притом, что книга стоит 200 рублей, а ридер - около 1,5 тыс. долларов. Однако, если учесть, что он вмещает порядка 2 тыс. произведений, получается, что ридер в 10 раз дешевле книг, объяснил министр.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Нью-Йоркская публичная библиотека предлагает доступ к цифровым версиям public domain</title>
-      <link>/posts/2009-10-04-105/</link>
+      <link>//localhost:1313/posts/2009-10-04-105/</link>
       <pubDate>Sun, 04 Oct 2009 21:38:53 +0000</pubDate>
-      <guid>/posts/2009-10-04-105/</guid>
+      <guid>//localhost:1313/posts/2009-10-04-105/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://liswire.com/content/new-york-public-library-and-kirtas-technologies-partner-make-500000-public-domain-books-avai&#34;&gt;New York Public Library and Kirtas Technologies Partner to Make 500,000 Public-Domain Books Available to the World | LISWire&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Readers and researchers looking for hard-to-find books now have the opportunity to dip into the collections of one of the world’s most comprehensive libraries to purchase digitized copies of public domain titles. Through their Digitize-on-Demand program, Kirtas Technologies has partnered with The New York Public Library to make 500,000 public domain works from the Library’s collections available (to anyone in the world). “New technology has allowed the Library to greatly expand access to its collections,” said Paul LeClerc, President of The New York Public Library. “Now, for the first time, library users are able to order copies of specific items from our vast public domain collections that are useful to them. Additionally the program creates a digital legacy for future users of the same item and a revenue stream to support our operations. We are very pleased to participate in a program that is so beneficial to everyone involved.&amp;quot; Using existing information from NYPL’s catalog records, Kirtas will make the library’s public domain books available for sale through its retail site before they are ever digitized. Customers can search for a desired title on &lt;a href=&#34;https://www.kirtasbooks.com&#34;&gt;www.kirtasbooks.com&lt;/a&gt; and place an order for that book. When the order is placed, only then is it pulled from the shelf, digitized and made available as a high-quality reprint or digital file. What makes this approach to digitization unique is that NYPL incurs no up-front printing, production or storage costs. It also provides the library with a self-funding, commercial model helping it to sustain its digitization programs in the future. Unlike other free or low-cost digitization programs, the library retains the rights and ownership to their own digitized content.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Несколько слов об электронных библиотеках</title>
-      <link>/posts/2009-09-30-36/</link>
+      <link>//localhost:1313/posts/2009-09-30-36/</link>
       <pubDate>Wed, 30 Sep 2009 20:32:31 +0000</pubDate>
-      <guid>/posts/2009-09-30-36/</guid>
+      <guid>//localhost:1313/posts/2009-09-30-36/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.chaskor.ru&#34;&gt;&lt;img src=&#34;http://www.chaskor.ru/images/logo5.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;среда, 30 сентября 2009 года, 10.31&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.chaskor.ru/posts_images_200909/392_300_10835_ibbig.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Владимир Харитонов&lt;/strong&gt; Через пиксели к буквам&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Краткий путеводитель по электронным библиотекам&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Счастливых обладателей букридеров становится всё больше. Купив удобное устройство для чтения электронных книг, они, правда, довольно скоро обнаруживают, что обещанная рекламой «вся русская классика в кармане» (примерно под таким слоганом сейчас продаются в России букридеры украинско-тайваньского происхождения) не совсем «вся», да и не читать же одну классику. И хочется почитать чего-нибудь ещё. &lt;a href=&#34;http://www.chaskor.ru/p.php?id=10835&#34;&gt;Подробнее&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Открытая Гарвардская библиотека статей в формате PDF</title>
-      <link>/posts/2009-09-15-112/</link>
+      <link>//localhost:1313/posts/2009-09-15-112/</link>
       <pubDate>Tue, 15 Sep 2009 21:07:14 +0000</pubDate>
-      <guid>/posts/2009-09-15-112/</guid>
+      <guid>//localhost:1313/posts/2009-09-15-112/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://kindlereader.blogspot.com/2009/09/kindle-explores-dash-digital-access-to.html&#34;&gt;The Kindle Reader: The Kindle Explores DASH (Digital Access to Scholarship at Harvard)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;On September 8th, Harvard launched DASH (Digital Access to Scholarship at Harvard) - an open access repository of scholarly works in &lt;strong&gt;PDF&lt;/strong&gt; format. Still in beta, the site contains more than 1500 articles by Harvard-affiliated authors, divided into two &amp;ldquo;communities&amp;rdquo; - the Faculty of Arts and Sciences and the Harvard Law School.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://dash.harvard.edu/&#34;&gt;DASH Home, собственно, тут&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mesia on Новости электронного книгоиздания</title>
-    <link>/tags/mesia/</link>
+    <link>//localhost:1313/tags/mesia/</link>
     <description>Recent content in Mesia on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 24 Mar 2011 14:31:00 +0000</lastBuildDate>
-    <atom:link href="/tags/mesia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/mesia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Вот оно и случилось - Google завел СМИ. Куда смотрит &#34;Яндекс&#34;?</title>
-      <link>/posts/2011-03-24-a/</link>
+      <link>//localhost:1313/posts/2011-03-24-a/</link>
       <pubDate>Thu, 24 Mar 2011 14:31:00 +0000</pubDate>
-      <guid>/posts/2011-03-24-a/</guid>
+      <guid>//localhost:1313/posts/2011-03-24-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Like most companies, Google regularly communicates with our business customers via email newsletters, updates on our official blogs, and printed materials. On this occasion, we&amp;rsquo;ve sent a short book about data, called &lt;strong&gt;Think Quarterly&lt;/strong&gt;, to a small number of our UK partners and advertisers. You&amp;rsquo;re now on the companion website, &lt;a href=&#34;http://www.thinkquarterly.co.uk&#34;&gt;thinkquarterly.co.uk&lt;/a&gt; (also available at &lt;a href=&#34;http://m.thinkquarterly.co.uk&#34;&gt;m.thinkquarterly.co.uk&lt;/a&gt;, if you&amp;rsquo;re on the move).&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;re flattered by the positive reaction but have no plans to start selling copies! Although Think Quarterly remains firmly aimed at Google&amp;rsquo;s partners and advertisers, if you&amp;rsquo;re interested in the subject of data then please feel free to read on&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>

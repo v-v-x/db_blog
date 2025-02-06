@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SouthAfrica on Новости электронного книгоиздания</title>
-    <link>/tags/southafrica/</link>
+    <link>//localhost:1313/tags/southafrica/</link>
     <description>Recent content in SouthAfrica on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 14 Sep 2016 10:56:34 +0000</lastBuildDate>
-    <atom:link href="/tags/southafrica/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/southafrica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Текст мелкой нарезкой</title>
-      <link>/posts/2016-09-14-a/</link>
+      <link>//localhost:1313/posts/2016-09-14-a/</link>
       <pubDate>Wed, 14 Sep 2016 10:56:34 +0000</pubDate>
-      <guid>/posts/2016-09-14-a/</guid>
+      <guid>//localhost:1313/posts/2016-09-14-a/</guid>
       <description>&lt;p&gt;Южноафриканский стартап Bookboon &lt;a href=&#34;http://the-digital-reader.com/2016/09/13/bookboon-brings-free-ebooks-south-african-commuters/&#34;&gt;договорился&lt;/a&gt; с сетью железных дорог предоставлять доступ на станциях к 2 тысячам электронных учебников и учебных пособий. Сама по себе новость из разряда проходных — таких сервисов по миру уже много. Но, значит, опыт общения с текстом в электронном виде в «мелкой нарезке», выжимках и т. п. (и правда, что можно прочитать за несколько минут ожидания электрички?) как-то приживается.&lt;/p&gt;</description>
     </item>
   </channel>

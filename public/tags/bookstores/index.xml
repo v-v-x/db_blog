@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bookstores on Новости электронного книгоиздания</title>
-    <link>/tags/bookstores/</link>
+    <link>//localhost:1313/tags/bookstores/</link>
     <description>Recent content in Bookstores on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 26 Dec 2018 14:21:23 +0000</lastBuildDate>
-    <atom:link href="/tags/bookstores/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/bookstores/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Книжные магазины и Instagram</title>
-      <link>/posts/2018-12-26-b/</link>
+      <link>//localhost:1313/posts/2018-12-26-b/</link>
       <pubDate>Wed, 26 Dec 2018 14:21:23 +0000</pubDate>
-      <guid>/posts/2018-12-26-b/</guid>
+      <guid>//localhost:1313/posts/2018-12-26-b/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.vox.com/the-goods/2018/12/19/18146500/independent-bookstores-instagram-social-media-growth&#34;&gt;Большая статья Vox&lt;/a&gt; с картинками о том, как независимые книжные магазины строят локальное комьюнити в Instagram. Это они паблик ВК Фаланстера не видели. И с последним тезисом о том, что you can’t really Instagram an e-book, сложно согласиться ;-(&lt;/p&gt;</description>
     </item>
   </channel>

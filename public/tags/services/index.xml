@@ -2,199 +2,199 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Новости электронного книгоиздания</title>
-    <link>/tags/services/</link>
+    <link>//localhost:1313/tags/services/</link>
     <description>Recent content in Services on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 04 Jul 2014 13:14:39 +0000</lastBuildDate>
-    <atom:link href="/tags/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EPUB из нескольких облаков</title>
-      <link>/posts/2014-07-04-a/</link>
+      <link>//localhost:1313/posts/2014-07-04-a/</link>
       <pubDate>Fri, 04 Jul 2014 13:14:39 +0000</pubDate>
-      <guid>/posts/2014-07-04-a/</guid>
+      <guid>//localhost:1313/posts/2014-07-04-a/</guid>
       <description>&lt;p&gt;Что-то стало много облачных сервисов… Великий человек &lt;a href=&#34;https://twitter.com/alxgsv&#34;&gt;Алексей Гусев&lt;/a&gt; однажды пошутил, что теперь можно Google Drive можно засунуть в OneDrive, OneDrive положить в Dropbox, Dropbox — в Box, а Box — в MediaFire.&lt;/p&gt;&#xA;&lt;p&gt;Складывать файлы в разные облака матрёшкой, однако, думаю, небезопасно, а вот управляться многими из них можно с помощью &lt;a href=&#34;https://drive.jolicloud.com/site&#34;&gt;Jolicloud Drive&lt;/a&gt;. И везде можно хранить электронные книги, естественно. Которые можно ведь как-то читать прямо из браузера (у всех «облаков» есть веб-приложения)? В самом деле, многие облака позволяют не просто хранить, например, файлы фотографий или фильмов, но и просматривать их. Книги ни чем не хуже. Первым до этого дошёл, кажется, Яндекс.Диск. А теперь такая опция есть и у Jolicloud Drive. Работает онлайновая читалка epub не слишком хорошо (оглавление показывает, но оно некликабельно; сноски не работают и пр.). Но, кажется, ещё немного — и функции чтения epub появятся и у других облаков.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kindle Cloud Reader стал полноценным веб-приложением</title>
-      <link>/posts/2014-06-02-a/</link>
+      <link>//localhost:1313/posts/2014-06-02-a/</link>
       <pubDate>Mon, 02 Jun 2014 14:33:08 +0000</pubDate>
-      <guid>/posts/2014-06-02-a/</guid>
+      <guid>//localhost:1313/posts/2014-06-02-a/</guid>
       <description>&lt;p&gt;Теперь книгу, которую вы купили на Amazon, можно читать в обычном браузере и в оффлайне. Для этого достаточно открыть её хотя бы один раз в &lt;a href=&#34;https://read.amazon.com/&#34;&gt;Kindle Cloud Reader&lt;/a&gt; под своим аккаунтом — и книга загрузится во внутреннее хранилище в браузере. Хранилище, конечно, не безразмерное, и веб-приложение честно предупреждает, что будет стирать из него книги по мере накопления. Беспокоиться не стоит — в облаке книги всё равно сохраняются. Проверено в Chrome — работает.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CircularFLO: $99 за небольшую книгу</title>
-      <link>/posts/2014-03-06-b/</link>
+      <link>//localhost:1313/posts/2014-03-06-b/</link>
       <pubDate>Thu, 06 Mar 2014 10:47:41 +0000</pubDate>
-      <guid>/posts/2014-03-06-b/</guid>
+      <guid>//localhost:1313/posts/2014-03-06-b/</guid>
       <description>&lt;p&gt;Сервис CircularFLO, который занимается конвертаций макетов InDesign одновременно в Fixed Layout EPUB для iOS и в KF8 для планшетов Amazon, обновил программное обеспечение, а заодно &lt;a href=&#34;http://www.circularsoftware.com/pricing/pricing-us/&#34;&gt;снизил цены&lt;/a&gt; на конвертацию книг объёмом до 50 страниц. Теперь за такую конвертацию сервис просит $99 или £69, или 79 € . За конвертацию без ограничений объёма — $199 (£149 или 179 €). Если учесть, что, в частности, большинство детских иллюстрированных книг укладываются в этот объём, а ручной процесс вёрстки FL EPUB и KF8 довольно трудоёмок и требует дополнительных знаний, спрос на простой в использовании  сервис от CircularFLO может вырасти. Кажется, даже на этом специфическом рынке началась ценовая война. Aquafadas, главный конкурент CircularFLO, приобретённый в прошлом году платформой Kobo, цен пока не снижает, но предлагает более широкий спектр возможностей — дополнение интерактивными опциями, конвертация в apps и т. д. Но до снижения тоже, думаю, дело дойдёт.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Под чернилами EPUB</title>
-      <link>/posts/2014-01-18-a/</link>
+      <link>//localhost:1313/posts/2014-01-18-a/</link>
       <pubDate>Sat, 18 Jan 2014 12:01:06 +0000</pubDate>
-      <guid>/posts/2014-01-18-a/</guid>
+      <guid>//localhost:1313/posts/2014-01-18-a/</guid>
       <description>&lt;p&gt;Примечательный сервис &lt;a href=&#34;http://beneaththeink.com/&#34;&gt;Beneath the Ink&lt;/a&gt;. Загружаете на него свой EPUB, дополняете его примечаниями. Слова со сносками выделяются цветом и тенями. Цветом менее насыщенным выделяются регулярно встречающиеся одинаковые слова (например, имена персонажей или реалии; сервис позволяет разметить их автоматически, как при подготовке указателя). При чтении в iBooks кликаешь на таком слове — и вуаля:&lt;/p&gt;&#xA;&lt;p&gt;Симпатичная замена обычных сносок-окошек в iBooks. $25/книгу. Жалко, что только в iBooks и работает. Но тренд на rich media правильный.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tablo.io — еще один «закрытый» редактор</title>
-      <link>/posts/2013-10-08-a/</link>
+      <link>//localhost:1313/posts/2013-10-08-a/</link>
       <pubDate>Tue, 08 Oct 2013 12:51:30 +0000</pubDate>
-      <guid>/posts/2013-10-08-a/</guid>
+      <guid>//localhost:1313/posts/2013-10-08-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://tablo.io/bookmaker/&#34;&gt;Tablo Publishing | Introducing the BookMaker&lt;/a&gt;. Веб-редактор epub (и даже ibooks, сделанных в iBooks Author) без возможности скачивания с размещением в iBookstore и Amazon. За деньги. Без скачивания — вряд ли интересно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Как работать с Inkling?</title>
-      <link>/posts/2013-03-03-b/</link>
+      <link>//localhost:1313/posts/2013-03-03-b/</link>
       <pubDate>Sun, 03 Mar 2013 18:06:52 +0000</pubDate>
-      <guid>/posts/2013-03-03-b/</guid>
+      <guid>//localhost:1313/posts/2013-03-03-b/</guid>
       <description>&lt;p&gt;Запись вебсеминара по вёрстке в системе Inkling:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://click.digitalbookworld-hub.com/?qs=9ac81d97b0bbee6685207480b58126473269d714f0428a32f58f31a312e34dbe&#34;&gt;для PC&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://click.digitalbookworld-hub.com/?qs=9ac81d97b0bbee666e8160b91c1fc267819ec660f4c2e9fa983ce639614363c2&#34;&gt;для Mac&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Самое общее введение, но даёт представление о том, как может быть реализована старая метафора «карточек» для образовательного контента цифровых книг сейчас.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Inkling Habitat и издатели</title>
-      <link>/posts/2013-02-13-a/</link>
+      <link>//localhost:1313/posts/2013-02-13-a/</link>
       <pubDate>Wed, 13 Feb 2013 22:17:51 +0000</pubDate>
-      <guid>/posts/2013-02-13-a/</guid>
+      <guid>//localhost:1313/posts/2013-02-13-a/</guid>
       <description>&lt;p&gt;Небезынтересное дополнение ко вчерашней новости о запуске онлайнового редактора электронных учебников &lt;a href=&#34;http://www.inkling.com/habitat/&#34;&gt;Inkling Habitat&lt;/a&gt;: Inkling уже в партнёрах у Pearson, Wolters-Kluwer (крупнейший издатель книг по медицине), Harper Collins, Dorling Kindersley и Lonely Planet. Плюс к этому на Habitat будут делаться и через Inkling распространяться 50 открытых учебников для колледжей, на которые переходит Калифорния. А McGraw-Hill, Elsevier, Wiley (путеводители Frommer’s, серия For Dummies) и O’Reilly начали делать некоторые книги на этой платформе в период тестирования. Inkling сделала то, что действительно нужно индустрии. Не может не вызывать уважения.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Открыт онлайновый редактор учебников Inkling Habitat</title>
-      <link>/posts/2013-02-12-b/</link>
+      <link>//localhost:1313/posts/2013-02-12-b/</link>
       <pubDate>Tue, 12 Feb 2013 22:35:32 +0000</pubDate>
-      <guid>/posts/2013-02-12-b/</guid>
+      <guid>//localhost:1313/posts/2013-02-12-b/</guid>
       <description>&lt;p&gt;Год назад Inkling объявил о грядущем запуске. Открыли только что, под начало конференции Tools of Change. Работает. Позволяет не только публиковать для веба и iOS, но и выгружать из своего формата (учебник из «карточек») в epub3 (проверил в Readium — ОК). Совместная работа, правка кода, все дела. Предназначен прежде всего для профессионалов (есть плагин для InDesign для экспорта), конечно, но управление довольно простое. Первое впечатление завораживающее.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.inkling.com/habitat/&#34;&gt;Inkling Habitat - Scalable digital publishing for professionals&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Сервис Bookworm и правда работает</title>
-      <link>/posts/2012-05-04-a/</link>
+      <link>//localhost:1313/posts/2012-05-04-a/</link>
       <pubDate>Fri, 04 May 2012 10:33:06 +0000</pubDate>
-      <guid>/posts/2012-05-04-a/</guid>
+      <guid>//localhost:1313/posts/2012-05-04-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Bookworm is a free webservice to download Google books.&lt;/p&gt;&#xA;&lt;p&gt;A legal and free webservice to save PDFs of any viewable book on books.google.com even with a limited preview.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://bookworm.evil.so/home&#34;&gt;bookworm.evil.so&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Проверил — медленно, но верно вытаскивает из Google Books книжки, доступные для «ограниченного» просмотра, в полный PDF. Особенно актуально для книг out-of-print.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vook запустил онлайн-редактор</title>
-      <link>/posts/2012-03-26-a/</link>
+      <link>//localhost:1313/posts/2012-03-26-a/</link>
       <pubDate>Mon, 26 Mar 2012 05:43:56 +0000</pubDate>
-      <guid>/posts/2012-03-26-a/</guid>
+      <guid>//localhost:1313/posts/2012-03-26-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://tool.vook.com/&#34;&gt;Редактируем&lt;/a&gt; и распространяем. Бесплатно только первая книжка.&lt;/p&gt;&#xA;&lt;p&gt;Basic account $79/mo. Basic account (save $99) $849/yr. Pro account $199/mo. Pro account (save $389) $1999/yr. Advanced account $299/mo. Advanced account (save $389) $3,199/yr.&lt;/p&gt;&#xA;&lt;p&gt;Помогают с дистрибуцией без роялти, но с платежами: за 1 книжку $99, затем скидки.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Widescript - облачная читалка в аренду</title>
-      <link>/posts/2012-02-06-a/</link>
+      <link>//localhost:1313/posts/2012-02-06-a/</link>
       <pubDate>Mon, 06 Feb 2012 12:34:09 +0000</pubDate>
-      <guid>/posts/2012-02-06-a/</guid>
+      <guid>//localhost:1313/posts/2012-02-06-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;We make a high-quality cloud-based e-book reader for publishers.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://futurebook.net/content/startup-profile-widescript&#34;&gt;futurebook.net&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Вот ещё вариант: фирма предлагает издателям получить свою &amp;ldquo;собственную&amp;rdquo; облачную читалку, которая, естественно, будет работать во всех устройствах с современными браузерами.&lt;br&gt;&#xA;Попросил прислать демо-доступ, посмотреть — как же это оно изнутри. Заодно поинтересовался и ценами. Жду ответа.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Small Demons: Дьявол в деталях, или Убийца примечаний</title>
-      <link>/posts/2011-11-02-4/</link>
+      <link>//localhost:1313/posts/2011-11-02-4/</link>
       <pubDate>Wed, 02 Nov 2011 22:31:44 +0000</pubDate>
-      <guid>/posts/2011-11-02-4/</guid>
+      <guid>//localhost:1313/posts/2011-11-02-4/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://images.smalldemonscdn.com/77905.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.smalldemons.com/books/The_Girl_with_the_Dragon_Tattoo_Stieg_Larsson_(2005)&#34;&gt;smalldemons.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Отличная идея — вынуть из романа детали (исторических персонажей, места, события, вина, пистолеты, мелодии, фильмы etc.) и выложить перед читателем в своём собственном виде. Или хотя бы в виде карт, картинок, исторических справок и т. д. И художественная реальность произведения станет нагляднее и понятнее. Кто-то, типа Альберто Мангеля, скажет, что это убивает воображение. По мне так — это может напитать его.&lt;/p&gt;&#xA;&lt;p&gt;Технически сервис Small Demons вытаскивает из текстов реалии, ищет их в семантической копилке Freebase или в Википедии, и структурирует по типам. Даже так неплохо.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Red Staple - ещё один epub- и enhanced сервис для издателей</title>
-      <link>/posts/2011-09-13-4/</link>
+      <link>//localhost:1313/posts/2011-09-13-4/</link>
       <pubDate>Tue, 13 Sep 2011 14:10:07 +0000</pubDate>
-      <guid>/posts/2011-09-13-4/</guid>
+      <guid>//localhost:1313/posts/2011-09-13-4/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;On iBookstore, you can now offer an Enhanced version of your book. Include things like video and audio to enhance the experience. Great for topics like cooking, exercise, music, film, DIY and more. Add video that shows how something is done or add an audio file that gives readers more information.&lt;/p&gt;&#xA;&lt;p&gt;Use the Red Staple Enhanced iBook tool to bring together your .doc file with images, links, video and audio. You’ll upload your document, add your images, links, video and audio and then publish to the Enhanced iBook format. We validate the ePub file as well as the video and audio. When the file is ready, you can download and deliver using your preferred method.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sony так-таки открывает книжный магазин для Европы</title>
-      <link>/posts/2011-09-05-1/</link>
+      <link>//localhost:1313/posts/2011-09-05-1/</link>
       <pubDate>Mon, 05 Sep 2011 13:09:30 +0000</pubDate>
-      <guid>/posts/2011-09-05-1/</guid>
+      <guid>//localhost:1313/posts/2011-09-05-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://ebookstore.sony.com/&#34; title=&#34;Reader Store&#34;&gt;Reader Store&lt;/a&gt; first rolled out in North America back in 2006 and in Sony’s native Japan in 2010.&lt;/p&gt;&#xA;&lt;p&gt;Now a UK launch is planned for October 2011, with Germany and Austria planned by year’s end and France, Italy and Spain early in 2012. Further new markets are also on the cards.&lt;/p&gt;&#xA;&lt;p&gt;The launch dovetails with the WiFi-enabled new &lt;a href=&#34;http://www.gizmag.com/sony-reader-wifi-touch-screen/19717/&#34; title=&#34;Reader&#34;&gt;Reader&lt;/a&gt; e-reader Sony announced at IFA in Berlin, which has a touch-screen and pinch-zoom text resizing and is lighter than Kindle. And Reader Store will also be accessible on Sony’s new tablet devices, which have underwhelmed observers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Саундтрек к книге</title>
-      <link>/posts/2011-08-24-6/</link>
+      <link>//localhost:1313/posts/2011-08-24-6/</link>
       <pubDate>Wed, 24 Aug 2011 14:18:08 +0000</pubDate>
-      <guid>/posts/2011-08-24-6/</guid>
+      <guid>//localhost:1313/posts/2011-08-24-6/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://techcrunch.com/2011/08/24/fad-or-future-booktrack-adds-music-sound-effects-to-e-books-peter-thiel-invests/&#34;&gt;techcrunch.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Питер Тиль денег дал. Надо попробовать.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kno встраивает в электронные учебники 3D-опции</title>
-      <link>/posts/2011-08-22-2/</link>
+      <link>//localhost:1313/posts/2011-08-22-2/</link>
       <pubDate>Mon, 22 Aug 2011 13:47:44 +0000</pubDate>
-      <guid>/posts/2011-08-22-2/</guid>
+      <guid>//localhost:1313/posts/2011-08-22-2/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://techcrunch.com/2011/08/22/kno-turns-textbooks-3d-video/&#34;&gt;techcrunch.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Пока можно только потрогать структуру молекул. Но, думаю, даже это помогло бы мне в 9-м классе, когда у меня были проблемы с органической химией.&lt;/p&gt;&#xA;&lt;p&gt;P.S. Из этой статьи узнал, что Kno руководит один из основателей Chegg, маленького американского гиганта по прокату учебников, который с осени будет предлагать прокат и электронных учебников (book-in-web).&lt;/p&gt;</description>
     </item>
     <item>
       <title>И у книг есть ДНК</title>
-      <link>/posts/2011-08-16-1/</link>
+      <link>//localhost:1313/posts/2011-08-16-1/</link>
       <pubDate>Tue, 16 Aug 2011 13:59:03 +0000</pubDate>
-      <guid>/posts/2011-08-16-1/</guid>
+      <guid>//localhost:1313/posts/2011-08-16-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;BookLamp.org is the result of an &lt;a href=&#34;http://bookgenome.com&#34;&gt;exploratory project&lt;/a&gt; intended to help you find new books by comparing the content of the books themselves, similar to the way that &lt;a href=&#34;http://www.pandora.com&#34;&gt;Pandora.com&lt;/a&gt; matches music lovers to new music. We&amp;rsquo;re attempting to help you find books with similar themes and writing style to books you&amp;rsquo;ve enjoyed in the past - comparing elements like Description, Pacing, Density, Perspective, and Dialog - while at the same time allowing you to specify details like&amp;hellip; more Medieval Weapons.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Movellas: европейский вариант шортсториз-сообщества</title>
-      <link>/posts/2011-08-16-2/</link>
+      <link>//localhost:1313/posts/2011-08-16-2/</link>
       <pubDate>Tue, 16 Aug 2011 09:52:31 +0000</pubDate>
-      <guid>/posts/2011-08-16-2/</guid>
+      <guid>//localhost:1313/posts/2011-08-16-2/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Movellas.com is a community site where you can read, write and share stories – or movellas as we like to call them. Here you can read thousands of stories, become a fan of other authors and comment on the movellas. When you create a profile you can write your own stories and get lots of readers. With Movellas it is possible to read anywhere, anytime. You can download movellas for your computer, tablet, iPad, iPod Touch, e-book-reader or smart phone and read them as e-books. Quick, easy and totally free! At Movellas.com everyone can be a writer! At Movellas everyone can publish their stories. Neither age nor experience are essential. All that we require is that you love to write and share your stories. From Movellas.com you can share your stories with all your friends and the rest of the world.&lt;/p&gt;</description>
     </item>
     <item>
       <title>7 стартапов нового книгоиздания</title>
-      <link>/posts/2011-07-12-a/</link>
+      <link>//localhost:1313/posts/2011-07-12-a/</link>
       <pubDate>Tue, 12 Jul 2011 13:59:36 +0000</pubDate>
-      <guid>/posts/2011-07-12-a/</guid>
+      <guid>//localhost:1313/posts/2011-07-12-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.brainpickings.org/index.php/2011/06/28/7-publishing-platforms/&#34;&gt;brainpickings.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://byliner.com/&#34;&gt;Byliner&lt;/a&gt; Издательство и комьюнити вокруг оригинальных текстов-историй (не слишком длинных — до 35 тыс слов — нинфикшн эссе).&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://atavist.net/&#34;&gt;The Atavist&lt;/a&gt; «Длиннее, чем статья, меньше, чем книга». Сайт и приложения для мобильных устройств с контентом от хороших журналистов.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.unbound.co.uk/&#34;&gt;Unbound&lt;/a&gt; Английский «Кискстартер для писателей».&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://redlemona.de/&#34;&gt;Red Lemonade&lt;/a&gt; «Для писателей, которых боятсядругие издатели». Комьюнити для писателей и читателей.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.40kbooks.com/&#34;&gt;40K Books&lt;/a&gt; Новеллы.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.thedominoproject.com/&#34;&gt;The Domino Project&lt;/a&gt; Известный проект Сета Година с Amazon.&lt;/li&gt;&#xA;&lt;li&gt;aaaa! &lt;a href=&#34;http://www.ted.com/pages/567%3E&#34;&gt;TED Books&lt;/a&gt; Лекции конференции-шоу TED, продающиеся через Amazon Singles.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Kindle It : Идея Instapaper живёт</title>
-      <link>/posts/2011-07-11-c/</link>
+      <link>//localhost:1313/posts/2011-07-11-c/</link>
       <pubDate>Mon, 11 Jul 2011 12:35:20 +0000</pubDate>
-      <guid>/posts/2011-07-11-c/</guid>
+      <guid>//localhost:1313/posts/2011-07-11-c/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Kindle It lets you send articles you find on the web to your Kindle or other e-reader for easy reading. It is being developed as part of the &lt;a href=&#34;http://fivefilters.org&#34;&gt;Five Filters&lt;/a&gt; project to promote independent, non-corporate media.&lt;/p&gt;&#xA;&lt;h2 id=&#34;extensions&#34;&gt;Extensions&lt;/h2&gt;&#xA;&lt;p&gt;Our browser extensions allow you to send web articles you encounter to your Kindle with very little fuss.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/pnaiinchjaonopoejhknmgjingcnaloc&#34;&gt;Chrome extension&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/kindle-it/&#34;&gt;Firefox extension&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://market.android.com/details?id=org.fivefilters.kindleit&amp;amp;feature=search_result&#34;&gt;Android app&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re not using one of the browsers above, you can use our bookmarklet. To quickly and easily send content you encounter online to your Kindle, drag the Kindle It button below to your browser&amp;rsquo;s bookmarks toolbar. Then whenever you&amp;rsquo;d like to send the page you&amp;rsquo;re reading to your Kindle, click the bookmarklet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bookee завёл приложение ВКонтакте</title>
-      <link>/posts/2011-06-24-a/</link>
+      <link>//localhost:1313/posts/2011-06-24-a/</link>
       <pubDate>Fri, 24 Jun 2011 11:54:48 +0000</pubDate>
-      <guid>/posts/2011-06-24-a/</guid>
+      <guid>//localhost:1313/posts/2011-06-24-a/</guid>
       <description>&lt;p&gt;Бесплатно — классика. Оплата через ВКонтакте. PDF. Неудобно. Но маркетинговый ход правильный.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Сделай EPUB из веба: плагин GrabMyBooks для Firefox</title>
-      <link>/posts/2011-05-31-c/</link>
+      <link>//localhost:1313/posts/2011-05-31-c/</link>
       <pubDate>Tue, 31 May 2011 15:38:28 +0000</pubDate>
-      <guid>/posts/2011-05-31-c/</guid>
+      <guid>//localhost:1313/posts/2011-05-31-c/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://static-cdn.addons.mozilla.net/img/uploads/previews/thumbs/54/54222.png?modified=1299788877&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/grabmybooks/&#34;&gt;addons.mozilla.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Вполне работоспособный плагин для Firefox, который встраивается в контекстное меню и позволяет «собирать» подборку страниц, линков и избранных абзацев (то есть как хотите, так и делайте) в одну «книгу», которую можно скачать в формате EPUB.&lt;br&gt;&#xA;Русский шрифт, конечно же, не поддерживается, но для русифицированной читалки это не препятствие. Оглавление одноранговое, названия глав менять нельзя — будет просто Article 1, Article 2 и т. д., но их можно менять местами. Кроме того, сам текст можно подредактировать (убрать или вставить теги и т. д.). Наличествует &lt;a href=&#34;http://grabmybooks.com/userGuide.html&#34;&gt;руководство&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Приложение для цитирования книг *openmargin</title>
-      <link>/posts/2011-05-03-d/</link>
+      <link>//localhost:1313/posts/2011-05-03-d/</link>
       <pubDate>Tue, 03 May 2011 11:40:12 +0000</pubDate>
-      <guid>/posts/2011-05-03-d/</guid>
+      <guid>//localhost:1313/posts/2011-05-03-d/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ipz-vSap84o?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;Идея диковатая. Но — расширение пространства книги.&lt;/p&gt;</description>
     </item>
     <item>
       <title>dotEPUB — download any webpage as an e-book</title>
-      <link>/posts/2010-10-18-55/</link>
+      <link>//localhost:1313/posts/2010-10-18-55/</link>
       <pubDate>Mon, 18 Oct 2010 22:17:03 +0000</pubDate>
-      <guid>/posts/2010-10-18-55/</guid>
+      <guid>//localhost:1313/posts/2010-10-18-55/</guid>
       <description>&lt;p&gt;Довольно забавный сервис. Делает рабочие файлы небольших веб-страниц.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Самый простой способ сделать штрихкод - на Wolfram|Alpha</title>
-      <link>/posts/2010-10-13-185/</link>
+      <link>//localhost:1313/posts/2010-10-13-185/</link>
       <pubDate>Wed, 13 Oct 2010 20:53:37 +0000</pubDate>
-      <guid>/posts/2010-10-13-185/</guid>
+      <guid>//localhost:1313/posts/2010-10-13-185/</guid>
       <description>&lt;p&gt;Заходите на Wolfram|Alpha, вводите &amp;ldquo;ISBN&amp;rdquo; и нужный набор цифр. И вуаля. Например, так: &lt;a href=&#34;http://www.wolframalpha.com/input/?i=ISBN+9785975701923&#34;&gt;штрихкод для «Капитализма и шизофрении»&lt;/a&gt;. Элегантно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Курцвейль так-таки запустил Blio</title>
-      <link>/posts/2010-09-28-106/</link>
+      <link>//localhost:1313/posts/2010-09-28-106/</link>
       <pubDate>Tue, 28 Sep 2010 19:27:31 +0000</pubDate>
-      <guid>/posts/2010-09-28-106/</guid>
+      <guid>//localhost:1313/posts/2010-09-28-106/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.blio.com/&#34;&gt;blio.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Первый раз пожалел, что нет под рукой Windows. Те, кто попробует - расскажите, плз.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Instapaper</title>
-      <link>/posts/2009-01-24-71/</link>
+      <link>//localhost:1313/posts/2009-01-24-71/</link>
       <pubDate>Sat, 24 Jan 2009 22:47:24 +0000</pubDate>
-      <guid>/posts/2009-01-24-71/</guid>
+      <guid>//localhost:1313/posts/2009-01-24-71/</guid>
       <description>&lt;p&gt;Еще один, видимо, самый простой, способ закачать текст (книги) в iPhone - поставить (бесплатную) программку Instapaper, зайти на одноименный сайт, завести (даже не вводя пароль, при желании) там аккаунт и перетащить в строку браузера кнопку &amp;ldquo;Read Later&amp;rdquo;. Теперь можно зайти в онлайновую библиотеку на страницу интересующей книги и нажать Read Later. При ближайшей синхронизации программки в iPhone страничка закачается в телефон и будет доступна для чтения. Gradiska!&lt;/p&gt;</description>
     </item>
   </channel>

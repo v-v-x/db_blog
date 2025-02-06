@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brazil on Новости электронного книгоиздания</title>
-    <link>/tags/brazil/</link>
+    <link>//localhost:1313/tags/brazil/</link>
     <description>Recent content in Brazil on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 02 Jul 2012 14:26:12 +0000</lastBuildDate>
-    <atom:link href="/tags/brazil/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/brazil/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amazon ждут в Бразилии в конце года</title>
-      <link>/posts/2012-07-02-b/</link>
+      <link>//localhost:1313/posts/2012-07-02-b/</link>
       <pubDate>Mon, 02 Jul 2012 14:26:12 +0000</pubDate>
-      <guid>/posts/2012-07-02-b/</guid>
+      <guid>//localhost:1313/posts/2012-07-02-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Amazon thinks it could quickly dominate Brazil’s e-book market with the Kindle, boosting sales of electronic books to 15 per cent of the publishing market in the first year of operations from 0.5 per cent currently, the industry source said.&lt;/p&gt;&#xA;&lt;p&gt;Amazon hopes to grab 90 per cent of Brazil’s e-book market, the source added, in part because many Brazilians already download content from its site using readers they bought abroad.&lt;/p&gt;</description>
     </item>
   </channel>

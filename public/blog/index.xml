@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Новости электронного книгоиздания</title>
-    <link>/blog/</link>
+    <link>//localhost:1313/blog/</link>
     <description>Recent content in Blogs on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 31 May 2022 20:18:32 +0000</lastBuildDate>
-    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Проверка NetlifyCMS</title>
-      <link>/blog/2022-05-31-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-netlifycms/</link>
+      <link>//localhost:1313/blog/2022-05-31-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-netlifycms/</link>
       <pubDate>Tue, 31 May 2022 20:18:32 +0000</pubDate>
-      <guid>/blog/2022-05-31-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-netlifycms/</guid>
+      <guid>//localhost:1313/blog/2022-05-31-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-netlifycms/</guid>
       <description>&lt;p&gt;Проверка Netlify CMS&lt;/p&gt;</description>
     </item>
   </channel>

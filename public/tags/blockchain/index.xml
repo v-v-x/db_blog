@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blockchain on Новости электронного книгоиздания</title>
-    <link>/tags/blockchain/</link>
+    <link>//localhost:1313/tags/blockchain/</link>
     <description>Recent content in Blockchain on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 25 Oct 2017 11:24:43 +0000</lastBuildDate>
-    <atom:link href="/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Блокчейн в электронных книгах</title>
-      <link>/posts/2017-10-25-a/</link>
+      <link>//localhost:1313/posts/2017-10-25-a/</link>
       <pubDate>Wed, 25 Oct 2017 11:24:43 +0000</pubDate>
-      <guid>/posts/2017-10-25-a/</guid>
+      <guid>//localhost:1313/posts/2017-10-25-a/</guid>
       <description>&lt;p&gt;Биткойн и (в меньшей степени) технология блокчейна, на которой биткойн базируется, — у всех на слуху. Не прошло это поветрие и мимо книжной индустрии. Особенно мимо самой бодрой её части — самиздатчиков, которые, кажется, очень воодушевились, что теперь как-то смогут избавиться от олигополии дистрибуционных платформ, а продаваемые электронные книжки и правда будут продаваться, а не даваться «в пользование», как сейчас. То есть их можно будет легально давать почитать, дарить, завещать и пр. В общем,  Американский Альянс независимых авторов &lt;a href=&#34;https://www.allianceindependentauthors.org/blockchain-for-books/&#34;&gt;обсуждает&lt;/a&gt;, как бы это всё приспособить к нуждам авторов, сервисы &lt;a href=&#34;https://medium.com/streetlib/blockchain-and-books-digital-content-property-revolution-a52bf5d6e2f5&#34;&gt;рисуют светлое будущее…&lt;/a&gt; Только одно НО — никто пока не придумал, чем новый DRM на блокчейне будет удобнее того, которым покупатель пользуется, не слишком замечая этого, когда покупает книги на Amazon. Или, тем более, удобнее скачивания книг через Genesis Library, например. Впрочем, всё равно интересно.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,423 +2,423 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Media on Новости электронного книгоиздания</title>
-    <link>/tags/media/</link>
+    <link>//localhost:1313/tags/media/</link>
     <description>Recent content in Media on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 23 Sep 2014 21:43:53 +0000</lastBuildDate>
-    <atom:link href="/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>iMagazine?</title>
-      <link>/posts/2014-09-23-a/</link>
+      <link>//localhost:1313/posts/2014-09-23-a/</link>
       <pubDate>Tue, 23 Sep 2014 21:43:53 +0000</pubDate>
-      <guid>/posts/2014-09-23-a/</guid>
+      <guid>//localhost:1313/posts/2014-09-23-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://techcrunch.com/2014/09/23/prss-digital-magazine-platform-acquired-by-apple/&#34;&gt;PRSS Digital Magazine Platform Acquired By Apple | TechCrunch&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Apple купила сервис Prss (сайт уже не открывается), который вырос у команды электронного журнала Trvl. Ребята только-только в прошлом году запустили сервис создания электронных журналов для iOS (дешевле и проще Adobe DPS), и вот… Может быть, в пару к iBooks Author появится какой-нибуль iMagazine?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Вниманию @zasursky, @merkurov и @vassgatov: The Atlantic Quartz</title>
-      <link>/posts/2012-09-24-a/</link>
+      <link>//localhost:1313/posts/2012-09-24-a/</link>
       <pubDate>Mon, 24 Sep 2012 18:19:01 +0000</pubDate>
-      <guid>/posts/2012-09-24-a/</guid>
+      <guid>//localhost:1313/posts/2012-09-24-a/</guid>
       <description>&lt;p&gt;The Atlantic запустил бесплатную бизнес-газету Quartz. Причём, что забавно, на Wordpress, правда, тщательно допиленном.&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://qz.com/6014/hello-world-a-welcome-letter-from-our-editor-in-chief/&#34;&gt;qz.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Студия WALRUS сделала в iBooks Author журнал</title>
-      <link>/posts/2012-01-31-a/</link>
+      <link>//localhost:1313/posts/2012-01-31-a/</link>
       <pubDate>Tue, 31 Jan 2012 11:04:45 +0000</pubDate>
-      <guid>/posts/2012-01-31-a/</guid>
+      <guid>//localhost:1313/posts/2012-01-31-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.walrus-books.com/2012/01/walrus-magazine/&#34;&gt;walrus-books.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Смотреть, естественно, можно только в iBooks на iPad. Или как PDF ;)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новости электронного книгоиздания в Google Currents. Подписывайтесь ;)</title>
-      <link>/posts/2012-01-25-a/</link>
+      <link>//localhost:1313/posts/2012-01-25-a/</link>
       <pubDate>Wed, 25 Jan 2012 20:34:41 +0000</pubDate>
-      <guid>/posts/2012-01-25-a/</guid>
+      <guid>//localhost:1313/posts/2012-01-25-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Currents users can find your edition by visiting this link on their device&amp;rsquo;s browser:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.google.com/producer/editions/CAowhN1X/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BD%D0%B8%D0%B3%D0%BE%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F&#34;&gt;http://www.google.com/producer/editions/CAowhN1X/новости_электронного_книгоиздания&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;https://www.google.com/producer/home?sig=ALjLGbP64M0t9AzoguKK_2YZXbIxCTkRiA#!/root:CAAqBggKMITdVzCTrQc/distribute&#34;&gt;google.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Или короткий урл: &lt;a href=&#34;http://goo.gl/AvhR6&#34;&gt;http://goo.gl/AvhR6&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Instant publishing есть и в России</title>
-      <link>/posts/2011-09-20-1/</link>
+      <link>//localhost:1313/posts/2011-09-20-1/</link>
       <pubDate>Tue, 20 Sep 2011 19:24:03 +0000</pubDate>
-      <guid>/posts/2011-09-20-1/</guid>
+      <guid>//localhost:1313/posts/2011-09-20-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;FastBook&lt;/strong&gt; — это книга, которая пытается рассказать большую историю, основанную на событиях сегодняшнего дня. &lt;strong&gt;FastBook&lt;/strong&gt; — это книга, которая распространяется только в цифровом формате. &lt;strong&gt;FastBook&lt;/strong&gt; — это книга, которая описывает реальные события нашей жизни вскоре после того, как они произошли, а не спустя полтора года (потому что не связана с неповоротливой печатью). &lt;strong&gt;FastBook&lt;/strong&gt; — это книга, которая читается быстро, потому что она длиннее самой длинной журнальной статьи, но короче обычной книги, которая пишется подлиннее зачастую только для того, чтобы заполнить страницы. Наконец, &lt;strong&gt;FastBook&lt;/strong&gt; — это книга, написанная без политической и рекламной цензуры больших издательских домов и давления устаревших форматов и жанров. &lt;/p&gt;</description>
     </item>
     <item>
       <title>Электронные книги от СМИ - NYTimes.com</title>
-      <link>/posts/2011-05-19-b/</link>
+      <link>//localhost:1313/posts/2011-05-19-b/</link>
       <pubDate>Mon, 19 Sep 2011 11:52:15 +0000</pubDate>
-      <guid>/posts/2011-05-19-b/</guid>
+      <guid>//localhost:1313/posts/2011-05-19-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Swiftly and at little cost, newspapers, magazines and sites like The Huffington Post are hunting for revenue by publishing their own version of e-books, either using brand-new content or repurposing material that they may have given away free in the past.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.nytimes.com/2011/09/19/business/media/in-e-books-publishing-houses-have-a-rival-in-news-sites.html?_r=1&amp;amp;pagewanted=all&#34;&gt;nytimes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ну, вот. А я про это раньше написал, но ещё не напечатали ((&lt;/p&gt;</description>
     </item>
     <item>
       <title>Не знаю, как вам, но новый Pro-Books мне нравится ))</title>
-      <link>/posts/2011-09-14-3/</link>
+      <link>//localhost:1313/posts/2011-09-14-3/</link>
       <pubDate>Wed, 14 Sep 2011 13:26:13 +0000</pubDate>
-      <guid>/posts/2011-09-14-3/</guid>
+      <guid>//localhost:1313/posts/2011-09-14-3/</guid>
       <description></description>
     </item>
     <item>
       <title>Кто читает в России книги? - ФОМ</title>
-      <link>/posts/2011-09-13-3/</link>
+      <link>//localhost:1313/posts/2011-09-13-3/</link>
       <pubDate>Tue, 13 Sep 2011 20:00:21 +0000</pubDate>
-      <guid>/posts/2011-09-13-3/</guid>
+      <guid>//localhost:1313/posts/2011-09-13-3/</guid>
       <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/9c7Oh0n1mqQkSf&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/azllo/ss-9244082&#34; title=&#34;Рынок печатных медиа&#34; target=&#34;_blank&#34;&gt;Рынок печатных медиа&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/azllo&#34; target=&#34;_blank&#34;&gt;Pavel Lebedev&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;&#xA;&#xA;View more [presentations](http://www.slideshare.net/) from [Pavel Lebedev](http://www.slideshare.net/azllo)</description>
     </item>
     <item>
       <title>Отличная история: музыкальная индустрия США два года будет в ауте</title>
-      <link>/posts/2011-08-15-1/</link>
+      <link>//localhost:1313/posts/2011-08-15-1/</link>
       <pubDate>Mon, 15 Aug 2011 20:45:35 +0000</pubDate>
-      <guid>/posts/2011-08-15-1/</guid>
+      <guid>//localhost:1313/posts/2011-08-15-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;thanks to a little-noted provision in United States copyright law, those artists — and thousands more — now have the right to reclaim ownership of their recordings, potentially leaving the labels out in the cold.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.nytimes.com/2011/08/16/arts/music/springsteen-and-others-soon-eligible-to-recover-song-rights.html&#34;&gt;nytimes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Потому что заканчиваются 35 лет контрактов с музыкантами. И они могут потребовать свои права назад.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Инстапаблишинг на марше: Guardian Shorts. Коммерсант-Ъ? Ау!</title>
-      <link>/posts/2011-08-08-3/</link>
+      <link>//localhost:1313/posts/2011-08-08-3/</link>
       <pubDate>Mon, 08 Aug 2011 10:27:43 +0000</pubDate>
-      <guid>/posts/2011-08-08-3/</guid>
+      <guid>//localhost:1313/posts/2011-08-08-3/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.guardian.co.uk/mobile/series/guardian-shorts&#34;&gt;guardian.co.uk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Пока только одна книжка — про скандал вокруг Мердока.&lt;br&gt;&#xA;Интересно, почему Коммерсант-Ъ тормозит? Контента явно хватает. Столько забавных книжек можно из их публикаций сделать. Хотя бы в порядке эксперимента.&lt;/p&gt;</description>
     </item>
     <item>
       <title>И ещё к 100-летию Маклюэна: медаиархив</title>
-      <link>/posts/2011-07-22-1/</link>
+      <link>//localhost:1313/posts/2011-07-22-1/</link>
       <pubDate>Fri, 22 Jul 2011 09:01:00 +0000</pubDate>
-      <guid>/posts/2011-07-22-1/</guid>
+      <guid>//localhost:1313/posts/2011-07-22-1/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.marshallmcluhanspeaks.com/&#34;&gt;marshallmcluhanspeaks.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>100 лет Маршаллу Маклюэну</title>
-      <link>/posts/2011-07-21-a/</link>
+      <link>//localhost:1313/posts/2011-07-21-a/</link>
       <pubDate>Thu, 21 Jul 2011 21:13:44 +0000</pubDate>
-      <guid>/posts/2011-07-21-a/</guid>
+      <guid>//localhost:1313/posts/2011-07-21-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The extensions of man’s consciousness induced by the electric media could conceivably usher in the millennium, but it also holds the potential for realizing the Anti-Christ.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.kk.org/thetechnium/archives/2011/07/mcluhan_at_100.php&#34;&gt;kk.org&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Хороший пример instant publishing: Ars Technica OS X Lion review</title>
-      <link>/posts/2011-07-21-5/</link>
+      <link>//localhost:1313/posts/2011-07-21-5/</link>
       <pubDate>Thu, 21 Jul 2011 12:52:47 +0000</pubDate>
-      <guid>/posts/2011-07-21-5/</guid>
+      <guid>//localhost:1313/posts/2011-07-21-5/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://arstechnica.com/apple/news/2011/07/lion-review-e-book-now-available.ars&#34;&gt;arstechnica.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Прямо по выходу новой версии OS X сайт Ars Technica выпустил обзор операционной системы, который можно прочитать аж на 19 страницах. Или купить за 5 баксов в виде цифровой книжки. Или получить бесплатно, подписавшись на премиум-аккаунт Ars Technica.&lt;br&gt;&#xA;Весной, оказывается, сайт сделал ещё одну такую «быстрорастворимую книгу»: о скандале вокруг HBGary и Anonimous.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Baidu пошла по стопам Yandex и Google: Music</title>
-      <link>/posts/2011-07-19-1/</link>
+      <link>//localhost:1313/posts/2011-07-19-1/</link>
       <pubDate>Tue, 19 Jul 2011 12:30:42 +0000</pubDate>
-      <guid>/posts/2011-07-19-1/</guid>
+      <guid>//localhost:1313/posts/2011-07-19-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Соответствующая договоренность была достигнута между &amp;ldquo;Байду&amp;rdquo; и компанией &amp;ldquo;Уан-стоп Чайна&amp;rdquo;, которую совместно учредила тройка звукозаписывающих лейблов-гигантов, таких как &amp;ldquo;Юниверсал мьюзик&amp;rdquo;, &amp;ldquo;Уорнер мьюзик&amp;rdquo; и &amp;ldquo;Сони мьюзик&amp;rdquo;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.itar-tass.com/c11/188552.html&#34;&gt;itar-tass.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;«Байда» большая. Думаю, договориться с тройкой им было несложно.&lt;/p&gt;&#xA;&lt;p&gt;В таком виде, тем временем, музыка становится просто ситуативным развлечением. Необременительным и бесплатным. Типа прогулки в парке.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Не могу не отрекламировать: &#34;Частный корреспондент&#34; в App Store. Free</title>
-      <link>/posts/2011-07-19-2/</link>
+      <link>//localhost:1313/posts/2011-07-19-2/</link>
       <pubDate>Tue, 19 Jul 2011 11:02:13 +0000</pubDate>
-      <guid>/posts/2011-07-19-2/</guid>
+      <guid>//localhost:1313/posts/2011-07-19-2/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://itunes.apple.com/ru/app/id447312948?mt=8&#34;&gt;itunes.apple.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Статьи Сергея Москалёва, Дмитрия Бавильского, Дениса Драгунского, Александра Храмчихина, Андрея Колесникова и многих других хороших авторов, а также весь остальной контент «Частного корреспондента» теперь есть в приложении для iPhone, iPod touch и iPad. Ура, товарищи.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Financial Times изменяет Apple с веб-приложением</title>
-      <link>/posts/2011-06-07-a/</link>
+      <link>//localhost:1313/posts/2011-06-07-a/</link>
       <pubDate>Tue, 07 Jun 2011 06:44:41 +0000</pubDate>
-      <guid>/posts/2011-06-07-a/</guid>
+      <guid>//localhost:1313/posts/2011-06-07-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://apps.ft.com/ftwebapp/&#34;&gt;apps.ft.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;А почему? А потому, что отстёгивать Джобсу за подписку газете жалко.&lt;/p&gt;&#xA;&lt;p&gt;Как, правда, они справятся с ограничением на объем хранимых в оффлайн-режиме данных?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Книжка Дэна Гилмора Mediactive</title>
-      <link>/posts/2011-05-19-f/</link>
+      <link>//localhost:1313/posts/2011-05-19-f/</link>
       <pubDate>Thu, 19 May 2011 10:55:37 +0000</pubDate>
-      <guid>/posts/2011-05-19-f/</guid>
+      <guid>//localhost:1313/posts/2011-05-19-f/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://mediactive.com/&#34;&gt;mediactive.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Это тот Дэн Гилмор, который придумал citizen journalism.&lt;br&gt;&#xA;PDF можно скачать for free.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Еще один формат: Open Format for Interactive Publications</title>
-      <link>/posts/2011-05-16-a/</link>
+      <link>//localhost:1313/posts/2011-05-16-a/</link>
       <pubDate>Mon, 16 May 2011 10:12:47 +0000</pubDate>
-      <guid>/posts/2011-05-16-a/</guid>
+      <guid>//localhost:1313/posts/2011-05-16-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.ofip.info/&#34;&gt;ofip.info&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Как я понимаю, это прежде всего для СМИ на планшетках. Но и для книг может быть. Большой разницы между OFIP и EPUB3 не нашел - всё очень похоже.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Маклюэн о будущем книг</title>
-      <link>/posts/2011-04-05-a/</link>
+      <link>//localhost:1313/posts/2011-04-05-a/</link>
       <pubDate>Tue, 05 Apr 2011 20:04:43 +0000</pubDate>
-      <guid>/posts/2011-04-05-a/</guid>
+      <guid>//localhost:1313/posts/2011-04-05-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The future of the book is the blurb&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.articulate.ca/FutureofBookisBlurb.html&#34;&gt;articulate.ca&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;То есть аннотация.&lt;/p&gt;&#xA;&lt;p&gt;Прям во всех смыслах, однако.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Секрет paywall по версии New York Times</title>
-      <link>/posts/2011-03-17-b/</link>
+      <link>//localhost:1313/posts/2011-03-17-b/</link>
       <pubDate>Thu, 17 Mar 2011 22:36:55 +0000</pubDate>
-      <guid>/posts/2011-03-17-b/</guid>
+      <guid>//localhost:1313/posts/2011-03-17-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The &lt;em&gt;Times&lt;/em&gt; would prefer to add new print subscribers than digital ones considering the amount of advertising revenue the print edition generates.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://paidcontent.org/article/419-how-nyt-subscribers-can-get-print-plus-digital-for-less-than-digital-al/&#34;&gt;paidcontent.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Русским языком: цифровые подписчики сами по себе не слишком интересны, интересны подписчики на печатное издание, которое даёт рекламу.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zite - обучаемый Flipboard</title>
-      <link>/posts/2011-03-09-1/</link>
+      <link>//localhost:1313/posts/2011-03-09-1/</link>
       <pubDate>Wed, 09 Mar 2011 11:05:59 +0000</pubDate>
-      <guid>/posts/2011-03-09-1/</guid>
+      <guid>//localhost:1313/posts/2011-03-09-1/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://mashable.com/2011/03/09/zite/&#34;&gt;mashable.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Обучаемый агрегатор новостей. Болезненный вопрос алгоритма.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Пропустил: 13 февраля New York Times начал печатать списки ebook-бестселлеров</title>
-      <link>/posts/2011-03-05-a/</link>
+      <link>//localhost:1313/posts/2011-03-05-a/</link>
       <pubDate>Sat, 05 Mar 2011 12:14:18 +0000</pubDate>
-      <guid>/posts/2011-03-05-a/</guid>
+      <guid>//localhost:1313/posts/2011-03-05-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;1 UNBROKEN, by Laura Hillenbrand. (Random House.) An Olympic runner’s story of survival as a prisoner of the Japanese in World War II. 1&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2010/11/21/books/review/Margolick-t.html&#34; title=&#34;Click to go to this article&#34;&gt;Sunday Book Review&lt;/a&gt; | &lt;a href=&#34;http://www.nytimes.com/2010/11/15/books/15book.html&#34; title=&#34;Click to go to this article&#34;&gt;Books of The Times Review&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;2 HEAVEN IS FOR REAL, by Todd Burpo with Lynn Vincent. (Thomas Nelson.) A father recounts his 3-year-old son’s encounter with Jesus and the angels during an emergency appendectomy. 1&lt;/p&gt;</description>
     </item>
     <item>
       <title>Marshall McLuhan Speaks - Centennial 2011</title>
-      <link>/posts/2011-01-27-b/</link>
+      <link>//localhost:1313/posts/2011-01-27-b/</link>
       <pubDate>Thu, 27 Jan 2011 10:00:15 +0000</pubDate>
-      <guid>/posts/2011-01-27-b/</guid>
+      <guid>//localhost:1313/posts/2011-01-27-b/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www2.marshallmcluhanspeaks.com/?video=0&#34;&gt;www2.marshallmcluhanspeaks.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Хорошая подборка.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Дуглас Коупленд написал биографию Маклюена</title>
-      <link>/posts/2011-01-13-b/</link>
+      <link>//localhost:1313/posts/2011-01-13-b/</link>
       <pubDate>Thu, 13 Jan 2011 14:41:05 +0000</pubDate>
-      <guid>/posts/2011-01-13-b/</guid>
+      <guid>//localhost:1313/posts/2011-01-13-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.tnr.com/sites/default/files/imagecache/detail_page/Mcluhan.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Marshall McLuhan&lt;/p&gt;&#xA;&lt;h2 id=&#34;marshall-mcluhan-you-know-nothing-of-my-work&#34;&gt;Marshall McLuhan: You Know Nothing of My Work!&lt;/h2&gt;&#xA;&lt;h3 id=&#34;by-douglas-coupland&#34;&gt;by Douglas Coupland&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.powells.com/partner/35472/biblio/1-9781935633167-0&#34;&gt;Atlas, 216 pp., $24&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.tnr.com/book/review/the-medium-mcluhan&#34;&gt;tnr.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Must translate, блин.&lt;/p&gt;</description>
     </item>
     <item>
       <title>&#34;Новый мир&#34; для букридеров</title>
-      <link>/posts/2011-01-07-a/</link>
+      <link>//localhost:1313/posts/2011-01-07-a/</link>
       <pubDate>Fri, 07 Jan 2011 23:21:51 +0000</pubDate>
-      <guid>/posts/2011-01-07-a/</guid>
+      <guid>//localhost:1313/posts/2011-01-07-a/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://avvas.livejournal.com/5097075.html?view=9656179#t9656179&#34;&gt;avvas.livejournal.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Молодцы.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon начал продавать прессу через Kindle для Android</title>
-      <link>/posts/2010-12-19-15/</link>
+      <link>//localhost:1313/posts/2010-12-19-15/</link>
       <pubDate>Sun, 19 Dec 2010 23:32:21 +0000</pubDate>
-      <guid>/posts/2010-12-19-15/</guid>
+      <guid>//localhost:1313/posts/2010-12-19-15/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Amazon today announced that Kindle for Android is the first Kindle app to receive an update that enables users to buy, read, and sync over 100 Kindle newspapers and magazines, including &lt;em&gt;The New York Times&lt;/em&gt;, &lt;em&gt;Newsweek&lt;/em&gt;, &lt;em&gt;The Atlantic&lt;/em&gt;, and many more. Kindle for Android users can now buy a single issue or subscribe to the most popular newspapers and magazines, have them automatically delivered to their Android-powered device, and enjoy a full color reading experience optimized for the touch interface of Android-powered devices.&lt;/p&gt;</description>
     </item>
     <item>
       <title>News&#43; больше, чем газета</title>
-      <link>/posts/2010-11-24-122/</link>
+      <link>//localhost:1313/posts/2010-11-24-122/</link>
       <pubDate>Wed, 24 Nov 2010 21:12:07 +0000</pubDate>
-      <guid>/posts/2010-11-24-122/</guid>
+      <guid>//localhost:1313/posts/2010-11-24-122/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;h1 id=&#34;all-about-news&#34;&gt;All About News+&lt;/h1&gt;&#xA;&lt;p&gt;In December 2009, Bonnier launched Mag+, a format that quickly set a new standard for digital magazines. Mag+ got a lot of attention worldwide in the trade press and was called &amp;ldquo;King of the Hill&amp;rdquo; by Steve Jobs when Apple launched the iPad.&lt;/p&gt;&#xA;&lt;p&gt;The lessons learned from Mag+ have shaped the development of a new digital format for tomorrow&amp;rsquo;s newspapers: News+.&lt;/p&gt;&#xA;&lt;p&gt;News+ combines the depth and editorial choices of a daily newspaper with the web&amp;rsquo;s possibilities for interaction and quick updates.&lt;/p&gt;</description>
     </item>
     <item>
       <title>В списках бестселлеров New York Times появятся электронные книги</title>
-      <link>/posts/2010-11-11-217/</link>
+      <link>//localhost:1313/posts/2010-11-11-217/</link>
       <pubDate>Thu, 11 Nov 2010 08:37:33 +0000</pubDate>
-      <guid>/posts/2010-11-11-217/</guid>
+      <guid>//localhost:1313/posts/2010-11-11-217/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;In an acknowledgment of the growing sales and influence of digital publishing, The New York Times said on Wednesday that it would publish e-book best-seller lists in fiction and nonfiction beginning early next year.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.nytimes.com/2010/11/11/books/11list.html?_r=2&amp;amp;src=tptw&#34;&gt;nytimes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Типа - свершилось. Шатцкин, кстати, резко &lt;a href=&#34;http://www.idealog.com/blog/dont-drown-walking-across-the-river&#34;&gt;критикует&lt;/a&gt; последний отчёт Forrester, и говорит, что $1 млрд — крайне заниженная оценка, поскольку методология хромает, не учитывая читателей электронных книг на компах.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Платформа для цифровой публикации Adobe будет сервисом</title>
-      <link>/posts/2010-10-25-148/</link>
+      <link>//localhost:1313/posts/2010-10-25-148/</link>
       <pubDate>Mon, 25 Oct 2010 10:44:42 +0000</pubDate>
-      <guid>/posts/2010-10-25-148/</guid>
+      <guid>//localhost:1313/posts/2010-10-25-148/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Pricing for the Professional Edition is expected to be $699 per month plus a per-issue fee that scales according to volume. For that price, publishers can access the Digital Publishing Suite and create applications for all of their titles and publications. The Enterprise Edition is a custom, multi-year platform agreement that gives publishers access to technologies for integration of back-end services such as subscription management, print fulfillment, and e-commerce. Adobe also offers professional services to support enterprise level projects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Esquire для iPad, оказывается, делала ScrollMotion</title>
-      <link>/posts/2010-10-09-67/</link>
+      <link>//localhost:1313/posts/2010-10-09-67/</link>
       <pubDate>Sat, 09 Oct 2010 08:08:41 +0000</pubDate>
-      <guid>/posts/2010-10-09-67/</guid>
+      <guid>//localhost:1313/posts/2010-10-09-67/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://mashable.com/2010/10/08/scrollmotion-profile/&#34;&gt;mashable.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Если судить по видеоролику, Esquire for iPad выглядит даже симпатичнее Wired for iPad. Если верить статье, то он ещё и весит в 5 раз меньше и сделан ан HTML5, а не на PDF.&lt;/p&gt;&#xA;&lt;p&gt;Примечательно, впрочем, другое. Сделала журнал для Хёрста фирма ScrollMotion, которая уже выдала больше 10 тысяч книг-приложений для крупнейших мировых издательств.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Yorker для iPad</title>
-      <link>/posts/2010-09-27-121/</link>
+      <link>//localhost:1313/posts/2010-09-27-121/</link>
       <pubDate>Mon, 27 Sep 2010 19:33:04 +0000</pubDate>
-      <guid>/posts/2010-09-27-121/</guid>
+      <guid>//localhost:1313/posts/2010-09-27-121/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;The New Yorker&lt;/em&gt;, the iconic magazine title from publisher Condé Nast, today released an app for the iPad using the &lt;a href=&#34;http://labs.adobe.com/technologies/digitalpublishing/&#34;&gt;Digital Magazine Solution from Adobe&lt;/a&gt;. Available on the Apple App Store, &lt;em&gt;&lt;a href=&#34;http://itunes.apple.com/us/app/the-new-yorker-magazine/id370614765?mt=8&#34;&gt;The New Yorker tablet edition&lt;/a&gt;&lt;/em&gt; preserves the look-and-feel of the print publication, and adds interactive audio, video and slideshows to supplement the magazine’s signature mix of reporting and commentary.&lt;/p&gt;&#xA;&lt;p&gt;Adobe collaborated with &lt;em&gt;The New Yorker&lt;/em&gt; to launch the iPad edition, in part because the publication’s design challenges represented a different end of the magazine publishing spectrum.  While the goal &lt;a href=&#34;http://blogs.adobe.com/digitalpublishing/2010/09/the-new-yorker.html/../2010/05/introducing_wired_magazine_on_ipad.html&#34;&gt;in working with monthly publication &lt;em&gt;WIRED&lt;/em&gt;&lt;/a&gt; was to preserve the fidelity of its richly designed pages, &lt;em&gt;The New Yorker&lt;/em&gt; posed a different opportunity in that it demanded not only design fidelity, but flexibility due to its weekly, text-heavy nature. To solve this design and production challenge, &lt;em&gt;The New Yorker&lt;/em&gt; used HTML pages as part of its tablet edition. HTML provided flexibility for The New Yorker to rapidly flow text into the magazine application and meet the requirements of a frequent publishing cycle.  In the future, the Digital Magazine Solution will provide the option of using either HTML pages for flexible publishing or rasterized images for publishers that demand pixel-perfect layouts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Издание Rolling Stone на Zinio для iPad с интеграцией iTunes</title>
-      <link>/posts/2010-08-03-82/</link>
+      <link>//localhost:1313/posts/2010-08-03-82/</link>
       <pubDate>Tue, 03 Aug 2010 15:12:24 +0000</pubDate>
-      <guid>/posts/2010-08-03-82/</guid>
+      <guid>//localhost:1313/posts/2010-08-03-82/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Using the Zinio App for the iPad (zinio.com/ipad), the iconic music title&amp;rsquo;s digital version will allow music enthusiasts to sample and purchase music with a swipe of a finger. The interactive edition will be available on other platforms as well, including Windows, Mac and Linux PCs. While fans read about legends ranging from Bob Dylan and Beyonce to Bruce Springsteen and Aretha Franklin, they can preview and purchase the &lt;em&gt;Rolling Stone&lt;/em&gt; Special Collectors Edition&amp;rsquo;s song recommendations via iTunes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>На онлайновую Times никто не подписался</title>
-      <link>/posts/2010-07-16-114/</link>
+      <link>//localhost:1313/posts/2010-07-16-114/</link>
       <pubDate>Fri, 16 Jul 2010 17:45:42 +0000</pubDate>
-      <guid>/posts/2010-07-16-114/</guid>
+      <guid>//localhost:1313/posts/2010-07-16-114/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Sources quoted by US media columnists Michael Wolff say that no one is subscribing to The Times paywall. He says the newspaper’s website has been turned into an empty world.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.wallblog.co.uk/2010/07/14/no-one-is-subscribing-to-the-times-paywall-says-source/&#34;&gt;wallblog.co.uk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Times плохая? Или модель плохая?&lt;/p&gt;</description>
     </item>
     <item>
       <title>WIRED Magazine for iPad временно бесплатен</title>
-      <link>/posts/2010-06-30-229/</link>
+      <link>//localhost:1313/posts/2010-06-30-229/</link>
       <pubDate>Wed, 30 Jun 2010 22:33:33 +0000</pubDate>
-      <guid>/posts/2010-06-30-229/</guid>
+      <guid>//localhost:1313/posts/2010-06-30-229/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://itunes.apple.com/us/app/wired-magazine/id373903654?mt=8&#34;&gt;itunes.apple.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Судя по противоречивым данным со всех сторон, у Conde Nast снесло крышу и он не знает, по какой цене торговать Wired. Последние данные из iTunes - приложение загружается бесплатно, июньский и июльский номера покупаются по $3,99.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sports Illustrated наконец запустил iPad App</title>
-      <link>/posts/2010-06-25-198/</link>
+      <link>//localhost:1313/posts/2010-06-25-198/</link>
       <pubDate>Fri, 25 Jun 2010 19:53:41 +0000</pubDate>
-      <guid>/posts/2010-06-25-198/</guid>
+      <guid>//localhost:1313/posts/2010-06-25-198/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;June 24&lt;br&gt;&#xA;&lt;a href=&#34;http://community.nytimes.com/comments/mediadecoder.blogs.nytimes.com/2010/06/24/sports-illustrated-introduces-ipad-app/&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h5 id=&#34;sports-illustrated-introduces-ipad-apphttpmediadecoderblogsnytimescom20100624sports-illustrated-introduces-ipad-app-read-sports-illustrated-introduces-ipad-app&#34;&gt;&lt;a href=&#34;http://mediadecoder.blogs.nytimes.com/2010/06/24/sports-illustrated-introduces-ipad-app/&#34; title=&#34;Read: Sports Illustrated Introduces iPad App&#34;&gt;Sports Illustrated Introduces iPad App&lt;/a&gt;&lt;/h5&gt;&#xA;&lt;p&gt;Sports Illustrated is now available as an application for the iPad, providing another outlet for its trademark photography as well as new interactive features.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://mediadecoder.blogs.nytimes.com/2010/06/24/sports-illustrated-introduces-ipad-app/?ref=technology&#34;&gt;mediadecoder.blogs.nytimes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Интересно, получилось так же красиво, как в &lt;a href=&#34;http://goo.gl/eABL&#34;&gt;трейлере&lt;/a&gt;?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Платный контент отменяется - Андрей Мирошниченко - Блоггеры - Slon.ru</title>
-      <link>/posts/2010-01-25-2/</link>
+      <link>//localhost:1313/posts/2010-01-25-2/</link>
       <pubDate>Fri, 25 Jun 2010 19:45:15 +0000</pubDate>
-      <guid>/posts/2010-01-25-2/</guid>
+      <guid>//localhost:1313/posts/2010-01-25-2/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Недавно коллеги сбросили мне ролик – презентацию спортивного интернет-журнала будущего. Это, конечно, рывок, сравнимый с переходом от камеры-обскуры к синематографу. На планшете легко листаются красочные тексты с картинками, клик в нужном месте вызывает турнирную таблицу, историю матчей или биографию спортсмена. Какой-то эпизод статьи можно тут же отослать другу или обсудить в форуме. Ткнув пальцем в фотографию, можно посмотреть ролик с эпизодом матча. Мечта болельщика. Та самая газета Гарри Поттера с живыми картинками, о которой &lt;a href=&#34;http://slon.ru/articles/309291/&#34;&gt;говорил Демьян Кудрявцев из «Коммерсанта»&lt;/a&gt;. Многие заверяют, что охотно и нескупо платили бы за такой медийный продукт.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Главный результат продаж Wired для iPad — даже не тираж</title>
-      <link>/posts/2010-06-22-72/</link>
+      <link>//localhost:1313/posts/2010-06-22-72/</link>
       <pubDate>Tue, 22 Jun 2010 21:20:39 +0000</pubDate>
-      <guid>/posts/2010-06-22-72/</guid>
+      <guid>//localhost:1313/posts/2010-06-22-72/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;He also noted that the first digital issue of Wired magazine, which cost $4.99, had been downloaded more than 90,000 times since its release this month.&lt;/p&gt;&#xA;&lt;p&gt;“It surpassed our newsstands sales,” he said, before adding, “but interestingly, has not cannibalized them, either.”&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://bits.blogs.nytimes.com/2010/06/22/gourmet-magazine-revived-for-the-ipad/&#34;&gt;bits.blogs.nytimes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Дело даже не в том, что сумели продать более 90 тыс раз по 5 баксов (это дорого для США, где годовая подписка на журнал — 12 баксов). Продажи превысили продажи в киосках. И не снизили их.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Смешно. Журналы про iPhone для iPhone и про iPad для iPad</title>
-      <link>/posts/2010-06-10-196/</link>
+      <link>//localhost:1313/posts/2010-06-10-196/</link>
       <pubDate>Thu, 10 Jun 2010 19:02:03 +0000</pubDate>
-      <guid>/posts/2010-06-10-196/</guid>
+      <guid>//localhost:1313/posts/2010-06-10-196/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.sideways.com/&#34;&gt;sideways.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wired для iPad</title>
-      <link>/posts/2010-05-26-228/</link>
+      <link>//localhost:1313/posts/2010-05-26-228/</link>
       <pubDate>Wed, 26 May 2010 09:01:34 +0000</pubDate>
-      <guid>/posts/2010-05-26-228/</guid>
+      <guid>//localhost:1313/posts/2010-05-26-228/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://mashable.com/2010/05/26/wired-magazine-ipad/&#34;&gt;mashable.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ура, товарищи.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Trillion-Dollar Web Question « Mike Cane&#39;s iPad Test</title>
-      <link>/posts/2010-05-21-214/</link>
+      <link>//localhost:1313/posts/2010-05-21-214/</link>
       <pubDate>Fri, 21 May 2010 07:24:18 +0000</pubDate>
-      <guid>/posts/2010-05-21-214/</guid>
+      <guid>//localhost:1313/posts/2010-05-21-214/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://ipadtest.wordpress.com/2010/05/20/the-trillion-dollar-web-question/&#34;&gt;ipadtest.wordpress.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Журнал в формате HTML5. Выглядит примерно так, как во Flash.&lt;br&gt;&#xA;Проблема только в том, что это web.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Очень хороший текст Гатова, в т. ч. о местной прессе</title>
-      <link>/posts/2010-03-24-132/</link>
+      <link>//localhost:1313/posts/2010-03-24-132/</link>
       <pubDate>Wed, 24 Mar 2010 12:47:46 +0000</pubDate>
-      <guid>/posts/2010-03-24-132/</guid>
+      <guid>//localhost:1313/posts/2010-03-24-132/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;И угрозу развитию «новых СМИ» (не обязательно целиком  на интернет-платформе) вижу не в недостаточной численности интернет-россиян. Подключенные – возьмите любую цифру: хоть 10, хоть 20 процентов – это уже десятки миллионов, ознакомленных с концепцией интерактивных, открытых, «в-любую-минуту-обновляемых» СМИ. Каждый год в обсчитываемое маркетологами взрослое большинство (12 или 14 плюс, как они говорят) добавляется очередной почти миллион, рожденный и выращенный в эпоху, когда само понятие «интернет» столь же естественно, как и понятие «телевидение» или «радио» или «газета». Ни одно крупное федеральное издание, будь оно государственным или частным, принадлежащим публичной или «закрытой» компании, не занимается проблемой, будет ли это очередное микропоколение их читать. На вопросе «наши отношения с молодым читателем» поставлен жирный крест – вместе с общей уверенностью, что не будет.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Журнал VIV на iPad</title>
-      <link>/posts/2010-03-17-238/</link>
+      <link>//localhost:1313/posts/2010-03-17-238/</link>
       <pubDate>Wed, 17 Mar 2010 23:31:44 +0000</pubDate>
-      <guid>/posts/2010-03-17-238/</guid>
+      <guid>//localhost:1313/posts/2010-03-17-238/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://mashable.com/2010/03/17/awesome-ipad-digital-magazine-demo-video/&#34;&gt;mashable.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Симпатишно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Живое видео с новой презентации Wired в Air</title>
-      <link>/posts/2010-03-15-236/</link>
+      <link>//localhost:1313/posts/2010-03-15-236/</link>
       <pubDate>Mon, 15 Mar 2010 21:26:39 +0000</pubDate>
-      <guid>/posts/2010-03-15-236/</guid>
+      <guid>//localhost:1313/posts/2010-03-15-236/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.scribblelive.com/Event/SXSW2&#34;&gt;scribblelive.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Главное — работа над созданием интерактивного журнала занимает на 10–50% больше времени. Кажется, на это пойдут только серьёзные издания. Или стартапы.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NYT Book Review будет и в виде отдельного издания для читалок</title>
-      <link>/posts/2010-03-14-130/</link>
+      <link>//localhost:1313/posts/2010-03-14-130/</link>
       <pubDate>Sun, 14 Mar 2010 11:16:22 +0000</pubDate>
-      <guid>/posts/2010-03-14-130/</guid>
+      <guid>//localhost:1313/posts/2010-03-14-130/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The New York Times is planning to offer its Book Review as a separate digital e-reader product, disaggregated from the rest of the Times content on the mobile devices, according to&lt;/p&gt;&#xA;&lt;p&gt;James Dunn, director of marketing for The New York Times.&lt;/p&gt;&#xA;&lt;p&gt;Dunn alluded to the plan during an afternoon session at the&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.rjionline.org/projects/digital-publishing/index.php&#34;&gt;Digital Publishing Alliance&lt;/a&gt; (DPA) and E-Reader Symposium at the University of Missouri&amp;rsquo;s Reynolds Journalism Institute. Following the session, Dunn spoke briefly with Poynter&amp;rsquo;s Bill Mitchell and provided additional details.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Книги и журналы. Форсайт для индустрии</title>
-      <link>/posts/2010-03-11-a/</link>
+      <link>//localhost:1313/posts/2010-03-11-a/</link>
       <pubDate>Thu, 11 Mar 2010 22:35:20 +0000</pubDate>
-      <guid>/posts/2010-03-11-a/</guid>
+      <guid>//localhost:1313/posts/2010-03-11-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;In next 5 years magazine industry will loose 35% of its revenue but by 2020 the industry will recover because of digital delivery. By then industry will be changed completely and will be 58% digital, as opposed to 10% now. Digital will overtake magazine print by 2016 and this will make it easier to enter the market.&lt;/p&gt;&#xA;&lt;p&gt;Book industry will continue to grow slowly through 2020. Digital will grow 36% in 2014 and end up at 60% by 2020. Revenues from digital will eventually surpass revenues from print and see many more small players as barriers to entry are removed. Ereaders in use: 2010 15m unit installed base forecast, by 2020 861 million installed base. Unit prices of ereaders will fall to under $100 by 2015 and this is when the market will really take off. Expect this price point to be reached for all forms of ereaders. In 2020 expect to spend $80/ereader for digital content per year.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wired App - это Adobe AIR</title>
-      <link>/posts/2010-02-16-5/</link>
+      <link>//localhost:1313/posts/2010-02-16-5/</link>
       <pubDate>Tue, 16 Feb 2010 20:26:44 +0000</pubDate>
-      <guid>/posts/2010-02-16-5/</guid>
+      <guid>//localhost:1313/posts/2010-02-16-5/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;When the &lt;em&gt;WIRED&lt;/em&gt; app becomes available as a consumer-facing product, readers will be able to use it across a variety of device types because Adobe AIR is cross-platform. And since the publishing world is abuzz about the forthcoming Apple iPad, we expect that through our Packager for iPhone feature (available in an upcoming version of Flash Professional), these types of AIR content apps will run on the iPhone and iPad.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Каким будет Wired в iPad</title>
-      <link>/posts/2010-02-16-3/</link>
+      <link>//localhost:1313/posts/2010-02-16-3/</link>
       <pubDate>Tue, 16 Feb 2010 20:04:02 +0000</pubDate>
-      <guid>/posts/2010-02-16-3/</guid>
+      <guid>//localhost:1313/posts/2010-02-16-3/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://mashable.com/2010/02/16/wired-magazine-ipad-demo/&#34;&gt;mashable.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Это даже интереснее, чем демонстрашка Sports Illustrated.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Компьютерра-Онлайн в формате fb2. Пора Часкор в формате epub</title>
-      <link>/posts/2010-01-26-1/</link>
+      <link>//localhost:1313/posts/2010-01-26-1/</link>
       <pubDate>Tue, 26 Jan 2010 22:41:17 +0000</pubDate>
-      <guid>/posts/2010-01-26-1/</guid>
+      <guid>//localhost:1313/posts/2010-01-26-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.computerra.ru/about/&#34;&gt;О проекте&lt;/a&gt; | &lt;a href=&#34;http://www.computerra.ru/advert/&#34;&gt;Реклама на сайте&lt;/a&gt; | &lt;a href=&#34;http://www.computerra.ru/maillists/&#34;&gt;Рассылки сайта&lt;/a&gt; | &lt;a href=&#34;http://pda.computerra.ru/&#34;&gt;КПК–версия&lt;/a&gt; | Карта Computerra.ru | &amp;ndash;&amp;gt; &lt;a href=&#34;http://www.computerra.ru/rss.xml&#34;&gt;&lt;img src=&#34;http://www.computerra.ru/upload/rssico.gif&#34; alt=&#34;RSS-трансляция&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;http://www.twitter.com/computerra&#34;&gt;&lt;img src=&#34;http://www.computerra.ru/images/twitter.png&#34; alt=&#34;Компьютерра на Twitter&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.computerra.ru/fb2/&#34;&gt;computerra.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.computerra.ru/fb2/&#34;&gt;Тут выкладывают дайджесты&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>&#34;Компьютерра&#34; для букридеров</title>
-      <link>/posts/2010-01-20-3/</link>
+      <link>//localhost:1313/posts/2010-01-20-3/</link>
       <pubDate>Wed, 20 Jan 2010 11:40:08 +0000</pubDate>
-      <guid>/posts/2010-01-20-3/</guid>
+      <guid>//localhost:1313/posts/2010-01-20-3/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Пробуйте, тестируйте, и если выловите ещё какие-то баги – непременно сообщайте в комментариях к данному посту, мы учтём на будущее. Если ни у кого нет возражений, архивы будут выкладываться еженедельно, по вторникам. На сайте у них будет своё место, о появлении которого известим дополнительно.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.computerra.ru/interactive/496422/&#34;&gt;computerra.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Правильный тренд.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Первые картинки Skiff - «херстовского» ридера для СМИ</title>
-      <link>/posts/2010-01-04-1/</link>
+      <link>//localhost:1313/posts/2010-01-04-1/</link>
       <pubDate>Mon, 04 Jan 2010 22:25:04 +0000</pubDate>
-      <guid>/posts/2010-01-04-1/</guid>
+      <guid>//localhost:1313/posts/2010-01-04-1/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.businessinsider.com/hearst-shows-off-its-snazzy-e-reader-the-skiff-reader-2010-1&#34;&gt;businessinsider.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Дисплей 11,5 дюймов. Разрешение 1200 х 1600. Гибкий дисплей производства LG на фольге. Симпатично. Вопрос цены.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Подписка на Wall Street Journal владельцам нового PRS-900 Sony Daily Edition</title>
-      <link>/posts/2009-12-17-119/</link>
+      <link>//localhost:1313/posts/2009-12-17-119/</link>
       <pubDate>Thu, 17 Dec 2009 22:11:46 +0000</pubDate>
-      <guid>/posts/2009-12-17-119/</guid>
+      <guid>//localhost:1313/posts/2009-12-17-119/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Sony announced Thursday morning that it will sell subscriptions to the digital edition of the Journal as well as a daily summary of news events available only to owners of the Sony device. In addition, users will be able to subscribe to a daily summary of news stories and columns from MarketWatch.com, which like the Journal is owned by Dow Jones &amp;amp; Co.&lt;/p&gt;&#xA;&lt;p&gt;The Journal summary will cost $5 a month on top of the $14.99 monthly charge for the digital edition of the paper, while a subscription to the MarketWatch product will cost $10.99 a month.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mag&#43; концепт цифрового журнала на таблетке</title>
-      <link>/posts/2009-12-17-92/</link>
+      <link>//localhost:1313/posts/2009-12-17-92/</link>
       <pubDate>Thu, 17 Dec 2009 21:46:32 +0000</pubDate>
-      <guid>/posts/2009-12-17-92/</guid>
+      <guid>//localhost:1313/posts/2009-12-17-92/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.engadget.com/2009/12/17/mag-digital-magazine-concept-makes-e-readers-cower-with-envy-v/&#34;&gt;engadget.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Смотрится очень симпатично.&lt;/p&gt;</description>
     </item>
     <item>
       <title>TimeOut готовит электронные путеводители</title>
-      <link>/posts/2009-12-07-a/</link>
+      <link>//localhost:1313/posts/2009-12-07-a/</link>
       <pubDate>Mon, 07 Dec 2009 21:41:25 +0000</pubDate>
-      <guid>/posts/2009-12-07-a/</guid>
+      <guid>//localhost:1313/posts/2009-12-07-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.tnooz.com/2009/12/07/news/time-out-creates-ebooks-for-city-guides-takes-the-murdoch-paid-for-route/#&#34;&gt;Time Out creates eBooks for city guides, takes the Murdoch paid-for route | Tnooz&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Just days after Travellerspoint revealed its simplistic, on-demand email city and country guides, social and travel publishing giant Time Out unveils its own take on the on-the-go guides.&lt;/p&gt;&#xA;&lt;p&gt;The publisher’s popular city guides are in the process of being formatted for eReaders, Blackberry, PDA and web and will available for download from its own store and other online retailers this month.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Русский глянец в Zinio</title>
-      <link>/posts/2009-10-14-93/</link>
+      <link>//localhost:1313/posts/2009-10-14-93/</link>
       <pubDate>Wed, 14 Oct 2009 14:57:00 +0000</pubDate>
-      <guid>/posts/2009-10-14-93/</guid>
+      <guid>//localhost:1313/posts/2009-10-14-93/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.chaskor.ru&#34;&gt;&lt;img src=&#34;http://www.chaskor.ru/images/logo5.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;среда, 14 октября 2009 года, 16.47&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.chaskor.ru/posts_images_200910/392_300_11347_zinibig.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Валентин Мальцев, Анастасия Алексеева&lt;/strong&gt; Дополненная реальность&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Журналы вышли в электронный тираж&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Крупнейшие в России издательские дома — Independent Media, а за ним и Hachette Filipacchi Shkulev — приняли, возможно, самое судьбоносное решение и начали сотрудничество с крупнейшим распространителем цифровых журналов компанией Zinio. Журналы будут оцифровываться и распространяться в интернете — за плату. Возможно, в будущем эта бизнес-модель вытеснит как традиционную бумажную, так и бесплатный онлайн-контент. &lt;a href=&#34;http://www.chaskor.ru/p.php?id=11347&#34;&gt;Подробнее&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Открылся новый портал о книжном бизнесе Pro-Books.ru</title>
-      <link>/posts/2009-09-29-124/</link>
+      <link>//localhost:1313/posts/2009-09-29-124/</link>
       <pubDate>Tue, 29 Sep 2009 23:09:25 +0000</pubDate>
-      <guid>/posts/2009-09-29-124/</guid>
+      <guid>//localhost:1313/posts/2009-09-29-124/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://pro-books.ru/&#34;&gt;Pro-Books.ru | Книжный бизнес Online&lt;/a&gt; Приветствуем и читаем.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Продается Publishers Weekly</title>
-      <link>/posts/2009-07-30-127/</link>
+      <link>//localhost:1313/posts/2009-07-30-127/</link>
       <pubDate>Thu, 30 Jul 2009 14:43:07 +0000</pubDate>
-      <guid>/posts/2009-07-30-127/</guid>
+      <guid>//localhost:1313/posts/2009-07-30-127/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.publishersweekly.com/article/CA6673929.html?rssid=192&#34;&gt;&amp;lsquo;PW&amp;rsquo; For Sale - 7/30/2009 7:32:00 AM - Publishers Weekly&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Reed Business Information is putting Publishers Weekly and its affiliated publications, Library Journal and School Library Journal, up for sale. The sale of the group is part of RBI’s strategy to divest most of its trade magazines in the U.S. Last year, Reed Elsevier, parent company of RBI, tried to sell all of RBI but dropped the sale when it couldn’t get the price it wanted in a depressed market for media properties. In a related announcement, Tad Smith, CEO of RBI US, has resigned. John Poulin has been named acting CEO and he will head the sales process.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Скоро появится Amazon Kindle для газет</title>
-      <link>/posts/2009-05-04-143/</link>
+      <link>//localhost:1313/posts/2009-05-04-143/</link>
       <pubDate>Mon, 04 May 2009 10:18:31 +0000</pubDate>
-      <guid>/posts/2009-05-04-143/</guid>
+      <guid>//localhost:1313/posts/2009-05-04-143/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2009/05/04/technology/companies/04reader.html?_r=2&amp;amp;ref=technology&#34;&gt;Big-Screen e-Readers May Help Save Newspapers - NYTimes.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;But it is Amazon, maker of the Kindle, that appears to be first in line to try throwing an electronic life preserver to old-media companies. As early as this week, according to people briefed on the online retailer’s plans, Amazon will introduce a larger version of its Kindle wireless device tailored for displaying newspapers, magazines and perhaps textbooks. An Amazon spokesman would not comment, but some news organizations, including The New York Times, are expected to be involved in the introduction of the device, according to people briefed on the plans. A spokeswoman for The Times, Catherine J. Mathis, said she could not comment on the company’s relationship with Amazon.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Esquire с обложкой из электронной бумаги</title>
-      <link>/posts/2008-07-21-13/</link>
+      <link>//localhost:1313/posts/2008-07-21-13/</link>
       <pubDate>Mon, 21 Jul 2008 20:45:22 +0000</pubDate>
-      <guid>/posts/2008-07-21-13/</guid>
+      <guid>//localhost:1313/posts/2008-07-21-13/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2008/07/21/business/media/21esquire.html?_r=2&amp;amp;oref=login&amp;amp;oref=slogin&#34;&gt;News Flash From the Cover of Esquire - Paper Magazines Can Be High Tech, Too - NYTimes.com&lt;/a&gt; В сентябре на стендах журнальных киосках в США появится журнал Esquire с обложкой из электронной бумаги. Для журнала, который весьма трепетно относится к своим обложкам, это важный шаг. Жаль, что новой обложкой будут снабжены только 100 тысяч экземпляров журнала, которые будут продаваться в розницу в США :-(&lt;/p&gt;</description>
     </item>
     <item>
       <title>Электронные газеты выйдут на рынок через год</title>
-      <link>/posts/2008-07-08-a/</link>
+      <link>//localhost:1313/posts/2008-07-08-a/</link>
       <pubDate>Tue, 08 Jul 2008 09:17:08 +0000</pubDate>
-      <guid>/posts/2008-07-08-a/</guid>
+      <guid>//localhost:1313/posts/2008-07-08-a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://techon.nikkeibp.co.jp/english/NEWS_EN/20080624/153754/&#34;&gt;E Ink: &amp;lsquo;E-newspapers&amp;rsquo; to Go Commercial in late 2009 &amp;ndash; Tech-On!&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;«Тестирование газет на электронной бумаге начнется в конце 2008 г., а выход на рынок — во второй половине 2009 г.» — сказал Рёсуке Кувата, вице-президент &lt;a href=&#34;http://www.eink.com/&#34;&gt;E Ink Corp&lt;/a&gt;: «Газеты — это сфера, на которую мы обращаем большое внимание. Я имею в виду газеты на электронной бумаге. Издательские компании сделали серьезные шаги в этом направлении в прошлом году. Сейчас мы работаем в очень плотном контакте с основными издателями газет в Японии […] И не только японские газеты заинтересованы в этом. Насколько я знаю, издатели газет из США начали проявлять интерес к электронным газетам даже раньше, чем их японские коллеги […] Наверное, мало, кто знает, что Hearst Corp. сделала небольшие инвестиции в E Ink, поскольку также заинтересована в электронных газетах […] В Европе в этом же направлении начала двигаться, например, &lt;em&gt;Le Monde&lt;/em&gt; во Франции. В настоящий момент издатели газеты предполагают начать тесты с использованием нескольких тысяч устройств в конце 2008 г. После завершения тестирования компании начнут постепенное вхождение на этот рынок во второй половине 2009 г. Что касается формы самих устройств и сервисов, то каждая газета будет поступать по-своему. Hearst, например, предполагает не только поставлять контент, но и самостоятельно изготавливать сами устройства. Европейские газеты, напротив, собираются использовать уже существующие устройства или договариваться об их поставках с OEM-производителями, стараясь сосредоточиться на контенте».&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Germany on Новости электронного книгоиздания</title>
-    <link>/tags/germany/</link>
+    <link>//localhost:1313/tags/germany/</link>
     <description>Recent content in Germany on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 19 Feb 2019 14:54:48 +0000</lastBuildDate>
-    <atom:link href="/tags/germany/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/germany/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Крупнейший оптовик Германии подал на банкротство</title>
-      <link>/posts/2019-02-19-a/</link>
+      <link>//localhost:1313/posts/2019-02-19-a/</link>
       <pubDate>Tue, 19 Feb 2019 14:54:48 +0000</pubDate>
-      <guid>/posts/2019-02-19-a/</guid>
+      <guid>//localhost:1313/posts/2019-02-19-a/</guid>
       <description>&lt;p&gt;Главный книжный оптовик Германии KNV Group &lt;a href=&#34;https://publishingperspectives.com/2019/02/german-market-watches-largest-wholesaler-distributor-knv-bankruptcy-crisis/&#34;&gt;подал заявление о банкротстве&lt;/a&gt; и пытается реструктурироваться. Koch, Neff und Volckmar — это примерно как Союзкниготорг, но только 5000 издателями-поставщиками, 5600 книжных магазинов-получателей в Германии, Австрии и Швейцарии + ещё 7000 точками продаж книг. Издаешь книгу, отдаешь в KNV и, в общем, спишь спокойно. Ну, почти. Börsenverein, объединение немецких издателей, уже заявило, что всё ОК, разбираемся, спите дальше, всё это «никак не связано со спросом на книги», а с ценой на дизельное топливо и ошибками руководства. Издатели, однако, кажется, в шоке. И правда, если KNV рухнет, то прекрасный спрос на книги кто будет удовлетворять? Amazon, что ли?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Немецкий гигант Tolino наконец запустил платформу  самопубликации</title>
-      <link>/posts/2015-04-28-a/</link>
+      <link>//localhost:1313/posts/2015-04-28-a/</link>
       <pubDate>Tue, 28 Apr 2015 21:48:10 +0000</pubDate>
-      <guid>/posts/2015-04-28-a/</guid>
+      <guid>//localhost:1313/posts/2015-04-28-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Publizieren Sie jetzt Ihr eBook bei tolino media. In nur 3 Schritten zum eBook. Echte 70% Honorar. Jetzt testen!&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;https://www.tolino-media.de&#34;&gt;Startseite&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Barnes &amp; Noble заходит в Европу через Германию</title>
-      <link>/posts/2012-03-29-b/</link>
+      <link>//localhost:1313/posts/2012-03-29-b/</link>
       <pubDate>Thu, 29 Mar 2012 08:13:15 +0000</pubDate>
-      <guid>/posts/2012-03-29-b/</guid>
+      <guid>//localhost:1313/posts/2012-03-29-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Just as Amazon is launching a new Kindle (but not the Fire tablet, yet) in Europe, one of its big competitors is taking one more step in its bid to enter the European market: Barnes &amp;amp; Noble has incorporated a new company, Barnes &amp;amp; Noble Digital Media GmbH, in Germany.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://techcrunch.com/2012/03/29/barnes-noble-incorporates-in-germany-closest-sign-yet-of-european-nook-launch/&#34;&gt;techcrunch.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;В Германии B&amp;amp;N уже работает с Thalia. Будет и тут конкурировать с Amazon.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon.de не только начал продавать Kindle, но и открыл KDP</title>
-      <link>/posts/2011-04-25-a/</link>
+      <link>//localhost:1313/posts/2011-04-25-a/</link>
       <pubDate>Mon, 25 Apr 2011 09:34:07 +0000</pubDate>
-      <guid>/posts/2011-04-25-a/</guid>
+      <guid>//localhost:1313/posts/2011-04-25-a/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The Amazon.de Kindle Store serves customers in Germany, Austria, Switzerland, Liechtenstein and Luxembourg, but we have no doubt that it&amp;rsquo;ll hit other nations shortly.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://hothardware.com/News/Amazonde-Allows-SelfPublishing-To-Kindle-EBook-Store/&#34;&gt;hothardware.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Пипец к российским издателям подбирается всё ближе. Против сервиса самопубликаций на Amazon сражаться будет не очень просто, убеждая авторов в нужности издателя.&lt;/p&gt;&#xA;&lt;p&gt;Конечно, переходить Березину Amazon будет долго — интерфейс и пр. Но рано или поздно — в течение лет трёх,— думаю, это случится.&lt;/p&gt;</description>
     </item>
   </channel>

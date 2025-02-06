@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on Новости электронного книгоиздания</title>
-    <link>/tags/books/</link>
+    <link>//localhost:1313/tags/books/</link>
     <description>Recent content in Books on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 14 Dec 2011 11:35:20 +0000</lastBuildDate>
-    <atom:link href="/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Книга о трансорфмации книги и чтения: Breaking the Page: Preview Edition - O&#39;Reilly Media</title>
-      <link>/posts/2011-12-14-2/</link>
+      <link>//localhost:1313/posts/2011-12-14-2/</link>
       <pubDate>Wed, 14 Dec 2011 11:35:20 +0000</pubDate>
-      <guid>/posts/2011-12-14-2/</guid>
+      <guid>//localhost:1313/posts/2011-12-14-2/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://shop.oreilly.com/product/0636920020677.do?sortby=publicationDate&#34;&gt;&lt;img src=&#34;http://akamaicovers.oreilly.com/images/0636920020677/cat.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://shop.oreilly.com/product/0636920020677.do#&#34;&gt;Larger Cover&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Breaking the Page: Preview Edition&lt;/p&gt;&#xA;&lt;p&gt;By &lt;a href=&#34;http://shop.oreilly.com/product/0636920020677.do#tab_03&#34;&gt;Peter Meyers&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://shop.oreilly.com/product/0636920020677.do&#34;&gt;shop.oreilly.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Причём бесплатно. И Питер Мейерс дело &lt;a href=&#34;http://newkindofbook.com/&#34;&gt;знает&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Вышла книжка про EPUB 3 (O&#39;Reilly Media). Пока бесплатная</title>
-      <link>/posts/2011-09-05-3/</link>
+      <link>//localhost:1313/posts/2011-09-05-3/</link>
       <pubDate>Wed, 05 Oct 2011 12:32:04 +0000</pubDate>
-      <guid>/posts/2011-09-05-3/</guid>
+      <guid>//localhost:1313/posts/2011-09-05-3/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;What Is EPUB 3?&lt;/p&gt;&#xA;&lt;p&gt;An Introduction to the EPUB Specification for Multimedia Publishing&lt;/p&gt;&#xA;&lt;p&gt;By &lt;a href=&#34;http://shop.oreilly.com/product/0636920022442.do#tab_03&#34;&gt;Matt Garrish&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Publisher: O&amp;rsquo;Reilly Media&lt;/p&gt;&#xA;&lt;p&gt;Released: September 2011&lt;/p&gt;&#xA;&lt;p&gt;Pages: 24&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://shop.oreilly.com/product/0636920022442.do&#34;&gt;shop.oreilly.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Книжка Дэна Гилмора Mediactive</title>
-      <link>/posts/2011-05-19-f/</link>
+      <link>//localhost:1313/posts/2011-05-19-f/</link>
       <pubDate>Thu, 19 May 2011 10:55:37 +0000</pubDate>
-      <guid>/posts/2011-05-19-f/</guid>
+      <guid>//localhost:1313/posts/2011-05-19-f/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://mediactive.com/&#34;&gt;mediactive.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Это тот Дэн Гилмор, который придумал citizen journalism.&lt;br&gt;&#xA;PDF можно скачать for free.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Дуглас Коупленд написал биографию Маклюена</title>
-      <link>/posts/2011-01-13-b/</link>
+      <link>//localhost:1313/posts/2011-01-13-b/</link>
       <pubDate>Thu, 13 Jan 2011 14:41:05 +0000</pubDate>
-      <guid>/posts/2011-01-13-b/</guid>
+      <guid>//localhost:1313/posts/2011-01-13-b/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.tnr.com/sites/default/files/imagecache/detail_page/Mcluhan.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Marshall McLuhan&lt;/p&gt;&#xA;&lt;h2 id=&#34;marshall-mcluhan-you-know-nothing-of-my-work&#34;&gt;Marshall McLuhan: You Know Nothing of My Work!&lt;/h2&gt;&#xA;&lt;h3 id=&#34;by-douglas-coupland&#34;&gt;by Douglas Coupland&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.powells.com/partner/35472/biblio/1-9781935633167-0&#34;&gt;Atlas, 216 pp., $24&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.tnr.com/book/review/the-medium-mcluhan&#34;&gt;tnr.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Must translate, блин.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новая книжка Эрика Дэвиса</title>
-      <link>/posts/2010-12-07-125/</link>
+      <link>//localhost:1313/posts/2010-12-07-125/</link>
       <pubDate>Tue, 07 Dec 2010 21:58:07 +0000</pubDate>
-      <guid>/posts/2010-12-07-125/</guid>
+      <guid>//localhost:1313/posts/2010-12-07-125/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://posterous.com/getfile/files.posterous.com/v-x/lIFiFggisDdzxknfixrJwzneosfuqvxeqpijshxivlqrxDpIBqAyEJtnxDJw/media_httpecximagesam_loEum.jpg.scaled500.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://www.amazon.com/gp/product/1891241540?ie=UTF8&amp;amp;tag=boingboing0e-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=1891241540&#34;&gt;amazon.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Для тех, кто в танке, — это автор «Техногнозиса».&lt;/p&gt;&#xA;&lt;p&gt;Ну, чё, надо издавать, видимо.&lt;/p&gt;</description>
     </item>
     <item>
       <title>In Praise of Copying - Marcus Boon. Копируйте! И читайте</title>
-      <link>/posts/2010-10-24-76/</link>
+      <link>//localhost:1313/posts/2010-10-24-76/</link>
       <pubDate>Sun, 24 Oct 2010 09:00:04 +0000</pubDate>
-      <guid>/posts/2010-10-24-76/</guid>
+      <guid>//localhost:1313/posts/2010-10-24-76/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.hup.harvard.edu/features/boon/&#34;&gt;hup.harvard.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Program or be Programmed - новая книжка Рашкоффа</title>
-      <link>/posts/2010-09-30-170/</link>
+      <link>//localhost:1313/posts/2010-09-30-170/</link>
       <pubDate>Thu, 30 Sep 2010 07:39:31 +0000</pubDate>
-      <guid>/posts/2010-09-30-170/</guid>
+      <guid>//localhost:1313/posts/2010-09-30-170/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.orbooks.com/our-books/program/&#34;&gt;orbooks.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Воспоминания Джереми Эттингхаузена, цифрового издателя</title>
-      <link>/posts/2010-09-29-223/</link>
+      <link>//localhost:1313/posts/2010-09-29-223/</link>
       <pubDate>Wed, 29 Sep 2010 15:10:29 +0000</pubDate>
-      <guid>/posts/2010-09-29-223/</guid>
+      <guid>//localhost:1313/posts/2010-09-29-223/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://thepenguinblog.typepad.com/the_penguin_blog/2010/09/theygrowupfast.html&#34;&gt;thepenguinblog.typepad.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Вот уже и воспоминания пошли…&lt;/p&gt;&#xA;&lt;p&gt;Я не знал, что Джереми делал проект книжки Стивена Фрая. Уважаю.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Public Domain: Enclosing the Commons of the Mind - стоило бы перевести</title>
-      <link>/posts/2010-01-14-4/</link>
+      <link>//localhost:1313/posts/2010-01-14-4/</link>
       <pubDate>Thu, 14 Jan 2010 21:46:18 +0000</pubDate>
-      <guid>/posts/2010-01-14-4/</guid>
+      <guid>//localhost:1313/posts/2010-01-14-4/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/gp/product/0300137400?ie=UTF8&amp;amp;tag=httpthepublio-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=0300137400&#34;&gt;&lt;img src=&#34;http://www.thepublicdomain.org/wp-content/uploads/2008/11/smallcover2.jpg&#34; alt=&#34;&#34; title=&#34;smallcover2&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; alt=&#34;Creative Commons License&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;The Public Domain: Enclosing the Commons of the Mind&lt;/em&gt; is licensed under a &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike License&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;If you like it, please consider &lt;a href=&#34;http://www.amazon.com/gp/product/0300137400?ie=UTF8&amp;amp;tag=httpthepublio-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=0300137400&#34;&gt;buying&lt;/a&gt; a copy.&lt;/p&gt;&#xA;&lt;p&gt;Why am I allowing you to copy the book for free?  And why is Yale University Press letting me?   To understand why I am doing it, watch this &lt;a href=&#34;http://www.youtube.com/watch?v=1DKm96Ftfko&#34;&gt;video&lt;/a&gt; by Jesse Dylan.  And if you want to  understand why it  makes economic sense to my publisher, read this short &lt;a href=&#34;http://www.ft.com/cms/s/b46f5a58-aa2e-11db-83b0-0000779e2340.html&#34;&gt;article&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>China Underground by Zachary Mexico. Стоит напечатать?</title>
-      <link>/posts/2009-12-12-38/</link>
+      <link>//localhost:1313/posts/2009-12-12-38/</link>
       <pubDate>Sat, 12 Dec 2009 23:23:20 +0000</pubDate>
-      <guid>/posts/2009-12-12-38/</guid>
+      <guid>//localhost:1313/posts/2009-12-12-38/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://www.amazon.com/China-Underground-Zachary-Mexico/dp/1593762232/ref=sr_1_1?ie=UTF8&amp;amp;s=books&amp;amp;qid=1260659838&amp;amp;sr=1-1&#34;&gt;amazon.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

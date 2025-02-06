@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Industry on Новости электронного книгоиздания</title>
-    <link>/tags/industry/</link>
+    <link>//localhost:1313/tags/industry/</link>
     <description>Recent content in Industry on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 26 Dec 2018 14:28:24 +0000</lastBuildDate>
-    <atom:link href="/tags/industry/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/industry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Некоторые итоги 2018</title>
-      <link>/posts/2018-12-26-a/</link>
+      <link>//localhost:1313/posts/2018-12-26-a/</link>
       <pubDate>Wed, 26 Dec 2018 14:28:24 +0000</pubDate>
-      <guid>/posts/2018-12-26-a/</guid>
+      <guid>//localhost:1313/posts/2018-12-26-a/</guid>
       <description>&lt;p&gt;На «&lt;a href=&#34;https://gorky.media/context/nastuplenie-robotov-i-povod-dlya-ostorozhnogo-optimizma/&#34;&gt;Горьком&lt;/a&gt;» про индустрию. В &lt;a href=&#34;https://republic.ru/posts/92742&#34;&gt;Republic&lt;/a&gt; про авторские права. В &lt;a href=&#34;http://t.me/words_and_money/1470&#34;&gt;Telegram&lt;/a&gt; про прочитанные книги.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Типографский дисбаланс</title>
-      <link>/posts/2018-12-24-b/</link>
+      <link>//localhost:1313/posts/2018-12-24-b/</link>
       <pubDate>Mon, 24 Dec 2018 17:08:32 +0000</pubDate>
-      <guid>/posts/2018-12-24-b/</guid>
+      <guid>//localhost:1313/posts/2018-12-24-b/</guid>
       <description>&lt;p&gt;Жаль, не попалась мне &lt;a href=&#34;https://www.nytimes.com/2018/12/23/books/paper-printers-holiday-sales-books-publishers.html&#34;&gt;эта история&lt;/a&gt; до написания всяких обзор книжных индустриальных событий этого года. История крайне примечательная: &lt;strong&gt;в США типографии&lt;/strong&gt;, сократившие свои мощности, закупки бумагу и рабочую силу, &lt;strong&gt;не справляются с печатью нескольких последних бестселлеров этого года&lt;/strong&gt;. В частности, книгу Мишель Обамы продали уже 3 800 000 экз. В результате сдвигаются допечатки и тиражи других книг. В выигрыше, конечно, останутся независимые книжные, у которых и так рост продаж в этом году на 5%. Вроде бы надо радоваться за американских издателей и читателей. Но что-то тут не так. Не бывает такого эффекта без существенного внутреннего перекоса. Это ведь те самые долгожданные бестселлеры, которых так ждали большие издатели ещё в прошлом году, и которые тогда не пришли. И вот бестселлеры тут, спрос есть, но типографии не могут. Как же так, собственно? А кто нам рассказывал несколько лет, что у них «ренессанс бумаги»? Какой может быть «ренессанс бумаги», если одни крупные типографии закрываются, а другие сливаются, чтобы не разориться? Не исключено, конечно, что опять подгадил интернет, и типографии тяжко страдают не от спада книжного производства, а от постепенно исчезающей печати газет и журналов, и такая история с книгами — просто коллатеральный ущерб. Может быть. Но, в таком случае, получается, что на одних книгах типографиям не прожить и такая ерунда с тиражами будет продолжаться. Очень интересно. Вон он какой, «ренессанс бумаги».&lt;/p&gt;</description>
     </item>
   </channel>

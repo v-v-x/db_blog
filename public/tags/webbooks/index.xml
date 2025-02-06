@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webbooks on Новости электронного книгоиздания</title>
-    <link>/tags/webbooks/</link>
+    <link>//localhost:1313/tags/webbooks/</link>
     <description>Recent content in Webbooks on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 21 Feb 2019 07:59:47 +0000</lastBuildDate>
-    <atom:link href="/tags/webbooks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/webbooks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Научные статьи с исполняемым кодом</title>
-      <link>/posts/2019-02-21-a/</link>
+      <link>//localhost:1313/posts/2019-02-21-a/</link>
       <pubDate>Thu, 21 Feb 2019 07:59:47 +0000</pubDate>
-      <guid>/posts/2019-02-21-a/</guid>
+      <guid>//localhost:1313/posts/2019-02-21-a/</guid>
       <description>&lt;p&gt;Очень симпатичная штука: &lt;a href=&#34;https://elifesciences.org/labs/ad58f08d/introducing-elife-s-first-computationally-reproducible-article&#34;&gt;computationally reproducible article&lt;/a&gt;. В статье на сайте можно поменять код, генерирующий диаграмму, или набор данных и посмотреть, что получится. Гуманитариям (за исключением &lt;em&gt;цифровых&lt;/em&gt;) это, наверное, не слишком интересно. А вот биологи, физики и прочие учёные оценят. Это всё к тому, что бессмысленно цепляться за бумагу для научных изданий.&lt;/p&gt;</description>
     </item>
   </channel>

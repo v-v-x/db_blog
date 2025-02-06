@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wordpress on Новости электронного книгоиздания</title>
-    <link>/tags/wordpress/</link>
+    <link>//localhost:1313/tags/wordpress/</link>
     <description>Recent content in Wordpress on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 22 Apr 2016 22:18:32 +0000</lastBuildDate>
-    <atom:link href="/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Не про книги. iA Writer -&gt; WordPress</title>
-      <link>/posts/2016-04-22-a/</link>
+      <link>//localhost:1313/posts/2016-04-22-a/</link>
       <pubDate>Fri, 22 Apr 2016 22:18:32 +0000</pubDate>
-      <guid>/posts/2016-04-22-a/</guid>
+      <guid>//localhost:1313/posts/2016-04-22-a/</guid>
       <description>&lt;p&gt;В iA Writer (кажется, лучший редактор текстов для Mac, да и для iOS с Android, на последнем он ещё и бесплатный) наконец появилась возможность шаринга не только в Medium, но и в WordPress. Правда, в WordPress.com. Несколько промаявшись, однако, получилось настроить шэринг и на вот этот вот блог через вордпрессовский JetPack (связать аккаунты, выбрать первичный). К чему все эти сложности? Сколько лет живу тут, не оставляет забота о том, чтобы всё со всем было связано. Может, так крепче. Собственно, именно поэтому книги всё равно, рано или поздно, будут в браузерах.&lt;/p&gt;</description>
     </item>
   </channel>

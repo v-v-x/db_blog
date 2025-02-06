@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ukrain on Новости электронного книгоиздания</title>
-    <link>/tags/ukrain/</link>
+    <link>//localhost:1313/tags/ukrain/</link>
     <description>Recent content in Ukrain on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 05 Aug 2011 09:17:15 +0000</lastBuildDate>
-    <atom:link href="/tags/ukrain/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/ukrain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Букридер для школ Украины</title>
-      <link>/posts/2011-08-05-1/</link>
+      <link>//localhost:1313/posts/2011-08-05-1/</link>
       <pubDate>Fri, 05 Aug 2011 09:17:15 +0000</pubDate>
-      <guid>/posts/2011-08-05-1/</guid>
+      <guid>//localhost:1313/posts/2011-08-05-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Компания AirOn, занимающаяся разработкой и поставкой на украинский рынок букридеров под торговой маркой &lt;strong&gt;AirBook Liber&lt;/strong&gt;, намеревается поставлять электронные учебники для школьников 5-12 классов и студентов 1-2 курсов украинских вузов.&lt;/p&gt;&#xA;&lt;p&gt;Пресс-служба компании объявила о создании букридера, содержащего учебный материал по всем предметным направлениям для указанных категорий учащихся. Сообщается, что контент электронного учебника полностью соответствует методическим рекомендациям Минобразования Украины и включает не только текстовые материалы, но и графику, аудиозаписи и словари.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://pro-books.ru/news/3/7653#.TjuyLWRpjLE.twitter&#34;&gt;pro-books.ru&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Даже</title>
-      <link>/posts/2010-02-19-49/</link>
+      <link>//localhost:1313/posts/2010-02-19-49/</link>
       <pubDate>Fri, 19 Feb 2010 17:54:15 +0000</pubDate>
-      <guid>/posts/2010-02-19-49/</guid>
+      <guid>//localhost:1313/posts/2010-02-19-49/</guid>
       <description>&lt;p&gt;В Киеве 19 февраля 2010 в Министерстве образования и науки Украины состоялась презентация «Школьный электронный учебник – учебник будущего».&lt;/p&gt;&#xA;&lt;p&gt;Киев, 19 февраля 2010 &amp;ndash; «Школьный электронный учебник – учебник будущего» - совместный проект Института инновационных технологий Министерства образования и науки Украины, Государственного специализированного издательства «Освита» и Издательского дома «МОСТ Паблишинг», который направлен на внедрение в учебный процесс новейших разработок и современного содержания образования. &lt;/p&gt;&#xA;&lt;p&gt;«Pocketbook 901» - это первый электронный учебник, рекомендованный для украинских школьников. Он разработан с учетом потребностей современного ученика», - отметил Науменко Олег Владимирович, директор компании «PocketBook». &lt;/p&gt;</description>
     </item>
     <item>
       <title>PocketBook и Освiта уже двигают в школы</title>
-      <link>/posts/2010-01-20-4/</link>
+      <link>//localhost:1313/posts/2010-01-20-4/</link>
       <pubDate>Wed, 20 Jan 2010 09:42:39 +0000</pubDate>
-      <guid>/posts/2010-01-20-4/</guid>
+      <guid>//localhost:1313/posts/2010-01-20-4/</guid>
       <description>&lt;p&gt;via &lt;a href=&#34;http://osvitapublish.com.ua/pocketbook.html&#34;&gt;osvitapublish.com.ua&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;В общем — логично. Чем беднее страна, тем более она готова к восприятию новых технологий. Примерно так же, как с VoIP в &amp;ldquo;третьем мире&amp;rdquo;.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clouds on Новости электронного книгоиздания</title>
-    <link>/tags/clouds/</link>
+    <link>//localhost:1313/tags/clouds/</link>
     <description>Recent content in Clouds on Новости электронного книгоиздания</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 16 Feb 2010 20:38:48 +0000</lastBuildDate>
-    <atom:link href="/tags/clouds/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/clouds/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create Your Own Cloud of Ebooks with Calibre &#43; Calibre OPDS &#43; Dropbox | Dear Author: Romance Novel Reviews, Industry News, and Commentary</title>
-      <link>/posts/2010-02-16-2/</link>
+      <link>//localhost:1313/posts/2010-02-16-2/</link>
       <pubDate>Tue, 16 Feb 2010 20:38:48 +0000</pubDate>
-      <guid>/posts/2010-02-16-2/</guid>
+      <guid>//localhost:1313/posts/2010-02-16-2/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Calibre&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;http://dearauthor.com/wordpress/2010/02/14/create-your-own-cloud-of-ebooks-with-calibre-calibre-opds-dropbox/&#34;&gt;dearauthor.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Может уже скоро пригодиться - создание личной онлайновой библиотеки с OPDS-каталогом.&lt;/p&gt;</description>
     </item>
   </channel>
